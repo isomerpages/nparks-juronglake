@@ -2,8 +2,8 @@
 layout: homepage
 title: Jurong Lake Gardens
 description: Jurong Lake Gardens is Singapore’s national gardens in the
-  heartlands. It is a people’s garden, where spaces will be landscaped and
-  created for families and the community to come together.
+  heartlands – a people’s garden, with spaces landscaped and created for
+  families and the community to come together.
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
 notification: Here's a notification bar you can use!
