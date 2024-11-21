@@ -6,7 +6,7 @@ description: Jurong Lake Gardens is Singapore’s national gardens in the
   families and the community to come together.
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Jurong Lake Gardens
