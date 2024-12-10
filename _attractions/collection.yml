@@ -2,4 +2,5 @@ collections:
   attractions:
     output: true
     order:
+      - Lakeside Garden/.keep
       - Clusia Cove.md
