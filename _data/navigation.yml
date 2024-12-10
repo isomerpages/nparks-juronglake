@@ -4,7 +4,5 @@ links:
     url: /example-page/
   - title: Our Gardens
     collection: our-gardens
-  - title: Dining
-    collection: example-folder
   - title: Contact Us
     url: /contact-us/
