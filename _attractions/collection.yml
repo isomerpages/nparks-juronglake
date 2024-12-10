@@ -1,4 +1,5 @@
 collections:
   attractions:
     output: true
-    order: []
+    order:
+      - example-page.md
