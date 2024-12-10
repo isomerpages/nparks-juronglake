@@ -2,5 +2,6 @@ collections:
   attractions:
     output: true
     order:
+      - Chinese Garden/.keep
       - Lakeside Garden/.keep
       - Clusia Cove.md
