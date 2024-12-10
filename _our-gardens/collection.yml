@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Japanese Garden/.keep
+      - Chinese Garden/Grand Arch.md
       - Chinese Garden/.keep
       - Lakeside Garden/Clusia Cove.md
       - Lakeside Garden/.keep
