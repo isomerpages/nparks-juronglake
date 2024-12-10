@@ -2,4 +2,4 @@ collections:
   attractions:
     output: true
     order:
-      - example-page.md
+      - Clusia Cove.md
