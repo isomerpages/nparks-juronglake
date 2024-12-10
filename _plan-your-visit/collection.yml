@@ -1,0 +1,4 @@
+collections:
+  plan-your-visit:
+    output: true
+    order: []
