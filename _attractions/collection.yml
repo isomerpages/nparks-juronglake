@@ -1,0 +1,4 @@
+collections:
+  attractions:
+    output: true
+    order: []
