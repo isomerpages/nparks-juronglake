@@ -1,5 +1,5 @@
 collections:
-  attractions:
+  our-gardens:
     output: true
     order:
       - Japanese Garden/.keep
