@@ -3,7 +3,7 @@ links:
   - title: About
     url: /example-page/
   - title: Attractions
-    collection: example-folder
+    collection: attractions
   - title: Dining
     collection: example-folder
   - title: Contact Us
