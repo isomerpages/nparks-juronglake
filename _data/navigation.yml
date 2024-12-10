@@ -2,8 +2,8 @@ logo: /images/JLG_Standard_Logo.png
 links:
   - title: About
     url: /example-page/
-  - title: Attractions
-    collection: attractions
+  - title: Our Gardens
+    collection: our-gardens
   - title: Dining
     collection: example-folder
   - title: Contact Us
