@@ -1,4 +1,5 @@
 collections:
   visit-us:
     output: true
-    order: []
+    order:
+      - Maps and Trails.md
