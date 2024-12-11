@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Apply for a Permit.md
-      - Garden Cruiser.md
+      - Book a Garden Cruiser.md
       - Book a Venue/Mempat Hall.md
       - Book a Venue/.keep
       - Visitor Guidelines.md
