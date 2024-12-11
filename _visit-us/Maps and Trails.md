@@ -26,3 +26,26 @@ through your smartphone or tablet.</p>
 </blockquote>
 <p><strong><u><br>Park Connector Network - Round Island Route</u></strong>
 </p>
+<p>The Round Island Route (RIR) is a continuous 150 km park connector that
+goes around Singapore. The RIR complements existing park connectors – connecting
+natural, culture, historical and recreational sites – and bringing communities
+closer together.</p>
+<p>The main path in Lakeside Garden at Jurong Lake Gardens will be part of
+the RIR, providing a link between the west side of Singapore and its southern
+end.</p>
+<p>Find out more about the RIR at the NParks&nbsp;<a href="http://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network#RIR" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
+<p></p>
+<p><strong><u>Coast to Coast (C2C) Trail</u></strong>
+</p>
+<p>The C2C Trail stretches 36 km, extending from Jurong Lake Gardens to Coney
+Island Park. The trail passes through parks and nature areas such as Bukit
+Batok Nature Park and Bishan-Ang Mo Kio Park.</p>
+<p>Visitors will find a variety of in-app and onsite activities to keep them
+busy while exploring the trail.&nbsp;Find out more about the trail on the
+Coast to Coast app and at the NParks&nbsp;<a href="https://www.nparks.gov.sg/c2c" rel="noopener noreferrer nofollow" target="_blank">website</a>.&nbsp;</p>
+<p></p>
+<p><strong><u>Cycling within the Gardens</u></strong>
+</p>
+<p>Except for people with disabilities, Cycling, Riding and PMDs are not
+allowed in some attractions; you may refer to the map below. You are required
+to dismount and push within the no cycling zones.&nbsp;</p>
