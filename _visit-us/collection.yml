@@ -2,5 +2,5 @@ collections:
   visit-us:
     output: true
     order:
-      - Operating Hours and Shuttle Service.md
       - Maps and Trails.md
+      - Operating Hours and Shuttle Service.md
