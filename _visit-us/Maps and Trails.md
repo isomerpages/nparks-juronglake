@@ -5,7 +5,7 @@ variant: tiptap
 description: maps, trails, jurong, lake, gardens, jlg
 ---
 <h1>Garden Map</h1>
-<p>Explore Jurong Lake Gardens with ease, download our brochure!</p>
+<h3>Explore Jurong Lake Gardens with ease, download our brochure here!</h3>
 <p></p>
 <p>We have a range of trails that you can refer to if you wish to explore
 the Gardens. Ranging from 40 to 90 minutes in duration, there should be
