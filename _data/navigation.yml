@@ -4,5 +4,7 @@ links:
     url: /example-page/
   - title: Our Gardens
     collection: our-gardens
+  - title: Visit Us
+    collection: visit-us
   - title: Contact Us
     url: /contact-us/
