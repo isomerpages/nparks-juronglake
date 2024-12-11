@@ -20,5 +20,9 @@ through your smartphone or tablet.</p>
 <p>Mempat Trail</p>
 </li>
 </ol>
-<p></p>
-<p></p>
+<h2>Cycling Trails</h2>
+<blockquote>
+<h4>Cycle along the Park Connector Network and Coast to Coast Trail while enjoying the sights and sounds of nature.&nbsp;</h4>
+</blockquote>
+<p><strong><u><br>Park Connector Network - Round Island Route</u></strong>
+</p>
