@@ -2,11 +2,11 @@ collections:
   visit-us:
     output: true
     order:
-      - Apply for a Permit.md
-      - Book a Garden Cruiser.md
-      - Book a Venue/Mempat Hall.md
-      - Book a Venue/.keep
-      - Visitor Guidelines.md
-      - Getting Here.md
       - Maps and Trails.md
       - Operating Hours and Shuttle Service.md
+      - Getting Here.md
+      - Visitor Guidelines.md
+      - Book a Venue/.keep
+      - Book a Venue/Mempat Hall.md
+      - Book a Garden Cruiser.md
+      - Apply for a Permit.md
