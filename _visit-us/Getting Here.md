@@ -9,7 +9,7 @@ description: getting, here, jurong, lake, gardens
 <p>Whether you are coming by public transportation or driving, let us help
 guide you.</p>
 </blockquote>
-<p><a href="https://maps.app.goo.gl/p2csYzbVrnukaTTi8" rel="noopener nofollow" target="_blank">Getting to Jurong Lake Gardens via Google Maps</a>
+<p><a href="https://maps.app.goo.gl/5ZANmXsGgqX81bei7" rel="noopener nofollow" target="_blank">Getting to Jurong Lake Gardens via Google Maps</a>
 </p>
 <p></p>
 <p></p>
