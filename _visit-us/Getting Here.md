@@ -94,7 +94,7 @@ guide you.</p>
 <p>Motorcycle Lots: 15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Forest Ramble, Clusia Cove. Chinese Garden</p>
 </td>
 </tr>
 <tr>
@@ -105,12 +105,13 @@ guide you.</p>
 <p>Turn in at Japanese Garden Road</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Car Lots: 173</p>
-<p>Handicap Lots: 2</p>
-<p>Motorcycle Lots: 15</p>
+<p>Car Lots: 171</p>
+<p>Handicap Lots: 4</p>
+<p>Motorcycle Lots: 11</p>
+<p>Bus Bay: 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ActiveSG, Grasslands, Japanese Garden</p>
 </td>
 </tr>
 </tbody>
