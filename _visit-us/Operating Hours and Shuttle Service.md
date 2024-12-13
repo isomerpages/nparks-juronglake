@@ -19,6 +19,23 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ActiveSG Park</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Swimming Pool:</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Butterfly Maze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Clusia Cove</p>
 <p></p>
 </td>
@@ -49,6 +66,41 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 <tr>
 <td rowspan="1" colspan="1">
 <p>PAssion Wave @ Jurong Lake Gardens</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday to Friday from 9.00am to 6.00pm&nbsp;</p>
+<p>Closed on Mondays and Public Holidays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SkatePark @ Lakeside Garden</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday* to Sunday &amp; Public Holidays from 8.00am to 10.00pm&nbsp;</p>
+<p>Closed every Monday for maintenance (except Public Holidays)</p>
+<p>*Closed on Tuesday if preceding Monday is a Public Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
