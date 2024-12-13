@@ -271,7 +271,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>First Aid</p>
+<p><strong>First Aid</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Approach our uniformed staff on duty in the gardens and we'll be glad
@@ -280,7 +281,8 @@ to assist you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wheelchair Rental</p>
+<p><strong>Wheelchair Rental</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>We provide complimentary wheelchair at our Information Counters.</p>
@@ -290,7 +292,8 @@ to assist you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lost &amp; Found</p>
+<p><strong>Lost &amp; Found</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please approach our uniformed staff at the Information Counter for assistance.</p>
@@ -298,7 +301,8 @@ to assist you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vending Machine</p>
+<p><strong>Vending Machine</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outdoor essentials, food and drinks are readily available at our vending
