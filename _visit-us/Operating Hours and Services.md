@@ -174,7 +174,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10am - 9pm on weekdays (Mon to Fri)</p>
+<p>10am - 9pm on Weekdays (Monday to Friday)</p>
 <p>7am - 9.30pm on&nbsp;Weekends, School Holidays &amp; PH</p>
 </td>
 </tr>
@@ -184,8 +184,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8am to 10pm on Sun to Thurs and Public Holidays</p>
-<p>8am to 11pm on Fri, Sat and Eve of Public Holidays</p>
+<p>8am to 10pm on Sunday to Thursday and Public Holidays</p>
+<p>8am to 11pm on Friday, Saturday and Eve of Public Holidays</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8am to 8pm on Sun to Thurs and Public Holidays</p>
+<p>8am to 8pm on Sunday to Thursday and Public Holidays</p>
 <p>8am to 9pm on Fri, Sat and Eve of Public Holidays</p>
 </td>
 </tr>
