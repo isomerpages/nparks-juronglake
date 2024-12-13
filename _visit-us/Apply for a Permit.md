@@ -57,6 +57,9 @@ and Entrance Pavilion for the convenience of other garden users.</p>
 periods (0900hrs - 1700hrs).</p>
 </li>
 <li>
+<p>Production companies should comply with the <a href="https://www.imda.gov.sg/for-industry/sectors/Media/Film/Filming-in-Singapore" rel="noopener noreferrer" target="_blank">guidelines by the Infocomms Media Development Authority</a>.</p>
+</li>
+<li>
 <p>Do not deface or damage any property or plants in the premises. The use
 of nails, hooks or like, to hang or tie any object to shrubs and trees
 is prohibited.</p>
