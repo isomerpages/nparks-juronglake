@@ -18,13 +18,32 @@ guide you.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>From Pan Island Expressway (PIE) towards Jurong</p>
+<p><strong><u>From Pan Island Expressway (PIE) towards Jurong</u></strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Take Exit</p>
+<p>Take Exit 31</p>
+</li>
+<li>
+<p>Turn Left onto Jurong Town Hall Road</p>
+</li>
+<li>
+<p>Turn Right onto Boon Lay Way</p>
+</li>
+<li>
+<p>Turn Left onto Yuan Ching Road</p>
 </li>
 </ol>
 <p></p>
+<p>From Ayer Rajah Expressway (AYE) towards Jurong</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Take Exit 15A onto Jln. Ahmad Ibrahim</p>
+</li>
+<li>
+<p>Turn Right onto Corporation Road</p>
+</li>
+</ol>
 </div>
 </details>
 </div>
