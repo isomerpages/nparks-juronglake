@@ -7,7 +7,7 @@ description: apply, for, a, permit, jurong, lake, gardens
 <h2><strong>Secure your permit for filming and group activities</strong></h2>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Use of the Gardens for Organised/Group Activities </strong>
+<summary><strong>Use of the Gardens for Organised/Group Activities</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -17,9 +17,10 @@ of NParks.&nbsp;Activities promoting a cause or activities which inconvenience
 or cause discomfort to other visitors will not be permitted.&nbsp;</p>
 <p></p>
 <p>For use of the Gardens for organised or group activities, please submit
-the application below. Please note that approval of this application does
-not grant you exclusive use of shelters, lawns or any other areas in the
-Gardens.</p>
+the application <u>here</u>.</p>
+<p></p>
+<p>Please note that approval of this application does not grant you exclusive
+use of shelters, lawns or any other areas in the Gardens.</p>
 <p></p>
 <p>Applications must be submitted at least 14 days prior to the proposed
 date of use.</p>
