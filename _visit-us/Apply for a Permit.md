@@ -51,11 +51,11 @@ filming or photography dates.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Filming and photography are NOT allowed at Clusia Cove, Forest Ramble
-and Entrance Pavilion for the convenience of other garden users</p>
+and Entrance Pavilion for the convenience of other garden users.</p>
 </li>
 <li>
 <p>Filming and photography should be carried out on weekdays during off-peak
-periods (0900hrs - 1700hrs)</p>
+periods (0900hrs - 1700hrs).</p>
 </li>
 <li>
 <p>Do not deface or damage any property or plants in the premises. The use
@@ -78,7 +78,7 @@ kinds of tracks and power generating devices are not allowed.&nbsp;</p>
 remove all refuse generated, immediately after your event at your own cost.&nbsp;</p>
 </li>
 <li>
-<p>No props are allowed</p>
+<p>No props are allowed without the prior approval of NParks.</p>
 </li>
 <li>
 <p>At the Grasslands, stick to the designated trails at all times. Do not
