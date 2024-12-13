@@ -44,6 +44,12 @@ guide you.</p>
 <li>
 <p>Turn Right onto Corporation Road</p>
 </li>
+<li>
+<p>Turn Right onto Jln. Ahmad Ibrahim</p>
+</li>
+<li>
+<p>Turn Left onto Yuan Ching Road</p>
+</li>
 </ol>
 </div>
 </details>
