@@ -21,7 +21,7 @@ guide you.</p>
 <p></p>
 <p><strong><u>From Pan Island Expressway (PIE) towards Jurong</u></strong>
 </p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Take Exit 31</p>
 </li>
@@ -34,10 +34,11 @@ guide you.</p>
 <li>
 <p>Turn Left onto Yuan Ching Road</p>
 </li>
-</ol>
+</ul>
 <p></p>
-<p>From Ayer Rajah Expressway (AYE) towards Jurong</p>
-<ol data-tight="true" class="tight">
+<p><strong><u>From Ayer Rajah Expressway (AYE) towards Jurong</u></strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Take Exit 15A onto Jln. Ahmad Ibrahim</p>
 </li>
@@ -50,13 +51,25 @@ guide you.</p>
 <li>
 <p>Turn Left onto Yuan Ching Road</p>
 </li>
-</ol>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>By MRT</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong><u>From Lakeside MRT Station (EW26)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To entrance at Lakeside Plaza (3-min walk)</p>
+</li>
+<li>
+<p>To information counter at Entrance Pavilion (12-min walk)</p>
+</li>
+</ul>
+<p></p>
 <p></p>
 </div>
 </details>
