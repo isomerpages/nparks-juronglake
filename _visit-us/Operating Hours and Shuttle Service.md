@@ -251,7 +251,21 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </td>
 <td rowspan="1" colspan="1">
 <p>Daily from 8.30am to 6.30pm</p>
-<p>Located at</p>
+<p></p>
+<p>Located at:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Entrance Pavilion (Lakeside Garden)</p>
+</li>
+<li>
+<p>Pagoda Plaza (Chinese Garden)</p>
+</li>
+<li>
+<p>Water Lily Pavilion (Japanese Garden)
+<br>
+</p>
+</li>
+</ul>
 <p>Wheelchair rental available from&nbsp;8.30am to 6.30pm</p>
 </td>
 </tr>
