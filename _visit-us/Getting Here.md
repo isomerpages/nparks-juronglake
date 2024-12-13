@@ -69,6 +69,10 @@ guide you.</p>
 <p>To information counter at Entrance Pavilion (12-min walk)</p>
 </li>
 </ul>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ja8JB2vCY80?si=aAb0shh5w6f6MCNp"></iframe>
+</div>
+<p></p>
 <p></p>
 <p><strong><u>From Chinese Garden MRT Station (EW25)</u></strong>
 </p>
