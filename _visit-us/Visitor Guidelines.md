@@ -4,7 +4,7 @@ permalink: /visitor-guidelines/
 variant: tiptap
 description: visitor, guidelines, jurong, lake, gardens
 ---
-<h2><strong>Do's</strong> and <strong>Don'ts</strong> at Jurong Lake Gardens </h2>
+<h2><strong>Do's</strong> and <strong>Don'ts</strong> at Jurong Lake Gardens</h2>
 <p>For the safety and enjoyment of all visitors to Jurong Lake Gardens, and
 the protection and conservation of our greenery, please observe the Parks
 and Trees Act (Cap. 216) and the Parks and Trees Regulations (Cap. 216,
@@ -60,6 +60,21 @@ RG), in particular:</p>
 </li>
 </ul>
 <p>For enquiries, please call 1800-4717300.</p>
+<p>Kindly adhere to the following garden etiquette:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The use of picnic mats within common shared spaces such as shelters, pavilions
+and sun shades is discouraged as it creates an exclusivity setting and
+thus a disamenity to other visitors. Visitors are encouraged to picnic
+at open lawn areas around Jurong Lake or open fields such as Lakeside Green,
+Lakeside Field, Butterfly Field or The Oval.</p>
+</li>
+<li>
+<p>Except for people with disabilities, Cycling, Riding and PMDs are not
+allowed in some attractions; you may refer to the map <a href="/files/Maps and Trails/JLG_No_Cycling_Zones.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+You are required to dismount and push within the no cycling zones.&nbsp;</p>
+</li>
+</ul>
 <hr>
 <h4>Here are some tips to make your visit more enjoyable!</h4>
 <ul data-tight="true" class="tight">
@@ -80,7 +95,8 @@ from the sun.</p>
 <p>Dispose of rubbish at the nearest bin.</p>
 </li>
 <li>
-<p>Clean up after your pets and keep them leashed.</p>
+<p>Clean up after your pets and keep them leashed, out of consideration to
+other garden visitors</p>
 </li>
 <li>
 <p>Appreciate the plants, take nothing but photos.</p>
