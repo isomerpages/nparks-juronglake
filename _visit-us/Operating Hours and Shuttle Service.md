@@ -300,14 +300,19 @@ and Cascade Pavilion.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Garden Shuttle Service</p>
+<p><strong>Garden Shuttle Service</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.30am to 4.30pm on Mon to Fri*</p>
 <p>*Shuttle service does not operate between 12 - 1pm</p>
 <p>*Shuttle service may be suspended in inclement weather</p>
+<p></p>
+<p>Please refer to the poster here for more information on the service.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
