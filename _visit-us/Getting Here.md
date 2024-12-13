@@ -144,14 +144,37 @@ guide you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><u>Saturday to Sunday</u>
+</p>
+<p>8.30am to 5am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.60 per 30 minutes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Monday to Sunday</u>
+</p>
+<p>5am to 8.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Free</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Monday to Friday</u>
+</p>
+<p>12pm to 2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Free</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
