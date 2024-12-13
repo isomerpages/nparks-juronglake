@@ -117,7 +117,7 @@ guide you.</p>
 </tbody>
 </table>
 <p></p>
-<p>Parking Charges</p>
+<h4>Parking Charges</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -134,12 +134,12 @@ guide you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday to Friday
-<br>
-</p>
+<p><u>Monday to Friday </u>
+<br>8.30am to 12pm</p>
+<p>2pm to 5am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.60 per 30 minutes</p>
 </td>
 </tr>
 <tr>
