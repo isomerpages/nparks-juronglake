@@ -91,11 +91,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Chinese Garden</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="2">
+<h4><strong>Chinese Garden (open from 5.30am to 12am daily)</strong></h4>
 </th>
 </tr>
 <tr>
