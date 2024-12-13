@@ -13,7 +13,7 @@ guide you.</p>
 </p>
 <p></p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>By Car or Taxi</strong>
 </summary>
@@ -51,6 +51,20 @@ guide you.</p>
 <p>Turn Left onto Yuan Ching Road</p>
 </li>
 </ol>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>By MRT</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>By Bus</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
