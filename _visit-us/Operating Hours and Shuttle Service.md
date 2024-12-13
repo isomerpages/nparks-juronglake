@@ -160,12 +160,13 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>Lakeside Garden (open 24 hours)</strong></h4>
+<h4><strong>Lakeside Garden </strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fusion Spoon</p>
+<p><strong>Fusion Spoon</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10am - 9pm on weekdays (Mon to Fri)</p>
@@ -174,7 +175,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Starbucks</p>
+<p><strong>Starbucks</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8am to 10pm on Sun to Thurs and Public Holidays</p>
@@ -183,12 +185,13 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>Chinese Garden (open from 5.30am to 12am daily)</strong></h4>
+<h4><strong>Chinese Garden </strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Canopy</p>
+<p><strong>Canopy</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday to Thursday: 11.30am to 10pm</p>
@@ -198,7 +201,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Eden</p>
+<p><strong>Eden</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8am to 8pm on Sun to Thurs and Public Holidays</p>
@@ -207,12 +211,13 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>Japanese Garden (open from 5.30am to 12am daily)</strong></h4>
+<h4><strong>Japanese Garden</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ice-Cream Man And Friends - The Garden Cafe</p>
+<p><strong>Ice-Cream Man And Friends - The Garden Cafe</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10am to 10pm on Mon to Fri&nbsp;</p>
