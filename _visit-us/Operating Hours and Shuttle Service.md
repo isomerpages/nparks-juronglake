@@ -237,3 +237,32 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tbody>
 </table>
 <p></p>
+<h2><strong>Services and Amenities</strong></h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Information Counter</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Daily from 8.30am to 6.30pm</p>
+<p>Located at</p>
+<p>Wheelchair rental available from&nbsp;8.30am to 6.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
