@@ -27,9 +27,16 @@ date of use.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Filming and Photography</summary>
+<summary><strong>Filming and Photography</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Prior approval for filming and commercial photography in the Gardens is
+required.</p>
+<p></p>
+<p>Casual photography sessions (such as family portraits and graduations)
+do not require submission. Applications have to be submitted at least 14
+days prior to the proposed filming or photography dates.&nbsp;</p>
 </div>
 </details>
 </div>
