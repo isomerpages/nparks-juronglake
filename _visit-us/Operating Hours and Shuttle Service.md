@@ -6,22 +6,15 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 ---
 <h2>Garden Opening Hours</h2>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Lakeside Garden (open 24 hours)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>d</p>
+<th rowspan="1" colspan="2">
+<h4>Lakeside Garden (open 24 hours)</h4>
 </th>
 </tr>
 <tr>
@@ -34,14 +27,16 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 <p>Closed every Monday for maintenance (except Public Holidays)</p>
 <p>*Closed on Tuesday if preceding Monday is a Public Holiday</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Forest Ramble (Nature Playgarden)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Forest Ramble</p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
