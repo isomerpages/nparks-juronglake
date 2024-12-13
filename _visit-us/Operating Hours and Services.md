@@ -63,7 +63,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday* to Sunday &amp; Public Holidays from 8.00am to 10pm&nbsp;</p>
+<p>Tuesday* to Sunday &amp; Public Holidays from 8am to 10pm&nbsp;</p>
 <p>Closed every Monday for maintenance (except Public Holidays)</p>
 <p>*Closed on Tuesday if preceding Monday is a Public Holiday</p>
 </td>
@@ -314,6 +314,5 @@ and Cascade Pavilion.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
