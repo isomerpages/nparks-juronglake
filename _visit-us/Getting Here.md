@@ -86,10 +86,12 @@ guide you.</p>
 <p>North Carpark</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Turn in at Chinese Garden Road</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Car Lots: 173</p>
+<p>Handicap Lots: 2</p>
+<p>Motorcycle Lots: 15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -100,10 +102,12 @@ guide you.</p>
 <p>South Carpark</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Turn in at Japanese Garden Road</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Car Lots: 173</p>
+<p>Handicap Lots: 2</p>
+<p>Motorcycle Lots: 15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -111,6 +115,8 @@ guide you.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p>Parking Charges</p>
 <p></p>
 </div>
 </details>
