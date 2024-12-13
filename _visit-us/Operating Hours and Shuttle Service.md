@@ -14,7 +14,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4>Lakeside Garden (open 24 hours)</h4>
+<h4><strong>Lakeside Garden (open 24 hours)</strong></h4>
 </th>
 </tr>
 <tr>
@@ -33,12 +33,22 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 <p>Forest Ramble (Nature Playgarden)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tuesday* to Sunday &amp; Public Holidays from 8.00am to 10.00pm&nbsp;</p>
+<p>Closed every Monday for maintenance (except Public Holidays)</p>
+<p>*Closed on Tuesday if preceding Monday is a Public Holiday</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dog Run</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Daily from 8.00am to 10.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PAssion Wave @ Jurong Lake Gardens</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
