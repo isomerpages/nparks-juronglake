@@ -31,7 +31,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 <p>Butterfly Maze</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Daily from 7.00am to 7.00pm</p>
 </td>
 </tr>
 <tr>
