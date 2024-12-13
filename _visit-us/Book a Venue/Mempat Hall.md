@@ -175,4 +175,5 @@ the following time-blocks:</p>
 <p><em>Bookings should be made 2 months in advance and are only confirmed upon full payment.</em>
 </p>
 <h4><strong>Click here to enquire!</strong></h4>
-<p></p>
+<p>For venues at Fort Canning Park, HortPark, or Singapore Botanic Gardens,
+please contact our Managing Agent, <strong><a href="https://www.eventbutler.sg/" rel="noopener noreferrer nofollow" target="_blank">Event Butler</a></strong>.</p>
