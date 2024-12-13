@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Maps and Trails.md
-      - Operating Hours and Shuttle Service.md
+      - Operating Hours and Service.md
       - Getting Here.md
       - Visitor Guidelines.md
       - Book a Venue/.keep
