@@ -286,7 +286,7 @@ to assist you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vending Machine</strong>
+<p><strong>Vending Machines</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
