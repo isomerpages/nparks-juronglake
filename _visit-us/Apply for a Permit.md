@@ -17,13 +17,16 @@ of NParks.&nbsp;Activities promoting a cause or activities which inconvenience
 or cause discomfort to other visitors will not be permitted.&nbsp;</p>
 <p></p>
 <p>For use of the Gardens for organised or group activities, please submit
-the application <u>here</u>.</p>
+the application below.</p>
 <p></p>
 <p>Please note that approval of this application does not grant you exclusive
 use of shelters, lawns or any other areas in the Gardens.</p>
 <p></p>
 <p>Applications must be submitted at least 14 days prior to the proposed
 date of use.</p>
+<p></p>
+<p><u>Apply for a Permit to use the space</u>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -35,8 +38,13 @@ date of use.</p>
 required.</p>
 <p></p>
 <p>Casual photography sessions (such as family portraits and graduations)
-do not require submission. Applications have to be submitted at least 14
-days prior to the proposed filming or photography dates.&nbsp;</p>
+do not require submission.</p>
+<p></p>
+<p>Applications have to be submitted at least 14 days prior to the proposed
+filming or photography dates.&nbsp;</p>
+<p></p>
+<p><u>Apply for a filming and photography permit</u>
+</p>
 </div>
 </details>
 </div>
