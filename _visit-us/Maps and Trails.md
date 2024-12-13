@@ -14,10 +14,12 @@ through your smartphone or tablet.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Banyan Trail</p>
+<p><a href="/files/Maps and Trails/Banyan_Trail_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Banyan Trail</a>
+</p>
 </li>
 <li>
-<p>Mempat Trail</p>
+<p><a href="/files/Maps and Trails/Mempat_Trail_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Mempat Trail</a>
+</p>
 </li>
 </ol>
 <h2>Cycling Trails</h2>
