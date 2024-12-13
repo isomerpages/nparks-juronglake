@@ -90,6 +90,30 @@ to protect the biodiversity.</p>
 </ul>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Research Permits</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The National Parks Board recognises the importance of research in increasing
+the level of knowledge of Singapore’s wildlife. Scientific research provides
+crucial information needed for strategic planning, management, decision-making,
+identification of information gaps and basis for establishing programmes
+for long-term ecological monitoring and sustainability of biological diversity.&nbsp;</p>
+<p>To facilitate research, permits are issued by NParks. In addition, NParks
+will assess whether the research involves activities which require approvals
+under the Parks and Trees Act (“PTA”), Parks and Trees Regulations (“PTR”)
+or the Wildlife Act (“WA”), and where appropriate, consider granting the
+relevant approvals together with the research permit.&nbsp;</p>
+<p></p>
+<p>You can submit your application via the Research tab in our <a href="https://biome.nparks.gov.sg/Account/Login/?ReturnUrl=%2FResearch%2FPermitApplication%2F" rel="noopener noreferrer" target="_blank">online system</a>.
+Please refer to our <a href="https://www.nparks.gov.sg/-/media/nparks-real-content/biodiversity/resources-research-permit/research-permit-application-user-guide_sept2021.pdf" rel="noopener noreferrer nofollow" target="_blank">user guide</a>&nbsp;for
+more details. The acknowledgement section that needs to be signed by team
+members can be downloaded <a href="https://www.nparks.gov.sg/-/media/nparks-real-content/biodiversity/resources-research-permit/acknowledgement-section.doc" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p>For more information, <a href="https://www.nparks.gov.sg/biodiversity/resources-and-research-permits" rel="noopener nofollow" target="_blank">please refer to this link.</a>
+</p>
+</div>
+</details>
 </div>
 <p>For venue and BBQ rental for private and corporate functions, please click
 here.</p>
