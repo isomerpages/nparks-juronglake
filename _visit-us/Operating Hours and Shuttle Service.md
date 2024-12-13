@@ -246,7 +246,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Information Counter</strong>
+<p><strong>Information Counters</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,6 +267,25 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </li>
 </ul>
 <p>Wheelchair rental available from&nbsp;8.30am to 6.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Approach our uniformed staff on duty in the gardens and we'll be glad
+to assist you.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wheelchair Rental</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>We provide complimentary wheelchair at our Information Counters.</p>
+<p>Approach our uniformed staff for more information.</p>
+<p>Rental hours: 8.30am to 6.30pm</p>
 </td>
 </tr>
 <tr>
