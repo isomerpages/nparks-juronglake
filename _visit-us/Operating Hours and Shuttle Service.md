@@ -151,6 +151,16 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 </tbody>
 </table>
+<p><strong><u>Please note that the following nature areas are not lighted. For your own safety, please do not enter these areas during nighttime.</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Grasslands</p>
+</li>
+<li>
+<p>Neram Streams</p>
+</li>
+</ul>
 <h2><strong>Dine</strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -160,7 +170,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>Lakeside Garden </strong></h4>
+<h4><strong>Lakeside Garden</strong></h4>
 </th>
 </tr>
 <tr>
@@ -185,7 +195,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>Chinese Garden </strong></h4>
+<h4><strong>Chinese Garden</strong></h4>
 </td>
 </tr>
 <tr>
