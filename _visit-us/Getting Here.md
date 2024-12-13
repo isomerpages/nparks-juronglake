@@ -70,6 +70,27 @@ guide you.</p>
 </li>
 </ul>
 <p></p>
+<p><strong><u>From Chinese Garden MRT Station (EW25)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To entrance at Chinese Garden Bridge (5-min walk)</p>
+</li>
+<li>
+<p>To information counter at Pagoda Plaza (8-min walk)</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>From Jurong East MRT Station (NS1/EW24)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To entrance at Japanese Garden Bridge (20-min walk)</p>
+</li>
+<li>
+<p>To information counter at Water Lily Pavilion (23-min walk)</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
