@@ -6,9 +6,8 @@ description: visitor, guidelines, jurong, lake, gardens
 ---
 <h2><strong>Do's</strong> and <strong>Don'ts</strong> at Jurong Lake Gardens</h2>
 <p>For the safety and enjoyment of all visitors to Jurong Lake Gardens, and
-the protection and conservation of our greenery, please observe the Parks
-and Trees Act (Cap. 216) and the Parks and Trees Regulations (Cap. 216,
-RG), in particular:</p>
+the protection and conservation of our greenery, please observe the <strong>Parks and Trees Act (Cap. 216)</strong> and
+the <strong>Parks and Trees Regulations (Cap. 216, RG)</strong>, in particular:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>No littering</strong>
