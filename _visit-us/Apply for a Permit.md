@@ -45,6 +45,14 @@ filming or photography dates.&nbsp;</p>
 <p></p>
 <p><u>Apply for a filming and photography permit</u>
 </p>
+<p></p>
+<p>Things to note:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Filming and photography are NOT allowed at Clusia Cove, Forest Ramble
+and Entrance Pavilion for the convenience of other garden users</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
