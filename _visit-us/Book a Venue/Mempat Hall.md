@@ -172,6 +172,7 @@ the following time-blocks:</p>
 </tr>
 </tbody>
 </table>
-<p>Bookings should be made 2 months in advance.</p>
+<p>Bookings should be made 2 months in advance and are only confirmed upon
+full payment.</p>
 <h4><strong>Click here to enquire!</strong></h4>
 <p></p>
