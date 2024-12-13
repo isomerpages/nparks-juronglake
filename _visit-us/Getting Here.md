@@ -174,7 +174,6 @@ guide you.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>*For any parking session between 10.30pm to 7.00am the following day,
 per minute charging will apply subject to a maximum parking charge of $5.00.</p>
 <p></p>
