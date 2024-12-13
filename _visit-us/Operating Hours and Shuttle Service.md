@@ -290,10 +290,23 @@ to assist you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lost &amp; Found</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Please approach our uniformed staff at the Information Counter for assistance.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vending Machine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outdoor essentials, food and drinks are readily available at our vending
+machines.</p>
 <p></p>
+<p>Locations: Entrance Pavilion, Clusia Cove, Play Pavilion, Gardenhouse,
+ActiveSG Park, PAssion Wave, Pagoda Plaza, Water Lily Pavilion, Resthouse
+and Cascade Pavilion.</p>
 </td>
 </tr>
 </tbody>
