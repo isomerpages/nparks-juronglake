@@ -18,7 +18,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ActiveSG Park</p>
+<p><strong>ActiveSG Park</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Swimming Pool:</p>
@@ -27,7 +28,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Butterfly Maze</p>
+<p><strong>Butterfly Maze</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Daily from 7.00am to 7.00pm</p>
@@ -35,7 +37,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Clusia Cove</p>
+<p><strong>Clusia Cove</strong>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,7 +49,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dog Run</p>
+<p><strong>Dog Run</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Daily from 8.00am to 10.00pm</p>
@@ -54,7 +58,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Forest Ramble (Nature Playgarden)</p>
+<p><strong>Forest Ramble (Nature Playgarden)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday* to Sunday &amp; Public Holidays from 8.00am to 10.00pm&nbsp;</p>
@@ -64,7 +69,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PAssion Wave @ Jurong Lake Gardens</p>
+<p><strong>PAssion Wave @ Jurong Lake Gardens</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday to Friday from 9.00am to 6.00pm&nbsp;</p>
@@ -73,7 +79,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SkatePark @ Lakeside Garden</p>
+<p><strong>SkatePark @ Lakeside Garden</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday* to Sunday &amp; Public Holidays from 8.00am to 10.00pm&nbsp;</p>
@@ -81,14 +88,6 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 <p>*Closed on Tuesday if preceding Monday is a Public Holiday</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <th rowspan="1" colspan="2">
 <h4><strong>Chinese Garden (open from 5.30am to 12am daily)</strong></h4>
@@ -96,7 +95,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bonsai Gallery</p>
+<p><strong>Bonsai Gallery</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday* to Sunday &amp; Public Holidays from 9.00am to 7.00pm&nbsp;</p>
@@ -106,7 +106,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cascading Creek</p>
+<p><strong>Cascading Creek</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Daily from 7.00am to 7.00pm</p>
@@ -114,7 +115,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jurong Lake Gardens Gallery</p>
+<p><strong>Jurong Lake Gardens Gallery</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday* to Sunday &amp; Public Holidays from 9.00am to 9.00pm&nbsp;</p>
@@ -124,20 +126,13 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Twin Pagoda</p>
+<p><strong>Twin Pagoda</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Daily from 7.00am to 10.00pm</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <th rowspan="1" colspan="2">
 <h4><strong>Japanese Garden (open from 5.30am to 12am daily)</strong></h4>
@@ -145,7 +140,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Breathing Gallery</p>
+<p><strong>Breathing Gallery</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday* to Sunday &amp; Public Holidays from 9.00am to 9.00pm&nbsp;</p>
