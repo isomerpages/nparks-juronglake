@@ -43,14 +43,47 @@ do not require submission.</p>
 <p>Applications have to be submitted at least 14 days prior to the proposed
 filming or photography dates.&nbsp;</p>
 <p></p>
-<p><u>Apply for a filming and photography permit</u>
+<p><u>Apply for a filming and photography permit here</u>
 </p>
 <p></p>
-<p>Things to note:</p>
+<p><strong><u>Rules and Regulations</u></strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Filming and photography are NOT allowed at Clusia Cove, Forest Ramble
 and Entrance Pavilion for the convenience of other garden users</p>
+</li>
+<li>
+<p>Filming and photography should be carried out on weekdays during off-peak
+periods (0900hrs - 1700hrs)</p>
+</li>
+<li>
+<p>Do not deface or damage any property or plants in the premises. The use
+of nails, hooks or like, to hang or tie any object to shrubs and trees
+is prohibited.</p>
+</li>
+<li>
+<p>No vehicles are allowed to enter the garden.&nbsp;</p>
+</li>
+<li>
+<p>Do not block off any areas (e.g. toilet, shelter, pathways) within our
+garden for your exclusive use.&nbsp;</p>
+</li>
+<li>
+<p>Do not set up any structures without the prior approval of NParks. All
+kinds of tracks and power generating devices are not allowed.&nbsp;</p>
+</li>
+<li>
+<p>The site must be kept clean and tidy at all times during your event. Please
+remove all refuse generated, immediately after your event at your own cost.&nbsp;</p>
+</li>
+<li>
+<p>No props are allowed</p>
+</li>
+<li>
+<p>At the Grasslands, stick to the designated trails at all times. Do not
+stray off trail into the grasses. Lighting, including flash, is not allowed
+to protect the biodiversity.</p>
 </li>
 </ul>
 </div>
