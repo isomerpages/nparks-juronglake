@@ -17,10 +17,9 @@ of NParks.&nbsp;Activities promoting a cause or activities which inconvenience
 or cause discomfort to other visitors will not be permitted.&nbsp;</p>
 <p></p>
 <p>For use of the Gardens for organised or group activities, please submit
-the application below.</p>
-<p></p>
-<p>Please note that approval of this application does not grant you exclusive
-use of shelters, lawns or any other areas in the Gardens.</p>
+the application below. Please note that approval of this application does
+not grant you exclusive use of shelters, lawns or any other areas in the
+Gardens.</p>
 <p></p>
 <p>Applications must be submitted at least 14 days prior to the proposed
 date of use.</p>
