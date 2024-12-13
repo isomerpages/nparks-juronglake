@@ -169,11 +169,6 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<h4><strong>Lakeside Garden</strong></h4>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Fusion Spoon</strong>
 </p>
@@ -191,11 +186,6 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 <td rowspan="1" colspan="1">
 <p>8am to 10pm on Sun to Thurs and Public Holidays</p>
 <p>8am to 11pm on Fri, Sat and Eve of Public Holidays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<h4><strong>Chinese Garden</strong></h4>
 </td>
 </tr>
 <tr>
@@ -217,11 +207,6 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 <td rowspan="1" colspan="1">
 <p>8am to 8pm on Sun to Thurs and Public Holidays</p>
 <p>8am to 9pm on Fri, Sat and Eve of Public Holidays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<h4><strong>Japanese Garden</strong></h4>
 </td>
 </tr>
 <tr>
