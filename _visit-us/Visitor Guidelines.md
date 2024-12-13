@@ -59,7 +59,7 @@ the <strong>Parks and Trees Regulations (Cap. 216, RG)</strong>, in particular:<
 </li>
 </ul>
 <p>For enquiries, please call 1800-4717300.</p>
-<p>Kindly adhere to the following garden etiquette:</p>
+<p>Kindly adhere to the following garden etiquette in Jurong Lake Gardens:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The use of picnic mats within common shared spaces such as shelters, pavilions
