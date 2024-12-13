@@ -7,7 +7,7 @@ third_nav_title: Book a Venue
 ---
 <h3><strong>Hold an unforgettable&nbsp;event in Jurong Lake Gardens! Book our venues today!</strong>&nbsp;</h3>
 <p>
-<br>Mempat Hall is an indoor event venue located at Gardenhouse. The hall
+<br>Banyan Hall is an indoor event venue located at Gardenhouse. The hall
 overlooks the greenery of the garden and is situated right next to the
 scenic Rasau walk and Grasslands!</p>
 <table style="minWidth: 50px">
@@ -119,10 +119,10 @@ scenic Rasau walk and Grasslands!</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,300</p>
+<p>$1,300</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,900</p>
+<p>$1,600</p>
 </td>
 </tr>
 <tr>
@@ -130,10 +130,10 @@ scenic Rasau walk and Grasslands!</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$900</p>
+<p>$500</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,100</p>
+<p>$600</p>
 </td>
 </tr>
 <tr>
@@ -141,10 +141,10 @@ scenic Rasau walk and Grasslands!</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$300</p>
+<p>$100</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$200</p>
 </td>
 </tr>
 </tbody>
