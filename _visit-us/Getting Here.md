@@ -103,6 +103,17 @@ guide you.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong><u>Along Boon Lay Way</u></strong>
+</p>
+<p>180, 335</p>
+<p></p>
+<p><strong><u>Along Yuan Ching Rd</u></strong>
+</p>
+<p>49, 154, 240, 246</p>
+<p></p>
+<p><strong><u>Along Jurong Town Hall Rd</u></strong>
+</p>
+<p>66, 178, 198, 335</p>
 </div>
 </details>
 </div>
