@@ -206,7 +206,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </td>
 <td rowspan="1" colspan="1">
 <p>8am to 8pm on Sunday to Thursday and Public Holidays</p>
-<p>8am to 9pm on Fri, Sat and Eve of Public Holidays</p>
+<p>8am to 9pm on Friday, Saturday and Eve of Public Holidays</p>
 </td>
 </tr>
 <tr>
@@ -215,8 +215,8 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10am to 10pm on Mon to Fri&nbsp;</p>
-<p>9am to 10pm on Sat, Sun and Public Holidays&nbsp;</p>
+<p>10am to 10pm on Monday to Friday&nbsp;</p>
+<p>9am to 10pm on Saturday, Sunday and Public Holidays&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -304,7 +304,7 @@ and Cascade Pavilion.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.30am to 4.30pm on Mon to Fri*</p>
+<p>9.30am to 4.30pm on Monday to Friday*</p>
 <p>*Shuttle service does not operate between 12 - 1pm</p>
 <p>*Shuttle service may be suspended in inclement weather</p>
 <p></p>
