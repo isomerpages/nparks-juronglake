@@ -7,9 +7,9 @@ third_nav_title: Book a Venue
 ---
 <h3><strong>Hold an unforgettable&nbsp;event in Jurong Lake Gardens! Book our venues today!</strong>&nbsp;</h3>
 <p>
-<br>Banyan Hall is an indoor event venue located at Gardenhouse. The hall
-overlooks the greenery of the garden and is situated right next to the
-scenic Rasau walk and Grasslands!</p>
+<br>Neram Room is an indoor event venue located at Gardenhouse. The room overlooks
+the greenery of the garden and is situated right next to the scenic Rasau
+walk and Grasslands!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -70,10 +70,7 @@ scenic Rasau walk and Grasslands!</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Wedding Solemnization / Reception</p>
-</li>
-<li>
-<p>Birthday Party / Anniversary</p>
+<p>Meeting</p>
 </li>
 <li>
 <p>Workshop / Seminar / Staff Retreat</p>
@@ -83,6 +80,9 @@ scenic Rasau walk and Grasslands!</p>
 </li>
 <li>
 <p>Team Building</p>
+</li>
+<li>
+<p>Birthday Party</p>
 </li>
 </ul>
 </td>
