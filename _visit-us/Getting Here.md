@@ -175,6 +175,10 @@ guide you.</p>
 </tbody>
 </table>
 <p></p>
+<p>*For any parking session between 10.30pm to 7.00am the following day,
+per minute charging will apply subject to a maximum parking charge of $5.00.</p>
+<p></p>
+<p>For more information, please contact Times24 Parking at 6592 2705.</p>
 </div>
 </details>
 <details class="isomer-details">
