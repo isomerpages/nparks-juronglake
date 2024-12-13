@@ -36,7 +36,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </li>
 </ul>
 <p></p>
-<p><u>Gym: </u>
+<p><u>Gym:</u>
 </p>
 <p>Daily from 7am to 10pm</p>
 <p></p>
@@ -93,6 +93,8 @@ more information.</p>
 <td rowspan="1" colspan="1">
 <p>Tuesday to Friday from 9am to 6pm&nbsp;</p>
 <p>Closed on Mondays and Public Holidays</p>
+<p>Refer to the <a href="https://www.pa.gov.sg/our-programmes/passion-wave/passionwave-juronglakegardens/" rel="noopener nofollow" target="_blank">PAssion Wave website here</a> for
+more information.</p>
 </td>
 </tr>
 <tr>
