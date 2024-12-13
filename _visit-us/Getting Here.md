@@ -59,7 +59,7 @@ guide you.</p>
 <summary><strong>Parking and Rates</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Carparks </h4>
+<h4>Carparks</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
