@@ -52,6 +52,66 @@ guide you.</p>
 <p>Turn Left onto Yuan Ching Road</p>
 </li>
 </ul>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Parking and Rates</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Carpark</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Directions</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Parking Lots</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Nearest Attractions</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>North Carpark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>South Carpark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -69,10 +129,10 @@ guide you.</p>
 <p>To information counter at Entrance Pavilion (12-min walk)</p>
 </li>
 </ul>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ja8JB2vCY80?si=aAb0shh5w6f6MCNp"></iframe>
-</div>
-<p></p>
+<p><strong>Embed</strong>
+</p>
+<p><code>https://www.youtube.com/embed/ja8JB2vCY80?si=aAb0shh5w6f6MCNp</code>
+</p>
 <p></p>
 <p><strong><u>From Chinese Garden MRT Station (EW25)</u></strong>
 </p>
@@ -95,7 +155,6 @@ guide you.</p>
 <p>To information counter at Water Lily Pavilion (23-min walk)</p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
