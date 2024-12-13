@@ -133,4 +133,27 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Japanese Garden (open from 5.30am to 12am daily)</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Breathing Gallery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday* to Sunday &amp; Public Holidays from 9.00am to 9.00pm&nbsp;</p>
+<p>Closed every Monday for maintenance (except Public Holidays)</p>
+<p>*Closed on Tuesday if preceding Monday is a Public Holiday</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
