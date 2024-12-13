@@ -74,7 +74,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday to Friday from 9.00am to 6.00pm&nbsp;</p>
+<p>Tuesday to Friday from 9am to 6pm&nbsp;</p>
 <p>Closed on Mondays and Public Holidays</p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday* to Sunday &amp; Public Holidays from 8.00am to 10.00pm&nbsp;</p>
+<p>Tuesday* to Sunday &amp; Public Holidays from 8am to 10pm&nbsp;</p>
 <p>Closed every Monday for maintenance (except Public Holidays)</p>
 <p>*Closed on Tuesday if preceding Monday is a Public Holiday</p>
 </td>
@@ -100,7 +100,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday* to Sunday &amp; Public Holidays from 9.00am to 7.00pm&nbsp;</p>
+<p>Tuesday* to Sunday &amp; Public Holidays from 9am to 7pm&nbsp;</p>
 <p>Closed every Monday for maintenance (except Public Holidays)</p>
 <p>*Closed on Tuesday if preceding Monday is a Public Holiday</p>
 </td>
@@ -111,7 +111,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Daily from 7.00am to 7.00pm</p>
+<p>Daily from 7am to 7pm</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +120,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday* to Sunday &amp; Public Holidays from 9.00am to 9.00pm&nbsp;</p>
+<p>Tuesday* to Sunday &amp; Public Holidays from 9am to 9pm&nbsp;</p>
 <p>Closed every Monday for maintenance (except Public Holidays)</p>
 <p>*Closed on Tuesday if preceding Monday is a Public Holiday</p>
 </td>
@@ -131,7 +131,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Daily from 7.00am to 10.00pm</p>
+<p>Daily from 7am to 10pm</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +145,7 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday* to Sunday &amp; Public Holidays from 9.00am to 9.00pm&nbsp;</p>
+<p>Tuesday* to Sunday &amp; Public Holidays from 9am to 9pm&nbsp;</p>
 <p>Closed every Monday for maintenance (except Public Holidays)</p>
 <p>*Closed on Tuesday if preceding Monday is a Public Holiday</p>
 </td>
