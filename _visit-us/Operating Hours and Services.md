@@ -22,9 +22,26 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Swimming Pool:</p>
+<p><u>Swimming Pool:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesday, Saturday, Sunday: 8am - 9:30pm</p>
+</li>
+<li>
+<p>Monday, Wednesday, Friday: 6:30am - 9:30pm</p>
+</li>
+<li>
+<p>Closed on Thursdays (except Public Holidays: 8am - 9:30pm)</p>
+</li>
+</ul>
 <p></p>
-<p>Gym: Daily from 7am to 10pm</p>
+<p><u>Gym: </u>
+</p>
+<p>Daily from 7am to 10pm</p>
+<p></p>
+<p>Refer to the <a href="https://www.activesgcircle.gov.sg/facilities" rel="noopener nofollow" target="_blank">ActiveSG website here</a> for
+more information.</p>
 </td>
 </tr>
 <tr>
