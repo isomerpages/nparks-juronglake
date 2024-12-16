@@ -2,5 +2,6 @@ collections:
   dining:
     output: true
     order:
+      - Fusion Spoon.md
       - Eden.md
       - Canopy.md
