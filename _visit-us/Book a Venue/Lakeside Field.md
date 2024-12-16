@@ -7,10 +7,10 @@ third_nav_title: Book a Venue
 ---
 <h3><strong>Hold an unforgettable&nbsp;event in Jurong Lake Gardens! Book our venues today!</strong>&nbsp;</h3>
 <p>
-<br>Located in the heart of Jurong Lake Gardens, Butterfly Field is within
-the vicinity of popular attractions such as Forest Ramble (Playground)
-and Logs Trail. This lawn is a popular spot for outdoor events such as
-community, sports, children themed-events and more.</p>
+<br>Located right outside of the Entrance Pavilion and between popular attractions
+such as the Clusia Cove (Water play area) and Forest Ramble (Playground),
+this lawn is a popular spot for outdoor events such as movie Screenings,
+Carnivals and more.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
