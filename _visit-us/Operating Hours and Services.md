@@ -295,50 +295,6 @@ more information.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>First Aid</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Approach our uniformed staff on duty in the gardens and we'll be glad
-to assist you.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Wheelchair Rental</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>We provide complimentary wheelchair at our Information Counters.</p>
-<p>Approach our uniformed staff for more information.</p>
-<p>Rental hours: 8.30am to 6.30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Lost &amp; Found</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please approach our uniformed staff at the Information Counter for assistance.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Vending Machines</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outdoor essentials, food and drinks are readily available at our vending
-machines.</p>
-<p></p>
-<p>Locations: Entrance Pavilion, Clusia Cove, Play Pavilion, Gardenhouse,
-ActiveSG Park, PAssion Wave, Pagoda Plaza, Water Lily Pavilion, Resthouse
-and Cascade Pavilion.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Garden Shuttle Service</strong>
 </p>
 </td>
@@ -388,6 +344,50 @@ event of heavy rain or lightning warning.</p>
 </ul>
 <p></p>
 <p>Please refer to the poster here for more information on the service.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First Aid</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Approach our uniformed staff on duty in the gardens and we'll be glad
+to assist you.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wheelchair Rental</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>We provide complimentary wheelchair at our Information Counters.</p>
+<p>Approach our uniformed staff for more information.</p>
+<p>Rental hours: 8.30am to 6.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Lost &amp; Found</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please approach our uniformed staff at the Information Counter for assistance.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vending Machines</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outdoor essentials, food and drinks are readily available at our vending
+machines.</p>
+<p></p>
+<p>Locations: Entrance Pavilion, Clusia Cove, Play Pavilion, Gardenhouse,
+ActiveSG Park, PAssion Wave, Pagoda Plaza, Water Lily Pavilion, Resthouse
+and Cascade Pavilion.</p>
 </td>
 </tr>
 </tbody>
