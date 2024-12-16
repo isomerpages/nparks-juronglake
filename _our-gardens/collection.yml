@@ -2,6 +2,7 @@ collections:
   our-gardens:
     output: true
     order:
+      - Japanese Garden/Water Lily Garden.md
       - Japanese Garden/Breathing Gallery.md
       - Japanese Garden/Silver Moon and Harvest Moon Terraces.md
       - Japanese Garden/Sunken Garden.md
