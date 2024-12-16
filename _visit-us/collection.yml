@@ -2,6 +2,7 @@ collections:
   visit-us:
     output: true
     order:
+      - Operating Hours and Services/Dining.md
       - Operating Hours and Services/Attractions.md
       - Operating Hours and Services/.keep
       - Maps and Trails.md
