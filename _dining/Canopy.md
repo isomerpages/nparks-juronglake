@@ -36,6 +36,9 @@ and soul.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Garden, Grand Arch</p>
+<p></p>
+<p><a href="/files/Maps and Trails/Jurong_Lake_Garden_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Refer to our brochure here</a> for
+more details!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.canopygardendining.com/location/jurong-lake-gardens/" rel="noopener nofollow" target="_blank">Website</a>
