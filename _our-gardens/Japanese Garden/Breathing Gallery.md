@@ -12,3 +12,22 @@ space.</p>
 <p>
 <br>
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Opening Hours</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9am – 9pm , Tuesday to Sunday (Closed every Mondays for Maintenance and
+Tuesdays if preceding Monday is a Public Holiday.)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
