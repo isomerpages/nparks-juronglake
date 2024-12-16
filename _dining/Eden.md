@@ -5,6 +5,9 @@ variant: tiptap
 description: Jurong, Lake, Gardens, Eden
 ---
 <h2><strong>A Culinary Haven in the Heart of Heritage</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Eden/Eden_1.jpg">
+</div>
 <p>As a tranquil oasis amidst the garden's lush landscape, Eden serves as
 both a starting point for adventure and a serene retreat for weary explorers.
 Nestled in the vibrant heart of Pagoda Plaza, Eden beckons with a tantalising
@@ -39,4 +42,5 @@ more details!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
