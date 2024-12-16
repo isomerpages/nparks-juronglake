@@ -33,12 +33,10 @@ third_nav_title: Operating Hours and Services
 </td>
 <td rowspan="1" colspan="1">
 <p>8am to 10pm on Sunday to Thursday and Public Holidays</p>
-<p>8am to 11pm on Friday, Saturday and Eve of Public Holidays</p>
+<p>8am to 11pm on Friday, Saturday and Eve of Public Holiday</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Starbucks/Starbucks_2.jpg">
 </div>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
