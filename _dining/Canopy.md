@@ -10,9 +10,6 @@ a historic setting. From dawn till dusk, Canopy invites you to indulge
 in exquisite meals amidst the preserved splendour of Chinese Garden's most
 beloved landmarks, creating a dining experience that nourishes both body
 and soul.</p>
-<p>
-<br>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
