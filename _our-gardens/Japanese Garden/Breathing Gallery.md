@@ -9,9 +9,7 @@ third_nav_title: Japanese Garden
 <p>See how artistry and horticulture blend harmoniously through a variety
 of terrariums, paludariums, and aquariums, curated within this immersive
 space.</p>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
