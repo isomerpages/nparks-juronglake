@@ -2,6 +2,7 @@ collections:
   our-gardens:
     output: true
     order:
+      - Japanese Garden/Silver Moon and Harvest Moon Terraces.md
       - Japanese Garden/Sunken Garden.md
       - Japanese Garden/Floral Garden.md
       - Japanese Garden/.keep
