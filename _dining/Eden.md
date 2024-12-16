@@ -14,6 +14,8 @@ Nestled in the vibrant heart of Pagoda Plaza, Eden beckons with a tantalising
 fusion of local flavours and breathtaking vistas. Whether you're fuelling
 up for a day of discovery or savouring a moment of repose, Eden promises
 a feast for the senses.</p>
+<hr>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
