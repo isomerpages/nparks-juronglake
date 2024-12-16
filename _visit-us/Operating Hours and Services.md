@@ -10,7 +10,6 @@ description: operating, hours, shuttle, service, jurong, lake, gardens
 <summary><strong>Attractions</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
