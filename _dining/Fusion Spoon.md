@@ -33,11 +33,11 @@ from Western to Asian cuisines.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sun – Thu &amp; P.H. : 8am to 8pm</p>
-<p>Fri – Sat, Eve of P.H. : 8am to 9pm</p>
+<p>10am to 9pm on Weekdays (Mon to Fri)</p>
+<p>7am to 9.30pm on Weekends, School Holidays &amp; PH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Garden, Pagoda Plaza</p>
+<p>Lakeside Garden, near Clusia Cove and Ecopond</p>
 <p></p>
 <p><a href="/files/Maps and Trails/Jurong_Lake_Garden_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Refer to our brochure here</a> for
 more details!</p>
