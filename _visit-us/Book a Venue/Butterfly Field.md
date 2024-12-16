@@ -23,7 +23,7 @@ community, sports, children themed-events and more.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 sqm</p>
+<p>9,000 sqm</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ community, sports, children themed-events and more.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 pax</p>
+<p>4,500 pax</p>
 </td>
 </tr>
 <tr>
