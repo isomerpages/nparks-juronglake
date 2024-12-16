@@ -2,6 +2,10 @@ collections:
   our-gardens:
     output: true
     order:
+      - Lakeside Garden/.keep
+      - Lakeside Garden/Clusia Cove.md
+      - Chinese Garden/.keep
+      - Chinese Garden/Grand Arch.md
       - Japanese Garden/.keep
       - Japanese Garden/Breathing Gallery.md
       - Japanese Garden/Floral Ridge.md
@@ -12,7 +16,3 @@ collections:
       - Japanese Garden/Sunken Garden.md
       - Japanese Garden/Water Lily Pavilion.md
       - Japanese Garden/Water Lily Garden.md
-      - Chinese Garden/.keep
-      - Chinese Garden/Grand Arch.md
-      - Lakeside Garden/.keep
-      - Lakeside Garden/Clusia Cove.md
