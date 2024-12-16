@@ -33,13 +33,16 @@ promising a multi-sensory adventure that delights both palate and spirit.</p>
 <p>8am to 11pm on Fri, Sat and Eve of Public Holidays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Japanese Garden, Sunken Garden</p>
+<p>Lakeside Garden, Lakeside House</p>
 <p></p>
 <p><a href="/files/Maps and Trails/Jurong_Lake_Garden_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Refer to our brochure here</a> for
 more details!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.canopygardendining.com/location/jurong-lake-gardens/" rel="noopener nofollow" target="_blank">Website</a>
+<p><a href="https://www.starbucks.com.sg/" rel="noopener nofollow" target="_blank">Website</a>
+</p>
+<p></p>
+<p>Email:&nbsp;<a href="mailto:sb-jlg@starbucks.com.sg" rel="noopener noreferrer nofollow" target="_blank">sb-jlg@starbucks.com.sg</a>
 </p>
 </td>
 </tr>
