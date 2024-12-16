@@ -62,16 +62,10 @@ place for small gatherings and birthday parties!&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Community Events</p>
+<p>Children Birthday Parties</p>
 </li>
 <li>
-<p>Sports Themed-Events</p>
-</li>
-<li>
-<p>Children and Activity Based- Events</p>
-</li>
-<li>
-<p>Corporate Outdoor Events</p>
+<p>Small Gatherings</p>
 </li>
 </ul>
 </td>
