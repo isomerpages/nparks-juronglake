@@ -5,6 +5,10 @@ variant: tiptap
 description: Jurong, Lake, Gardens, Ice Cream Man And Friends
 ---
 <h2><strong>A Sweet Oasis in Nature's Embrace</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Ice Cream Man And Friends/Ice_Cream_Man_and_Friends_1.jpg">
+</div>
 <p>Step into Ice Cream Man and Friends for a refreshing escape from the ordinary,
 where each artisanal scoop is served against a backdrop of lush tranquillity,
 promising a multi-sensory adventure that delights both palate and spirit.</p>
