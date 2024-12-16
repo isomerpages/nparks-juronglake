@@ -14,7 +14,7 @@ third_nav_title: Operating Hours and Services
 <td rowspan="1" colspan="1">
 <h4><strong>Important Notice 📢</strong></h4>
 <p></p>
-<p><strong>1. Please note that the following nature areas are not lighted. For your own safety, please do not enter these areas during nighttime.</strong>
+<p><strong>1. Please note that the following nature areas are not lighted. For your own safety, please do not enter these areas during nighttime:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
