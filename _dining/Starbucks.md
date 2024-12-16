@@ -5,10 +5,9 @@ variant: tiptap
 description: Jurong, Lake, Gardens, Starbucks
 ---
 <h2><strong>A Sweet Oasis in Nature's Embrace</strong></h2>
-<p>Step into Ice Cream Man and Friends for a refreshing escape from the ordinary,
-where each artisanal scoop is served against a backdrop of lush tranquillity,
-promising a multi-sensory adventure that delights both palate and spirit.</p>
-<p></p>
+<p>Located within a short walk from Lakeside MRT, Starbucks is situated in
+Lakeside House. With both indoor and outdoor seating, diners can enjoy
+the unblocked view of Jurong Lake and the floating wetlands.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -21,10 +20,10 @@ promising a multi-sensory adventure that delights both palate and spirit.</p>
 <p>Opening Hours 🕑</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Location</p>
+<p>Location 📍</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Contact</p>
+<p>Contact ☎</p>
 </th>
 </tr>
 <tr>
