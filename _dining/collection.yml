@@ -2,4 +2,5 @@ collections:
   dining:
     output: true
     order:
+      - Eden.md
       - Canopy.md
