@@ -5,7 +5,6 @@ variant: tiptap
 description: Jurong, Lake, Gardens, BBQ, Pit
 third_nav_title: Book a Venue
 ---
-<h3><strong>Hold an unforgettable&nbsp;event in Jurong Lake Gardens! Book our venues today!</strong>&nbsp;</h3>
 <p>Book the BBQ pits to celebrate your occasions and create fond memories
 with your family and friends at Jurong Lake Gardens! Conveniently located
 at the Northside of Lakeside Gardens, the BBQ pits offer a 360-degree view
@@ -33,5 +32,6 @@ Passion Wave, which provide fun activities for people of all ages.</p>
 </tbody>
 </table>
 <h4><strong>Click here to enquire!</strong></h4>
-<p>For venues at Fort Canning Park, HortPark, or Singapore Botanic Gardens,
-please contact our Managing Agent, <strong><a href="https://www.eventbutler.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Event Butler</u></a></strong>.</p>
+<p>For BBQ Pits at Changi Beach Park, East Coast Park, Labrador Nature Reserve,
+Pasir Ris Park, Sembawang Park and West Coast Park, <a href="https://e-station.axs.com.sg/NParks/Internet_Payment/index.php" rel="noopener nofollow" target="_blank">please refer to this link</a> for
+more details.</p>
