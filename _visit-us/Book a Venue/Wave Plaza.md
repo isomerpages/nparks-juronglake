@@ -48,6 +48,8 @@ is a perfect location for performance, carnivals and more!</p>
 </li>
 <li>
 <p>Toilet Facilities</p>
+</li>
+<li>
 <p>Forest Ramble</p>
 </li>
 <li>
@@ -64,16 +66,19 @@ is a perfect location for performance, carnivals and more!</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Sporting Events</p>
-</li>
-<li>
 <p>Carnivals</p>
 </li>
 <li>
-<p>Mass Community Events</p>
+<p>Water Sports</p>
 </li>
 <li>
-<p>Film Festivals</p>
+<p>Yoga and Corporate Events</p>
+</li>
+<li>
+<p>School-Based Events</p>
+</li>
+<li>
+<p>Exhibitions</p>
 </li>
 </ul>
 </td>
