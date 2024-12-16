@@ -4,12 +4,8 @@ permalink: /garden-cruiser/
 variant: tiptap
 description: jurong, lake, gardens, garden, cruiser
 ---
-<h1>Garden Cruiser Service</h1>
-<blockquote>
 <h2>Glide through mesmerising pathways and enjoy the captivating scenery of our Gardens in style and comfort.</h2>
-</blockquote>
-<p>
-<br>Jurong Lake Gardens offers renting of the Garden Cruiser service to offer
+<p>Jurong Lake Gardens offers renting of the Garden Cruiser service to offer
 greater convenience and ease of commuting for visitors to the Gardens,
 especially those exploring the Gardens or attending events in groups with
 elderly and young children.</p>
