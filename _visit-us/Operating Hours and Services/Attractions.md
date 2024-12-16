@@ -172,4 +172,14 @@ more information.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Please note that the following nature areas are not lighted. For your own safety, please do not enter these areas during nighttime.</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Grasslands</p>
+</li>
+<li>
+<p>Neram Streams</p>
+</li>
+</ul>
 <p></p>
