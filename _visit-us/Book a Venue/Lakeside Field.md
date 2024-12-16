@@ -8,7 +8,7 @@ third_nav_title: Book a Venue
 <h3><strong>Hold an unforgettable&nbsp;event in Jurong Lake Gardens! Book our venues today!</strong>&nbsp;</h3>
 <p>
 <br>Located right outside of the Entrance Pavilion and between popular attractions
-such as the Clusia Cove (Water play area) and Forest Ramble (Playground),
+such as the Clusia Cove (Water Play Area) and Forest Ramble (Playground),
 this lawn is a popular spot for outdoor events such as movie Screenings,
 Carnivals and more.</p>
 <table style="minWidth: 50px">
