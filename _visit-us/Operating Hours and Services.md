@@ -4,7 +4,13 @@ permalink: /operating-hours-and-shuttle-service/
 variant: tiptap
 description: operating, hours, shuttle, service, jurong, lake, gardens
 ---
-<h2><strong>Attractions</strong></h2>
+<h2></h2>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Attractions</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -171,6 +177,7 @@ more information.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong><u>Please note that the following nature areas are not lighted. For your own safety, please do not enter these areas during nighttime.</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -181,7 +188,13 @@ more information.</p>
 <p>Neram Streams</p>
 </li>
 </ul>
-<h2><strong>Dine</strong></h2>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Dine</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -242,7 +255,13 @@ more information.</p>
 </tbody>
 </table>
 <p></p>
-<h2><strong>Services and Amenities</strong></h2>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Services and Amenities</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -324,6 +343,11 @@ and Cascade Pavilion.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>The National Parks Board (NParks) is commencing a six-month trial for
+a Shuttle Service between Lakeside Garden and Japanese Garden to assess
+the feasibility of such a service. This trial focuses on improving accessibility
+between Lakeside Garden and the rejuvenated Chinese and Japanese Gardens.</p>
+<p></p>
 <p>9.30am to 4.30pm on Monday to Friday*</p>
 <p>*Shuttle service does not operate between 12 - 1pm</p>
 <p>*Shuttle service may be suspended in inclement weather</p>
@@ -333,5 +357,9 @@ and Cascade Pavilion.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
