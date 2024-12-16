@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Operating Hours and Services
 ---
-<h4>Dining</h4>
+<h3><strong>Dining</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -16,6 +16,7 @@ third_nav_title: Operating Hours and Services
 <td rowspan="1" colspan="1">
 <p><strong>Fusion Spoon</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10am - 9pm on Weekdays (Monday to Friday)</p>
@@ -26,6 +27,10 @@ third_nav_title: Operating Hours and Services
 <td rowspan="1" colspan="1">
 <p><strong>Starbucks</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Starbucks/Starbucks_2.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>8am to 10pm on Sunday to Thursday and Public Holidays</p>
@@ -47,6 +52,7 @@ third_nav_title: Operating Hours and Services
 <td rowspan="1" colspan="1">
 <p><strong>Eden</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8am to 8pm on Sunday to Thursday and Public Holidays</p>
