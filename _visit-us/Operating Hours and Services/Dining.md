@@ -52,6 +52,9 @@ third_nav_title: Operating Hours and Services
 <td rowspan="1" colspan="1">
 <p><strong>Eden</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Eden/Eden_1.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,6 +66,10 @@ third_nav_title: Operating Hours and Services
 <td rowspan="1" colspan="1">
 <p><strong>Ice-Cream Man And Friends - The Garden Cafe</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Ice Cream Man And Friends/Ice_Cream_Man_and_Friends_1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>10am to 10pm on Monday to Friday&nbsp;</p>
@@ -71,4 +78,5 @@ third_nav_title: Operating Hours and Services
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
