@@ -117,10 +117,10 @@ community, sports, children themed-events and more.</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$1,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$500</p>
+<p>$1,200</p>
 </td>
 </tr>
 <tr>
@@ -128,10 +128,10 @@ community, sports, children themed-events and more.</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$400</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$500</p>
 </td>
 </tr>
 <tr>
