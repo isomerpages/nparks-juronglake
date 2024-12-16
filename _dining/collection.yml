@@ -2,6 +2,7 @@ collections:
   dining:
     output: true
     order:
+      - Ice Cream Man And Friends.md
       - Fusion Spoon.md
       - Eden.md
       - Canopy.md
