@@ -28,19 +28,24 @@ third_nav_title: Operating Hours and Services
 <p><strong>Starbucks</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Starbucks/Starbucks_2.jpg">
-</div>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8am to 10pm on Sunday to Thursday and Public Holidays</p>
 <p>8am to 11pm on Friday, Saturday and Eve of Public Holidays</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Starbucks/Starbucks_2.jpg">
+</div>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Canopy</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday to Thursday: 11.30am to 10pm</p>
@@ -52,14 +57,14 @@ third_nav_title: Operating Hours and Services
 <td rowspan="1" colspan="1">
 <p><strong>Eden</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Eden/Eden_1.jpg">
-</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8am to 8pm on Sunday to Thursday and Public Holidays</p>
 <p>8am to 9pm on Friday, Saturday and Eve of Public Holidays</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Eden/Eden_1.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -67,13 +72,14 @@ third_nav_title: Operating Hours and Services
 <p><strong>Ice-Cream Man And Friends - The Garden Cafe</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Ice Cream Man And Friends/Ice_Cream_Man_and_Friends_1.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>10am to 10pm on Monday to Friday&nbsp;</p>
 <p>9am to 10pm on Saturday, Sunday and Public Holidays&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Ice Cream Man And Friends/Ice_Cream_Man_and_Friends_1.jpg">
+</div>
 </td>
 </tr>
 </tbody>
