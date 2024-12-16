@@ -5,6 +5,7 @@ variant: tiptap
 description: Jurong, Lake, Gardens, Eden
 ---
 <h2><strong>A Culinary Haven in the Heart of Heritage</strong></h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Eden/Eden_1.jpg">
 </div>
