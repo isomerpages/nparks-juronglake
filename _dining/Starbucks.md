@@ -4,7 +4,7 @@ permalink: /starbucks/
 variant: tiptap
 description: Jurong, Lake, Gardens, Starbucks
 ---
-<h2><strong>With both indoor and outdoor seating, diners can enjoy the unblocked view of Jurong Lake and the floating wetlands. </strong></h2>
+<h2><strong>With both indoor and outdoor seating, diners can enjoy the unblocked view of Jurong Lake and the floating wetlands.</strong></h2>
 <p></p>
 <p>Located within a short walk from Lakeside MRT, Starbucks is situated in
 Lakeside House. With both indoor and outdoor seating, diners can enjoy
