@@ -115,10 +115,10 @@ is a perfect location for performance, carnivals and more!</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,400</p>
+<p>$1,800</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,700</p>
+<p>$2,200</p>
 </td>
 </tr>
 <tr>
@@ -126,10 +126,10 @@ is a perfect location for performance, carnivals and more!</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$500</p>
+<p>$600</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$700</p>
+<p>$900</p>
 </td>
 </tr>
 <tr>
@@ -137,10 +137,10 @@ is a perfect location for performance, carnivals and more!</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$300</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$300</p>
 </td>
 </tr>
 </tbody>
