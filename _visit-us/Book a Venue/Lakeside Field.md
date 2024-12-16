@@ -23,7 +23,7 @@ community, sports, children themed-events and more.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9,000 sqm</p>
+<p>17,500 sqm</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ community, sports, children themed-events and more.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4,500 pax</p>
+<p>8,000 pax</p>
 </td>
 </tr>
 <tr>
@@ -85,8 +85,9 @@ community, sports, children themed-events and more.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -94,27 +95,40 @@ community, sports, children themed-events and more.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong><u>Rental Type</u></strong>
+<p><strong><u>Event Venue</u></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><u>Off-Peak (Mon - Thu)</u></strong>
+<p><strong><u>Lakeside Field</u></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><u>Peak (Fri - Sun)</u></strong>
+<p><strong><u>Lawn Closer to Carpark</u></strong>
 </p>
 </th>
+<th rowspan="1" colspan="1">
+<p><u>Lawn Closer to Lake</u>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Peak (Fri - Sun)</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,000</p>
+<p>$2,600</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,200</p>
+<p>$1,300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,100</p>
 </td>
 </tr>
 <tr>
@@ -122,15 +136,69 @@ community, sports, children themed-events and more.</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$1,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$500</p>
+<p>$600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$400</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Every Additional Hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$100</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Off-Peak (Mon - Thu)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Full Day (8am - 10pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$900</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$800</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$300</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Additional Hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$200</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$100</p>
