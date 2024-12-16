@@ -2,16 +2,16 @@ collections:
   our-gardens:
     output: true
     order:
-      - Japanese Garden/Windchime Terrace.md
-      - Japanese Garden/Resthouse.md
-      - Japanese Garden/Floral Ridge.md
-      - Japanese Garden/Water Lily Pavilion.md
-      - Japanese Garden/Water Lily Garden.md
+      - Japanese Garden/.keep
       - Japanese Garden/Breathing Gallery.md
+      - Japanese Garden/Floral Ridge.md
+      - Japanese Garden/Floral Garden.md
+      - Japanese Garden/Resthouse.md
+      - Japanese Garden/Windchime Terrace.md
       - Japanese Garden/Silver Moon and Harvest Moon Terraces.md
       - Japanese Garden/Sunken Garden.md
-      - Japanese Garden/Floral Garden.md
-      - Japanese Garden/.keep
+      - Japanese Garden/Water Lily Pavilion.md
+      - Japanese Garden/Water Lily Garden.md
       - Chinese Garden/Grand Arch.md
       - Chinese Garden/.keep
       - Lakeside Garden/Clusia Cove.md
