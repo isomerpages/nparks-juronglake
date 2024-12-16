@@ -37,28 +37,25 @@ community, sports, children themed-events and more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Facilities</strong>
+<p><strong>Walking Distance To</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Air-condition</p>
+<p>North Carpark</p>
 </li>
 <li>
-<p>Projector and Projector Screen</p>
+<p>Play Pavilion</p>
 </li>
 <li>
-<p>Nursing Room and Toilets (Male, Female and Handicap)</p>
+<p>Forest Ramble</p>
 </li>
 <li>
-<p>AV system</p>
+<p>Logs Trail</p>
 </li>
 <li>
-<p>8 rectangular tables</p>
-</li>
-<li>
-<p>30 chairs</p>
+<p>Toilet Facilities</p>
 </li>
 </ul>
 </td>
