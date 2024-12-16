@@ -9,9 +9,6 @@ third_nav_title: Book a Venue
 <p>Wave Plaza is located near the PAssion Wave and gives the view of the
 Twin Pagoda located in Chinese Garden. With a stage and seating area, it
 is a perfect location for performance, carnivals and more!</p>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
