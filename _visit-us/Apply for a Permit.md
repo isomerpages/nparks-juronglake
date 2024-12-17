@@ -25,12 +25,16 @@ or cause discomfort to other visitors will not be permitted.&nbsp;</p>
 <p></p>
 <p><u>For use of the Gardens for organised or group activities, please submit the application by filling in the form here.</u>
 </p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Please note that approval of this application does not grant you exclusive
 use of shelters, lawns or any other areas in the Gardens.</p>
-<p></p>
+</li>
+<li>
 <p>Applications must be submitted at least 14 days prior to the proposed
 date of use.</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
