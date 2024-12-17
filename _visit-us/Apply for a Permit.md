@@ -23,16 +23,16 @@ of set-up, structure, equipment etc. is not permitted without prior approval
 of NParks.&nbsp;Activities promoting a cause or activities which inconvenience
 or cause discomfort to other visitors will not be permitted.&nbsp;</p>
 <p></p>
-<p><u>For use of the Gardens for organised or group activities, please submit the application by filling in the form here.</u>
+<p><strong><u>For use of the Gardens for organised or group activities, please submit the application by filling in the form here.</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please note that approval of this application does not grant you exclusive
-use of shelters, lawns or any other areas in the Gardens.</p>
+<p>Please note that approval of this application <strong>does not</strong> grant
+you exclusive use of shelters, lawns or any other areas in the Gardens.</p>
 </li>
 <li>
-<p>Applications must be submitted at least 14 days prior to the proposed
-date of use.</p>
+<p>Applications must be submitted <strong>at least 14 days prior</strong> to
+the proposed date of use.</p>
 </li>
 </ul>
 <p></p>
