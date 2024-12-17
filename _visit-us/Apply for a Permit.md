@@ -13,21 +13,25 @@ description: apply, for, a, permit, jurong, lake, gardens
 <p></p>
 <h4><strong><u>Use of the Gardens for Organised/Group Activities</u></strong></h4>
 <p></p>
+<p>In the interest of public safety and enhancing visitor experience, please
+note that group activity permits would be required for any organised trips
+(E.g., Group Activities, Learning Journeys, Tours, Pre-school Visits etc)
+to Jurong Lake Gardens.</p>
+<p></p>
 <p>Jurong Lake Gardens is a public garden for the enjoyment of all. Any form
 of set-up, structure, equipment etc. is not permitted without prior approval
 of NParks.&nbsp;Activities promoting a cause or activities which inconvenience
 or cause discomfort to other visitors will not be permitted.&nbsp;</p>
 <p></p>
-<p>For use of the Gardens for organised or group activities, please submit
-the application below. Please note that approval of this application does
-not grant you exclusive use of shelters, lawns or any other areas in the
-Gardens.</p>
+<p><u>For use of the Gardens for organised or group activities, please submit the application by filling in the form here.</u>
+</p>
+<p></p>
+<p>Please note that approval of this application does not grant you exclusive
+use of shelters, lawns or any other areas in the Gardens.</p>
 <p></p>
 <p>Applications must be submitted at least 14 days prior to the proposed
 date of use.</p>
 <p></p>
-<p><u>Apply for a Permit to use the space</u>
-</p>
 </div>
 </details>
 <details class="isomer-details">
