@@ -7,7 +7,7 @@ description: apply, for, a, permit, jurong, lake, gardens
 <h2><strong>Secure your permit for filming and group activities</strong></h2>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Organised/Group Activities</strong>
+<summary><strong>Organised/Group Activities Permits</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -39,7 +39,7 @@ the proposed date of use.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Filming and Photography</strong>
+<summary><strong>Filming and Photography Permits</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
