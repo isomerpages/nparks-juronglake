@@ -11,8 +11,7 @@ description: apply, for, a, permit, jurong, lake, gardens
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong><u>Use of the Gardens for Organised/Group Activities</u></strong>
-</p>
+<h4><strong><u>Use of the Gardens for Organised/Group Activities</u></strong></h4>
 <p></p>
 <p>Jurong Lake Gardens is a public garden for the enjoyment of all. Any form
 of set-up, structure, equipment etc. is not permitted without prior approval
