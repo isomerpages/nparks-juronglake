@@ -4,7 +4,7 @@ permalink: /apply-for-a-permit/
 variant: tiptap
 description: apply, for, a, permit, jurong, lake, gardens
 ---
-<h2><strong>Secure your permit for filming and group activities</strong></h2>
+<h2><strong>Permits for all your outdoor needs</strong></h2>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Organised/Group Activities Permits</strong>
