@@ -51,8 +51,9 @@ filming or photography dates.&nbsp;</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Filming and photography are NOT allowed at Clusia Cove, Forest Ramble
-and Entrance Pavilion for the convenience of other garden users.</p>
+<p>Filming and photography are <strong>NOT</strong> allowed at Clusia Cove,
+Forest Ramble and Entrance Pavilion for the convenience of other garden
+users.</p>
 </li>
 <li>
 <p>Filming and photography should be carried out on weekdays during off-peak
@@ -67,22 +68,19 @@ of nails, hooks or like, to hang or tie any object to shrubs and trees
 is prohibited.</p>
 </li>
 <li>
-<p>No vehicles are allowed to enter the garden.&nbsp;</p>
+<p>No vehicles are allowed to enter the Gardens.&nbsp;</p>
 </li>
 <li>
 <p>Do not block off any areas (e.g. toilet, shelter, pathways) within our
-garden for your exclusive use.&nbsp;</p>
+Gardens for your exclusive use.&nbsp;</p>
 </li>
 <li>
-<p>Do not set up any structures without the prior approval of NParks. All
-kinds of tracks and power generating devices are not allowed.&nbsp;</p>
+<p>Do not set up any structures or props without the prior approval of NParks.
+All kinds of tracks and power generating devices are not allowed.&nbsp;</p>
 </li>
 <li>
-<p>The site must be kept clean and tidy at all times during your event. Please
-remove all refuse generated, immediately after your event at your own cost.&nbsp;</p>
-</li>
-<li>
-<p>No props are allowed without the prior approval of NParks.</p>
+<p>The site must be kept clean and tidy at all times. Please remove all refuse
+generated, immediately after your filming at your own cost.&nbsp;</p>
 </li>
 <li>
 <p>At the Grasslands, stick to the designated trails at all times. Do not
