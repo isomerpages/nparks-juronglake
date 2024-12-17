@@ -76,7 +76,7 @@ You are required to dismount and push within the no cycling zones.&nbsp;</p>
 </li>
 </ul>
 <hr>
-<h4>Here are some tips to make your visit more enjoyable!</h4>
+<h4><strong>Here are some tips to make your visit more enjoyable!</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Dress comfortably and put on suitable footwear.</p>
