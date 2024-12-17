@@ -44,9 +44,7 @@ the proposed date of use.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>Prior approval for filming and commercial photography in the Gardens is
-required.</p>
-<p></p>
-<p>Casual photography sessions (such as family portraits and graduations)
+required. Casual photography sessions (such as family portraits and graduations)
 do not require submission.</p>
 <p></p>
 <p>Applications have to be submitted at least 14 days prior to the proposed
@@ -60,8 +58,7 @@ filming or photography dates.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Filming and photography are <strong>NOT</strong> allowed at Clusia Cove,
-Forest Ramble and Entrance Pavilion for the convenience of other garden
-users.</p>
+Forest Ramble and Entrance Pavilion for the convenience of other visitors.</p>
 </li>
 <li>
 <p>Filming and photography should be carried out on weekdays during off-peak
