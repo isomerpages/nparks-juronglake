@@ -8,9 +8,11 @@ links:
     collection: visit-us
   - title: Happenings
     collection: happenings
+  - title: Education
+    collection: education
   - title: Dining
     collection: dining
   - title: Contact Us
     url: /contact-us/
-  - title: Education
-    collection: education
+  - title: Notices
+    collection: notices
