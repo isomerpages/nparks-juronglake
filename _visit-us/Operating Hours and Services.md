@@ -182,9 +182,24 @@ more information.</p>
 <h3><strong>Services and Amenities</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Information Counters</summary>
+<summary><strong>Information Counters</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Daily from 8.30am to 6.30pm</p>
 <p></p>
+<p>Located at:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Entrance Pavilion (Lakeside Garden)</p>
+</li>
+<li>
+<p>Pagoda Plaza (Chinese Garden)</p>
+</li>
+<li>
+<p>Water Lily Pavilion (Japanese Garden)</p>
+</li>
+</ul>
+<p>Wheelchair rental available from&nbsp;8.30am to 6.30pm</p>
 </div>
 </details>
 <details class="isomer-details">
