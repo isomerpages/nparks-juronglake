@@ -203,9 +203,54 @@ more information.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Garden Shuttle Service</summary>
+<summary><strong>Garden Shuttle Service</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>The National Parks Board (NParks) is commencing a six-month trial for
+a Shuttle Service between Lakeside Garden and Japanese Garden to assess
+the feasibility of such a service. This trial focuses on improving accessibility
+between Lakeside Garden and the rejuvenated Chinese and Japanese Gardens.</p>
 <p></p>
+<p>The Shuttle Service will consist of 11-to-13-seater vehicles, which will
+ply between North and South Car Parks and Japanese Garden.</p>
+<p>
+<br>The Shuttle Service will have the following stops:</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>North Car Park</p>
+</li>
+<li>
+<p>South Car Park</p>
+</li>
+<li>
+<p>Japanese Garden (Floral Garden)</p>
+</li>
+</ul>
+<p></p>
+<p><u>Details of the Shuttle Service</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Operating hours: Monday to Friday, 9.30am to 4.30pm, no service between
+12 – 1pm.</p>
+</li>
+<li>
+<p>1 cruiser running at approximately 30-minute intervals</p>
+</li>
+<li>
+<p>Fee: Free-of-charge</p>
+</li>
+<li>
+<p>For safety reasons, the Shuttle Service will suspend its services in the
+event of heavy rain or lightning warning.</p>
+</li>
+<li>
+<p>No food and drinks are allowed in the vehicle.</p>
+</li>
+</ul>
+<p></p>
+<p>Please refer to the poster here for more information on the service.</p>
 </div>
 </details>
 <details class="isomer-details">
