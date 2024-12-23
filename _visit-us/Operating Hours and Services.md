@@ -145,27 +145,51 @@ more information.</p>
 <h4>Chinese Garden (Open from 5.30am to 12am daily)</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Bonsai Gallery</summary>
+<summary><strong>Bonsai Gallery</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesday* to Sunday &amp; Public Holidays from 9am to 7pm&nbsp;</p>
+</li>
+<li>
+<p>Closed every Monday for maintenance (except Public Holidays)</p>
+</li>
+<li>
+<p>*Closed on Tuesday if preceding Monday is a Public Holiday</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Cascading Creek</summary>
+<summary><strong>Cascading Creek</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Daily from 7am to 7pm</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Jurong Lake Gardens Gallery</summary>
+<summary><strong>Jurong Lake Gardens Gallery</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesday* to Sunday &amp; Public Holidays from 9am to 9pm&nbsp;</p>
+</li>
+<li>
+<p>Closed every Monday for maintenance (except Public Holidays)</p>
+</li>
+<li>
+<p>*Closed on Tuesday if preceding Monday is a Public Holiday</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Twin Pagoda</summary>
+<summary><strong>Twin Pagoda</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Daily from 7am to 10pm</p>
 </div>
 </details>
 </div>
