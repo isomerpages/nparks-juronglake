@@ -6,6 +6,10 @@ description: mempat, hall, jurong, lake, gardens
 third_nav_title: Book a Venue
 ---
 <h3><strong>Hold an unforgettable&nbsp;event in Jurong Lake Gardens! Book our venues today!</strong>&nbsp;</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Mempat Hall/Mempat_Hall.jpg">
+</div>
 <p>
 <br>Mempat Hall is an indoor event venue located at Gardenhouse. The hall
 overlooks the greenery of the garden and is situated right next to the
