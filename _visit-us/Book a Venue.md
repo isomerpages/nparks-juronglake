@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Hold an unforgettable&nbsp;event in Jurong Lake Gardens! Book our venues today!</strong>&nbsp;</h2>
-<h3><strong>Indoor Venues</strong></h3>
+<h3>Indoor Venues</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Mempat Hall</summary>
@@ -188,7 +188,7 @@ the following time-blocks:</p>
 </div>
 </details>
 </div>
-<h3><strong>Outdoor Venues</strong></h3>
+<h3>Outdoor Venues</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>The Oval</summary>
@@ -198,3 +198,8 @@ the following time-blocks:</p>
 </details>
 </div>
 <p></p>
+<p></p>
+<p></p>
+<h4><strong>Click here to enquire!</strong></h4>
+<p>For venues at Fort Canning Park, HortPark, or Singapore Botanic Gardens,
+please contact our Managing Agent, <strong><a href="https://www.eventbutler.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Event Butler</u></a></strong>.</p>
