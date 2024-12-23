@@ -23,13 +23,16 @@ and soul.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Opening Hours</p>
+<p><strong>Opening Hours 🕑</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Location</p>
+<p><strong>Location 📍</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Contact</p>
+<p><strong>Contact ☎</strong>
+</p>
 </th>
 </tr>
 <tr>
