@@ -32,7 +32,8 @@ description: ""
 <h4>Lakeside Garden (Open 24 hours)</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>ActiveSG Park</summary>
+<summary><strong>ActiveSG Park</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><u>Swimming Pool</u>
@@ -58,15 +59,28 @@ more information.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Butterfly Maze</summary>
+<summary><strong>Butterfly Maze</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Daily from 7am to 7pm</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Clusia Cove</summary>
+<summary><strong>Clusia Cove</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesday* to Sunday &amp; Public Holidays from 8am to 7pm&nbsp;</p>
+</li>
+<li>
+<p>Closed every Monday for maintenance (except Public Holidays)</p>
+</li>
+<li>
+<p>*Closed on Tuesday if preceding Monday is a Public Holiday</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
