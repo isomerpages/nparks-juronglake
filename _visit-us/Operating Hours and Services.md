@@ -178,6 +178,8 @@ more information.</p>
 </div>
 </details>
 </div>
+<hr>
+<h3><strong>Services and Amenities</strong></h3>
 <p></p>
 <p></p>
 <p></p>
