@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Hold an unforgettable&nbsp;event in Jurong Lake Gardens! Book our venues today!</strong>&nbsp;</h2>
-<h3>Indoor Venues</h3>
+<h3><strong>Indoor Venues</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Mempat Hall</summary>
@@ -183,6 +183,15 @@ the following time-blocks:</p>
 </details>
 <details class="isomer-details">
 <summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<h3><strong>Outdoor Venues</strong></h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>The Oval</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
