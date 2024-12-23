@@ -6,6 +6,7 @@ description: Jurong, Lake, Gardens, Neram, Room
 third_nav_title: Book a Venue
 ---
 <h3><strong>Hold an unforgettable&nbsp;event in Jurong Lake Gardens! Book our venues today!</strong>&nbsp;</h3>
+<p></p>
 <p>
 <br>Neram Room is an indoor event venue located at Gardenhouse. The room overlooks
 the greenery of the garden and is situated right next to the scenic Rasau
