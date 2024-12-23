@@ -5,6 +5,10 @@ variant: tiptap
 description: Jurong, Lake, Gardens, Canopy
 ---
 <h2><strong>Where Culinary Artistry Meets Heritage</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Canopy/Canopy_1.jpg">
+</div>
 <p>This pet-friendly haven welcomes families to savour fresh delights in
 a historic setting. From dawn till dusk, Canopy invites you to indulge
 in exquisite meals amidst the preserved splendour of Chinese Garden's most
