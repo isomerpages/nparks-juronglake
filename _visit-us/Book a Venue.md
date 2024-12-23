@@ -42,6 +42,15 @@ scenic Rasau walk and Grasslands!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Location</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lakeside Garden, Gardenhouse</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Size</strong>
 </p>
 </td>
