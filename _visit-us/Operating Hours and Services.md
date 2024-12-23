@@ -238,7 +238,7 @@ more information.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Garden Shuttle Service</strong>
+<summary><strong>Garden Shuttle Service </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The National Parks Board (NParks) is commencing a six-month trial for
@@ -289,7 +289,7 @@ event of heavy rain or lightning warning.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>First Aid</strong>
+<summary><strong>First Aid </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Approach our uniformed staff on duty in the gardens and we'll be glad
