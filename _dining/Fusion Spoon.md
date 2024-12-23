@@ -5,6 +5,10 @@ variant: tiptap
 description: Jurong, Lake, Gardens, Fusion, Spoon
 ---
 <h2><strong>Away from the frenzy of the city, one can enjoy dining amidst nature</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Fusion Spoon/Fusion_Spoon_1.jpg">
+</div>
 <p>Fusion Spoon is the only dining restaurant in the Jurong Lake Gardens.
 Situated near the eco-pond, visitors can enjoy dining amidst nature and
 scenic view of the Jurong Lake. They can explore various food options ranging
