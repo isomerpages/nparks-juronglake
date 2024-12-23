@@ -257,6 +257,12 @@ the following time-blocks:</p>
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
 <h4><strong>Click here to enquire!</strong></h4>
