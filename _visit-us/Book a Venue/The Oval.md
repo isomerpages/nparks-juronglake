@@ -6,6 +6,10 @@ description: Jurong, Lake, Gardens, The, Oval
 third_nav_title: Book a Venue
 ---
 <h3><strong>Hold an unforgettable&nbsp;event in Jurong Lake Gardens! Book our venues today!</strong>&nbsp;</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/The Oval/The_Oval.jpg">
+</div>
 <p>The Oval is located on the Southside of Lakeside Garden. There are scenic
 attractions around The Oval such as the popular Rasau Walk and Grassland.&nbsp;
 <br>
