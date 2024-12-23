@@ -84,22 +84,44 @@ more information.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Dog Run</summary>
+<summary><strong>Dog Run</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Daily from 8am to 10pm</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Forest Ramble (Nature Playgarden)</summary>
+<summary><strong>Forest Ramble (Nature Playgarden)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesday* to Sunday &amp; Public Holidays from 8am to 10pm&nbsp;</p>
+</li>
+<li>
+<p>Closed every Monday for maintenance (except Public Holidays)</p>
+</li>
+<li>
+<p>*Closed on Tuesday if preceding Monday is a Public Holiday</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>PAssion Wave @ Jurong Lake Gardens</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesday to Friday from 9am to 6pm&nbsp;</p>
+</li>
+<li>
+<p>Closed on Mondays and Public Holidays</p>
+</li>
+</ul>
 <p></p>
+<p>Refer to the <a href="https://www.pa.gov.sg/our-programmes/passion-wave/passionwave-juronglakegardens/" rel="noopener nofollow" target="_blank"><u>PAssion Wave website here</u></a> for
+more information.</p>
 </div>
 </details>
 <details class="isomer-details">
