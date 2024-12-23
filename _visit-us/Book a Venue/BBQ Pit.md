@@ -5,11 +5,15 @@ variant: tiptap
 description: Jurong, Lake, Gardens, BBQ, Pit
 third_nav_title: Book a Venue
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/BBQ Pits/BBQ_PIt.jpg">
+</div>
 <p>Book the BBQ pits to celebrate your occasions and create fond memories
 with your family and friends at Jurong Lake Gardens! Conveniently located
-at the Northside of Lakeside Gardens, the BBQ pits offer a 360-degree view
-of the Gardens. It is also stone's throw away from the Forest Ramble and
-Passion Wave, which provide fun activities for people of all ages.</p>
+at the North side of Lakeside Garden, the BBQ pits offer a 360-degree view
+of the Gardens. It is also a stone's throw away from the Forest Ramble
+and Passion Wave, which provide fun activities for people of all ages.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
