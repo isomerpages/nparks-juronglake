@@ -6,7 +6,10 @@ description: ""
 ---
 <h2><strong>Hold an unforgettable&nbsp;event in Jurong Lake Gardens! Book our venues today!</strong>&nbsp;</h2>
 <p></p>
-<p></p>
+<p>Find out more from our event venue brochure.</p>
+<p>
+<br>
+</p>
 <hr>
 <h3>Indoor Venues</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
