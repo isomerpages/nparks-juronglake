@@ -202,4 +202,4 @@ the following time-blocks:</p>
 <p></p>
 <h4><strong>Click here to enquire!</strong></h4>
 <p>For venues at Fort Canning Park, HortPark, or Singapore Botanic Gardens,
-please contact our Managing Agent, <strong><a href="https://www.eventbutler.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Event Butler</u></a></strong>.</p>
+please contact <strong><a href="https://www.eventbutler.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Event Butler</u></a></strong>.</p>
