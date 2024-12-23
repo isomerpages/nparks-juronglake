@@ -6,8 +6,7 @@ description: ""
 ---
 <h2><strong>Hold an unforgettable&nbsp;event in Jurong Lake Gardens! Book our venues today!</strong>&nbsp;</h2>
 <p></p>
-<p>Find out more from our event venue brochure.</p>
-<p>
+<p>Find out more from our event venue brochure.
 <br>
 </p>
 <hr>
@@ -227,16 +226,38 @@ the following time-blocks:</p>
 </details>
 </div>
 <h3>Outdoor Venues</h3>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>The Oval</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Butterfly Field</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
+</details>
+<details class="isomer-details">
+<summary>Lakeside Field</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Wave Plaza</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Play Pavilion</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <h4><strong>Click here to enquire!</strong></h4>
 <p>For venues at Fort Canning Park, HortPark, or Singapore Botanic Gardens,
