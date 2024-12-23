@@ -11,6 +11,11 @@ description: ""
 <summary>Mempat Hall</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Mempat Hall/Mempat_Hall.jpg">
+</div>
+<p></p>
 <p>Mempat Hall is an indoor event venue located at Gardenhouse. The hall
 overlooks the greenery of the garden and is situated right next to the
 scenic Rasau walk and Grasslands!</p>
