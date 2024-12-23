@@ -6,6 +6,10 @@ description: Jurong, Lake, Gardens, Play Pavilion
 third_nav_title: Book a Venue
 ---
 <h3><strong>Hold an unforgettable&nbsp;event in Jurong Lake Gardens! Book our venues today!</strong>&nbsp;</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Play Pavilion/Play_Pavilion.jpg">
+</div>
 <p>Located in the popular Forest Ramble, the Play Pavilion is the perfect
 place for small gatherings and birthday parties!&nbsp;</p>
 <table style="minWidth: 50px">
