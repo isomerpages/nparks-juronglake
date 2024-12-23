@@ -271,15 +271,22 @@ to assist you.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Lost &amp; Found</summary>
+<summary><strong>Lost &amp; Found</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Please approach our uniformed staff at the Information Counter for assistance.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Vending Machines</summary>
+<summary><strong>Vending Machines</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Outdoor essentials, food and drinks are readily available at our vending
+machines.</p>
 <p></p>
+<p>Locations: Entrance Pavilion, Clusia Cove, Play Pavilion, Gardenhouse,
+ActiveSG Park, PAssion Wave, Pagoda Plaza, Water Lily Pavilion, Resthouse
+and Cascade Pavilion.</p>
 </div>
 </details>
 </div>
