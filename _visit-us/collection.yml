@@ -2,12 +2,12 @@ collections:
   visit-us:
     output: true
     order:
-      - Operating Hours and Services.md
       - Maps and Trails.md
+      - Operating Hours and Services.md
       - Getting Here.md
       - Visitor Guidelines.md
-      - Book a Venue/Guesthouse.md
       - Book a Venue/.keep
+      - Book a Venue/Guesthouse.md
       - Book a Venue/Mempat Hall.md
       - Book a Venue/Banyan Hall.md
       - Book a Venue/Neram Room.md
