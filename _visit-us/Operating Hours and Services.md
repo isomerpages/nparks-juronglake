@@ -174,7 +174,17 @@ more information.</p>
 <details class="isomer-details">
 <summary>Breathing Gallery</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesday* to Sunday &amp; Public Holidays from 9am to 9pm&nbsp;</p>
+</li>
+<li>
+<p>Closed every Monday for maintenance (except Public Holidays)</p>
+</li>
+<li>
+<p>*Closed on Tuesday if preceding Monday is a Public Holiday</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
