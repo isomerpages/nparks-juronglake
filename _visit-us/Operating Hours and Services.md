@@ -262,9 +262,12 @@ to assist you.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Wheelchair Rental</summary>
+<summary><strong>Wheelchair Rental</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>We provide complimentary wheelchair at our Information Counters.</p>
+<p>Approach our uniformed staff for more information.</p>
+<p>Rental hours: 8.30am to 6.30pm</p>
 </div>
 </details>
 <details class="isomer-details">
