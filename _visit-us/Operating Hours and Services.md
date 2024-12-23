@@ -254,9 +254,11 @@ event of heavy rain or lightning warning.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>First Aid</summary>
+<summary><strong>First Aid</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Approach our uniformed staff on duty in the gardens and we'll be glad
+to assist you.</p>
 </div>
 </details>
 <details class="isomer-details">
