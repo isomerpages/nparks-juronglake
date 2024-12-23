@@ -35,8 +35,26 @@ description: ""
 <summary>ActiveSG Park</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Swimming Pool</p>
+<p><u>Swimming Pool</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesday, Saturday, Sunday: 8am - 9:30pm</p>
+</li>
+<li>
+<p>Monday, Wednesday, Friday: 6:30am - 9:30pm</p>
+</li>
+<li>
+<p>Closed on Thursdays (except Public Holidays: 8am - 9:30pm)</p>
+</li>
+</ul>
 <p></p>
+<p><u>Gym:</u>
+</p>
+<p>Daily from 7am to 10pm</p>
+<p></p>
+<p>Refer to the <a href="https://www.activesgcircle.gov.sg/facilities" rel="noopener nofollow" target="_blank"><u>ActiveSG website here</u></a> for
+more information.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -59,6 +77,20 @@ description: ""
 </details>
 <details class="isomer-details">
 <summary>Forest Ramble (Nature Playgarden)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>PAssion Wave @ Jurong Lake Gardens</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>SkatePark @ Lakeside Garden</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
