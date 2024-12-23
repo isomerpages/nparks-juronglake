@@ -172,7 +172,8 @@ more information.</p>
 <h4>Japanese Garden (Open from 5.30am to 12am daily)</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Breathing Gallery</summary>
+<summary><strong>Breathing Gallery</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
