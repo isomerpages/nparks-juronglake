@@ -6,6 +6,10 @@ description: Jurong, Lake, Gardens, Lakeside, Field
 third_nav_title: Book a Venue
 ---
 <h3><strong>Hold an unforgettable&nbsp;event in Jurong Lake Gardens! Book our venues today!</strong>&nbsp;</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Lakeside Field/lakeside_field___near_to_carpark.jpg">
+</div>
 <p>
 <br>Located right outside of the Entrance Pavilion and between popular attractions
 such as the Clusia Cove (Water Play Area) and Forest Ramble (Playground),
