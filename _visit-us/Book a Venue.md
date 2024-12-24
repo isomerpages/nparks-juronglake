@@ -1461,7 +1461,6 @@ the following time-blocks:</p>
 </div>
 <p></p>
 <h3>BBQ Pits</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/BBQ Pits/BBQ_PIt.jpg">
 </div>
