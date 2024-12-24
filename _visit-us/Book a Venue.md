@@ -1303,6 +1303,10 @@ the following time-blocks:</p>
 <details class="isomer-details">
 <summary>Play Pavilion</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Play Pavilion/Play_Pavilion.jpg">
+</div>
 <p>Located in the popular Forest Ramble, the Play Pavilion is the perfect
 place for small gatherings and birthday parties!&nbsp;</p>
 <table style="minWidth: 50px">
