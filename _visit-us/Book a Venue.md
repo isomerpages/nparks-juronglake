@@ -8,6 +8,9 @@ description: ""
 <p></p>
 <p>Find out more from our event venue brochure here or browse our selection
 of venues below!</p>
+<h4><strong>Click here to enquire!</strong></h4>
+<p>For venues at Fort Canning Park, HortPark, or Singapore Botanic Gardens,
+please contact <strong><a href="https://www.eventbutler.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Event Butler</u></a></strong>.</p>
 <hr>
 <h3>Indoor Venues</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -1490,6 +1493,5 @@ and Passion Wave, which provide fun activities for people of all ages.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Click here to enquire!</strong></h4>
-<p>For venues at Fort Canning Park, HortPark, or Singapore Botanic Gardens,
-please contact <strong><a href="https://www.eventbutler.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Event Butler</u></a></strong>.</p>
+<h4></h4>
+<p></p>
