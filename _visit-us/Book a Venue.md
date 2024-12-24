@@ -6,9 +6,8 @@ description: ""
 ---
 <h2><strong>Hold an unforgettable&nbsp;event in Jurong Lake Gardens! Book our venues today!</strong>&nbsp;</h2>
 <p></p>
-<p>Find out more from our event venue brochure.
-<br>
-</p>
+<p>Find out more from our event venue brochure here or browse our selection
+of venues below!</p>
 <hr>
 <h3>Indoor Venues</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -253,12 +252,6 @@ the following time-blocks:</p>
 </details>
 <details class="isomer-details">
 <summary>Play Pavilion</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
