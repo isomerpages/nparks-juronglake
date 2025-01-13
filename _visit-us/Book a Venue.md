@@ -4,7 +4,7 @@ permalink: /book-a-venue/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Hold an unforgettable&nbsp;event in Jurong Lake Gardens! Book our venues today!</strong>&nbsp;</h2>
+<h2><strong>Elevate your event amidst the lush beauty of Jurong Lake Gardens. Reserve our stunning venues now and create lasting memories!&nbsp;</strong></h2>
 <p></p>
 <p>Find out more from our event venue brochure here or browse our selection
 of venues below!</p>
