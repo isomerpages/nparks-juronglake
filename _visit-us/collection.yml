@@ -2,10 +2,10 @@ collections:
   visit-us:
     output: true
     order:
-      - Book a Venue.md
       - Maps and Trails.md
       - Operating Hours and Services.md
       - Getting Here.md
       - Visitor Guidelines.md
+      - Book a Venue.md
       - Book a Garden Cruiser.md
       - Apply for a Permit.md
