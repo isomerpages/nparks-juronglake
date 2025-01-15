@@ -4,7 +4,7 @@ permalink: /fusion-spoon/
 variant: tiptap
 description: Jurong, Lake, Gardens, Fusion, Spoon
 ---
-<h2><strong>Away from the frenzy of the city, one can enjoy dining amidst nature</strong></h2>
+<h2><strong>Escape the Urban Bustle; Dine in Nature's Tranquillity</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Fusion Spoon/Fusion_Spoon_1.jpg">
