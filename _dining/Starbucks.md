@@ -4,7 +4,7 @@ permalink: /starbucks/
 variant: tiptap
 description: Jurong, Lake, Gardens, Starbucks
 ---
-<h2><strong>With both indoor and outdoor seating, diners can enjoy the unblocked view of Jurong Lake and the floating wetlands.</strong></h2>
+<h2><strong>Unwind with Lakeside Serenity</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Starbucks/Starbucks_2.jpg">
@@ -51,4 +51,4 @@ more details!</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Sip coffee overlooking Jurong Lake</p>
