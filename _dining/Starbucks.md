@@ -51,4 +51,4 @@ more details!</p>
 </tr>
 </tbody>
 </table>
-<p>Sip coffee overlooking Jurong Lake</p>
+<p></p>
