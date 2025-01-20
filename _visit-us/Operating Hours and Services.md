@@ -203,6 +203,10 @@ more information.</p>
 <summary><strong>Breathing Gallery</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Japanese Garden/Breathing Gallery/Breathing_Gallery_5.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tuesday* to Sunday &amp; Public Holidays from 9am to 9pm&nbsp;</p>
