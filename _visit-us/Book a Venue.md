@@ -877,7 +877,7 @@ Carnivals and more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Closest Carpark </strong>
+<p><strong>Closest Carpark</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1098,7 +1098,7 @@ is a perfect location for performance, carnivals and more!</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>PAssion Wave</p>
+<p>Passion Wave</p>
 </li>
 <li>
 <p>Toilet Facilities</p>
