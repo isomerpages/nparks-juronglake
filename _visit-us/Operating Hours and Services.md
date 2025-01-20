@@ -63,6 +63,9 @@ more information.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lakeside Garden/Butterfly Maze/BM_NParks_5.jpg">
+</div>
 <p>Daily from 7am to 7pm</p>
 </div>
 </details>
