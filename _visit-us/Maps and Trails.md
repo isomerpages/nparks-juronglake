@@ -50,8 +50,13 @@ Coast to Coast app and at the NParks&nbsp;<a href="https://www.nparks.gov.sg/c2c
 <p></p>
 <p><strong><u>Cycling within the Gardens</u></strong>
 </p>
-<p>Except for people with mobility difficulties, Cycling, Riding and PMDs
-are not allowed in some attractions; you may refer to the map <a href="/files/Maps and Trails/JLG_No_Cycling_Zones.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-You are required to dismount and push within the no cycling zones.&nbsp;</p>
+<p>There are popular attractions within Jurong Lake Gardens with high visitorship
+and we are mindful to maintain a conducive garden ambience for visitors
+to enjoy attractions, horticultural collections, landscape and curations.</p>
+<p>As such, cycling, riding and personal mobility devices (PMDs) are not
+allowed in some attractions; you may refer to the map <a href="/files/Maps and Trails/JLG_No_Cycling_Zones.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information.</p>
+<p>Wheelchairs and Personal Mobility Aids (PMA) are allowed in throughout
+the Gardens to ensure accessibility for those with mobility challenges.</p>
 <p></p>
 <p></p>
