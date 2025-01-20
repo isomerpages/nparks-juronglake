@@ -193,6 +193,10 @@ more information.</p>
 <summary><strong>Twin Pagoda</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Garden/Twin_Pagoda.jpg">
+</div>
 <p>Daily from 7am to 10pm</p>
 </div>
 </details>
