@@ -577,14 +577,18 @@ the following time-blocks:</p>
 <h3>Outdoor Venues</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>The Oval</summary>
+<summary>BBQ Pits</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/The Oval/The_Oval.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/BBQ Pits/BBQ_PIt.jpg">
 </div>
-<p>The Oval is located on the Southside of Lakeside Garden. There are scenic
-attractions around The Oval such as the popular Rasau Walk and Grassland.&nbsp;</p>
+<p>Book the BBQ pits to celebrate your occasions and create fond memories
+with your family and friends at Jurong Lake Gardens! Conveniently located
+at the North side of Lakeside Garden, the BBQ pits offer a 360-degree view
+of the Gardens. It is also a stone's throw away from the Forest Ramble
+and Passion Wave, which provide fun activities for people of all ages.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -593,153 +597,18 @@ attractions around The Oval such as the popular Rasau Walk and Grassland.&nbsp;<
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Size</strong>
+<p><strong>Price</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12,000 sqm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Capacity</strong>
+<p>$20 <em>nett</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6,000 pax</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Walking Distance To</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>ActiveSG Park</p>
-</li>
-<li>
-<p>South Carpark</p>
-</li>
-<li>
-<p>Grasslands</p>
-</li>
-<li>
-<p>Rasau Walk</p>
-</li>
-<li>
-<p>Neram Streams</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Suitable For</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Sporting Events</p>
-</li>
-<li>
-<p>Carnivals</p>
-</li>
-<li>
-<p>Mass Community Events</p>
-</li>
-<li>
-<p>Film Festivals</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Rental Rates</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong><u>Rental Type</u></strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong><u>Off-Peak (Mon - Thu)</u></strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong><u>Peak (Fri - Sun)</u></strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Full Day (8am - 10pm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$1,400</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$1,700</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Hours</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$500</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$700</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Every Additional Hour</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$100</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$200</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>*All prices stated above are excluding GST</p>
-<p>*Hours include set-up and teardown</p>
-<p>*Each booking must be made for a minimum of 4 hours in accordance with
-the following time-blocks:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>0800 hrs - 1200 hrs</p>
-</li>
-<li>
-<p>1300 hrs - 1700 hrs</p>
-</li>
-<li>
-<p>1800 hrs - 2200 hrs</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em>Bookings should be made 2 months in advance and are only confirmed upon full payment.</em>
-</p>
+<p>*Booking slots are opened 2 months in advance</p>
+<p>*Bookings must be made minimally 1 month in advance</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -1460,17 +1329,15 @@ the following time-blocks:</p>
 </p>
 </div>
 </details>
-</div>
+<details class="isomer-details">
+<summary>The Oval</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h3>BBQ Pits</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/BBQ Pits/BBQ_PIt.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/The Oval/The_Oval.jpg">
 </div>
-<p>Book the BBQ pits to celebrate your occasions and create fond memories
-with your family and friends at Jurong Lake Gardens! Conveniently located
-at the North side of Lakeside Garden, the BBQ pits offer a 360-degree view
-of the Gardens. It is also a stone's throw away from the Forest Ramble
-and Passion Wave, which provide fun activities for people of all ages.</p>
+<p>The Oval is located on the Southside of Lakeside Garden. There are scenic
+attractions around The Oval such as the popular Rasau Walk and Grassland.&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1479,18 +1346,154 @@ and Passion Wave, which provide fun activities for people of all ages.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Price</strong>
+<p><strong>Size</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$20 <em>nett</em>
+<p>12,000 sqm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Capacity</strong>
 </p>
-<p></p>
-<p>*Booking slots are opened 2 months in advance</p>
-<p>*Bookings must be made minimally 1 month in advance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6,000 pax</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Walking Distance To</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>ActiveSG Park</p>
+</li>
+<li>
+<p>South Carpark</p>
+</li>
+<li>
+<p>Grasslands</p>
+</li>
+<li>
+<p>Rasau Walk</p>
+</li>
+<li>
+<p>Neram Streams</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Suitable For</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Sporting Events</p>
+</li>
+<li>
+<p>Carnivals</p>
+</li>
+<li>
+<p>Mass Community Events</p>
+</li>
+<li>
+<p>Film Festivals</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Rental Rates</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><u>Rental Type</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><u>Off-Peak (Mon - Thu)</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><u>Peak (Fri - Sun)</u></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Full Day (8am - 10pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,700</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$700</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Additional Hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$200</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4></h4>
+<p></p>
+<p>*All prices stated above are excluding GST</p>
+<p>*Hours include set-up and teardown</p>
+<p>*Each booking must be made for a minimum of 4 hours in accordance with
+the following time-blocks:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>0800 hrs - 1200 hrs</p>
+</li>
+<li>
+<p>1300 hrs - 1700 hrs</p>
+</li>
+<li>
+<p>1800 hrs - 2200 hrs</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>Bookings should be made 2 months in advance and are only confirmed upon full payment.</em>
+</p>
+</div>
+</details>
+</div>
 <p></p>
