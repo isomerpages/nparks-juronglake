@@ -597,6 +597,46 @@ and Passion Wave, which provide fun activities for people of all ages.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Location</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lakeside Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Walking Distance To</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Lakeside Field</p>
+</li>
+<li>
+<p>Passion Wave @ Jurong Lake Gardens</p>
+</li>
+<li>
+<p>Forest Ramble</p>
+</li>
+<li>
+<p>Clusia Cove</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Closest Carpark</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Carpark</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Price</strong>
 </p>
 </td>
