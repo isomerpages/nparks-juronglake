@@ -307,7 +307,7 @@ to assist you.</p>
 <p>We provide complimentary wheelchair rental at our Information Counters.
 Approach our uniformed staff for more information!</p>
 <p></p>
-<p><em>Please note that rental is on a first-come, first-served basis. </em>
+<p><em>Please note that rental is on a first-come, first-served basis.</em>
 </p>
 <p></p>
 <p>Rental hours: 8.30am to 6.30pm</p>
