@@ -296,7 +296,7 @@ event of heavy rain or lightning warning.</p>
 <summary><strong>First Aid</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Approach our uniformed staff on duty in the gardens and we'll be glad
+<p>Approach our uniformed staff on duty in the Gardens and we'll be glad
 to assist you.</p>
 </div>
 </details>
@@ -304,8 +304,12 @@ to assist you.</p>
 <summary><strong>Wheelchair Rental</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>We provide complimentary wheelchair at our Information Counters.</p>
-<p>Approach our uniformed staff for more information.</p>
+<p>We provide complimentary wheelchair rental at our Information Counters.
+Approach our uniformed staff for more information!</p>
+<p></p>
+<p><em>Please note that rental is on a first-come, first-served basis. </em>
+</p>
+<p></p>
 <p>Rental hours: 8.30am to 6.30pm</p>
 </div>
 </details>
@@ -313,7 +317,7 @@ to assist you.</p>
 <summary><strong>Lost &amp; Found</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Please approach our uniformed staff at the Information Counter for assistance.</p>
+<p>Please approach our uniformed staff at our Information Counters for assistance.</p>
 </div>
 </details>
 <details class="isomer-details">
