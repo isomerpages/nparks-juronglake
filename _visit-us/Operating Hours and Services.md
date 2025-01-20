@@ -94,6 +94,10 @@ more information.</p>
 <summary><strong>Forest Ramble (Nature Playgarden)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lakeside Garden/Forest Ramble/forest_ramble.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tuesday* to Sunday &amp; Public Holidays from 8am to 10pm&nbsp;</p>
@@ -238,7 +242,7 @@ more information.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Garden Shuttle Service </strong>
+<summary><strong>Garden Shuttle Service</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The National Parks Board (NParks) is commencing a six-month trial for
@@ -289,7 +293,7 @@ event of heavy rain or lightning warning.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>First Aid </strong>
+<summary><strong>First Aid</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Approach our uniformed staff on duty in the gardens and we'll be glad
