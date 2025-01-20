@@ -50,8 +50,8 @@ Coast to Coast app and at the NParks&nbsp;<a href="https://www.nparks.gov.sg/c2c
 <p></p>
 <p><strong><u>Cycling within the Gardens</u></strong>
 </p>
-<p>Except for people with disabilities, Cycling, Riding and PMDs are not
-allowed in some attractions; you may refer to the map <a href="/files/Maps and Trails/JLG_No_Cycling_Zones.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<p>Except for people with mobility difficulties, Cycling, Riding and PMDs
+are not allowed in some attractions; you may refer to the map <a href="/files/Maps and Trails/JLG_No_Cycling_Zones.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 You are required to dismount and push within the no cycling zones.&nbsp;</p>
 <p></p>
 <p></p>
