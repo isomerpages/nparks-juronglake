@@ -25,17 +25,19 @@ sections:
           description: Sign up as volunteer!
           url: /privacy/
       variant: center
+  - infopic:
+      title: Key Attractions
+      subtitle: Plan your visit
+      id: infopic
+      description: Explore the thematic gardens at Jurong Lake Gardens. Immerse
+        yourself in nature teemed with wildlife.
+      button: Find out more
+      alt: Image alt text
+      url: /
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
+      title: WHO WE ARE
+      subtitle: About Jurong Lake Gardens
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
