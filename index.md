@@ -19,7 +19,7 @@ sections:
           description: Fun for children and adults
           url: https://gmail.com
         - title: Dine
-          description: Key Highlight description
+          description: Eateries and dining options
           url: ""
         - title: Volunteer
           description: Sign up as volunteer!
