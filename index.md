@@ -27,17 +27,19 @@ sections:
       variant: center
   - infopic:
       title: Key Attractions
-      subtitle: Plan your visit
+      subtitle: Welcome to Jurong Lake Gardens
       id: infopic
       description: Explore the thematic gardens at Jurong Lake Gardens. Immerse
         yourself in nature teemed with wildlife.
-      button: Find out more
+      button: PLAN YOUR VISIT
       alt: Image alt text
       url: /
   - infobar:
       title: WHO WE ARE
       subtitle: About Jurong Lake Gardens
-      description: About a sentence worth of description here
-      button: Button text
+      description: Singapore’s national gardens in the heartlands. A people’s garden,
+        where spaces are created for families and the community to come
+        together.
+      button: Learn more
       url: /faq/
 ---
