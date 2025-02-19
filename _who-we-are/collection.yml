@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Lakeside Gardens.md
       - Japanese Garden.md
       - Chinese Gardens.md
       - Jurong Lake Gardens.md
