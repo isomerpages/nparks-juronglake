@@ -12,15 +12,17 @@ sections:
       title: Jurong Lake Gardens
       background: /images/Chinese Garden/Cloud_Pagoda.jpg
       key_highlights:
-        - title: Highlight A
+        - title: Key Attractions
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
+        - title: Community
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
+        - title: Sustainability
           description: Page A is important too
           url: /privacy/
+      variant: center
+      subtitle: A collection of three unique gardens for play, nature and community.
   - infobar:
       title: Infobar title
       subtitle: Subtitle
