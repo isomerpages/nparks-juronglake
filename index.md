@@ -12,8 +12,8 @@ sections:
       title: Jurong Lake Gardens
       background: /images/Chinese Garden/Cloud_Pagoda.jpg
       key_highlights:
-        - title: Nature
-          description: Explore areas teemed with life
+        - title: Explore
+          description: Visit our thematic gardens
           url: https://google.com
         - title: Play
           description: Fun for children and adults
