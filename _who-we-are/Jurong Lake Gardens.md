@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FnpnauGxK44?si=F3YUU76JakszAZkX"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wW2IUERkvzo?si=AWDPEnDBMLPIdBCl"></iframe>
 </div>
 <p></p>
 <p>Jurong Lake Gardens is Singapore’s national gardens in the heartlands.
