@@ -2,6 +2,7 @@ collections:
   our-gardens:
     output: true
     order:
+      - Our Gardens.md
       - Lakeside Garden/.keep
       - Lakeside Garden/Clusia Cove.md
       - Chinese Garden/.keep
