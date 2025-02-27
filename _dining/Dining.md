@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p>Jurong Lake Gardens offers a variety of dining options!
-<br>Check out the list below to plan to locate them.</p>
+<br>Planning a trip to the gardens? Check out the list below for the locations
+of the eateries!</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
