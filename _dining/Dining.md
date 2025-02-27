@@ -4,8 +4,8 @@ permalink: /dining/
 variant: tiptap
 description: ""
 ---
-<p>Jurong Lake Gardens offers a variety of dining options! Check out the
-list on the left for our tenants situated in the gardens!</p>
+<p>Jurong Lake Gardens offers a variety of dining options!
+<br>Check out the list below to plan to locate them.</p>
 <p></p>
 <p></p>
 <table style="minWidth: 50px">
