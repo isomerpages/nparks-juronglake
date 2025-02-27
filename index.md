@@ -17,7 +17,7 @@ sections:
           url: /our-gardens/
         - title: Play
           description: Fun for children and adults
-          url: /Play/
+          url: /play/
         - title: Dine
           description: Eateries and dining options
           url: /dining/
