@@ -2,4 +2,5 @@ collections:
   education:
     output: true
     order:
+      - Guided Tours.md
       - Fauna of Jurong Lake Gardens.md
