@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FnpnauGxK44?si=F3YUU76JakszAZkX"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FnpnauGxK44?si=F3YUU76JakszAZkX"></iframe>
 </div>
 <p></p>
 <p>Jurong Lake Gardens is Singapore’s national gardens in the heartlands.
@@ -18,3 +18,4 @@ are open to visitors and we invite you to explore their unique landscapes.</p>
 <p>
 <br>Discover the perfect blend of urban living and lush greenery at Jurong
 Lake Gardens - your community sanctuary in the heart of Singapore.&nbsp;</p>
+<p></p>
