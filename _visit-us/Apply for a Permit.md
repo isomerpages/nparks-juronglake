@@ -23,7 +23,8 @@ of set-up, structure, equipment etc. is not permitted without prior approval
 of NParks.&nbsp;Activities promoting a cause or activities which inconvenience
 or cause discomfort to other visitors will not be permitted.&nbsp;</p>
 <p></p>
-<p><strong><u>For use of the Gardens for organised or group activities, please submit the application by filling in the form here.</u></strong>
+<p><strong><u>For use of the Gardens for organised or group activities, please submit the application by filling in the form </u></strong>
+<a href="https://form.gov.sg/67319f8a39ddbc59aa9350b9" rel="noopener nofollow" target="_blank">here</a><strong><u>.</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
