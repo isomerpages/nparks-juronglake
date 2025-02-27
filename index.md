@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Explore
           description: Visit our thematic gardens
-          url: https://google.com
+          url: /our-gardens/
         - title: Play
           description: Fun for children and adults
           url: /Play/
