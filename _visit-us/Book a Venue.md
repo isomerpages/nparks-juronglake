@@ -6,8 +6,7 @@ description: ""
 ---
 <h2><strong>Elevate your event amidst the lush beauty of Jurong Lake Gardens. Reserve our venues now and create lasting memories!&nbsp;</strong></h2>
 <p></p>
-<h4>Find out more from our event venue brochure <strong>here</strong> or browse our selection of venues below.</h4>
-<h4>Click <strong>here</strong> to enquire if you are interested!</h4>
+<h4>Browse our selection of venues below and email <a href="mailto:nparks_jlg@eventbutler.sg" rel="noopener noreferrer nofollow" target="_blank">nparks_jlg@eventbutler.sg</a> if you are interested!</h4>
 <p><em>For venues at Fort Canning Park, HortPark, or Singapore Botanic Gardens, please contact </em><strong><em><a href="https://www.eventbutler.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Event Butler</u></a></em></strong><em>.</em>
 </p>
 <hr>
