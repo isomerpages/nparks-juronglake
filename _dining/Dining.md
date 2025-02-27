@@ -20,8 +20,19 @@ of the eateries!</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tenant</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Location</strong>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="2">
-<p>Lakeside Garden</p>
+<p><strong>Lakeside Garden</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -40,15 +51,6 @@ of the eateries!</p>
 <p>Near Floating Wetlands</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <th rowspan="1" colspan="2">
 <p>Chinese Garden</p>
@@ -70,15 +72,6 @@ of the eateries!</p>
 <p>At Pagoda Plaza</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <th rowspan="1" colspan="2">
 <p>Japanese Garden</p>
@@ -94,4 +87,6 @@ of the eateries!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
