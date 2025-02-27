@@ -19,6 +19,9 @@ will have two precincts:
 </ul>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jurong Lake District" src="/images/2_JLD_02.jpg">
+</div>
 <p></p>
 <p></p>
 <p>Jurong Lake Gardens contributes to the identity of Jurong Lake District,
