@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our Gardens.md
+      - Lakeside Garden/Floating Wetlands.md
       - Lakeside Garden/.keep
       - Lakeside Garden/Alstonia Island & Freshwater Swamp Forest.md
       - Lakeside Garden/Clusia Cove.md
