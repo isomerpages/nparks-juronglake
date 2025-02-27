@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our Gardens.md
+      - Lakeside Garden/Lakeside House.md
       - Lakeside Garden/Rainforest Pavilion.md
       - Lakeside Garden/Skatepark @ Lakeside Garden.md
       - Lakeside Garden/.keep
