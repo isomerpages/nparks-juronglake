@@ -42,5 +42,5 @@ sections:
         where spaces are created for families and the community to come
         together.
       button: Learn more
-      url: /about/
+      url: /jurong-lake-gardens/
 ---
