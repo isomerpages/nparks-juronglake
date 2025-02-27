@@ -41,6 +41,11 @@ Water Lily Garden and the larger Japanese Garden. This is supported by
 a donation of S$1 million by Micron Technology, through the Garden City
 Fund, NParks’ registered charity and IPC.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Water pump and filtration system" src="/images/Sustainability/Water_pump_and_filtration_system.jpg">
+</div>
+<p></p>
+<p></p>
 <h4><strong>Carbon dioxide mineralised concrete</strong></h4>
 <p>Nearly all the footpaths within the northern section of Lakeside Garden,
 as well as all the footpaths within Chinese and Japanese Gardens, are made
@@ -49,6 +54,10 @@ recycles carbon dioxide by converting captured atmospheric carbon into
 a nanomineral that becomes permanently embedded in concrete structures.
 This improves the compressive strength of the concrete, while lowering
 carbon emissions during the construction process.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Carbon dioxide mineralised concrete" src="/images/Sustainability/Carbon_dioxide_mineralised_concrete.jpg">
+</div>
 <p>
 <br>
 </p>
