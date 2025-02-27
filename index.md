@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       title: Jurong Lake Gardens
-      background: /images/Chinese Garden/Cloud_Pagoda.jpg
+      background: /images/Key Attractions/Nature_Banner_1_Grasslands_Bird_Hide.jpg
       key_highlights:
         - title: Explore
           description: Visit our thematic gardens
@@ -33,7 +33,8 @@ sections:
         yourself in nature teemed with wildlife.
       button: PLAN YOUR VISIT
       alt: Image alt text
-      url: /
+      url: /our-gardens/
+      image: /images/Key Attractions/Neram_Stream_.jpg
   - infobar:
       title: WHO WE ARE
       subtitle: About Jurong Lake Gardens
