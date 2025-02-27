@@ -28,10 +28,14 @@ be built in GLULAM (a type of MET) which has the unique capability to span
 large distances without the need for supporting columns.&nbsp;Other buildings
 that are built using MET include Rainforest Pavilion in Lakeside Garden
 and Water Lily Pavilion in Japanese Garden.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mass Engineered Timber at MPH" src="/images/Smart Technology/Mass_Engineered_Timber.png">
+</div>
 <p>
-<br>
 <br><em>The interior of the Multi-Purpose Hall shows the beauty and functionality of MET.</em>
 </p>
+<p></p>
 <h4><strong>Interactive&nbsp;Kiosk</strong></h4>
 <p>Jurong Lake Gardens has brought technology into the Gardens through our
 Interactive Kiosks. The Interactive Kiosk is designed to provide visitors
@@ -43,13 +47,22 @@ guided walks. The Interactive Kiosks are situated at the following locations
 – Shelter at South Carpark, Gardenhouse, Entrance Pavilion and Play Pavilion.&nbsp;</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Interactive Kiosk" src="/images/Smart Technology/Interactive_Kiosk_1.jpg">
+</div>
 <p><em>A close-up of one of the Interactive Kiosks.</em>
 </p>
 <p><em><br></em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Interactive Kiosk" src="/images/Smart Technology/Interactive_Kiosk_2.jpg">
+</div>
 <p><em>A visitor uses the Interactive Kiosk at the South Carpark Shelter.</em>&nbsp;</p>
 <p><em><br></em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Interactive Kiosk" src="/images/Smart Technology/Interactive_Kiosk_3.jpg">
+</div>
 <p><em>The Interactive Kiosk amongst nature at Forest Ramble.</em>
 </p>
 <p></p>
