@@ -20,7 +20,7 @@ sections:
           url: /Play/
         - title: Dine
           description: Eateries and dining options
-          url: ""
+          url: /dining/
         - title: Volunteer
           description: Sign up as volunteer!
           url: /privacy/
