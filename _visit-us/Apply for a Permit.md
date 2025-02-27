@@ -116,7 +116,7 @@ Please refer to our <a href="https://www.nparks.gov.sg/-/media/nparks-real-conte
 more details. The acknowledgement section that needs to be signed by team
 members can be downloaded <a href="https://www.nparks.gov.sg/-/media/nparks-real-content/biodiversity/resources-research-permit/acknowledgement-section.doc" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
-<p>For more information, <a href="https://www.nparks.gov.sg/biodiversity/resources-and-research-permits" rel="noopener nofollow" target="_blank">please refer to this link.</a>
+<p>For more information, <a href="https://www.nparks.gov.sg/services/apply-research-permit" rel="noopener nofollow" target="_blank">please refer to this link.</a>
 </p>
 </div>
 </details>
