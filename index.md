@@ -23,7 +23,7 @@ sections:
           url: /dining/
         - title: Volunteer
           description: Sign up as volunteer!
-          url: /privacy/
+          url: /volunteer/
       variant: center
   - infopic:
       title: Key Attractions
