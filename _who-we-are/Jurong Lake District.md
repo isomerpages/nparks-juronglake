@@ -23,7 +23,6 @@ will have two precincts:
 <img style="width: 100%" height="auto" width="100%" alt="Jurong Lake District" src="/images/2_JLD_02.jpg">
 </div>
 <p></p>
-<p></p>
 <p>Jurong Lake Gardens contributes to the identity of Jurong Lake District,
 which is envisioned as a district of gardens and water. The green spaces
 and waterways will extend from the Gardens into the district. It will eventually
