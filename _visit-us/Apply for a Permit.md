@@ -50,7 +50,7 @@ do not require submission.</p>
 <p>Applications have to be submitted at least 14 days prior to the proposed
 filming or photography dates.&nbsp;</p>
 <p></p>
-<p><u>Apply for a filming and photography permit&nbsp;</u><a href="https://www.nparks.gov.sg/request-to-film-on-location-form" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u>.</u>
+<p><u>Apply for a filming and photography permit&nbsp;</u><a href="https://form.gov.sg/6731a38e54682c7a2af65072" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u>.</u>
 </p>
 <p></p>
 <p><strong><u>Rules and Regulations</u></strong>
