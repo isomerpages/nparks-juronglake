@@ -36,7 +36,7 @@ and Water Lily Pavilion in Japanese Garden.</p>
 <br><em>The interior of the Multi-Purpose Hall shows the beauty and functionality of MET.</em>
 </p>
 <p></p>
-<h4><strong>Interactive&nbsp;Kiosk</strong></h4>
+<h4><strong>Interactive&nbsp;Kiosks</strong></h4>
 <p>Jurong Lake Gardens has brought technology into the Gardens through our
 Interactive Kiosks. The Interactive Kiosk is designed to provide visitors
 with their wayfinding needs. The kiosk directory showcases all the attractions
