@@ -17,7 +17,7 @@ sections:
           url: https://google.com
         - title: Play
           description: Fun for children and adults
-          url: https://gmail.com
+          url: /Play/
         - title: Dine
           description: Eateries and dining options
           url: ""
