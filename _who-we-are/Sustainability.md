@@ -54,7 +54,6 @@ recycles carbon dioxide by converting captured atmospheric carbon into
 a nanomineral that becomes permanently embedded in concrete structures.
 This improves the compressive strength of the concrete, while lowering
 carbon emissions during the construction process.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Carbon dioxide mineralised concrete" src="/images/Sustainability/Carbon_dioxide_mineralised_concrete.jpg">
 </div>
