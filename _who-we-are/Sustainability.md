@@ -33,4 +33,24 @@ algal blooms.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Clusia Clove Water Circulation" src="/images/Sustainability/Clusia_Cove_Water_Circulation_System.jpg">
 </div>
+<p>
+<br>At Japanese Garden, a smart water management system has been implemented,
+which includes a water pump and filtration system that utilises natural
+vegetation and soil microbes to clean and restore the water within the
+Water Lily Garden and the larger Japanese Garden. This is supported by
+a donation of S$1 million by Micron Technology, through the Garden City
+Fund, NParks’ registered charity and IPC.</p>
+<p></p>
+<h4><strong>Carbon dioxide mineralised concrete</strong></h4>
+<p>Nearly all the footpaths within the northern section of Lakeside Garden,
+as well as all the footpaths within Chinese and Japanese Gardens, are made
+of carbon dioxide mineralised concrete, which utilises a technology that
+recycles carbon dioxide by converting captured atmospheric carbon into
+a nanomineral that becomes permanently embedded in concrete structures.
+This improves the compressive strength of the concrete, while lowering
+carbon emissions during the construction process.</p>
+<p>
+<br>
+</p>
+<p></p>
 <p></p>
