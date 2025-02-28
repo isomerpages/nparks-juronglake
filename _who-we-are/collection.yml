@@ -1,0 +1,11 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - Jurong Lake Gardens.md
+      - Lakeside Gardens.md
+      - Chinese Gardens.md
+      - Japanese Garden.md
+      - Jurong Lake District.md
+      - Sustainability.md
+      - Smart Technology.md

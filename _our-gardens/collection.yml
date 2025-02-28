@@ -1,0 +1,40 @@
+collections:
+  our-gardens:
+    output: true
+    order:
+      - Our Gardens.md
+      - Lakeside Garden/.keep
+      - Lakeside Garden/ABC Waters @ Jurong Lake.md
+      - Lakeside Garden/ActiveSG Park @ Jurong Lake Gardens.md
+      - Lakeside Garden/Allotment Gardens.md
+      - Lakeside Garden/Alstonia Island & Freshwater Swamp Forest.md
+      - Lakeside Garden/Butterfly Maze.md
+      - Lakeside Garden/The Canyon.md
+      - Lakeside Garden/Clusia Cove.md
+      - Lakeside Garden/Dog Run.md
+      - Lakeside Garden/Ecopond.md
+      - Lakeside Garden/Entrance Pavilion.md
+      - Lakeside Garden/Floating Wetlands.md
+      - Lakeside Garden/Forest Ramble (Nature Playgarden).md
+      - Lakeside Garden/Gardenhouse.md
+      - Lakeside Garden/Grasslands.md
+      - Lakeside Garden/Heron Island.md
+      - Lakeside Garden/Lakeside Green.md
+      - Lakeside Garden/Lakeside House.md
+      - Lakeside Garden/Logs Trail.md
+      - Lakeside Garden/Neram Streams.md
+      - Lakeside Garden/PAssion Wave @ Jurong Lake Gardens.md
+      - Lakeside Garden/Rainforest Pavilion.md
+      - Lakeside Garden/Rasau Walk.md
+      - Lakeside Garden/Skatepark @ Lakeside Garden.md
+      - Lakeside Garden/Southern Promenade.md
+      - Lakeside Garden/Therapeutic Garden.md
+      - Chinese Garden/.keep
+      - Chinese Garden/Grand Arch.md
+      - Japanese Garden/.keep
+      - Japanese Garden/Breathing Gallery.md
+      - Japanese Garden/Floral Garden.md
+      - Japanese Garden/Resthouse.md
+      - Japanese Garden/Sunken Garden.md
+      - Japanese Garden/Water Lily Pavilion.md
+      - Japanese Garden/Water Lily Garden.md
