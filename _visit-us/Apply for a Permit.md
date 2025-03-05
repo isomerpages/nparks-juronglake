@@ -46,7 +46,8 @@ the proposed date of use.</p>
 <p></p>
 <p>Prior approval for filming and commercial photography in the Gardens is
 required. Casual photography sessions (such as family portraits and graduations)
-do not require submission.</p>
+do not require submission. Please do not set up any structures or props
+without the prior approval of NParks.</p>
 <p></p>
 <p><strong><u>For use of the Gardens for filming and photography, please submit an application by filling in the form&nbsp;</u><a href="https://form.gov.sg/6731a38e54682c7a2af65072" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u>.</u></strong>
 </p>
