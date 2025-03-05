@@ -6,6 +6,10 @@ description: Jurong, Lake, Gardens, Sunken, Garden
 third_nav_title: Japanese Garden
 ---
 <h3><strong>Nature's Hidden Oasis</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Japanese Garden/Sunken Garden/Sunken_Garden_4.jpg">
+</div>
 <p>This carefully crafted microclimate environment nurtures a diverse ecosystem
 of Bryophytes and Pteridophytes, while offering visitors a refreshing respite
 from tropical heat.</p>
