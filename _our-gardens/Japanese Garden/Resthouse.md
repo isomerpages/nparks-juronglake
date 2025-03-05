@@ -6,6 +6,10 @@ description: Jurong, Lake, Gardens, Resthouse
 third_nav_title: Japanese Garden
 ---
 <h3><strong>A Tranquil Vantage Point</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Japanese Garden/Resthouse/Resthouse_1.jpg">
+</div>
 <p>The Resthouse blends traditional Japanese architecture with modern sustainability,
 is a popular gathering spot which offers stunning views of the Japanese
 Garden pond on one side and the Freshwater Forest and Jurong Lake on the
