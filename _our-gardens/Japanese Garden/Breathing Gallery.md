@@ -6,6 +6,10 @@ description: Jurong, Lake, Gardens, Breathing, Gallery
 third_nav_title: Japanese Garden
 ---
 <h4><strong>An Artistic Blend of Terrariums, Paludariums, and Aquariums</strong><br></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Japanese Garden/Breathing Gallery/Breathing_Gallery_1.jpg">
+</div>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
