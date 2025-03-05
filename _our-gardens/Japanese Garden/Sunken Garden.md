@@ -5,6 +5,7 @@ variant: tiptap
 description: Jurong, Lake, Gardens, Sunken, Garden
 third_nav_title: Japanese Garden
 ---
+<h3><strong>Nature's Hidden Oasis</strong></h3>
 <p>This carefully crafted microclimate environment nurtures a diverse ecosystem
 of Bryophytes and Pteridophytes, while offering visitors a refreshing respite
 from tropical heat.</p>
