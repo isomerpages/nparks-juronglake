@@ -29,8 +29,8 @@ promising a multi-sensory adventure that delights both palate and spirit.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Weekdays (Mon – Fri): 10am to 10pm</p>
-<p>Weekends (Sat – Sun) &amp; Public Holidays: 9am to 10pm</p>
+<p>Weekdays (Mon – Fri): 11am to 10pm</p>
+<p>Weekends (Sat – Sun) &amp; Public Holidays: 8am to 10pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Japanese Garden, Sunken Garden</p>
