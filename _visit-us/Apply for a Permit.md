@@ -48,11 +48,15 @@ the proposed date of use.</p>
 required. Casual photography sessions (such as family portraits and graduations)
 do not require submission.</p>
 <p></p>
-<p>Applications have to be submitted at least 14 days prior to the proposed
-filming or photography dates.&nbsp;</p>
-<p></p>
 <p><strong><u>For use of the Gardens for filming and photography, please submit an application by filling in the form&nbsp;</u><a href="https://form.gov.sg/6731a38e54682c7a2af65072" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u>.</u></strong>
 </p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applications have to be submitted at least 14 days prior to the proposed
+filming or photography dates.&nbsp;</p>
+</li>
+</ul>
 <p></p>
 <p><strong><u>Rules and Regulations</u></strong>
 </p>
