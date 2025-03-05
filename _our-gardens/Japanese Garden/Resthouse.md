@@ -5,6 +5,7 @@ variant: tiptap
 description: Jurong, Lake, Gardens, Resthouse
 third_nav_title: Japanese Garden
 ---
+<h3><strong>A Tranquil Vantage Point</strong></h3>
 <p>The Resthouse blends traditional Japanese architecture with modern sustainability,
 is a popular gathering spot which offers stunning views of the Japanese
 Garden pond on one side and the Freshwater Forest and Jurong Lake on the
