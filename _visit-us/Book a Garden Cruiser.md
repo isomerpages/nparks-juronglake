@@ -5,6 +5,10 @@ variant: tiptap
 description: jurong, lake, gardens, garden, cruiser
 ---
 <h2>Glide through mesmerising pathways and enjoy the captivating scenery of our Gardens in style and comfort.</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Garden Cruiser/Garden_Cruiser_1__2_.jpg">
+</div>
 <p>Jurong Lake Gardens offers renting of the Garden Cruiser service to offer
 greater convenience and ease of commuting for visitors to the Gardens,
 especially those exploring the Gardens or attending events in groups with
