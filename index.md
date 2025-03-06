@@ -53,4 +53,14 @@ sections:
       url: /faces-of-jlg/
       image: /images/Faces of Jurong Lake Gardens/IMG_6095.jpg
       alt: Family photo at JLG
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Notices and Events
+      announcement_items:
+        - title: Temporary Closure of ________________________
+          date: 06 March 2025
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
