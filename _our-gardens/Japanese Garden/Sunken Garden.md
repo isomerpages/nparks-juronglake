@@ -20,3 +20,12 @@ species of epiphytes including rare orchids, ferns, and bromeliads.</p>
 <p>Experience the Sunken Garden as a living gallery, where the soothing symphony
 of water features harmonises with the lush beauty of moisture-loving flora.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Japanese Garden/Sunken Garden/Sunken_Garden_2.jpg">
+</div>
+<p>A moisture-laden moss wall built using Paras stone is animated by a series
+of water features.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Japanese Garden/Sunken Garden/Sunken_Garden_1.jpg">
+</div>
+<p>A cenote forms the centrepiece of the Sunken Garden</p>
