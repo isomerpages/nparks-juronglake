@@ -78,6 +78,8 @@ ice cream has a way of making life a little sweeter. And when savored in
 the embrace of nature, it becomes an unforgettable treat that warms the
 heart and soul.</p>
 <p></p>
+<p>By Irene Ngoo (October 2024)</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Ice Cream Man at Sunken Garden" src="/images/Faces of Jurong Lake Gardens/IMG_5113__1_.jpg">
 </div>
