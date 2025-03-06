@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: National Parks Board
+title: National Parks Board - Jurong Lake Gardens
 description: Jurong Lake Gardens is Singapore’s national gardens in the
   heartlands – a people’s garden, with spaces landscaped and created for
   families and the community to come together.
@@ -43,4 +43,14 @@ sections:
         together.
       button: Learn more
       url: /jurong-lake-gardens/
+  - infopic:
+      title: Faces of Jurong Lake Gardens
+      subtitle: Documentary
+      id: infopic
+      description: Be inspired with stories from people of all ages and cultures that
+        visit us here!
+      button: Read all about it
+      url: /faces-of-jlg/
+      image: /images/Faces of Jurong Lake Gardens/IMG_6095.jpg
+      alt: Image alt text
 ---
