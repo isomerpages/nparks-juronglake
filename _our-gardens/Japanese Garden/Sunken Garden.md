@@ -24,7 +24,7 @@ of water features harmonises with the lush beauty of moisture-loving flora.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Japanese Garden/Sunken Garden/Sunken_Garden_2.jpg">
 </div>
 <p>A moisture-laden moss wall built using Paras stone is animated by a series
-of water features.</p>
+of water features</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Japanese Garden/Sunken Garden/Sunken_Garden_1.jpg">
 </div>
