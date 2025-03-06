@@ -46,13 +46,18 @@ the proposed date of use.</p>
 <p></p>
 <p>Prior approval for filming and commercial photography in the Gardens is
 required. Casual photography sessions (such as family portraits and graduations)
-do not require submission.</p>
+do not require submission. Please do not set up any structures or props
+without the prior approval of NParks.</p>
 <p></p>
+<p><strong><u>For use of the Gardens for filming and photography, please submit an application by filling in the form&nbsp;</u><a href="https://form.gov.sg/6731a38e54682c7a2af65072" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u>.</u></strong>
+</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Applications have to be submitted at least 14 days prior to the proposed
 filming or photography dates.&nbsp;</p>
-<p></p>
-<p><u>Apply for a filming and photography permit&nbsp;</u><a href="https://form.gov.sg/6731a38e54682c7a2af65072" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u>.</u>
-</p>
+</li>
+</ul>
 <p></p>
 <p><strong><u>Rules and Regulations</u></strong>
 </p>
@@ -121,7 +126,9 @@ members can be downloaded <a href="https://www.nparks.gov.sg/-/media/nparks-real
 </div>
 </details>
 </div>
-<p>For venue and BBQ rental for private and corporate functions, please click<u> here.</u>
+<p>For venue and BBQ rental for private and corporate functions, please email
+<a href="mailto:nparks_jlg@eventbutler.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nparks_jlg@eventbutler.sg</u>
+</a><u>.</u>
 </p>
 <p>For guidance on additional e-services, including organising group activities
 or filming in other NParks green spaces, <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nparks.gov.sg%2Fservices%2Fparks-permits-and-applications&amp;data=05%7C01%7C%7C124a646d8cfb4a1c136008da26a64e01%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637864793017771876%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=x7fuxK8Y%2B0yOn03uu84kwveG6TQOWN1tcNtRsPGD5tU%3D&amp;reserved=0" rel="noopener noreferrer" target="_blank">visit our “E-Services” webpage here</a>.</p>

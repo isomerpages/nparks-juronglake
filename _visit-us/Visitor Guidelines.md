@@ -64,10 +64,13 @@ the <strong>Parks and Trees Regulations (Cap. 216, RG)</strong>, in particular:<
 <ul data-tight="true" class="tight">
 <li>
 <p>The use of picnic mats within common shared spaces such as shelters, pavilions
-and sun shades is discouraged as it creates an exclusivity setting and
-thus a disamenity to other visitors. Visitors are encouraged to picnic
-at open lawn areas around Jurong Lake or open fields such as Lakeside Green,
-Lakeside Field, Butterfly Field or The Oval.</p>
+and sunshades is discouraged as it creates an exclusivity setting and thus
+a disamenity to other visitors. Visitors are encouraged to picnic at open
+lawn areas around Jurong Lake or open fields such as Lakeside Green, Lakeside
+Field, Butterfly Field or The Oval.</p>
+</li>
+<li>
+<p>The use of studded footwear and setup of goalposts on our lawns is prohibited.&nbsp;</p>
 </li>
 <li>
 <p>Except for people with disabilities, Cycling, Riding and PMDs are not

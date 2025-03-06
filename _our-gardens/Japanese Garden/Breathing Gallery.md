@@ -6,6 +6,10 @@ description: Jurong, Lake, Gardens, Breathing, Gallery
 third_nav_title: Japanese Garden
 ---
 <h4><strong>An Artistic Blend of Terrariums, Paludariums, and Aquariums</strong><br></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Japanese Garden/Breathing Gallery/Breathing_Gallery_1.jpg">
+</div>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -43,6 +47,7 @@ Each offers a unique approach to underwater landscape design.</p>
 <summary><strong>Iwagumi Aquascape</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Iwagumi, a rock-based aquascaping style, is the essence of Japanese minimalism.
 Rooted in Zen philosophy, this technique creates tranquil underwater landscapes
 through precise stone placement. Each carefully positioned rock contributes
@@ -54,6 +59,7 @@ the spirit of Suiseki stone arrangement.</p>
 <summary><strong>Dutch Aquascape</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Dutch aquascaping, a style popular since the 30s that transforms tanks
 into thriving subaquatic gardens, emphasises on plant diversity, health,
 and strategic terracing – the layered look that this style is known for,
@@ -64,6 +70,7 @@ which creates a rich tapestry of plant colours and textures.</p>
 <summary><strong>Nature Aquascape</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>The Nature style, pioneered by Takashi Amano in the 90s, was inspired
 by the Japanese Wabi-Sabi aesthetics of embracing the beauty in imperfection.
 These aquascapes recreate breathtaking natural scenes in miniature and,
@@ -73,8 +80,12 @@ harmony.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Plant Arch: Capture the moment</strong>&nbsp;</summary>
+<summary><strong>Plant Arch: Capture the Moment</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Japanese Garden/Breathing Gallery/Breathing_Gallery_2.jpg">
+</div>
 <p>This installation is framed by a stunning plant arch adorned with exotic
 aroids, orchids, and air plants, illuminated by ambient lighting and set
 against the lush greenery, it's an ideal spot for capturing an Insta-worthy

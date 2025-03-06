@@ -5,13 +5,17 @@ variant: tiptap
 description: jurong, lake, gardens, garden, cruiser
 ---
 <h2>Glide through mesmerising pathways and enjoy the captivating scenery of our Gardens in style and comfort.</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Garden Cruiser/Garden_Cruiser_1__2_.jpg">
+</div>
 <p>Jurong Lake Gardens offers renting of the Garden Cruiser service to offer
 greater convenience and ease of commuting for visitors to the Gardens,
 especially those exploring the Gardens or attending events in groups with
 elderly and young children.</p>
 <p>This service was suggested by the public during our extensive public consultation
 held from 2015 to 2018 for the redevelopment of the Gardens. Booking can
-be done by contacting Jurong Lake Gardens at <a href="mailto:juronglakegardens@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juronglakegardens@nparks.gov.sg</a>,
+be done by contacting Jurong Lake Gardens at <a href="mailto:nparks_jlg@eventbutler.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nparks_jlg@eventbutler.sg</u></a>,
 at least one month in advance and will be charged at $95 for the first
 hour and $75 for subsequent hourly hire. The Garden Cruiser will be driven
 by trained visitor services officers with a valid driver’s licence.</p>

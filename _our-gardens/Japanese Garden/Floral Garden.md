@@ -5,6 +5,11 @@ variant: tiptap
 description: Jurong, Lake, Gardens, Floral, Garden
 third_nav_title: Japanese Garden
 ---
+<h3><strong>Where Art Meets Learning</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Japanese Garden/Floral Garden/Floral_Garden_2.jpg">
+</div>
 <p>Located at the southern entrance, Floral Garden showcases innovative garden
 artistry through curated displays. Inspired by the design principles of
 traditional Japanese gardens, it features rocks, bamboos, and ornamental
