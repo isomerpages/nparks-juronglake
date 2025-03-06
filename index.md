@@ -56,7 +56,7 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Notices and Events
+      subtitle: Events, News and Notices
       announcement_items:
         - title: Temporary Closure of ________________________
           date: 06 March 2025
