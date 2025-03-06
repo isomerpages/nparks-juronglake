@@ -24,6 +24,11 @@ next ice cream kiosk in November 2022, near the Jacob Ballas Children’s
 Garden - a joyful playground for both children and parents. . “My partner
 and I have always dreamed of running an ice cream kiosk in a garden setting,
 and we are incredibly thankful to NParks for this opportunity.”&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ice Cream Man at Sunken Garden" src="/images/Faces of Jurong Lake Gardens/IMG_5083___Ice_Cream_Man.jpg">
+</div>
+<p></p>
 <p>Their latest outlet is nestled in the stunning Sunken Garden of the rejuvenated
 Japanese Garden in Jurong Lake Garden. Here, Su How and his staff serve&nbsp;artisanal
 ice cream from a selection of 20 flavors, set against a serene backdrop
@@ -65,6 +70,9 @@ ice cream has a way of making life a little sweeter. And when savored in
 the embrace of nature, it becomes an unforgettable treat that warms the
 heart and soul.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Ice Cream Man at Sunken Garden" src="/images/Faces of Jurong Lake Gardens/IMG_5113__1_.jpg">
+</div>
 <p><strong>Ice-cream Man and Friends</strong>
 </p>
 <p>Where: Sunken Garden, Japanese Garden</p>
