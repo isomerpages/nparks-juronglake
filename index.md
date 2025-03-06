@@ -52,5 +52,5 @@ sections:
       button: Read all about it
       url: /faces-of-jlg/
       image: /images/Faces of Jurong Lake Gardens/IMG_6095.jpg
-      alt: Image alt text
+      alt: Family photo at JLG
 ---
