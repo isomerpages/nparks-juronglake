@@ -22,6 +22,10 @@ a day out to Spring Lake, now a distant memory for the older generations,
 meant more than just fishing; it was a day of connection, not only with
 the gentle rhythms of nature but also with his family.&nbsp;"Those were
 simple, idyllic days,” he adds, with a tinge of nostalgia.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Eric Yip" src="/images/People of Jurong Lake Gardens/IMG_5071___Eric_Yip.jpg">
+</div>
 <p>Pointing to where the pond once was, while taking a break from his mid-day
 jog near the Floral Garden in the revitalised Japanese Garden, Mr. Yip
 reminisces: “It was at the other end of Jurong, but it was a popular spot
