@@ -1,4 +1,5 @@
 collections:
   faces-of-jurong-lake-gardens:
     output: true
-    order: []
+    order:
+      - Faces of Jurong Lake Gardens.md
