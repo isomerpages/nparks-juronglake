@@ -13,9 +13,10 @@ third_nav_title: Lakeside Garden
 with butterflies. Unlike a traditional hedge maze, children will find themselves
 traversing an open landscape with changing views as they climb up and down
 the mounds in search of a way out. Young adventurers will enjoy themselves
-exploring the maze, discovering surprises and hidden treasure along the
-way. This includes quiet corners, rest areas, slides and signs throughout
-the maze for children to learn about pollination and the lifecycle of butterflies.</p>
+exploring the maze, discovering surprises and hidden treasures along the
+way. This includes quiet corners, rest areas, slides and informative signs
+throughout the maze for children to learn about pollination and the lifecycle
+of butterflies.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Map - Therapeutic Garden and Butterfly Maze" src="/images/Lakeside Garden/Butterfly Maze/High_res_TG___BM_Map.png">
@@ -27,8 +28,6 @@ horticulture programmes for children.</p>
 <p></p>
 <p><em>Visitors are not encouraged to enter the Butterfly Maze from 7pm - 7am as the lighting conditions are dim.</em>
 </p>
-<p></p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Butterfly Maze" src="/images/Lakeside Garden/Butterfly Maze/Butterfly_Maze_1.jpg">
