@@ -36,6 +36,14 @@ of cascading bubbling water and flourishing mossy walls adorned with a
 variety of epiphytes, orchids, aroids, and ferns.&nbsp;</p>
 <p>Su How says there’s a certain magic about ice cream that transcends age,
 uniting the wide-eyed wonder of children with the nostalgic hearts of adults.</p>
+<p></p>
+<blockquote>
+<p>For kids, ice cream is not just a treat; it’s an experience filled with
+excitement and choice. The thrill of selecting sprinkles, the joy of licking
+a melting scoop, and the refreshing chill on a warm day create memorable
+moments that last a lifetime</p>
+<p></p>
+</blockquote>
 <p>For children, the allure of ice cream is irresistible. Just picture the
 excitement on a child's face as they step up to a colorful ice cream truck,
 each flavor more enticing than the last - from bright bubblegum pink to
