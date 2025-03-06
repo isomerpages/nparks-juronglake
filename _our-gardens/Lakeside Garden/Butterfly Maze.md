@@ -14,7 +14,7 @@ with butterflies. Unlike a traditional hedge maze, children will find themselves
 traversing an open landscape with changing views as they climb up and down
 the mounds in search of a way out. Young adventurers will enjoy themselves
 exploring the maze, discovering surprises and hidden treasures along the
-way. This includes quiet corners, rest areas, slides and informative signs
+way. This includes quiet corners, rest areas, slides, and informative signs
 throughout the maze for children to learn about pollination and the lifecycle
 of butterflies.</p>
 <p></p>
