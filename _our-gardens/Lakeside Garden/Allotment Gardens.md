@@ -6,8 +6,7 @@ description: ""
 third_nav_title: Lakeside Garden
 ---
 <p></p>
-<p><strong><em>A space for your own garden and greens. Get your green fingers to work now!</em></strong>
-</p>
+<h4><strong><em>A space for your own garden and greens. Get your green fingers to work!</em></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Allotment Garden" src="/images/Lakeside Garden/Allotment Garden/Allotment_Gardens_Banner.jpg">
