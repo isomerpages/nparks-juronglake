@@ -97,6 +97,10 @@ more information.</p>
 <summary><strong>Dog Run</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lakeside Garden/Dog Run/Dog_run.jpg">
+</div>
 <p>Daily from 8am to 10pm</p>
 </div>
 </details>
