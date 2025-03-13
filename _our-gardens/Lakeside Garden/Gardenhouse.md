@@ -28,9 +28,9 @@ and crafts for children.</p>
 <p></p>
 <p>All the halls and rooms are also available for rental to organise events
 like weddings, birthday parties, or corporate functions. Hold an unforgettable
-event in Jurong Lake Gardens today! Find out more about our venues by visiting
-the link below:</p>
-<p><a href="https://juronglakegardens.nparks.gov.sg/book-a-venue/" rel="noopener noreferrer nofollow" target="_blank">https://juronglakegardens.nparks.gov.sg/book-a-venue/</a>
+event in Jurong Lake Gardens today!</p>
+<p>Find out more about our venues by visiting the link below:
+<br><a href="https://juronglakegardens.nparks.gov.sg/book-a-venue/" rel="noopener noreferrer nofollow" target="_blank">https://juronglakegardens.nparks.gov.sg/book-a-venue/</a>
 </p>
 <p></p>
 <h4>Venues at Gardenhouse</h4>
