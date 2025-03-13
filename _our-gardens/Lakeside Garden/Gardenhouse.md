@@ -43,7 +43,7 @@ event in Jurong Lake Gardens today! Find out more about our venues <a href="http
 <img style="width: 100%" height="auto" width="100%" alt="Mempat Hall" src="/images/Lakeside Garden/Gardenhouse/Mempat_Hall.jpg">
 </div>
 <p></p>
-<p><strong>Neram Room &amp; Saraca Room</strong>
+<p><strong>Neram &amp; Saraca Rooms</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Neram &amp; Saraca Room" src="/images/Lakeside Garden/Gardenhouse/Neram_N_Saraca_Room.jpg">
