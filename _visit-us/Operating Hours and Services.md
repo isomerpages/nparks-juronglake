@@ -36,6 +36,9 @@ description: ""
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lakeside Garden/ActiveSG Park/ActiveSG_Park.jpg">
+</div>
 <p><u>Swimming Pool</u>
 </p>
 <ul data-tight="true" class="tight">
@@ -75,6 +78,10 @@ more information.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lakeside Garden/Clusia Cove/Clusia_Cove_NParks_2.jpg">
+</div>
 <p>Tuesday* to Sunday &amp; Public Holidays from 8am to 7pm&nbsp;</p>
 </li>
 <li>
@@ -90,6 +97,10 @@ more information.</p>
 <summary><strong>Dog Run</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lakeside Garden/Dog Run/Dog_run.jpg">
+</div>
 <p>Daily from 8am to 10pm</p>
 </div>
 </details>
@@ -348,6 +359,7 @@ and Cascade Pavilion.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

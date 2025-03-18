@@ -33,8 +33,8 @@ a feast for the senses.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sun – Thu &amp; P.H. : 8am to 8pm</p>
-<p>Fri – Sat, Eve of P.H. : 8am to 9pm</p>
+<p>Mon – Thu: 9am to 9pm</p>
+<p>Fri – Sun, P.H. and eve of P.H.: 9am to 10pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Garden, Pagoda Plaza</p>
