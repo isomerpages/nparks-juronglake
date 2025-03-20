@@ -4,7 +4,7 @@ permalink: /lakeside-gardens/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h2><strong>Enjoy Nature, Greenery and Lakeside Views</strong></h2>
 <p></p>
 <p>Lakeside Garden is the 60-hectare western section of the Jurong Lake Gardens.
 Visitors can now enjoy the first phase of Singapore’s third national gardens,
