@@ -4,12 +4,14 @@ permalink: /japanese-garden/
 variant: tiptap
 description: ""
 ---
-<p>There will be floral and aquatic gardens to showcase the colours of the
-tropics. A section of the Japanese Garden will be enhanced with a layer
-of tropical flora. Mature trees, including the Cycads planted by Japanese
-Emperor Akihito and Empress Michiko in 1970, will form part of the enhanced
-landscape. New bridges to the north and east of the island provide greater
-connectivity within the Gardens as well as to the greater Jurong Lake District.&nbsp;</p>
+<p></p>
+<p>Featuring floral and aquatic gardens, the rejuvenated Japanese Garden
+interweaves greenery with waterscapes, showcasing the colours and textures
+of our tropical flora, with elements of Japanese garden design and landscape.</p>
+<p>Mature trees, including the Cycads planted by Japanese Emperor Akihito
+and Empress Michiko in 1970, form part of the enhanced landscape. New bridges
+to the north and east of the island provide greater connectivity within
+the Gardens as well as to the greater Jurong Lake District.&nbsp;</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -29,7 +31,7 @@ connectivity within the Gardens as well as to the greater Jurong Lake District.&
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Vertical Epiphyte Walls Embrace Cave-inspired Water Feature Centrepiece" src="/images/Who We Are/Japanese Garden/Cenote.jpg">
 </div>
-<p><em>&nbsp;Vertical Epiphyte Walls Embrace Cave-inspired Water Feature Centrepiece</em>
+<p><em>Vertical Epiphyte Walls Embrace Cave-inspired Water Feature Centrepiece</em>
 </p>
 <p></p>
 <p></p>
