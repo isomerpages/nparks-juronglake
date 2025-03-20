@@ -4,7 +4,7 @@ permalink: /japanese-garden/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h2>Greenery with waterscapes</h2>
 <p>Featuring floral and aquatic gardens, the rejuvenated Japanese Garden
 interweaves greenery with waterscapes, showcasing the colours and textures
 of our tropical flora, with elements of Japanese garden design and landscape.</p>
