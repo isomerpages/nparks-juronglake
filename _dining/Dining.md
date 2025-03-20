@@ -26,7 +26,7 @@ of the eateries!</p>
 <p>Fusion Spoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>At Eco Pond</p>
+<p>Eco Pond</p>
 </td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ of the eateries!</p>
 <p>Starbucks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>At Lakeside House</p>
+<p>Lakeside House</p>
 </td>
 </tr>
 </tbody>
@@ -56,7 +56,7 @@ of the eateries!</p>
 <p>Canopy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>At Grand Arch</p>
+<p>Grand Arch</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ of the eateries!</p>
 <p>Eden</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>At Pagoda Plaza</p>
+<p>Pagoda Plaza</p>
 </td>
 </tr>
 </tbody>
@@ -86,7 +86,7 @@ of the eateries!</p>
 <p>Ice Cream Man and Friends</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>At Sunken Garden</p>
+<p>Sunken Garden</p>
 </td>
 </tr>
 </tbody>
