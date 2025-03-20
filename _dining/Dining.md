@@ -26,7 +26,7 @@ of the eateries!</p>
 <p>Fusion Spoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Located at the Eco Pond</p>
+<p>At Eco Pond</p>
 </td>
 </tr>
 <tr>
