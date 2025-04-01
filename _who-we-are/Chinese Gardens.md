@@ -4,6 +4,7 @@ permalink: /chinese-gardens/
 variant: tiptap
 description: ""
 ---
+<h2><strong>Inspired by culture</strong></h2>
 <p>The rejuvenated Chinese Garden is where old meets the new, with familiar
 cultural landmarks that hold special memories, complemented by new attractions
 and diverse greenery.</p>

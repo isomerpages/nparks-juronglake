@@ -4,14 +4,10 @@ permalink: /dining/
 variant: tiptap
 description: ""
 ---
-<p>Jurong Lake Gardens offers a variety of dining options!
+<h3>Jurong Lake Gardens offers a variety of dining options!</h3>
+<p>
 <br>Planning a trip to the gardens? Check out the list below for the locations
 of the eateries!</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dining at Eco Pond" src="/images/Dine/Fusion_Spoon.jpg">
-</div>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -19,16 +15,6 @@ of the eateries!</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tenant</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Location</strong>
-</p>
-</td>
-</tr>
 <tr>
 <th rowspan="1" colspan="2">
 <p><strong>Lakeside Garden</strong>
@@ -40,7 +26,7 @@ of the eateries!</p>
 <p>Fusion Spoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>At the Eco Pond</p>
+<p>Eco Pond</p>
 </td>
 </tr>
 <tr>
@@ -48,9 +34,18 @@ of the eateries!</p>
 <p>Starbucks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Near Floating Wetlands</p>
+<p>Lakeside House</p>
 </td>
 </tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <th rowspan="1" colspan="2">
 <p>Chinese Garden</p>
@@ -61,7 +56,7 @@ of the eateries!</p>
 <p>Canopy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>At Grand Arch</p>
+<p>Grand Arch</p>
 </td>
 </tr>
 <tr>
@@ -69,9 +64,18 @@ of the eateries!</p>
 <p>Eden</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>At Pagoda Plaza</p>
+<p>Pagoda Plaza</p>
 </td>
 </tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <th rowspan="1" colspan="2">
 <p>Japanese Garden</p>
@@ -82,11 +86,9 @@ of the eateries!</p>
 <p>Ice Cream Man and Friends</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>At Sunken Garden</p>
+<p>Sunken Garden</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
