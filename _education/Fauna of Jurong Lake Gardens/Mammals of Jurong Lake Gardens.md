@@ -315,16 +315,89 @@ it mainly uses vision and scent to locate food sources.</p>
 <summary><strong>Long-tailed Macaque</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Macaca_20fascicularis_Long_tailed_20macaque_Li_Tianjiao.jpg">
 </div>
+<p><em>Photo: Li Tianjiao</em>
+</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Scientific name:</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<em>Macaca fascicularis</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Common name:</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Long-tailed Macaque</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Family:</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Cercopithecidea</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>Adults are generally the size of a small child at 45 cm from head to feet.
+They have long arms and legs, and a tail that is longer than their body.
+Their upperparts are olive brown and underparts are much paler. They have
+distinctive white eyelids and a greyish face.</p>
 <p></p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>Long-tailed Macaques are omnivores that feed on both plants and animals,
+serving the important ecological role of dispersing seeds of plants in
+our nature reserves and nature areas.&nbsp;</p>
+<p></p>
+<p>They are highly intelligent animals that mainly live in trees but also
+forage on the ground. They live in troops with both males and females with
+a clear dominance hierarchy (social ranking).</p>
+<p></p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>Long-tailed Macaques are the most commonly seen monkeys in Singapore with
+about 1,500 individuals in the Central Catchment Nature Reserve and other
+parks, as well as on offshore islands such as Pulau Ubin.&nbsp;</p>
+<p></p>
+<p>They are also found in neighbouring regions like southern Indochina, Myanmar,
+western Indonesia, Philippines and the Nicobar Islands.</p>
+<p></p>
+<p><strong>Did you know?</strong>
+</p>
+<p>Feeding the macaques alters their natural behaviour and makes them reliant
+on humans for food. This eventually leads to the display of aggressive
+behaviour by the macaques such as grabbing plastic bags and food containers
+from people.</p>
+<p></p>
+<p>Human food can also cause upset stomachs in macaques and have a negative
+impact on their health. Instead, we should let macaques forage for their
+natural food in our rainforests, which would also help our forests regenerate.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p><em>Banner: Smooth-coated Otter (Lutrogale perspicillata) <br>Photo: Jeremy Yeo Wei Liang</em>
 </p>
 <p></p>
