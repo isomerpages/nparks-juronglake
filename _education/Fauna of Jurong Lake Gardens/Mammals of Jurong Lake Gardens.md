@@ -42,7 +42,6 @@ spot at Jurong Lake Gardens!</p>
 <summary><strong>Plantain Squirrel</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/27_Ong_Chwee_Sia_IMG_1952_resized.jpg">
 </div>
@@ -104,7 +103,6 @@ and vocalisations such as mating calls or anti-predator alerts, which are
 often mistaken for bird calls. They have different calls for different
 predators.</p>
 <p></p>
-<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>They are common residents of our parks, gardens, mangroves and secondary
@@ -124,6 +122,109 @@ the Slender Squirrel and the Shrew-faced Ground Squirrel.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/2018_Otters_4818_cropped.jpg">
+</div>
+<p><em>Photo: Kathleen Yap</em>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Lutrogale perspicillata</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Smooth-coated Otter</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mustelidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>Named after its short, smooth and sleek fur, Smooth-coated Otters are
+the larger of two otter species found in Singapore (the other being the
+Asian Small-clawed Otter, <em>Aonyx cinerea</em>), growing up to 1.2 m in
+body length.</p>
+<p></p>
+<p>Its upperparts are greyish brown and its undersides are yellowish beige.
+It has a streamlined body adapted for swimming and fully webbed feet with
+prominent claws for catching prey.</p>
+<p></p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>The<strong> </strong>Smooth-coated Otter’s main diet is fish, such as
+tilapia and catfish, but they also feed on frogs, crabs, birds and small
+rodents.</p>
+<p></p>
+<p>They are highly social animals that form family groups consisting of a
+monogamous mating pair and their pups. They have the potential to breed
+year-round, provided food and suitable habitats are available. While baby
+otters look extremely adorable, it is best to admire them from a distance
+as the mothers are very protective of their young, like all other wild
+animals.</p>
+<p></p>
+<p>Pups are born blind in hidden burrows and open their eyes after 10 days.
+They are taught to forage and swim in a few months and will stay with their
+parents for at least a year. Their average lifespan is about 10 years.</p>
+<p></p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>Being semi-aquatic, they require both terrestrial and aquatic (usually
+freshwater) habitats to survive. Successful efforts in cleaning up our
+waterways have expanded their range from coastal mangroves to rivers, reservoirs
+and urban spaces on land.</p>
+<p></p>
+<p>They can regularly be seen at Marina Bay, Pasir Ris Park, Sungei Buloh
+Wetland Reserve and Jurong Lake Gardens.&nbsp;Smooth-coated Otters are
+widely distributed in Pakistan, India, south China, the Malay Peninsula,
+Sumatra, Borneo and Java.</p>
+<p></p>
+<p></p>
+<p><strong>Did you know?</strong>
+</p>
+<p>A family of about 15-16 otters frequents the waters of Jurong Lake Gardens.
+Otters are territorial between groups and will defend their space by marking
+areas on land with their spraint (otter poop, characterised by a distinct
+fishy smell and greenish brown jelly-like appearance).</p>
+<p></p>
+<p><strong>Conservation Status</strong>
+</p>
+<p>It is listed as Critically Endangered in the Singapore Red Data Book (2008).
+Threats that the otters face in Singapore include car traffic in urban
+areas and interactions with humans.</p>
+<p></p>
+<p>Additionally,&nbsp;It is a protected species in many countries, being
+listed as Vulnerable by the IUCN and offered the highest protection level
+in international trade by being up listed to CITES Appendix I.</p>
 </div>
 </details>
 <details class="isomer-details">
