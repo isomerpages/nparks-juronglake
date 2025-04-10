@@ -231,7 +231,84 @@ in international trade by being up listed to CITES Appendix I.</p>
 <summary><strong>Common Fruit Bat</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Cynopterus_20brachyotis_Common_20fruit_20bat_Daniel_20Ng.jpg">
+</div>
+<p><em>Photo: Daniel Ng</em>
+</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Cynopterus brachyotis</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Common Fruit Bat, Lesser Dog-faced Fruit Bat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pteropodidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>The Common Fruit Bat has a dog-like face with a long muzzle and large
+eyes. It is about 7 cm from head to feet, making it one of the largest
+bat species in Singapore. It is brown in colour and has a reddish (male)
+or yellowish (female) collar. Their ears and wing bones have distinct white
+edges.</p>
+<p></p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>These nocturnal creatures feed on nectar and fruits. They tend to roost
+in small groups in shaded areas during the day.</p>
+<p></p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>They are found in both forest and urban habitats, in buildings, trees,
+palms and under leaves (e.g. banana leaves) during the day. They are widespread
+and common in Singapore.</p>
+<p></p>
+<p>They are distributed in Sri Lanka, Myanmar, South China, Indochina, the
+Philippines, Malaysia and western Indonesia.</p>
+<p></p>
+<p><strong>Did you know?</strong>
+</p>
+<p>Bats are divided into two main groups, megabats and microbats. Common
+Fruit Bats are megabats which are mainly fruit and nectar feeders. Microbats
+are much smaller in size and eat mostly insects and other small animals.</p>
+<p></p>
+<p>Bats are specially adapted to navigate using sound with a technique called
+echolocation. They emit ultrasonic sound waves from their mouths or noses
+which bounce off objects and prey as echoes, indicating their location.
+However, the Common Fruit Bat’s echolocation abilities are limited and
+it mainly uses vision and scent to locate food sources.</p>
 </div>
 </details>
 <details class="isomer-details">
