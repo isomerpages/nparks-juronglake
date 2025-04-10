@@ -43,6 +43,80 @@ spot at Jurong Lake Gardens!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/27_Ong_Chwee_Sia_IMG_1952_resized.jpg">
+</div>
+<p><em>Photo: Ong Chwee Sia</em>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<em>Callosciurus notatus</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Plantain Squirrel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Sciuridae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>Plantain Squirrels are one of the most common native mammals in Singapore,
+alongside the Long-tailed Macaque. They have an orange belly with black
+and white stripes on their sides, which differentiates them from the less
+common Slender Squirrel.</p>
+<p></p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They mainly eat fruits and leaves, but will jump at the chance to have
+insects and bird eggs when available. They communicate via tail movements
+and vocalisations such as mating calls or anti-predator alerts, which are
+often mistaken for bird calls. They have different calls for different
+predators.</p>
+<p></p>
+<p></p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>They are common residents of our parks, gardens, mangroves and secondary
+forests. They are important seed dispersers in our forests and also serve
+as a food source for predators such as snakes and eagles.&nbsp;Their range
+stretches from southern Thailand across the Malay Peninsula to the islands
+of Borneo, Java and Sumatra.</p>
+<p></p>
+<p><strong>Did you know?</strong>
+</p>
+<p>There are two other native species of non-flying squirrels in Singapore:
+the Slender Squirrel and the Shrew-faced Ground Squirrel.</p>
 </div>
 </details>
 <details class="isomer-details">
