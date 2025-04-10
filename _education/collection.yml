@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Fauna of Jurong Lake Gardens/.keep
-      - Fauna of Jurong Lake Gardens.md
       - Guided Tours.md
       - Learning Resources.md
