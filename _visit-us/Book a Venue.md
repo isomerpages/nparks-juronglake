@@ -590,6 +590,10 @@ the following time-blocks:</p>
 <details class="isomer-details">
 <summary>Guesthouse</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Guesthouse/Guesthouse_Internal.jpg">
+</div>
 <p>This elegant Guesthouse, crafted from sustainable timber, provides a spacious
 setting for events and gatherings amidst tranquil ponds and garden views.</p>
 <table style="minWidth: 50px">
