@@ -898,10 +898,10 @@ a perfect spot to unwind.</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$3,200</p>
+<p>$800</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$4,000</p>
+<p>$1,80000</p>
 </td>
 </tr>
 <tr>
@@ -909,10 +909,10 @@ a perfect spot to unwind.</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,280</p>
+<p>$320</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,600</p>
+<p>$400</p>
 </td>
 </tr>
 <tr>
@@ -920,10 +920,10 @@ a perfect spot to unwind.</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$320</p>
+<p>$80</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$100</p>
 </td>
 </tr>
 </tbody>
