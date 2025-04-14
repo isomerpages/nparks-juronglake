@@ -711,7 +711,7 @@ setting for events and gatherings amidst tranquil ponds and garden views.</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$3,200</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$4,000</p>
@@ -722,10 +722,10 @@ setting for events and gatherings amidst tranquil ponds and garden views.</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$1,280</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$1,600</p>
 </td>
 </tr>
 <tr>
