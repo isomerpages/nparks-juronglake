@@ -1616,6 +1616,10 @@ the following time-blocks:</p>
 <details class="isomer-details">
 <summary>Wave Plaza</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Wave Plaza/Wave_plaza.jpg">
+</div>
 <p>Wave Plaza is located near the PAssion Wave and gives the view of the
 Twin Pagoda located in Chinese Garden. With a stage and seating area, it
 is a perfect location for performance, carnivals and more!</p>
@@ -2297,5 +2301,7 @@ the following time-blocks:</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
