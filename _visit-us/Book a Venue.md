@@ -1008,7 +1008,6 @@ ponds and blooming water lilies in the Water Lily Garden.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Toilets (Male, Female and Handicap)</p>
