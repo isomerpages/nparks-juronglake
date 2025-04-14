@@ -858,10 +858,10 @@ a perfect spot to unwind.</p>
 <p>Seminars</p>
 </li>
 <li>
-<p>Wedding</p>
+<p>Birthday Parties</p>
 </li>
 <li>
-<p>Community Events</p>
+<p>Team Building</p>
 </li>
 </ul>
 </td>
