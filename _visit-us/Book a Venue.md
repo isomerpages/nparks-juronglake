@@ -624,6 +624,7 @@ walk and Grasslands!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dining: 500 pax</p>
+<p>Conference: 1,000 pax</p>
 </td>
 </tr>
 <tr>
