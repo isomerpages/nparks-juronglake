@@ -733,10 +733,10 @@ setting for events and gatherings amidst tranquil ponds and garden views.</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$320</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$400</p>
 </td>
 </tr>
 </tbody>
