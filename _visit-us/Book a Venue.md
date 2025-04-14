@@ -828,7 +828,23 @@ a perfect spot to unwind.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Air-conditioning</p>
+</li>
+<li>
+<p>Audio System and 1 Wireless Microphone</p>
+</li>
+<li>
+<p>In-Built Projector</p>
+</li>
+<li>
+<p>Projector Screen</p>
+</li>
+<li>
+<p>Toilets (Male, Female and Handicap)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
