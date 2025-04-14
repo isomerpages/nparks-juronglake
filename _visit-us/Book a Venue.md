@@ -779,7 +779,7 @@ the following time-blocks:</p>
 <p>This elegant glass-enclosed pavilion offers a tranquil indoor retreat
 with panoramic views of the shimmering pond and lush surroundings, providing
 a perfect spot to unwind.</p>
-<p>rfect spot to unwind.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -801,7 +801,7 @@ a perfect spot to unwind.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1,700 sqm</p>
+<p>250 sqm</p>
 </td>
 </tr>
 <tr>
@@ -810,8 +810,7 @@ a perfect spot to unwind.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dining: 500 pax</p>
-<p>Conference: 1,000 pax</p>
+<p>125 pax</p>
 </td>
 </tr>
 <tr>
@@ -829,23 +828,7 @@ a perfect spot to unwind.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Passive Displacement Cooling System (PDC)</p>
-</li>
-<li>
-<p>Audio System and 4 Wireless Microphones</p>
-</li>
-<li>
-<p>Lighting System (ChamSys QuickQ 10)</p>
-</li>
-<li>
-<p>2 Changing Rooms with Toilet</p>
-</li>
-<li>
-<p>Toilets (Male, Female and Handicap)</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
