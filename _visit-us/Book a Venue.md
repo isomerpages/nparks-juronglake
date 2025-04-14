@@ -772,8 +772,10 @@ the following time-blocks:</p>
 <details class="isomer-details">
 <summary>Guest Pavilion</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This elegant Guesthouse, crafted from sustainable timber, provides a spacious
-setting for events and gatherings amidst tranquil ponds and garden views.</p>
+<p>This elegant glass-enclosed pavilion offers a tranquil indoor retreat
+with panoramic views of the shimmering pond and lush surroundings, providing
+a perfect spot to unwind.</p>
+<p>rfect spot to unwind.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
