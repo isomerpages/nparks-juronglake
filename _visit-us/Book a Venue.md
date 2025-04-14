@@ -614,7 +614,7 @@ walk and Grasslands!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 sqm</p>
+<p>1,700 sqm</p>
 </td>
 </tr>
 <tr>
@@ -623,7 +623,7 @@ walk and Grasslands!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 pax</p>
+<p>Dining: 500 pax</p>
 </td>
 </tr>
 <tr>
