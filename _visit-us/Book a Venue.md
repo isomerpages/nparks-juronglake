@@ -590,9 +590,8 @@ the following time-blocks:</p>
 <details class="isomer-details">
 <summary>Guesthouse</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Neram Room is an indoor event venue located at Gardenhouse. The room overlooks
-the greenery of the garden and is situated right next to the scenic Rasau
-walk and Grasslands!</p>
+<p>This elegant Guesthouse, crafted from sustainable timber, provides a spacious
+setting for events and gatherings amidst tranquil ponds and garden views.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -644,22 +643,7 @@ walk and Grasslands!</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Air-condition</p>
-</li>
-<li>
-<p>Projector and Projector Screen</p>
-</li>
-<li>
-<p>Nursing Room and Toilets (Male, Female and Handicap)</p>
-</li>
-<li>
-<p>AV system</p>
-</li>
-<li>
-<p>8 rectangular tables</p>
-</li>
-<li>
-<p>30 chairs</p>
+<p>Passive Displacement Cooling System (PDC)</p>
 </li>
 </ul>
 </td>
