@@ -403,6 +403,11 @@ the following time-blocks:</p>
 <details class="isomer-details">
 <summary>Neram Room</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Neram Room/Neram_Room.png">
+</div>
 <p>Neram Room is an indoor event venue located at Gardenhouse. The room overlooks
 the greenery of the garden and is situated right next to the scenic Rasau
 walk and Grasslands!</p>
