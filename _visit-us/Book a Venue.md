@@ -655,7 +655,7 @@ setting for events and gatherings amidst tranquil ponds and garden views.</p>
 <p>2 Changing Rooms with Toilet</p>
 </li>
 <li>
-<p>Toilets</p>
+<p>Toilets (Male, Female and Handicap)</p>
 </li>
 </ul>
 </td>
@@ -668,19 +668,13 @@ setting for events and gatherings amidst tranquil ponds and garden views.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Meeting</p>
+<p>Seminars</p>
 </li>
 <li>
-<p>Workshop / Seminar / Staff Retreat</p>
+<p>Wedding</p>
 </li>
 <li>
-<p>Formal / Corporate Dining</p>
-</li>
-<li>
-<p>Team Building</p>
-</li>
-<li>
-<p>Birthday Party</p>
+<p>Community Events</p>
 </li>
 </ul>
 </td>
@@ -720,7 +714,7 @@ setting for events and gatherings amidst tranquil ponds and garden views.</p>
 <p>$400</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$500</p>
+<p>$4,000</p>
 </td>
 </tr>
 <tr>
