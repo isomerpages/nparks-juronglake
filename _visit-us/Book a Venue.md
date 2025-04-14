@@ -599,6 +599,12 @@ the following time-blocks:</p>
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Water Lily Pavilion</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <h3>Outdoor Venues</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
