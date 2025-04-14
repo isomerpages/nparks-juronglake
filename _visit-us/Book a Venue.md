@@ -1603,5 +1603,11 @@ the following time-blocks:</p>
 </p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Ficus Lawn</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
