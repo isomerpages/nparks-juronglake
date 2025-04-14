@@ -955,11 +955,12 @@ the following time-blocks:</p>
 <details class="isomer-details">
 <summary>Water Lily Pavilion</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Water Lily Pavilion/Water_lily_Pavilion_Internal.jpg">
+</div>
 <p></p>
 <p>The Water Lily Pavilion provides a peaceful shelter to admire terraced
 ponds and blooming water lilies in the Water Lily Garden.</p>
-<p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
