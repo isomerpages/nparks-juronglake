@@ -1207,6 +1207,10 @@ and Passion Wave, which provide fun activities for people of all ages.</p>
 <details class="isomer-details">
 <summary>Butterfly Field</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Butterfly Field/Butterfly_Field.png">
+</div>
 <p>Located in the heart of Jurong Lake Gardens, Butterfly Field is within
 the vicinity of popular attractions such as Forest Ramble (Playground)
 and Logs Trail. This lawn is a popular spot for outdoor events such as
@@ -2301,6 +2305,8 @@ the following time-blocks:</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
