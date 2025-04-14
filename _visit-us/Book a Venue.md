@@ -645,6 +645,18 @@ setting for events and gatherings amidst tranquil ponds and garden views.</p>
 <li>
 <p>Passive Displacement Cooling System (PDC)</p>
 </li>
+<li>
+<p>Audio System and 4 Wireless Microphones</p>
+</li>
+<li>
+<p>Lighting System (ChamSys QuickQ 10)</p>
+</li>
+<li>
+<p>2 Changing Rooms with Toilet</p>
+</li>
+<li>
+<p>Toilets</p>
+</li>
 </ul>
 </td>
 </tr>
@@ -1777,3 +1789,4 @@ the following time-blocks:</p>
 </details>
 </div>
 <p></p>
+<p>Adu</p>
