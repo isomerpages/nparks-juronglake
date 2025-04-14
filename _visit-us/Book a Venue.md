@@ -2237,10 +2237,10 @@ near Cloud Pagoda in Chinese Garden, it's an ideal spot for outdoor enjoyment.</
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,400</p>
+<p>$1,600</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,700</p>
+<p>$2,000</p>
 </td>
 </tr>
 <tr>
@@ -2248,10 +2248,10 @@ near Cloud Pagoda in Chinese Garden, it's an ideal spot for outdoor enjoyment.</
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$500</p>
+<p>$640</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$700</p>
+<p>$800</p>
 </td>
 </tr>
 <tr>
@@ -2259,7 +2259,7 @@ near Cloud Pagoda in Chinese Garden, it's an ideal spot for outdoor enjoyment.</
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$160</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$200</p>
