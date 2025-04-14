@@ -772,7 +772,179 @@ the following time-blocks:</p>
 <details class="isomer-details">
 <summary>Guest Pavilion</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>This elegant Guesthouse, crafted from sustainable timber, provides a spacious
+setting for events and gatherings amidst tranquil ponds and garden views.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Location</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Japanese Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Size</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,700 sqm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Capacity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dining: 500 pax</p>
+<p>Conference: 1,000 pax</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Closest Carpark</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Carpark</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Facilities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Passive Displacement Cooling System (PDC)</p>
+</li>
+<li>
+<p>Audio System and 4 Wireless Microphones</p>
+</li>
+<li>
+<p>Lighting System (ChamSys QuickQ 10)</p>
+</li>
+<li>
+<p>2 Changing Rooms with Toilet</p>
+</li>
+<li>
+<p>Toilets (Male, Female and Handicap)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Suitable For</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Seminars</p>
+</li>
+<li>
+<p>Wedding</p>
+</li>
+<li>
+<p>Community Events</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Rental Rates</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><u>Rental Type</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><u>Off-Peak (Mon - Thu)</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><u>Peak (Fri - Sun)</u></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Full Day (8am - 10pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$3,200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$4,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,280</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,600</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Additional Hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$320</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$400</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<p>*All prices stated above are excluding GST</p>
+<p>*Hours include set-up and teardown</p>
+<p>*Each booking must be made for a minimum of 4 hours in accordance with
+the following time-blocks:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>0800 hrs - 1200 hrs</p>
+</li>
+<li>
+<p>1300 hrs - 1700 hrs</p>
+</li>
+<li>
+<p>1800 hrs - 2200 hrs</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>Bookings should be made 2 months in advance and are only confirmed upon full payment.</em>
+</p>
 </div>
 </details>
 <details class="isomer-details">
