@@ -1069,7 +1069,7 @@ ponds and blooming water lilies in the Water Lily Garden.</p>
 <p>$800</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,80000</p>
+<p>$1,000</p>
 </td>
 </tr>
 <tr>
