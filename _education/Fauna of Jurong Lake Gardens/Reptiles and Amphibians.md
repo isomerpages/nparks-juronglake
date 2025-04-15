@@ -278,9 +278,84 @@ parts of Asia where it has negatively impacted native gecko species.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Red-eared Slider</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Red_eared_slider_Cai_YX.jpg">
+</div>
+<p><em>Photo: Cai Yixiong, NParks Flora &amp; Fauna Web</em>
+</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Trachemys scripta elegans</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red-eared Slider</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Emydidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>These terrapins are a common sight in Singapore as they are popular pets.
+However, they are an exotic species. They have a dome-shaped shell that
+is olive brown with yellowish streaks. They are easily identified by the
+broad red stripe behind their eye. Some individuals can be found in the
+Eco Pond at Lakeside Garden. The shell of a typical Red-eared Slider grows
+to about 15-20 cm long.</p>
+<p></p>
+<p><strong>Behaviour and Ecology</strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>While they will eat whatever they can find, they are mostly herbivorous.
+As they are cold-blooded, like other reptiles, they often need to sunbathe
+to maintain their body temperature. You can often spot them lying on rocks
+motionlessly, basking in the sun.</p>
+<p></p>
+<p><strong>Where is it found?</strong>
+</p>
+<p>Due to the release of unwanted pets, the Red-eared Slider is found in
+almost every freshwater pond and reservoir in Singapore. It is native to
+North America and is the most widely traded pet reptile in the world. It
+is mostly bought as an attractive juvenile but is often released into the
+wild when it reaches adulthood by irresponsible pet owners.</p>
+<p></p>
+<p><strong>Did you know?</strong>
+</p>
+<p>It is illegal to release or abandon any animal in our parks and nature
+reserves. The Red-Eared Slider’s ability to survive in a wide range of
+freshwater habitats makes it a potential threat to our native aquatic biodiversity!</p>
 </div>
 </details>
 </div>
