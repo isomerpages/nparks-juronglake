@@ -1046,7 +1046,77 @@ to its surroundings through osmosis!</p>
 <summary><strong>Asian Toad</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Duttaphrynus_melanostictus_HS.jpg">
+</div>
+<p><em>Photo: Holly Siow, NParks Flora &amp; Fauna Web</em>
+</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Duttaphrynus melanostictus</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asian Toad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bufonidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>Being a true toad, it has a stout body and dry skin, unlike frogs which
+have moist skin. Several bony ridges run along the top of its head, while
+the raised glands behind its eyes (lightly coloured ovals) are very obvious.
+Two black stripes run down the top of its head as well. Their tadpoles
+are tiny and blackish, about the size of a 10-cent coin.</p>
+<p></p>
+<p><strong>Behaviour and Ecology</strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>The Asian Toad feeds mainly on a wide range of invertebrates at night.
+Adult toads are usually found under the cover of rocks, leaf litter and
+logs during the day. They are known to sit under street lamps at night
+where they catch insects attracted to light.</p>
+<p></p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>This native species can be found almost everywhere in Singapore. It is
+also widely distributed across East Asia and Southeast Asia, and has been
+introduced to Australia, Madagascar and Papua New Guinea.</p>
+<p></p>
+<p><strong>Did you know?</strong>
+</p>
+<p>When it feels threatened, it will inflate its body. It is also able to
+secrete toxins from its body to deter predators.</p>
 </div>
 </details>
 </div>
