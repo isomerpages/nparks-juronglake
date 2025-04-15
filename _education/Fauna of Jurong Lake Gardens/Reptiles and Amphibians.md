@@ -358,6 +358,83 @@ reserves. The Red-Eared Slider’s ability to survive in a wide range of
 freshwater habitats makes it a potential threat to our native aquatic biodiversity!</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Oriental Whip Snake</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Ahaetulla_20prasina_Bigeye_20green_20whip_20snake_Daniel_20Ng.jpg">
+</div>
+<p><em>Photo: Daniel Ng (NParks)</em>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Ahaetulla prasina</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oriental Whip Snake</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Colubridae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>Adults of this beautiful snake are a striking bright green, while juveniles
+are brownish. It has yellow eyes, with horizontally elongated pupils.</p>
+<p></p>
+<p><strong>Behaviour and Ecology</strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>It eats mainly small lizards as well as frogs and small birds. Its body
+colour camouflages it well among the foliage during the daytime when it
+is most active.</p>
+<p>When threatened, it will extend its tongue and leave it out as a warning.
+It is usually docile but is mildly venomous.</p>
+<p></p>
+<p><strong>Where is it found?</strong>
+</p>
+<p>The Oriental Whip Snake is arboreal, meaning it lives in trees and bushes.
+It is common in our forests, urban gardens and coastal areas like mangrove
+forests. It is found throughout Southeast Asia, China, Indochina and the
+Indian subcontinent.</p>
+<p></p>
+<p><strong>Did you know?</strong>
+</p>
+<p>While it may seem like the female Oriental Whip Snake gives birth to live
+young, this is actually a case of ovovivipary, where the eggs produced
+by the female hatch within its body!</p>
+</div>
+</details>
 </div>
 <p></p>
 <p><em>Banner: Malayan Water Monitor. Photo Credit: Ruth Tan (NParks)</em>
