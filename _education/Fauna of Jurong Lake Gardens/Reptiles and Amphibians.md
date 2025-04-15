@@ -824,7 +824,74 @@ like lowland forests, grasslands and urban areas.</p>
 <summary><strong>Dark-sided Chorus Frog</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/dark_sided_chorus_frog___Law_Ing_Sind.jpg">
+</div>
+<p><em>Photo: Law Ing Sind</em>
+</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Microhyla heymonsi</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dark-sided Chorus Frog</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Microhylidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>This tiny native frog is similar in both size and shape to the introduced
+East Asian Ornate Chorus Frog but is yellowish brown with a thin white
+stripe along its back and a white belly.</p>
+<p></p>
+<p>It has distinctive black bands running along its sides. Tadpoles have
+a white band over their heads.</p>
+<p></p>
+<p><strong>Behaviour and Ecology</strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>These frogs are nocturnal and feed on insects. Due to their tiny size,
+they are often overlooked but their loud calls in the evening, which are
+a series of rapidly repeating loud <em>kriiiiik</em> sounds, usually give
+away their presence.</p>
+<p></p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>The distribution of this species ranges from southern China to the Malay
+Peninsula, Singapore and Sumatra. They are often found near small puddles
+and ponds in rural areas, parks and gardens. They are also found on offshore
+islands like Pulau Ubin and Pulau Tekong.</p>
 </div>
 </details>
 <details class="isomer-details">
