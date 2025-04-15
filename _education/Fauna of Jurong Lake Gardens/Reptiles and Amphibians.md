@@ -20,6 +20,8 @@ tadpoles), which later develop into adults that can survive on land. These
 eggs are covered by a transparent jelly-like substance.</p>
 <p>Click to find out more about some of the commonly seen reptiles and amphibians
 in Jurong Lake Gardens!</p>
+<p></p>
+<h4><strong>Reptiles</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Malayan Water Monitor</strong>
@@ -436,5 +438,72 @@ by the female hatch within its body!</p>
 </div>
 </details>
 </div>
+<h4><strong>Amphibians</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Green Paddy Frog</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Günther's Frog</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Four-lined Tree Frog</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Banded Bull Frog</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>East Asian Ornate Chorus Frog</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Dark-sided Chorus Frog</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Field Frog</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Crab-eating Frog</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Asian Toad</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <p><em>Banner: Malayan Water Monitor. Photo: Ruth Tan (NParks)</em>
 </p>
