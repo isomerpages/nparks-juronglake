@@ -754,7 +754,70 @@ up to a few hundred ants in a single night!</p>
 <summary><strong>East Asian Ornate Chorus Frog</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/east_asian_ornate_chorus_frog_Law_Ing_Sind_resized.jpg">
+</div>
+<p><em>Photo: Law Ing Sind</em>
+</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Microhyla fissipes</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>East Asian Ornate Chorus Frog</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Microhylidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>It is a tiny frog about the size of a small marshmallow, with equally
+small tadpoles. It has a small and pointed head, and long and slender hind
+legs. Its body is triangular in shape and is olive brown in colour, with
+a pale stripe running down both sides of its body.</p>
+<p></p>
+<p><strong>Behaviour and Ecology</strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>These frogs are nocturnal and feed mainly on insects. They lay their eggs
+in muddy puddles.</p>
+<p></p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>This frog is found in central China, Japan and Taiwan and the Malay Peninsula.
+They are believed to have been introduced to Singapore, and specimens were
+first found on Pulau Tekong in 2005. They live in many types of habitats
+like lowland forests, grasslands and urban areas.</p>
 </div>
 </details>
 <details class="isomer-details">
