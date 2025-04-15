@@ -2,10 +2,10 @@ collections:
   education:
     output: true
     order:
+      - Fauna of Jurong Lake Gardens/.keep
+      - Fauna of Jurong Lake Gardens/Fauna of Jurong Lake Gardens.md
+      - Fauna of Jurong Lake Gardens/Mammals of Jurong Lake Gardens.md
       - Fauna of Jurong Lake Gardens/Reptiles and Amphibians of Jurong Lake
         Gardens.md
-      - Fauna of Jurong Lake Gardens/Mammals of Jurong Lake Gardens.md
-      - Fauna of Jurong Lake Gardens/Fauna of Jurong Lake Gardens.md
-      - Fauna of Jurong Lake Gardens/.keep
       - Guided Tours.md
       - Learning Resources.md
