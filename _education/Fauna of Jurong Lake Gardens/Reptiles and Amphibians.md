@@ -672,6 +672,81 @@ in forest edges, wetlands, shallow pools and urban areas.</p>
 <summary><strong>Banded Bull Frog</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Kaloula_pulchra_AF.jpg">
+</div>
+<p><em>Photo: Alex Figueroa, NParks Flora &amp; Fauna Web</em>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Kaloula pulchra</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Banded Bull Frog</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Microhylidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>This chubby frog has a relatively small head, making its body look very
+round. Its toes are elongated with blunt tips. It is easily identified
+by the thick, black-edged, pale orange bands that extend from its head
+and down to the sides of its body.</p>
+<p></p>
+<p>You can usually hear its loud, cow-like bellows before and after heavy
+rain in built-up urban areas.</p>
+<p></p>
+<p><strong>Behaviour and Ecology</strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>The Banded Bull Frog feeds mainly on small invertebrates such as ants
+and termites. When threatened, it will inflate itself while releasing poisonous
+mucus.</p>
+<p></p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>It is a highly adaptable species that thrives in disturbed habitats like
+flooded grasslands, roadside puddles and urban drains. In the day, it hides
+in burrows under leaf litter or in the crevices of walls or buildings.</p>
+<p></p>
+<p>The Banded Bull Frog is found in southern China, southern India, Sri Lanka
+and Southeast Asia.</p>
+<p></p>
+<p><strong>Did you know?</strong>
+</p>
+<p>Despite being very slow, these frogs are voracious eaters. They can consume
+up to a few hundred ants in a single night!</p>
 <p></p>
 </div>
 </details>
