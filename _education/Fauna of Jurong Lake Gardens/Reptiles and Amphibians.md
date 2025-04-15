@@ -436,6 +436,5 @@ by the female hatch within its body!</p>
 </div>
 </details>
 </div>
-<p></p>
-<p><em>Banner: Malayan Water Monitor. Photo Credit: Ruth Tan (NParks)</em>
+<p><em>Banner: Malayan Water Monitor. Photo: Ruth Tan (NParks)</em>
 </p>
