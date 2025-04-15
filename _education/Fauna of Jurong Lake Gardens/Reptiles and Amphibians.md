@@ -20,7 +20,7 @@ tadpoles), which later develop into adults that can survive on land. These
 eggs are covered by a transparent jelly-like substance.</p>
 <p>Click to find out more about some of the commonly seen reptiles and amphibians
 in Jurong Lake Gardens!</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Malayan Water Monitor</strong>
 </summary>
@@ -29,6 +29,8 @@ in Jurong Lake Gardens!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/11_Loke_Peng_Fai_7L3A5080p_resized.jpg">
 </div>
 <p>Photo: Loke Peng Fai</p>
+<p></p>
+<p></p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -103,6 +105,17 @@ from Sri Lanka and southern China to Southeast Asia.</p>
 <p>When you see two monitors “hugging” each other, they are actually two
 males engaged in a wrestling match. The one that pushes the other onto
 the ground wins the favour of the female monitor they are trying to impress!</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Changeable Lizard</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </div>
 </details>
 </div>
