@@ -205,6 +205,84 @@ called autotomy, acts as a distraction to predators to help the lizard
 escape.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Common House Gecko</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_house_gecko_ffw_edited.jpg">
+</div>
+<p><em>Photo: NParks Flora &amp; Fauna Web</em>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Hemidactylus frenatus</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Common House Gecko or Spiny-tailed Gecko</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gekkonidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>This common gecko has thin skin and non-overlapping scales. Its toes are
+expanded into pads that allow it to stick to vertical surfaces such as
+trees and walls. It has whorls of small spines on its tail unless the tail
+had been autotomised (dropped) and regrown.</p>
+<p></p>
+<p><strong>Behaviour and Ecology</strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>Geckos are nocturnal lizards that hide during the day and are often seen
+climbing walls of buildings in search of insects at night. True to their
+name, they have a preference for urban environments. They can carry out
+autotomy, where they shed their tail as a self-defence mechanism.</p>
+<p></p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>It is very adaptable and is often seen in urban areas and nearby forests.
+While it is a tropical lizard that is native to Southeast Asia, it has
+also been introduced to many countries in the Americas, Pacific and other
+parts of Asia where it has negatively impacted native gecko species.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
 <p><em>Banner: Malayan Water Monitor. Photo Credit: Ruth Tan (NParks)</em>
