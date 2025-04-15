@@ -28,9 +28,14 @@ in Jurong Lake Gardens!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/11_Loke_Peng_Fai_7L3A5080p_resized.jpg">
 </div>
-<p>Photo: Loke Peng Fai</p>
+<p><em>Photo: Loke Peng Fai</em>
+</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Monitor_Lizard.jpg">
+</div>
+<p><em>Two males wrestling. Photo: Perlyn Chng</em>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -111,11 +116,93 @@ the ground wins the favour of the female monitor they are trying to impress!</p>
 <summary><strong>Changeable Lizard</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/changeable_lizard_male_crop_rt.jpg">
+</div>
+<p><em>Male in breeding colours. Photo: Ruth Tan (NParks)</em>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Lizard_crop.jpg">
+</div>
+<p><em>Male in non-breeding colours. Photo: Perlyn Chng</em>
+</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Calotes versicolor</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Changeable Lizard</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Agamidae</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>This introduced lizard is commonly spotted on tree trunks in our parks
+and urban areas. It is often mistaken for a chameleon, which is not found
+in this region. It has a stout body with ridged scales and a spiny crest
+along the middle of its nape and back. Its long tail can grow up to twice
+its body length!</p>
+<p>They are sexually dimorphic. Males are larger with swollen cheeks and
+develop bright orange heads with a black blotch on their cheeks and throat
+during breeding season.</p>
 <p></p>
+<p><strong>Behaviour and Ecology</strong>
+</p>
 <p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>It eats insects and other smaller lizards. It is active during the day
+and is often found basking on bushes and trees. During breeding season,
+males become more territorial and can be seen displaying head bobs and
+“push-ups” to attract females.</p>
+<p></p>
+<p><strong>Where is it found?</strong>
+</p>
+<p>The Changeable Lizard was believed to have been introduced into Singapore
+in the 1980s and has rapidly spread across the island, including urban
+areas. Our native lizard, the Green Crested Lizard (<em>Bronchocela cristatella</em>),
+has been largely displaced by the Changeable Lizard and is now not commonly
+seen.</p>
+<p></p>
+<p>Its native range encompasses the Middle East, the Indian Subcontinent,
+China and Southeast Asia. It has been introduced to Singapore, the United
+States and Brunei, among other places.</p>
+<p></p>
+<p><strong>Did you know?</strong>
+</p>
+<p>Unlike many lizards, it does not drop its tail when in danger. This phenomenon,
+called autotomy, acts as a distraction to predators to help the lizard
+escape.</p>
 </div>
 </details>
 </div>
