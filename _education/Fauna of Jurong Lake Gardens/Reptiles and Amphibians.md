@@ -517,7 +517,75 @@ ecosystem.</p>
 <summary><strong>Günther's Frog</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/S_guentherii_Noel_Thomas.jpg">
+</div>
+<p><em>Photo: Noel Thomas</em>
+</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Sylvirana guentheri</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Günther's Frog</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ranidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>This introduced frog has a pale brown back, dark brown sides and a distinctive
+large eardrum surrounded by a light yellow ring. This species can be spotted
+in the freshwater swamp at Jurong Lake Gardens.</p>
+<p></p>
+<p><strong>Behaviour and Ecology</strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They feed mainly on invertebrates and are often found in disturbed habitats.</p>
+<p></p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>Its native range includes southern China and Vietnam, but it has been
+introduced to the islands of Guam and Singapore. Usually found in open
+swampy habitats, it thrives in human-disturbed habitats as well.</p>
+<p></p>
+<p>It is thought to have been introduced to Singapore via ornamental plants.
+Its calls were first heard in Singapore in 1997.</p>
+<p></p>
+<p><strong>Did you know?</strong>
+</p>
+<p>Günther's Frog has toxic skin secretions that are known to be lethal to
+other frogs in enclosed environments</p>
 </div>
 </details>
 <details class="isomer-details">
