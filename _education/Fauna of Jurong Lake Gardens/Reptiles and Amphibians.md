@@ -593,6 +593,79 @@ other frogs in enclosed environments</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Polypedates_20leucomystax_Four_20Lined_20tree_20frog_Daniel_20Ng.jpg">
+</div>
+<p><em>Photo: Daniel Ng (NParks)</em>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Polypedates leucomystax</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Four-lined Tree Frog</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rhacophoridae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>Individuals in Malaysia and Singapore tend to have a series of dark stripes
+on their upper bodies, while those in Java and other territories may have
+spotted or speckled forms. Their snouts are pointed and only their hind
+feet are webbed.</p>
+<p></p>
+<p>While they are a relatively small species, females are generally stouter
+than their male counterparts. Their large tadpoles have a pale spot on
+the tip of their snout.</p>
+<p></p>
+<p><strong>Behaviour and Ecology</strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They feed on insects at night. They live on plants and breed at the edge
+of shallow pools, where they build nests made of foam on plants or rocks.
+This foam protects its fertilised eggs.</p>
+<p></p>
+<p>They have a loud, distinctive call which is a loud, nasal duck-like <em>quack</em> often
+heard during rainstorms, making them easily recognisable in our parks and
+gardens.</p>
+<p></p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>The Four-lined Tree Frog has adapted to many environments and can live
+in forest edges, wetlands, shallow pools and urban areas.</p>
+<p></p>
+<p>They can be found in Singapore and many other parts of Southeast Asia.</p>
 </div>
 </details>
 <details class="isomer-details">
