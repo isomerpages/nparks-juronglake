@@ -444,7 +444,73 @@ by the female hatch within its body!</p>
 <summary><strong>Green Paddy Frog</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Hylarana_20erythraea_Common_20Greenback_Daniel_20Ng.jpg">
+</div>
+<p><em>Photo: Daniel Ng (NParks)</em>
+</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Hylarana erythraea</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Green Paddy Frog</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ranidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>This is a common frog found in Singapore. It has a distinctive white band
+running along the side of its body and a white upper lip. Its top side
+is usually bright green, and sometimes brown.</p>
+<p></p>
+<p><strong>Behaviour and Ecology</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>The Green Paddy Frog feeds mainly on insects and is generally nocturnal.</p>
+<p></p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>You can spot them along the banks of freshwater bodies such as Jurong
+Lake, as well as at other ponds and reservoirs. Their large tadpoles can
+be found in still waters, such as in ponds and ditches.</p>
+<p>They can be found in many countries across Southeast Asia.</p>
+<p></p>
+<p><strong>Did you know?</strong>
+</p>
+<p>As amphibians such as the Green Paddy Frog require clean aquatic habitats
+to thrive, they often act as biological indicators of the health of the
+ecosystem.</p>
 </div>
 </details>
 <details class="isomer-details">
