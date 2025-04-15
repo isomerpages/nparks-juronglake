@@ -968,7 +968,78 @@ and Indonesia.</p>
 <summary><strong>Crab-eating Frog</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/crab_eating_frog_Law_Ing_Sind_resized.jpg">
+</div>
+<p><em>Photo: Law Ing Sind</em>
+</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Fejervarya cancrivora</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crab-eating Frog</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dicroglossidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>These are large frogs with similarly large tadpoles. Despite being much
+larger than the Field Frog, smaller individuals can still be misidentified
+due to their similar markings. However, this species differs from the Field
+Frog as its hind limbs are extensively webbed.</p>
+<p></p>
+<p><strong>Behaviour and Ecology</strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>Despite their name, they mostly feed on insects at night. However, they
+are generalists and will also consume crustaceans like Tree-climbing Crabs
+in the mangroves. Their calls sound like gargling, making them stand out
+from other frogs in the area.</p>
+<p></p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>In Singapore, they can be found in both freshwater and brackish water
+environments like mangroves. Outside of Singapore, they can be found in
+India, Indochina, Sri Lanka and across Southeast Asia.</p>
+<p></p>
+<p><strong>Did you know?</strong>
+</p>
+<p>The Crab-eating frog can tolerate salt water. It can adjust its body to
+adapt from freshwater to seawater within a few hours. It does this by increasing
+and retaining the urea concentration in its body, so it doesn’t lose water
+to its surroundings through osmosis!</p>
 </div>
 </details>
 <details class="isomer-details">
