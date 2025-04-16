@@ -879,7 +879,110 @@ them.</p>
 <summary><strong>Rose-ringed Parakeet</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 525px; width: 350px;" height="auto" width="100%" alt="rose ringed parakeet m" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_rose-ringed-parakeet-m_francis-yap.jpg?h=525&amp;w=350">
+</div>
+<p>&nbsp;Male, Photo credit: Francis Yap, NParks Flora&amp;FaunaWeb</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; text-align: justify; height: 233px; width: 350px;" height="auto" width="100%" alt="parakeet f" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_rose-ringed-parakeet-f_francis-yap.jpg?h=233&amp;w=350">
+</div>
+<p>Female, Photo credit: Francis Yap, NParks Flora&amp;FaunaWeb</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Psittacula krameri</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rose-ringed Parakeet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Psittacidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>42 cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>It is sexually dimorphic. The male has a distinct black neck ring, which
+is not present in females.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They are frugivores that feed on a wide range of fruits.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>This is an introduced species which originated with escapees from the
+pet trade. They are now widely distributed across Singapore. Their native
+range includes the Indian Subcontinent and northern Southeast Asia, but
+feral populations exist in many other countries.</p>
 </div>
 </details>
 <details class="isomer-details">
