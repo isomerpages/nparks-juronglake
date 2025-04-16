@@ -1106,7 +1106,98 @@ alludes to their bubbly calls. However, bulbuls are not related to nightingales.
 <summary><strong>Malaysian Pied Fantail</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 219px; width: 320px;" height="auto" width="100%" alt="fantail" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_msian-pied-fantail_ocs.jpg?h=219&amp;w=320">
+</div>
+<p>&nbsp;Photo credit: Ong Chwee Sia</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Rhipidura javanica</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malaysian Pied Fantail</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rhipiduridae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>17.5–19.5 cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>Like other members of its family, this bird has a distinctive fan-shaped
+tail. It has largely black upperparts and white underparts with a broad
+black band across its breast.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>These birds move rapidly through the understorey, fanning their tails
+as they go. They are often seen foraging together with other small insect-eating
+birds.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>Once found primarily in mangroves, this species has <a rel="noopener noreferrer nofollow" target="_blank">colonised</a> many parks in Singapore,
+particularly those with large, wooded water bodies like Jurong Lake Gardens.
+They are also widely distributed across many parts of Southeast Asia.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>The Malaysian Pied Fantail is called <em>Murai Gila</em>, or “crazy thrush”
+in Malay due to its disjointed song and frantic feeding behaviour.</p>
 </div>
 </details>
 <details class="isomer-details">
