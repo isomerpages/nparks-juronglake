@@ -580,7 +580,101 @@ They are widespread throughout Southeast Asia.</p>
 <summary><strong>Zebra Dove</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="213" width="320" alt="zebra dove francis yap" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_zebra-dove_francis-yap.jpg?h=213&amp;w=320">
+</div>
+<p>Photo credit: Francis Yap</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Geopelia striata</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zebra Dove</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Columbidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>20–23&nbsp;cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>The upperparts of this small and slender dove are brownish grey with black
+and white bars. Its underparts are pinkish, with black bars on the sides
+of its neck, breast and belly. Its forehead, face and throat are a pale
+grey, with blue around the eyes.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>Small flocks are often seen quietly foraging on footpaths and lawns in
+search of grass seeds, which are a main part of their diet. Their nests
+consist of a simple platform of leaves and grass blades.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>The Zebra Dove is widespread across Singapore and is often seen in urban
+areas and grasslands. They are found across Southeast Asia.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>They are popular pets due to their pleasant call of soft, short ‘<em>coo’</em> notes.
+There are even competitions to find the zebra dove with the best-sounding
+call!</p>
 </div>
 </details>
 <details class="isomer-details">
