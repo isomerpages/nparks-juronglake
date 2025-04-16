@@ -19,35 +19,561 @@ that frequent our gardens!</p>
 <summary><strong>Brown-throated Sunbird</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 233px; width: 350px;" height="auto" width="100%" alt="brown throated sunbird" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_brown-throated-sunbird_loke-peng-fai.jpg?h=233&amp;w=350">
+</div>
+<p>Male. Photo credit: Loke Peng Fai</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; text-align: justify; height: 233px; width: 350px;" height="auto" width="100%" alt="brown throated f" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_brown-throated-f_lpf.jpg?h=233&amp;w=350">
+</div>
+<p>Female. Photo credit: Loke Peng Fai</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<em>Anthreptes malacensis</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brown-throated Sunbird</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nectariniidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>14 cm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>While the Western Hemisphere has hummingbirds (Family Trochilidae), Africa
+and Asia have sunbirds, which are also primarily nectar-feeders. Brown-throated
+Sunbirds are relatively large compared to other sunbirds. Males have a
+brown throat, with a metallic green head and neck, purple wings and lemon
+yellow belly. The females are dull olive in colour. Both sexes have red
+eyes.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>Their primary diet is nectar, but they will also feed on invertebrates,
+particularly spiders. These birds are often seen visiting flowering trees
+and shrubs in search of nectar. Like other sunbirds, they make pouch-shaped
+nests that are suspended from tree branches using leaves, grass and spiders’
+web.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>A very common sunbird, it is found in many habitats in Singapore and throughout
+Southeast Asia.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Olive-backed Sunbird</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="213" width="320" alt="olive backed sunbird m" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_olive-backed-sunbird-m_francis-yap.jpg?h=213&amp;w=320">
+</div>
+<p>&nbsp;Male. Photo credit: Francis Yap</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="427" width="320" alt="olive backed sunbird f" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_olive-backed-sunbird-f-nest_perlyn-chng.jpg?h=427&amp;w=320">
+</div>
+<p>Female and chick in nest. Photo credit: Perlyn Chng</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Cinnyris jugularis</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Olive-backed Sunbird</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nectariniidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>12 cm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>In addition to the Brown-throated Sunbird, the Olive-backed Sunbird is
+the other sunbird that can be commonly seen in our parks and gardens. Both
+males and females have a dull olive brown back with yellow underparts,
+but the males also have a metallic blue forehead, throat and upper breast.
+This species has a longer, more curved beak than the Brown-throated Sunbird.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They feed on nectar but will also prey on insects, especially when feeding
+their young. These birds are often seen in pairs visiting flowering shrubs
+and trees. They are more often seen in flowering shrubs compared to the
+Brown-throated Sunbird. Like other sunbirds, they make pouch-shaped nests
+that are suspended from tree branches using leaves, grass and spiders’
+web.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>The Olive-backed Sunbird is very commonly seen in our urban areas and
+are very tolerant of humans. Some are even bold enough to make their nests
+on potted plants in HDB blocks! They are also found across southern China,
+Southeast Asia, northeast Australia and the Solomon Islands.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>The nests of Olive-backed Sunbirds are often a source of fascination for
+Singaporeans as they regularly nest in residential areas such as balconies
+and along the corridors of HDB estates.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Scarlet-backed Flowerpecker</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="213" width="320" alt="scarlet backed flowerpecker" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_scarlet-backed-flowerpecker_soh-chui-lian.jpg?h=213&amp;w=320">
+</div>
+<p>&nbsp; Male. Photo credit: Soh Chui Lian</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Dicaeum cruentatum</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Scarlet-backed Flowerpecker</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dicaeidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>9 cm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>The male Scarlet-backed Flowerpecker is very distinctive with its bright
+red upperparts, a blackish head, and bluish black wings which contrast
+with its white underparts. The female is a drab olive brown with white
+underparts and a bright red rump. It is one of Singapore’s smallest birds!</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>These birds feed on a variety of food including berries and insects, but
+they are particularly fond of mistletoe fruits. They build a pouch-shaped
+nest with a side entrance and hang it from a high tree branch, similar
+to the sunbird.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>These birds are found in many habitats throughout Singapore. They are
+also distributed across the Indian subcontinent, China and Southeast Asia.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>Its scientific name, <em>cruentatum, </em>is derived from the Latin verb
+that means ‘bloodstained’, referring to the scarlet backs of males.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Asian Koel</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="214" width="320" alt="asian koel m" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_asian-koel-m_jeremy-yeo.jpg?h=214&amp;w=320">
+</div>
+<p>Male, Photo credit: Jeremy Yeo Wei Liang (NParks)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 481px; width: 320px;" height="auto" width="100%" alt="asian koel f" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_asian-koel-f_francis-yap.jpg?h=481&amp;w=320">
+</div>
+<p>Female, Photo credit: Francis Yap, NParks Flora&amp;FaunaWeb</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Eudynamus scolopacea</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asian Koel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cuculidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p>&nbsp; <strong>44 cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>This member of the cuckoo family is a large bird that has bright red eyes
+and a pale beak. The males have an entirely glossy black plumage, while
+females are brown with white and light brown spots.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They are omnivores and feed on a variety of food. Like other cuckoos,
+they are brood parasites<strong> </strong>that lay their eggs in the nests
+of other birds, relying on the unsuspecting foster parents to raise their
+chicks. In Singapore, their host is the introduced House Crow (<em>Corvus splendens</em>).
+As the koel chicks hatch and force the crow chicks out of the nest, the
+Asian Koel acts as an important natural control for Singapore’s crow population.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>These birds are found in a wide range of habitats from urban areas to
+secondary forests.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>They are infamous for their namesake loud, high pitched ‘<em>ko-el</em>’
+call which can be heard at any time of the day.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Pink-necked Green Pigeon</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 244px; width: 350px;" height="auto" width="100%" alt="pngp" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_pink-necked-green-pigeon_cai-yx.jpg?h=244&amp;w=350">
+</div>
+<p>&nbsp; Male (left) and female (right), Photo credit: Cai Yixiong, NParks
+Flora&amp;FaunaWeb</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Treron vernans</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pink-necked Green Pigeon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Columbidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>25–30&nbsp;cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>It is sexually dimorphic, and males can be easily distinguished by their
+bright pink neck and orange lower breast. Females are uniformly green.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They are frugivorous, with large flocks often gathering at fruiting trees.
+They feed on a wide variety of fruits, making them important seed dispersers.
+They are arboreal and generally prefer to perch on branches of tall trees.
+Both males and females are involved in the incubation of eggs and care
+of young chicks.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>These birds can be found in our forests, mangroves, parks and urban areas.
+They are widespread throughout Southeast Asia.</p>
 </div>
 </details>
 <details class="isomer-details">
