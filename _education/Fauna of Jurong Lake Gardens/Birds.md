@@ -1319,7 +1319,101 @@ Asia.</p>
 <summary><strong>Savanna Nightjar</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 233px; width: 350px;" height="auto" width="100%" alt="nightjar" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_savanna-nightjar_lpf.jpg?h=233&amp;w=350">
+</div>
+<p>&nbsp;Photo credit: Loke Peng Fai</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Caprimulgus affinis</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Savanna Nightjar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Caprimulgidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>&nbsp;25 cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>This nocturnal bird has large eyes and brownish grey upperparts irregularly
+interspersed with pale brown speckles. Its underparts are brown with numerous
+fine bars.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>These nocturnal birds hunt for flying insects and are rarely spotted in
+the day when sleeping motionless on the ground. Their plumage provides
+excellent camouflage among the leaf litter, keeping them concealed while
+they roost.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>They are mainly found in grasslands and open country and are distributed
+across the Indian Subcontinent and Southeast Asia.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>They lay their eggs directly on the ground in grasslands, so watch your
+step when you are walking across an open grassland! The Grasslands at Jurong
+Lake Gardens was created specially to cater to birds like the Savanna Nightjar.</p>
 </div>
 </details>
 <details class="isomer-details">
