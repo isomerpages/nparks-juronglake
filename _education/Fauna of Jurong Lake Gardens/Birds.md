@@ -1204,7 +1204,115 @@ in Malay due to its disjointed song and frantic feeding behaviour.</p>
 <summary><strong>Asian Glossy Starling</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 233px; width: 350px;" height="auto" width="100%" alt="asian glossy starling" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_asian-glossy-starling_perlyn-chng.jpg?h=233&amp;w=350">
+</div>
+<p>Photo credit: Perlyn Chng</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 213px; width: 320px;" height="auto" width="100%" alt="glossy starling fyap" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_asian-glossy-starling_francis-yap.jpg?h=213&amp;w=320">
+</div>
+<p>Photo credit: Francis Yap</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Aplonis panayensis</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asian Glossy Starling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sturnidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>22–25 cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>Adults have a uniformly glossy green plumage that appears black in poor
+light. Its distinctive feature is its bright red eyes. Juveniles are greyish
+brown with white underparts that sport bold dark streaks. They may look
+similar to the Asian Koel at first glance but are much smaller in size
+with shorter tails.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>These highly social omnivores often congregate in large, noisy flocks
+in fruiting trees.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>One of Singapore’s most abundant birds, the Asian Glossy Starling occurs
+in all habitats across the island. It is widely distributed across Southeast
+Asia.</p>
 </div>
 </details>
 <details class="isomer-details">
