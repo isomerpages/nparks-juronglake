@@ -33,7 +33,7 @@ sensory zones (for smell, touch, sound and sight) which includes play elements,
 such as musical play instruments, a wheelchair-friendly crawling trellis,
 a labyrinth with glow in the dark pathways and floor imprints of the animals
 and insects found in Jurong Lake Gardens. It is also connected to the adult’s
-section of the Therapeutic Garden and adjoins the <a href="https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/attractions/butterfly-maze" rel="noopener noreferrer nofollow" target="_blank">Butterfly Maze</a>&nbsp;to
+section of the Therapeutic Garden and adjoins the <a href="https://juronglakegardens.nparks.gov.sg/butterfly-maze/" rel="noopener noreferrer nofollow" target="_blank">Butterfly Maze</a>&nbsp;to
 provide more opportunities for young visitors to experience the therapeutic
 effects of greenery.</p>
 <p></p>
