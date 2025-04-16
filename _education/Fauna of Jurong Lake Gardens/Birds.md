@@ -989,7 +989,117 @@ feral populations exist in many other countries.</p>
 <summary><strong>Yellow-vented Bulbul</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 414px; width: 320px;" height="auto" width="100%" alt="yvbbul" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_yellow-vented-bulbul_ocs.jpg?h=414&amp;w=320">
+</div>
+<p>Photo credit: Ong Chwee Sia</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="479" width="320" alt="yellow vented bulbul" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_yellow-vented-bulbul_jeremy-yeo.jpg?h=479&amp;w=320">
+</div>
+<p>Photo credit: Jeremy Yeo Wei Liang (NParks)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Pycnonotus goiavier</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yellow-vented Bulbul</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pycnonotidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>20 cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>As its name implies, it has a yellow vent on the underside of its tail.
+It is otherwise mainly brown but has a white face with a black band between
+the eyes and the bill.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They are omnivores that feed on berries, nectar and small animals. They
+are often seen in pairs foraging for food. They build well-camouflaged
+cup-shaped nests out of plant matter.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>They can be found in a wide variety of habitats across Singapore and throughout
+Southeast Asia.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>The name “Bulbul” comes from an Arabic word meaning “Nightingale”, which
+alludes to their bubbly calls. However, bulbuls are not related to nightingales.</p>
 </div>
 </details>
 <details class="isomer-details">
