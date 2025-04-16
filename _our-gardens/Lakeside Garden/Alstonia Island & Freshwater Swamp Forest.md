@@ -14,7 +14,7 @@ third_nav_title: Lakeside Garden
 freshwater swamp ecosystem of Jurong at Alstonia Island.</p>
 <p></p>
 <p></p>
-<p><strong><u>Alstonia</u>&nbsp;Island</strong>
+<p><strong><u>Alstonia&nbsp;Island</u></strong>
 </p>
 <p>Alstonia&nbsp;Island is named after the dominant tree species,&nbsp;<em>Alstonia&nbsp;spatulata</em>,
 planted on the island. Commonly known as Marsh&nbsp;Pulai, this species
