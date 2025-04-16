@@ -1420,21 +1420,334 @@ Lake Gardens was created specially to cater to birds like the Savanna Nightjar.<
 <summary><strong>Brown Shrike</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 214px; width: 320px;" height="auto" width="100%" alt="brown shrike" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_brown-shrike_lpf.jpg?h=214&amp;w=320">
+</div>
+<p>&nbsp;Photo credit: Loke Peng Fai</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 214px; width: 320px;" height="auto" width="100%" alt="brown shrike" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_brown-shrike_perlyn-chng.jpg?h=214&amp;w=320">
+</div>
+<p>Photo credit: Perlyn Chng</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Lanius cristatus</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brown Shrike</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Laniidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>19–20 cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>This migratory bird sports a distinctive “bandit mask” comprising a black
+stripe through its eyes. It has brown upperparts with a creamy underside
+and rufous flanks. Females tend to have fine scalloping on their undersides
+and a dark brown mask.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They feed on a range of small animals from insects to rats.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>Brown Shrikes breed in northern and eastern Asia and fly down to spend
+the winter in the Indian subcontinent and Southeast Asia. They are commonly
+seen in Singapore during the winter months. They prefer open habitats like
+parks and grasslands.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>They are stone-cold killers that impale their prey! They skewer their
+prey on the thorns of plants and eat them like meat on a satay stick.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Common Tailorbird</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="213" width="320" alt="common tailor bird" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_common-tailor-bird_francis-yap.jpg?h=213&amp;w=320">
+</div>
+<p>&nbsp;Photo credit: Francis Yap</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 219px; width: 320px;" height="auto" width="100%" alt="common tailorbird" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_common-tailorbird_ong-chwee-sia.jpg?h=219&amp;w=320">
+</div>
+<p>Weaving its nest. Photo credit: Ong Chwee Sia</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Orthotomus sutorius</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Common Tailorbird</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cisticolidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>&nbsp;10–13 cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>The Common Tailorbird is a small bird that has olive brown upperparts
+and wings with a rufous patch on the head between its eyes and beak. A
+male in breeding plumage also has an elongated tail and a dark patch on
+its neck.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>These small, active birds are insectivores that forage in dense shrubbery
+in search of prey. They get their name from their unique method of making
+their nests by weaving and sewing the edges of two large leaves together
+using plant fibre or spider silk.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>A common garden bird, they are found throughout Singapore. They have a
+widespread range that includes both the Indian Subcontinent and Southeast
+Asia.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>The character Darzee in “Rikki-Tikki-Tavi”, one of the stories in the
+Jungle Book series by Rudyard Kipling, is a tailorbird. The name “Darzee”
+comes from the Urdu word for tailor.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Ashy&nbsp;Tailorbird</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 233px; width: 350px;" height="auto" width="100%" alt="ashy tailorbird" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_ashy-tailorbird_tan-yip-cheong.jpg?h=233&amp;w=350">
+</div>
+<p>&nbsp;Photo credit: Tan Yip Cheong</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Orthotomus ruficeps</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ashy Tailorbird</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cisticolidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>11 cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>The Ashy Tailorbird is a small bird that has slate grey plumage with a
+chestnut patch on its face, and a white belly. Females have a much duller
+colouration.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They have similar eating and behavioural habits to the Common Tailorbird.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>The Ashy Tailorbird was originally a mangrove species but has adapted
+well to urban wetlands. They are now found in many parks containing water
+bodies such as Jurong Lake Gardens. Elsewhere, they are widely distributed
+across Southeast Asia.</p>
 </div>
 </details>
 <details class="isomer-details">
