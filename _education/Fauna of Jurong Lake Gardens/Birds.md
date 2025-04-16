@@ -9,6 +9,8 @@ third_nav_title: Fauna of Jurong Lake Gardens
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/7L3A2705ph_banner.jpg">
 </div>
+<p><em>Banner: Zebra Dove. Photo credit: Ambarish Deshmukh</em>
+</p>
 <p>Jurong Lake Gardens is home to a wide diversity of birds. Birds play important
 ecological roles as predators, pollinators and seed dispersers. Get to
 the know the urban birds, kingfishers, raptors, waterbirds and woodpeckers
@@ -1754,49 +1756,788 @@ across Southeast Asia.</p>
 <summary><strong>Pacific Swallow</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 214px; width: 320px;" height="auto" width="100%" alt="pacific swallor" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_pacific-swallow_lpf.jpg?h=214&amp;w=320">
+</div>
+<p>&nbsp;Photo credit: Loke Peng Fai</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 200px; width: 320px;" height="auto" width="100%" alt="pacific swallow" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_pacific-swallow_perlyn-chng.jpg?h=200&amp;w=320">
+</div>
+<p>Photo credit: Perlyn Chng</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Hirundo tahitica</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pacific Swallow</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hirundinidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>13 cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>The only resident species of swallow in Singapore, it sports metallic
+blue upperparts with an orange forehead, throat and upper breast. It is
+mostly spotted in flight, often in small groups.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>It is a fast flyer that feeds on insects while airborne. Its neat, cup-shaped
+nest is built with mud pellets under a cliff ledge or on man-made structures
+like buildings, bridges and towers.</p>
+<p><strong>Where is it found?</strong>
+</p>
+<p>The Pacific Swallow has a wide distribution across much of the Eastern
+Hemisphere. In Singapore, it is a common resident that is found in many
+habitats.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Common Iora</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 213px; width: 320px;" height="auto" width="100%" alt="common iora" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_common-iora_francis-yap.jpg?h=213&amp;w=320">
+</div>
+<p>&nbsp;Male. Photo credit: Francis Yap</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; text-align: justify; height: 211px; width: 320px;" height="auto" width="100%" alt="common iora f" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_common-iora-f_cai-yx.jpg?h=211&amp;w=320">
+</div>
+<p>Female. Photo credit: Cai Yixiong, NParks Flora&amp;Fauna Web</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Aegithina tiphia</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Common Iora</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aegithinidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>12–14 cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>It is sexually dimorphic, with the bright yellow males sporting a black
+cap and back during breeding season, while females are entirely olive green.
+Both sexes have yellow underparts and two white bars on their black wings.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They actively forage for food in the canopy, moving through the crowns
+of trees while looking for insects.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>It is common in our parks and gardens and can be seen along the tree-lined
+roads in our heartlands as well.</p>
+<p>The Common Iora can be found in the Indian subcontinent, southwest China
+and Southeast Asia in mangroves, secondary growth and parks.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Black-naped Oriole</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 230px; width: 350px;" height="auto" width="100%" alt="black naped oriole" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_black-naped-oriole_cai-yx.jpg?h=230&amp;w=350">
+</div>
+<p>&nbsp; Photo credit: Cai Yixiong, NParks Flora&amp;Fauna Web</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 481px; width: 320px;" height="auto" width="100%" alt="black naped oriole" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_black-naped-oriole_francis-yap.jpg?h=481&amp;w=320">
+</div>
+<p>Photo credit: Francis Yap</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Oriolus chinensis</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Black-naped Oriole</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oriolidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>&nbsp;27 cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>One of the most common bird species in Singapore, the Black-naped Oriole
+has bright yellow plumage with some black on its wings and a pinkish bill.
+Its name comes from a black band across its eyes that runs down to its
+nape. Females have a slightly greener tinge. Their calls are a melodious
+‘<em>too-diddlyoo</em>’ whistle, but they also make harsh rasping noises
+at times.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>The Black-naped Oriole feeds mainly on fruits and insects.</p>
+<p><strong>Where is it found?</strong>
+</p>
+<p>It can be seen in wooded habitats all over the island. It can also be
+found in South Asia and many parts of Southeast Asia.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>Black-naped Orioles have a dark side to them! During breeding season,
+they are skilled nest raiders that snatch unguarded chicks from the nests
+of smaller birds to feed to their own young.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Oriental Pied Hornbill</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 213px; width: 320px;" height="auto" width="100%" alt="oriental pied hornbill" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_oriental-pied-hornbill_fy.jpg?h=213&amp;w=320">
+</div>
+<p>&nbsp;Photo credit: Francis Yap</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 239px; width: 320px;" height="auto" width="100%" alt="oriental pied hornbill pc" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_oriental-pied-hornbill_perlyn-chng.jpg?h=239&amp;w=320">
+</div>
+<p>&nbsp;Photo credit: Perlyn Chng</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Anthracoceros albirostris</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oriental Pied Hornbill</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bucerotidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>70 cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>These large birds are unmistakable. Both sexes are largely black with
+a white belly. Males have a very pronounced black-tipped casque <a rel="noopener noreferrer nofollow" target="_blank">on&nbsp;</a>its clean yellowish bill.
+Females have a much smaller casque with black patches.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They feed mainly on fruits but are also known to feed on insects and other
+small animals. They are important to the ecosystem as they disperse seeds
+that are too large for smaller bird species to eat.</p>
+<p>Oriental Pied Hornbills are gregarious and often travel in noisy flocks.
+They require a large tree to nest. The female seals herself inside a suitably
+sized hole in a tree with a plaster made of mud and plant fibres. The male
+forages for food alone, while the female guards the nest to deter predators
+from stealing their eggs for food.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>The Oriental Pied Hornbill has a wide distribution from the Indian Subcontinent
+to Southeast Asia. In Singapore, the species is a prime example of successful
+conservation efforts. It was rediscovered on Pulau Ubin in 1994 and is
+now found across most of Singapore.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>The Singapore Hornbill Project was initiated in 2004 by NParks, Jurong
+Bird Park and local researchers with the goal of bringing hornbills back
+to Singapore. The project was extremely successful and by the time it ended
+in 2012, the Oriental Pied Hornbill had become a well-known and endearing
+avian icon.</p>
+<p><strong>Conservation Status</strong>
+</p>
+<p>It is listed as Critically Endangered in the Singapore Red Data Book (2008).
+After an absence of over a century, a pair was observed on Pulau Ubin in
+1994. Thanks to extensive conservation efforts, the local hornbill population
+is on the rise.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Oriental Magpie-Robin</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 233px; width: 350px;" height="auto" width="100%" alt="oriental magpie-robin" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_oriental-magpie-robin_lpf.jpg?h=233&amp;w=350">
+</div>
+<p>&nbsp;Photo credit: Loke Peng Fai</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Copsychus saularis</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oriental Magpie-Robin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muscicapidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>19 cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>It has distinctive black and white plumage that resembles a magpie. Males
+have a glossy black head, breast and upperparts, while the rest of the
+underparts are white. It also has a distinct white wing bar. Females are
+similar to males but have a slate grey head, breast and upperparts.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>It forages on insects mainly on the ground, where it can be seen hopping
+around with its tail raised.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>This bird is widely distributed across Southeast Asia. In Singapore, they
+used to be a popular cage bird and were heavily trapped. In more recent
+times, the population appears to be recovering and they are now present
+in many parks and wooded areas.</p>
+<p><strong>Conservation Status</strong>
+</p>
+<p>It is listed as Endangered in the Singapore Red Data Book (2008). In recent
+years, the local population appears to be gradually increasing.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Javan Myna</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 246px; width: 350px;" height="auto" width="100%" alt="javan myna" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_javan-myna_cai-yx.jpg?h=246&amp;w=350">
+</div>
+<p>&nbsp;Photo credit: Cai Yixiong, NParks Flora&amp;Fauna Web</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Acridotheres javanicus</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Javan Myna</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sturnidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>24–25 cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>The Javan Myna is Singapore’s most recognisable bird. It has slate grey
+plumage with a glossy black head, wings and tail. Its eyes, bill and feet
+are orange yellow.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They have adapted well to the urban environment by exploiting food sources
+such as leftover food in hawker centres and food waste. Outside of urban
+environments, they forage for insects and other invertebrates on the ground
+by probing the soil with their bills.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>In Singapore, it is by far the most abundant bird and occurs in all habitats.
+The Javan Myna is not native to Singapore but was introduced from Java
+and Bali. The introduced population has since <a rel="noopener noreferrer nofollow" target="_blank">colonised&nbsp;</a>most
+of Peninsular Malaysia and southern Thailand.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>Ironically, this bird is very rare in its native range of Java and Bali
+as it is heavily trapped for the pet trade there.</p>
+<p><strong>Conservation Status</strong>
+</p>
+<p>This bird is classified as “Vulnerable” by the IUCN as it is heavily trapped
+by humans in its native range, despite being regarded as an introduced
+pest in Singapore.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Common Myna</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 264px; width: 350px;" height="auto" width="100%" alt="common myna" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_common-myna_cheryl-chia.jpg?h=264&amp;w=350">
+</div>
+<p>&nbsp;Photo credit: Cheryl Chia, NParks Flora&amp;Fauna Web</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Acridotheres tristis</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Common Myna</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sturnidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
+</div>
+<p><strong>&nbsp;24–27 cm<br></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>While similar to the more common Javan Myna, this species has brown, not
+slate grey plumage, and has prominent yellow facial skin around the eye.
+When juveniles moult their head feathers, they often look bald, causing
+many to mistake them for sick birds.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>It feeds mainly on the ground for insects and leftover scraps. It isn’t
+picky about its nesting sites and will use any cavity where it can pile
+nesting material into, including cracks in buildings or air conditioning
+units.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>These birds are native to the Indian subcontinent and Southeast Asia.
+They are also native to Singapore and are found in a wide variety of habitats,
+but in far smaller numbers than the Javan Myna.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>The Common Myna, contrary to its name, is not common in Singapore and
+is largely outcompeted by the introduced and more aggressive Javan Myna.</p>
 </div>
 </details>
 </div>
