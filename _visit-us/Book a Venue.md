@@ -403,6 +403,11 @@ the following time-blocks:</p>
 <details class="isomer-details">
 <summary>Neram Room</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Neram Room/Neram_Room.png">
+</div>
 <p>Neram Room is an indoor event venue located at Gardenhouse. The room overlooks
 the greenery of the garden and is situated right next to the scenic Rasau
 walk and Grasslands!</p>
@@ -587,6 +592,540 @@ the following time-blocks:</p>
 </p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Guesthouse</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Guesthouse/Guesthouse_Internal.jpg">
+</div>
+<p>This elegant Guesthouse, crafted from sustainable timber, provides a spacious
+setting for events and gatherings amidst tranquil ponds and garden views.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Location</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Japanese Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Size</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,700 sqm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Capacity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dining: 500 pax</p>
+<p>Conference: 1,000 pax</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Closest Carpark</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Carpark</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Facilities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Passive Displacement Cooling System (PDC)</p>
+</li>
+<li>
+<p>Audio System and 4 Wireless Microphones</p>
+</li>
+<li>
+<p>Lighting System (ChamSys QuickQ 10)</p>
+</li>
+<li>
+<p>2 Changing Rooms with Toilet</p>
+</li>
+<li>
+<p>Toilets (Male, Female and Handicap)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Suitable For</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Seminars</p>
+</li>
+<li>
+<p>Wedding</p>
+</li>
+<li>
+<p>Community Events</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Rental Rates</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><u>Rental Type</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><u>Off-Peak (Mon - Thu)</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><u>Peak (Fri - Sun)</u></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Full Day (8am - 10pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$3,200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$4,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,280</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,600</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Additional Hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$320</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$400</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>*All prices stated above are excluding GST</p>
+<p>*Hours include set-up and teardown</p>
+<p>*Each booking must be made for a minimum of 4 hours in accordance with
+the following time-blocks:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>0800 hrs - 1200 hrs</p>
+</li>
+<li>
+<p>1300 hrs - 1700 hrs</p>
+</li>
+<li>
+<p>1800 hrs - 2200 hrs</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>Bookings should be made 2 months in advance and are only confirmed upon full payment.</em>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Guest Pavilion</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Guest Pavilion/Guest_pavilion_Internal.jpg">
+</div>
+<p>This elegant glass-enclosed pavilion offers a tranquil indoor retreat
+with panoramic views of the shimmering pond and lush surroundings, providing
+a perfect spot to unwind.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Location</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Japanese Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Size</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>250 sqm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Capacity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>125 pax</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Closest Carpark</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Carpark</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Facilities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Air-conditioning</p>
+</li>
+<li>
+<p>Audio System and 1 Wireless Microphone</p>
+</li>
+<li>
+<p>In-Built Projector</p>
+</li>
+<li>
+<p>Projector Screen</p>
+</li>
+<li>
+<p>Toilets (Male, Female and Handicap)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Suitable For</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Seminars</p>
+</li>
+<li>
+<p>Birthday Parties</p>
+</li>
+<li>
+<p>Team Building</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Rental Rates</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><u>Rental Type</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><u>Off-Peak (Mon - Thu)</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><u>Peak (Fri - Sun)</u></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Full Day (8am - 10pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$800</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$320</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$400</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Additional Hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$80</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$100</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>*All prices stated above are excluding GST</p>
+<p>*Hours include set-up and teardown</p>
+<p>*Each booking must be made for a minimum of 4 hours in accordance with
+the following time-blocks:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>0800 hrs - 1200 hrs</p>
+</li>
+<li>
+<p>1300 hrs - 1700 hrs</p>
+</li>
+<li>
+<p>1800 hrs - 2200 hrs</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>Bookings should be made 2 months in advance and are only confirmed upon full payment.</em>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Water Lily Pavilion</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Water Lily Pavilion/Water_lily_Pavilion_Internal.jpg">
+</div>
+<p></p>
+<p>The Water Lily Pavilion provides a peaceful shelter to admire terraced
+ponds and blooming water lilies in the Water Lily Garden.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Location</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Japanese Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Size</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>380 sqm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Capacity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>190 pax</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Closest Carpark</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Carpark</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Facilities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Toilets (Male, Female and Handicap)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Suitable For</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Exhibitions</p>
+</li>
+<li>
+<p>Bazaars</p>
+</li>
+<li>
+<p>Community Events</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Rental Rates</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><u>Rental Type</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><u>Off-Peak (Mon - Thu)</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><u>Peak (Fri - Sun)</u></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Full Day (8am - 10pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$800</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$320</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$400</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Additional Hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$80</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$100</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>*All prices stated above are excluding GST</p>
+<p>*Hours include set-up and teardown</p>
+<p>*Each booking must be made for a minimum of 4 hours in accordance with
+the following time-blocks:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>0800 hrs - 1200 hrs</p>
+</li>
+<li>
+<p>1300 hrs - 1700 hrs</p>
+</li>
+<li>
+<p>1800 hrs - 2200 hrs</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>Bookings should be made 2 months in advance and are only confirmed upon full payment.</em>
+</p>
+</div>
+</details>
 </div>
 <h3>Outdoor Venues</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -668,6 +1207,10 @@ and Passion Wave, which provide fun activities for people of all ages.</p>
 <details class="isomer-details">
 <summary>Butterfly Field</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Butterfly Field/Butterfly_Field.png">
+</div>
 <p>Located in the heart of Jurong Lake Gardens, Butterfly Field is within
 the vicinity of popular attractions such as Forest Ramble (Playground)
 and Logs Trail. This lawn is a popular spot for outdoor events such as
@@ -1077,6 +1620,10 @@ the following time-blocks:</p>
 <details class="isomer-details">
 <summary>Wave Plaza</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Wave Plaza/Wave_plaza.jpg">
+</div>
 <p>Wave Plaza is located near the PAssion Wave and gives the view of the
 Twin Pagoda located in Chinese Garden. With a stage and seating area, it
 is a perfect location for performance, carnivals and more!</p>
@@ -1585,5 +2132,182 @@ the following time-blocks:</p>
 </p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Ficus Lawn</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Venues/Ficus Lawn/Ficus_Lawn_back_View.jpg">
 </div>
+<p>The spacious Ficus Lawn provides a natural outdoor setting for community
+events, recreational activities, picnics and social gatherings. Located
+near Cloud Pagoda in Chinese Garden, it's an ideal spot for outdoor enjoyment.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Size</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6,333 sqm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Capacity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3,166 pax</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Walking Distance To</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese Garden MRT</p>
+</li>
+<li>
+<p>Pagoda Plaza</p>
+</li>
+<li>
+<p>Tea Pavilion</p>
+</li>
+<li>
+<p>Cloud Pagoda</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Closest Carpark</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Carpark</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Suitable For</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Community Events</p>
+</li>
+<li>
+<p>Concerts</p>
+</li>
+<li>
+<p>Corporate Outdoor Events</p>
+</li>
+<li>
+<p>Festivals</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Rental Rates</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><u>Rental Type</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><u>Off-Peak (Mon - Thu)</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><u>Peak (Fri - Sun)</u></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Full Day (8am - 10pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$640</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$800</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Additional Hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$160</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$200</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>*All prices stated above are excluding GST</p>
+<p>*Hours include set-up and teardown</p>
+<p>*Each booking must be made for a minimum of 4 hours in accordance with
+the following time-blocks:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>0800 hrs - 1200 hrs</p>
+</li>
+<li>
+<p>1300 hrs - 1700 hrs</p>
+</li>
+<li>
+<p>1800 hrs - 2200 hrs</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>Bookings should be made 2 months in advance and are only confirmed upon full payment.</em>
+</p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
