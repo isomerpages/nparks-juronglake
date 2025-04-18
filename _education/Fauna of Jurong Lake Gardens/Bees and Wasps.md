@@ -440,7 +440,8 @@ iridescence of the Yellow-and-black Carpenter Bee.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Xylocopa flavonigrescens</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -449,7 +450,7 @@ iridescence of the Yellow-and-black Carpenter Bee.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yellow-and-black Carpenter Bee</p>
 </td>
 </tr>
 <tr>
@@ -458,13 +459,20 @@ iridescence of the Yellow-and-black Carpenter Bee.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Apidae</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p><strong>What does it look like?</strong>
+</p>
+<p>Females are often mistaken for the White-cheeked Carpenter Bee as they
+look exceedingly alike, though one way to tell them apart is to look at
+the iridescence of their wings. Males are easier to differentiate as their
+thorax is a more vibrant yellow that gets progressively darker towards
+the end of the abdomen.
+<br>
 </p>
 </div>
 </details>
