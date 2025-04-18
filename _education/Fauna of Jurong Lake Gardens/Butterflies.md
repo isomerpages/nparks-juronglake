@@ -189,7 +189,8 @@ Lake Gardens!</p>
 <h4><br><strong>Family Lycaenidae</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Grass Blues</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>
@@ -200,7 +201,8 @@ Lake Gardens!</p>
 <h4><br><strong>Family Papilionidae</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Common Mormon</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>
@@ -211,7 +213,8 @@ Lake Gardens!</p>
 <h4><br><strong>Family Hesperiidae</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Chestnut Bob</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>
