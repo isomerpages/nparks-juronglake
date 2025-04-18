@@ -197,7 +197,7 @@ is often attracted to artificial light sources.<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Apis andreniformis</em>
+<p><em>Apis florea</em>
 </p>
 </td>
 </tr>
@@ -207,7 +207,7 @@ is often attracted to artificial light sources.<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Black Dwarf Honey Bee</p>
+<p>Red Dwarf Honey Bee</p>
 </td>
 </tr>
 <tr>
