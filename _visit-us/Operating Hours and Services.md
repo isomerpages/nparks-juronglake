@@ -29,7 +29,7 @@ description: ""
 </table>
 <hr>
 <h3><strong>Attractions</strong></h3>
-<h4>Lakeside Garden (Open 24 hours)</h4>
+<h4><strong>Lakeside Garden (Open 24 hours)</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>ActiveSG Park</strong>
@@ -160,7 +160,7 @@ more information.</p>
 </div>
 </details>
 </div>
-<h4>Chinese Garden (Open from 5.30am to 12am daily)</h4>
+<h4><strong>Chinese Garden (Open from 5.30am to 12am daily)</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Bonsai Gallery</strong>
@@ -215,7 +215,7 @@ more information.</p>
 </div>
 </details>
 </div>
-<h4>Japanese Garden (Open from 5.30am to 12am daily)</h4>
+<h4><strong>Japanese Garden (Open from 5.30am to 12am daily)</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Breathing Gallery</strong>
