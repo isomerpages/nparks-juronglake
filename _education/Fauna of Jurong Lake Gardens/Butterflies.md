@@ -279,6 +279,70 @@ is a lighter orange with a purplish sheen when lighted from the side.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Junonia hedonia</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chocolate Pansy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nymphalidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
+</div>
+<p><strong>55–60 mm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><br>What does it look like?</strong>
+</p>
+<p>Resembling the colour of chocolate, its upper wings are orange brown with
+several dark brown bands and small eyespots. Compared to the Peacock Pansy
+(<em>Junonia almana</em>), it has smaller and more numerous eye spots.
+It flies in the usual gliding manner of the genus <em>Junonia</em> and tends
+to sunbathe with their wings wide open in sunny weather.</p>
+<p><strong>Host Plant:&nbsp;</strong>Creeping Ruellia (<em>Ruellia repens</em>)</p>
 </div>
 </details>
 <details class="isomer-details">
