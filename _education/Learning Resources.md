@@ -4,11 +4,7 @@ permalink: /learning-resources/
 variant: tiptap
 description: ""
 ---
-<p>Learn more about the attractions and biodiversity of Jurong Lake Gardens
-with our downloadable learning resources:</p>
-<p>
-<br>
-</p>
+<h4>Learn more about the attractions and biodiversity of Jurong Lake Gardens with our downloadable learning resources:</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
