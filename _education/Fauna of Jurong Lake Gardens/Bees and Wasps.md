@@ -700,7 +700,8 @@ their presence very beneficial to plant nurseries!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Vespa affinis</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -709,7 +710,7 @@ their presence very beneficial to plant nurseries!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lesser Banded Hornet</p>
 </td>
 </tr>
 <tr>
@@ -718,7 +719,7 @@ their presence very beneficial to plant nurseries!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Vespidae</p>
 </td>
 </tr>
 </tbody>
@@ -726,6 +727,17 @@ their presence very beneficial to plant nurseries!</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>It is a small to medium-sized hornet that is fully black with the first
+two abdominal segments forming a brilliant orange band. It can be told
+apart from the Banded Paper Wasp by its stouter body.</p>
+<p><strong><br>Behaviour and Ecology</strong>
+</p>
+<p><strong>Nests: </strong>Hornets generally have larger colonies than other
+wasps and make larger nests made of chewed rotten wood mixed with saliva.
+They are built on small trees, bushes and even uncovered sites on buildings.</p>
+<p><strong>Behaviour:</strong> The Lesser Banded Hornet colonies are founded
+by multiple queens. While they respond aggressively to disturbances of
+their nest, they will otherwise not attack unprovoked.</p>
 </div>
 </details>
 <details class="isomer-details">
