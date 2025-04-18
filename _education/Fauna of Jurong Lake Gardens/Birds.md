@@ -3451,7 +3451,8 @@ fish.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Nycticorax nycticorax</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -3460,7 +3461,7 @@ fish.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Black-crowned Night Heron</p>
 </td>
 </tr>
 <tr>
@@ -3469,7 +3470,7 @@ fish.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ardeidae</p>
 </td>
 </tr>
 </tbody>
@@ -3477,6 +3478,28 @@ fish.</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>Both adults and juveniles have distinctive red eyes. Adults have a diagnostic
+black crown, bill and back which contrast with their white underparts.
+Juveniles have dull grey plumage with pale spots.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>These birds are primarily nocturnal. Their diet includes small fish, crustaceans,
+frogs and large insects. During the day, they rest in dense trees close
+to water.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>These shy birds are found in larger freshwater and coastal wetlands across
+Singapore. Globally, they have a wide distribution ranging from Europe
+and Africa to most of Southeast Asia.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>Its scientific name <em>Nycticorax </em>means “night raven” in Latin and
+reflects the heron’s nocturnal habits and distinctive call.<strong><br>Conservation Status</strong>
+</p>
+<p>This species is nationally threatened due to the lack of suitable nesting
+habitat.</p>
 </div>
 </details>
 <details class="isomer-details">
