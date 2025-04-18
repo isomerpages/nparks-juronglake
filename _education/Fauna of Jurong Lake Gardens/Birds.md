@@ -3584,7 +3584,8 @@ and Jurong Lake Gardens.<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Ixobrychus sinensis</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -3593,7 +3594,7 @@ and Jurong Lake Gardens.<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yellow Bittern</p>
 </td>
 </tr>
 <tr>
@@ -3602,7 +3603,7 @@ and Jurong Lake Gardens.<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ardeidae</p>
 </td>
 </tr>
 </tbody>
@@ -3610,6 +3611,26 @@ and Jurong Lake Gardens.<strong><br></strong>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>This species exhibits sexual dimorphism, meaning the males and females
+look different. Males have a black crown, while the females are brown throughout.
+The striking contrast between their black flight feathers and yellowish
+plumage makes them easy to identify in flight.</p>
+<p><strong><br>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>It is often seen perched motionless in reed beds waiting to ambush passing
+prey. They feed on fish, insects and crustaceans.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>It is found in freshwater wetlands including marshes and well-vegetated
+ponds. It is regularly seen at Gardens by the Bay, Kranji Marshes and Jurong
+Lake Gardens, among other sites.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>Every year between October to March, Singapore’s resident Yellow Bittern
+population is joined by migratory populations that breed in China and migrate
+to Southeast Asia to escape the northern winter.</p>
 </div>
 </details>
 <details class="isomer-details">
