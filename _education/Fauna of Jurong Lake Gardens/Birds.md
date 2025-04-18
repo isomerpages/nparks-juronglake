@@ -3520,7 +3520,8 @@ habitat.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Ardeola bacchus</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -3529,7 +3530,7 @@ habitat.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chinese Pond Heron</p>
 </td>
 </tr>
 <tr>
@@ -3538,13 +3539,31 @@ habitat.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ardeidae</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p><strong>What does it look like?</strong>
+</p>
+<p>It is indistinguishable from other pond herons like the Javan Pond Heron
+and Indian Pond Heron during non-breeding season. However, its breeding
+plumage is distinctive with a maroon head, neck and upper breast, white
+underparts and a black back.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They are usually observed in flooded fields and freshwater marshes where
+they forage on a variety of small animals.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>This is a migratory species which breeds in China and migrates to Southeast
+Asia during the northern winter. They are usually found in freshwater wetlands
+and flooded fields such as Bishan-Ang Mo Kio Park and Lorong Halus. They
+are frequently observed in the field between Chinese Garden MRT station
+and Jurong Lake Gardens.<strong><br></strong>
 </p>
 </div>
 </details>
