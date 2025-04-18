@@ -3106,7 +3106,7 @@ in our green spaces.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Haliastur indus</em>
+<p><em>Strix seloputo</em>
 </p>
 </td>
 </tr>
@@ -3116,7 +3116,7 @@ in our green spaces.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brahminy Kite</p>
+<p>Spotted Wood Owl</p>
 </td>
 </tr>
 <tr>
@@ -3133,6 +3133,32 @@ in our green spaces.</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>One of the largest owl species in Singapore, you can identify it by its
+large, earless head and the black bars on its body. It rests on tree branches
+during the day.</p>
+<p><strong><br>Ecology, Habitat and Distribution</strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>It hunts small animals like rats, small birds and large insects at night.</p>
+<p></p>
+<p><strong>Where is it found?</strong>
+</p>
+<p>It is usually seen in pairs and is widely distributed across Singapore
+in a variety of habitats from forests to urban parks. Outside of Singapore,
+it can also be found across mainland Southeast Asia and the islands of
+Java and Palawan.</p>
+<p></p>
+<p><strong>Did you know?</strong>
+</p>
+<p>Like other owls, it regurgitates parts of its prey that it cannot swallow,
+such as skulls and bones, as pellets!</p>
+<p></p>
+<p><strong>Conservation Status</strong>
+</p>
+<p>This is a nationally threatened species. However, its population has increased
+in recent years.</p>
 </div>
 </details>
 <details class="isomer-details">
