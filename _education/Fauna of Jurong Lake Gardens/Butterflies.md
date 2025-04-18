@@ -1189,7 +1189,71 @@ host plant can be found as a weed in many parts of Singapore.</p>
 <summary><strong>Grass Blues</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Zizina otis, Zizula hylax, Zizeeria maha</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lesser Grass Blue, Pygmy Grass Blue, Pale Grass Blue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lycaenidae</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
+</div>
+<p>8–20&nbsp;mm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><br>What do they look like?</strong>
+</p>
+<p>Singapore has three Grass Blue species that are hard to tell apart due
+to their small size and erratic flight. The male is usually blue above,
+while the female is brown. Their undersides are typically brownish or whitish
+grey with dark spots on both wings.</p>
+<p>They are common in parks and gardens except for the Pale Grass Blue, which
+is less often spotted compared to the other two species, the Lesser Grass
+Blue and Pygmy Grass Blue.</p>
+<p><strong>Host Plant:&nbsp;</strong>Mimosa/Touch-me-not (<em>Mimosa pudica</em>)
 <br>
 </p>
 </div>
