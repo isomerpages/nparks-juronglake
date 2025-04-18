@@ -63,12 +63,26 @@ the fruit yield of many popular edible plants such as brinjals and gourds.</p>
 </div>
 </details>
 </div>
-<p>
-<br>
-</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<p></p>
+<h4><strong>Carpenter Bees</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Broad-footed Carpenter Bee</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>White-cheeked Carpenter Bee</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Yellow-and-black&nbsp;Carpenter Bee</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
