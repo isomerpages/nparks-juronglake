@@ -53,7 +53,25 @@ the fruit yield of many popular edible plants such as brinjals and gourds.</p>
 </div>
 </details>
 </div>
+<h4><br><strong>Blue-banded&nbsp;Bees</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Sunda Blue-banded Digger Bee</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p>
 <br>
 </p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
