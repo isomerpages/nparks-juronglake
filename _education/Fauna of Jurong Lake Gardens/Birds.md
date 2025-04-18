@@ -3887,7 +3887,7 @@ European countries such as Russia.</p>
 </div>
 </details>
 </div>
-<h4><br>Woodpeckers and Barbets </h4>
+<h4><br>Woodpeckers and Barbets</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Coppersmith Barbet</strong>
@@ -3905,6 +3905,30 @@ European countries such as Russia.</p>
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Rufous Woodpecker</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
+</details>
+<details class="isomer-details">
+<summary><strong>Laced Woodpecker</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Sunda Pygmy Woodpecker</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
