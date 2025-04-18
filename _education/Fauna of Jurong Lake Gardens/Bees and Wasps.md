@@ -543,6 +543,21 @@ while foraging, rather than on its hind legs like other bees.</p>
 </div>
 <p></p>
 <h4><strong>Wasps and Hornets</strong></h4>
+<p>The term wasps usually refer to<strong> </strong>social wasps from the
+family Vespidae, but may also refer to other families that share a similar
+appearance. Wasps have a slender body form and a distinctive petiole (stalk)
+in the middle of their body. Unlike bees, they are unable to produce wax
+and instead use mud or chewed up wood pulp to strengthen their nests. They
+can also sting multiple times, unlike honey bees.</p>
+<p>While they are carnivorous, they supplement their diet with sugar from
+ripe fruits, insect honeydew and tree sap. They have stings used to kill
+prey such as caterpillars and other smaller insects. When defending their
+nests, they can be particularly aggressive.&nbsp;</p>
+<p>Hornets are from the genus <em>Vespa</em> and are the largest of the eusocial
+wasps. They mainly prey on insects like houseflies, caterpillars, grasshoppers
+and other smaller bees and wasps. Sometimes, a large group of hornets may
+raid a honey bee hive not just for its honey, but also for the bee larvae
+and pupae found inside.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Pear-tailed Potter Wasp</strong>
@@ -561,7 +576,8 @@ while foraging, rather than on its hind legs like other bees.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Delta pyriforme</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -570,7 +586,7 @@ while foraging, rather than on its hind legs like other bees.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Pear-tailed Potter Wasp</p>
 </td>
 </tr>
 <tr>
@@ -579,7 +595,7 @@ while foraging, rather than on its hind legs like other bees.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Vespidae</p>
 </td>
 </tr>
 </tbody>
@@ -587,6 +603,20 @@ while foraging, rather than on its hind legs like other bees.</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>In Singapore, Potter Wasps in general can be identified by their particularly
+long petioles (waists) and their black and reddish brown colouration in
+adults. Both males and females are fully winged.</p>
+<p><strong><br>Behaviour and Ecology</strong>
+</p>
+<p>The Pear-tailed Potter Wasp is a commonly seen wasp species in Singapore
+that is well-adapted to both urban and natural habitats.</p>
+<p><strong>Nests: </strong>Its nest consists of pot-shaped cells that are
+covered with a layer of mud, hence its name. It builds its nest on tree
+trunks, branches and on man-made structures. The female lays an egg in
+each cell and stores it with a paralysed prey before sealing it with mud.
+Once hatched, the wasp larva eats the stored prey.</p>
+<p><strong>Behaviour: </strong>Despite its large size, it is relatively harmless
+if left alone and is more likely to flee than attack.</p>
 </div>
 </details>
 <details class="isomer-details">
