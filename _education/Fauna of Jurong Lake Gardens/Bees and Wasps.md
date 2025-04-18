@@ -28,6 +28,21 @@ to reproduce, in turn providing food for other organisms. They also increase
 the fruit yield of many popular edible plants such as brinjals and gourds.</p>
 <p>Here are some of the bees and wasps that you can see in Jurong Lake Gardens.</p>
 <h4><strong>Honey Bees</strong></h4>
+<p>Honey bees are highly social bees of the genus <em>Apis</em>. They are
+native to Eurasia and Africa but certain species have been distributed
+worldwide (except Antarctica) by people for honey production. They are
+known for their complex social systems and nests, which are combs made
+from wax.</p>
+<p>Their primary diet is nectar and pollen. They are generalist pollinators
+that visit a wide range of flowers with easily accessible pollen and nectar.
+Usually, an individual scout bee searches for flowers using a combination
+of sight and smell. It then communicates its location to others by doing
+a dance. By rapidly recruiting its sister worker bees, it can efficiently
+collect large amounts of pollen.</p>
+<p>Caution should be taken when a hive is found as honey bees will readily
+sting to protect their home when threatened or disturbed. However, they
+are docile and safe when foraging away from their nest.</p>
+<p>Four species of honey bees are found in Singapore:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Asian Honey Bee</strong>
