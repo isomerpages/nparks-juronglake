@@ -2664,11 +2664,13 @@ wings.</p>
 </p>
 <p>Singapore’s most abundant kingfisher, it feeds on a wide variety of small
 animals and often gives away its presence with its loud cackling calls.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>This species is found in all habitats throughout Singapore, including
 urban areas far from water. Globally, it is distributed across much of
 the Old World from Africa and the Middle East to Southeast Asia and Australia.</p>
+<p></p>
 <p><strong>Did you know?</strong>
 </p>
 <p>It is featured on the Singapore $10 banknote in the bird series, the second
