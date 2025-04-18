@@ -4036,7 +4036,8 @@ to its feathers!<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Micropternus brachyrus</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -4045,7 +4046,7 @@ to its feathers!<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Rufous Woodpecker</p>
 </td>
 </tr>
 <tr>
@@ -4054,7 +4055,7 @@ to its feathers!<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Picidae</p>
 </td>
 </tr>
 </tbody>
@@ -4062,6 +4063,25 @@ to its feathers!<strong><br></strong>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>It is not commonly found in Singapore. It gets its common name from its
+uniformly <a rel="noopener noreferrer nofollow" target="_blank">reddish brown&nbsp;</a>plumage,
+which distinguishes it from other species of woodpeckers in Singapore.
+Males have a small red cheek patch, which females lack. Its call is a rapid
+series of seven to nine laughter-like ‘<em>hee</em>’ sounds.</p>
+<p><strong><br>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They forage in pairs on ant nests, trees and fallen logs. They are known
+to consume nectar from <em>Erythrina</em> trees too. They have an unusual
+symbiotic relationship with tree ants whereby they build their nests within
+the ants’ nests, but feed on ants from other nests.</p>
+<p><strong>Where is it found?</strong>
+</p>
+<p>The Rufous Woodpecker is found in forested areas and well-wooded parks
+such as Jurong Lake Gardens, Tampines Eco Green, and Pulau Ubin. Outside
+of Singapore, it can be found from southern China and eastern India to
+Southeast Asia.</p>
 </div>
 </details>
 <details class="isomer-details">
