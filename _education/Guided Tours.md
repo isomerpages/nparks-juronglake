@@ -139,7 +139,6 @@ options are available for Government Schools, Institutions, and Agencies
 within 30 days from the invoice date.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <h4><strong>Cancelation of Bookings&nbsp;</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -152,9 +151,7 @@ program must be made at least 7 working days before the program commences.
 </li>
 <li>
 <p>In the event of wet weather or haze, rescheduling must be made at least
-1.5 hours before the guided tour begins.&nbsp;
-<br>
-</p>
+1.5 hours before the guided tour begins.&nbsp;</p>
 </li>
 </ul>
 <h4><strong>Wet Weather Plan</strong></h4>
