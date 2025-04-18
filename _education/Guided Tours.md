@@ -19,9 +19,24 @@ description: ""
 <p>Japanese Garden</p>
 </li>
 </ol>
-<p><strong>Tour Rates</strong>
-</p>
-<p>1. Schools&nbsp;</p>
+<h2><strong>Tour Rates</strong></h2>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Schools</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Corporate and Public&nbsp;</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>$9 per pax&nbsp;</p>
@@ -36,7 +51,8 @@ description: ""
 <p>Flat rate of $180 for 19 students or fewer&nbsp;</p>
 </li>
 </ul>
-<p>2. Corporate and Public&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>$15 per pax&nbsp;</p>
@@ -48,9 +64,11 @@ description: ""
 <p>Flat rate of $225 for 14 pax or fewer</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>Guided Tour Booking Terms and Conditions&nbsp;</strong>
-</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>&nbsp;<strong>Guided Tour Booking Terms and Conditions&nbsp;</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bookings for guided tours must be submitted at least one month prior to
