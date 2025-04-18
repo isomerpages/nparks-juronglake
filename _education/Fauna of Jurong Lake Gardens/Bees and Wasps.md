@@ -384,7 +384,8 @@ hairs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Xylocopa aestuans</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -393,7 +394,7 @@ hairs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>White-cheeked Carpenter Bee</p>
 </td>
 </tr>
 <tr>
@@ -402,7 +403,7 @@ hairs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Apidae</p>
 </td>
 </tr>
 </tbody>
@@ -410,6 +411,16 @@ hairs.</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>The female is mainly black with a thorax covered with deep yellow hairs
+except for a small black patch in the centre. The male, in contrast, is
+covered with fine yellow hairs, making it look fully dark yellow. They
+are named after a small patch of fine white hairs found behind their eyes
+in both sexes.</p>
+<p>Females are often mistaken for the Yellow-and-black Carpenter Bee (<em>X. flavonigrescens</em>),
+though one way to tell them apart is to look at the luminous colours, known
+as iridescence, of their wings. Female White-cheeked Carpenter Bees<em> </em>have
+a purplish brown iridescence on their wings as compared to the bluish-green
+iridescence of the Yellow-and-black Carpenter Bee.</p>
 </div>
 </details>
 <details class="isomer-details">
