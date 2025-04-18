@@ -2973,7 +2973,7 @@ Southeast Asia to Australia.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Haliastur indus</em>
+<p><em>Haliaeetus ichthyaetus</em>
 </p>
 </td>
 </tr>
@@ -2983,7 +2983,7 @@ Southeast Asia to Australia.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brahminy Kite</p>
+<p>Grey-headed Fish Eagle</p>
 </td>
 </tr>
 <tr>
@@ -3000,6 +3000,29 @@ Southeast Asia to Australia.</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>These rarely encountered eagles are medium-sized, robust and are generally
+greyish brown with a pale grey head and white tail.</p>
+<p><strong><br>Ecology, Habitat and Distribution</strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>It primarily eats fish, but also consumes waterbirds and is known to scavenge
+occasionally. It spends most of their time perched upright on bare branches
+overlooking water bodies in search of prey.&nbsp;</p>
+<p></p>
+<p><strong>Where is it found?</strong>
+</p>
+<p>It has a wide distribution covering India and Southeast Asia but is generally
+uncommon. It breeds along the wooded banks of large water bodies and is
+widespread across Singapore. It has been known to frequent a patch of Casuarina
+trees opposite Japanese Garden.</p>
+<p>
+<br><strong>Conservation Status</strong>
+</p>
+<p>This species is classified as nationally threatened, but its population
+has increased in recent years.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
