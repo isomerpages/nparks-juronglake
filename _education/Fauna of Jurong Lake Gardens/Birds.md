@@ -2886,6 +2886,74 @@ after this kite.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Haliaeetus leucogaster</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>White-bellied Sea Eagle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accipitridae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p></p>
+<p>They are Singapore’s largest resident raptor with an impressive wingspan.
+These majestic creatures are common and hard to miss while in the air,
+sporting a wedge-shaped tail with white head and underparts and dark grey
+upperwings.</p>
+<p><strong><u><br>Ecology, Habitat and Distribution</u></strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>It primarily feeds on fish and sea snakes, which are snatched from the
+water’s surface with the aid of its large talons. They form monogamous
+pairs that remain together until one bird dies, after which the remaining
+bird seeks a new mate. They often perch high in a tree or soar over waterways
+such as Jurong Lake alone or in pairs.</p>
+<p></p>
+<p><strong>Where is it found?</strong>
+</p>
+<p></p>
+<p>You can spot the White-bellied Sea Eagle soaring in coastal areas and
+over large water bodies like reservoirs. It nests on tall trees such as
+the Casuarina as well as man-made structures like transmission towers.
+It has a wide geographic distribution from India and Sri Lanka through
+Southeast Asia to Australia.</p>
+<p></p>
+<p><strong>Did you know?</strong>
+</p>
+<p>It was featured on the old Singapore $10,000 bird series banknote.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -2893,6 +2961,45 @@ after this kite.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Haliastur indus</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brahminy Kite</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accipitridae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -2900,6 +3007,45 @@ after this kite.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Haliastur indus</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brahminy Kite</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accipitridae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -2907,6 +3053,45 @@ after this kite.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Haliastur indus</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brahminy Kite</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accipitridae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -2914,6 +3099,45 @@ after this kite.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Haliastur indus</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brahminy Kite</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accipitridae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
 </div>
 </details>
 </div>
