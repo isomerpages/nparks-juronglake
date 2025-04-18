@@ -4101,7 +4101,8 @@ Southeast Asia.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Piccus vittatus</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -4110,7 +4111,7 @@ Southeast Asia.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Rufous Woodpecker</p>
 </td>
 </tr>
 <tr>
@@ -4119,13 +4120,34 @@ Southeast Asia.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Picidae</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p><strong>What does it look like?</strong>
+</p>
+<p>Its larger size, predominantly green plumage and grey face distinguish
+it from other woodpeckers in Singapore. Like the Common Flameback, males
+have a red crown while females have a black crown. Its call is a series
+of short ‘<em>kek’</em> notes.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>It forages for insects at lower heights than other woodpeckers, even occasionally
+descending to the ground. It is usually seen alone or in pairs.</p>
+<p><strong>Where is it found?</strong>
+</p>
+<p>The Laced Woodpecker is commonly found in wooded habitats like secondary
+forests, old plantations, mangroves and well-wooded parks. It was previously
+recorded nesting at Chinese Garden. Its global distribution ranges from
+southern China to Southeast Asia.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>It has been observed feeding on durian by sticking its long tongue into
+the fruit through an opening made by a Plantain Squirrel!<strong><br></strong>
 </p>
 </div>
 </details>
@@ -4146,7 +4168,8 @@ Southeast Asia.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Dendrocopos moluccensis</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -4155,7 +4178,7 @@ Southeast Asia.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sunda Pygmy Woodpecker</p>
 </td>
 </tr>
 <tr>
@@ -4164,7 +4187,7 @@ Southeast Asia.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Picidae</p>
 </td>
 </tr>
 </tbody>
@@ -4172,6 +4195,21 @@ Southeast Asia.</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>This tiny woodpecker has a brownish crown and ears, prominent white facial
+bands that narrow towards the neck, and brownish upperparts with white
+barrings. The male has a small red line on the sides of its head.</p>
+<p><strong><br>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>It is often found singly or in pairs and often nests in tree holes. Being
+so small, they are soft and not easily audible even when chipping away
+at wood.</p>
+<p><strong>Where is it found?</strong>
+</p>
+<p>This is the most commonly encountered woodpecker in Singapore, and can
+even be observed in carparks with large trees. Elsewhere, it is distributed
+across the islands of Sumatra, Java and Borneo.</p>
 </div>
 </details>
 </div>
