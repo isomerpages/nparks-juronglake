@@ -325,6 +325,24 @@ creatures. Their presence is a welcome sight in our parks and gardens.</p>
 </div>
 <p></p>
 <h4><strong>Carpenter Bees</strong></h4>
+<p>Carpenter bees from the genus <em>Xylocopa</em> are large and often hairy
+bees that are usually dark coloured and about 20-30 mm in length.</p>
+<p>True to their name, they create burrows in solid wood, usually dead tree
+trunks and branches or timber used for construction. These burrows branch
+out into many parallel passageways. Brood cells in their nest are filled
+with pollen and deposited with a single egg each. Unlike honey bees, which
+live in colonies with a single egg-laying female (the queen), Carpenter
+Bees are considered solitary bees which live singly or in small groups.
+All females are able to reproduce.</p>
+<p>In addition to being large, they also buzz loudly while foraging for nectar
+and pollen from many trees and shrubs. Despite this, they are peaceful
+giants that are relatively docile and harmless. They carry out buzz pollination,
+where they grab onto flowers and buzz at a specific frequency, releasing
+pollen in the process. They function as pollinators of many local plants
+such as Sendudok (<em>Melastoma malabathricum</em>) and Simpoh Air (<em>Dillenia suffruticosa</em>).</p>
+<p>About 13 species of carpenter bees have been recorded in Singapore. Here
+are some common species found in Jurong Lake Gardens.<strong><br></strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Broad-footed Carpenter Bee</strong>
