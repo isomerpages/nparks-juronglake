@@ -58,9 +58,11 @@ sections:
       id: announcements
       subtitle: Events, News and Notices
       announcement_items:
-        - title: Temporary Closure of ________________________
+        - title: Safety During Bad Weather
           date: 06 March 2025
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+          announcement: Seek cover at the nearest shelter available and avoid entering
+            forested areas during and immediately after bad weather. Visit the
+            NEA website or dial 6542 7788 for the weather forecast.
+          link_text: Visit the NEA Website here!
+          link_url: https://www.weather.gov.sg/home/
 ---
