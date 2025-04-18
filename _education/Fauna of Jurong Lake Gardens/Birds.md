@@ -3178,7 +3178,7 @@ in recent years.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Haliastur indus</em>
+<p><em>Ketupa ketupu</em>
 </p>
 </td>
 </tr>
@@ -3188,7 +3188,7 @@ in recent years.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brahminy Kite</p>
+<p>Buffy Fish Owl</p>
 </td>
 </tr>
 <tr>
@@ -3197,7 +3197,7 @@ in recent years.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Accipitridae</p>
+<p>Strigidae</p>
 </td>
 </tr>
 </tbody>
@@ -3205,6 +3205,27 @@ in recent years.</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>The Buffy Fish Owl can be identified from its brown ear tufts, large yellow
+eyes and black-streaks on its brown underparts.</p>
+<p><strong><br><u>Ecology, Habitat and Distribution</u></strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>At night, the Buffy Fish Owl hunts for prey around water bodies. It mainly
+feeds on aquatic organisms like frogs and fishes. It usually lays a single
+egg in epiphytes such as the Bird’s Nest Fern or in tree holes. During
+the day, it prefers to roost singly in tall dense trees.</p>
+<p></p>
+<p><strong>Where is it found?</strong>
+</p>
+<p>It can be found in wooded areas close to water, including parks, forests
+and mangroves. Elsewhere, it is found in many other Southeast Asian countries.</p>
+<p></p>
+<p><strong>Conservation Status</strong>
+</p>
+<p>This is a nationally threatened species. However, its population has increased
+in recent years.</p>
 </div>
 </details>
 </div>
