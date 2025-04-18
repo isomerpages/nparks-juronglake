@@ -45,7 +45,8 @@ the fruit yield of many popular edible plants such as brinjals and gourds.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Apis cerana</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +55,7 @@ the fruit yield of many popular edible plants such as brinjals and gourds.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Asian Honey Bee</p>
 </td>
 </tr>
 <tr>
@@ -63,14 +64,21 @@ the fruit yield of many popular edible plants such as brinjals and gourds.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Apidae</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p><strong>What does it look like?</strong>
-<br>
+<br>This species has yellow and brown/black bands. It is smaller than the
+Giant Honey Bee and has an additional brown/black band across the abdomen.
+It is the most common bee in Singapore.</p>
+<p><strong>Behaviour and Ecology</strong>
+</p>
+<p>They usually build their nests in enclosed areas, such as tree holes.
+In urban environments, they might also use upturned pots and roofs. Their
+hives consist of multiple wax combs lined parallel to one another.<strong><br></strong>
 </p>
 </div>
 </details>
