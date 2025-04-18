@@ -74,25 +74,29 @@ that can be spotted at Jurong Lake Gardens.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jurong Lake Gardens Animal Word Search</p>
+<p><a href="/files/Learning Resources/animal_word_search.pdf" rel="noopener noreferrer nofollow" target="_blank">Jurong Lake Gardens Animal Word Search</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Children will learn the names of some of the animals that can be spotted
 at Jurong Lake Gardens.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/Learning Resources/animal_word_search_answers.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jurong Lake Gardens Attractions Crossword Puzzle</p>
+<p><a href="/files/Learning Resources/attraction_crossword.pdf" rel="noopener noreferrer nofollow" target="_blank">Jurong Lake Gardens Attractions Crossword Puzzle</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Children will learn about the attractions at Jurong Lake Gardens.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/Learning Resources/attraction_crossword_answer.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
 </td>
 </tr>
 </tbody>
