@@ -184,6 +184,7 @@ is often attracted to artificial light sources.<strong><br></strong>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h4><strong>Red Dwarf Honey Bee</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
