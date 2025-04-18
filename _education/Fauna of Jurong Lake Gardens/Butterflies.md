@@ -910,6 +910,68 @@ higher up near the crowns of trees.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>&nbsp;Catopsilia pomona</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Lemon Emigrant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Pieridae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
+</div>
+<p>50–70 mm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><br>What does it look like?</strong>
+</p>
+<p>This species has at least seven different ‘forms’, with its appearance
+ranging from pale green to orange yellow with varying widths of black borders
+on the upperside. Emigrants are fast-flying and are often observed zipping
+quickly from plant to plant.</p>
+<p><strong>Host Plant:&nbsp;</strong>Golden Shower Tree (<em>Cassia fistula</em>)</p>
 </div>
 </details>
 <details class="isomer-details">
