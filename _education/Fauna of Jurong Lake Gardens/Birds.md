@@ -3650,7 +3650,8 @@ to Southeast Asia to escape the northern winter.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Bubulcus coromandus</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -3659,7 +3660,7 @@ to Southeast Asia to escape the northern winter.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Eastern Cattle Egret</p>
 </td>
 </tr>
 <tr>
@@ -3668,13 +3669,34 @@ to Southeast Asia to escape the northern winter.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ardeidae</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p><strong>What does it look like?</strong>
+</p>
+<p>While it looks similar to other white egret species, it tends to be smaller,
+stockier and sports a shorter and thicker neck, with a short yellowish
+bill and black legs. During breeding season, they develop golden brown
+plumes.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>As their name suggests, they are usually found in flooded fields in close
+proximity to livestock. They forage on small animals flushed out by moving
+livestock and also feed on parasites found on the livestock.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>They are found across much of the world’s tropical regions. In Singapore,
+it is a migratory species and flocks are regularly seen in flooded fields
+during the northern winter.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>In Singapore, Eastern Cattle Egrets have adapted to feasting on small
+animals disturbed by grass cutters and lawnmowers!<strong><br></strong>
 </p>
 </div>
 </details>
