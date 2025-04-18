@@ -821,7 +821,8 @@ their nests.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Vespa analis</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -830,7 +831,7 @@ their nests.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yellow-vented Hornet</p>
 </td>
 </tr>
 <tr>
@@ -839,7 +840,7 @@ their nests.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Vespidae</p>
 </td>
 </tr>
 </tbody>
@@ -847,6 +848,15 @@ their nests.&nbsp;&nbsp;</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>It is a medium to large-sized hornet. The populations in Singapore and
+in the Southeast Asian region are mainly black with yellow only on the
+tip of its abdomen.</p>
+<p><strong><br>Behaviour and Ecology</strong>
+</p>
+<p><strong>Nests: </strong>It normally builds its nests on trees and thick
+foliage.</p>
+<p><strong>Behaviour:</strong> It is one of the less aggressive hornet species
+found in Singapore and will only attack humans when greatly provoked.</p>
 </div>
 </details>
 </div>
