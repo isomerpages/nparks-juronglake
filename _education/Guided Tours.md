@@ -4,3 +4,152 @@ permalink: /guided-tours/
 variant: tiptap
 description: ""
 ---
+<h2><strong>Guided Tour Routes</strong></h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>Lakeside Garden (North)</p>
+</li>
+<li>
+<p>Lakeside Garden (South)</p>
+</li>
+<li>
+<p>Chinese Garden</p>
+</li>
+<li>
+<p>Japanese Garden</p>
+</li>
+</ol>
+<p><strong>Tour Rates</strong>
+</p>
+<p>1. Schools&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>$9 per pax&nbsp;</p>
+</li>
+<li>
+<p>Minimum 20 students is required&nbsp;</p>
+</li>
+<li>
+<p>Complimentary access for 4 teachers / guardians with every 20 students&nbsp;</p>
+</li>
+<li>
+<p>Flat rate of $180 for 19 students or fewer&nbsp;</p>
+</li>
+</ul>
+<p>2. Corporate and Public&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>$15 per pax&nbsp;</p>
+</li>
+<li>
+<p>Minimum 15 pax is required&nbsp;</p>
+</li>
+<li>
+<p>Flat rate of $225 for 14 pax or fewer</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Guided Tour Booking Terms and Conditions&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bookings for guided tours must be submitted at least one month prior to
+the desired date.&nbsp;</p>
+</li>
+<li>
+<p>One guide will be assigned to a group of 15 participants, with a maximum
+of 20 participants – to be advised by NParks.&nbsp;</p>
+</li>
+<li>
+<p>The maximum number for each booking is 40 participants (i.e. 2 groups
+of 20 pax)</p>
+</li>
+<li>
+<p>If you have more than 40 participants, please consider the following options:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Option 1: Stagger tour times on the same day</p>
+</li>
+<li>
+<p>Option 2: Conduct tours on separate days</p>
+</li>
+</ul>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>The minimum age for the school guided tour is 7 years old.&nbsp;</p>
+</li>
+<li>
+<p>The availability of guides, garden capacity, and facilities will determine
+our ability to conduct private or organized group guided tours.&nbsp;</p>
+</li>
+<li>
+<p>Bookings are processed on a first-come-first-served basis upon receipt
+of the form to secure a guide's time and schedule.&nbsp;</p>
+</li>
+<li>
+<p>Please be aware that our ability to conduct concurrent sessions depends
+on guide availability. Groups may take different paths during the same
+tour to minimize clashes and ensure better crowd management.&nbsp;</p>
+</li>
+<li>
+<p><strong><u>Email correspondence does not serve as a booking confirmation</u></strong>.
+Upon finalizing the necessary details and arrangements, a separate confirmation
+email will be provided as a Memorandum of Acceptance (MOA) document for
+the applicant’s acknowledgment.&nbsp;</p>
+</li>
+<li>
+<p>Your request is <strong><u>ONLY </u></strong>confirmed upon NParks receiving
+the signed quotation, which will be sent after receiving the required information
+from the applicant.&nbsp;</p>
+</li>
+<li>
+<p>No changes will be allowed upon NParks receiving the signed quotation.
+Should there be add-ons to the number of participants, NParks will issue
+another quotation based on the number of add-ons.</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Prices are inclusive of GST. We do not accept cash or cheques. Invoicing
+options are available for Government Schools, Institutions, and Agencies
+(SUB-BU number required for e-invoicing). E-invoices will be sent for payment
+within 30 days from the invoice date.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Cancelation of Bookings&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Payment for guided tour bookings is non-refundable. &nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Changes to bookings regarding participant numbers, date, and time of the
+program must be made at least 7 working days before the program commences.
+&nbsp;</p>
+</li>
+<li>
+<p>In the event of wet weather or haze, rescheduling must be made at least
+1.5 hours before the guided tour begins.&nbsp;
+<br>
+</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>Wet Weather Plan</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>In light rain, participants can proceed with the guided tour using umbrellas
+or ponchos. In the case of heavy rain, the tour will be rescheduled/cancelled.</p>
+</li>
+</ul>
+<p>To book a guided tour, please complete the tour booking form here:&nbsp;
+<a href="https://go.gov.sg/jlg-guidedtourbookings" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jlg-guidedtourbookings</u>
+</a>
+</p>
+<p>If you need further clarifications, please contact us at <a href="https://go.gov.sg/jlg-guidedtourbookings" rel="noopener noreferrer nofollow" target="_blank"><u>juronglakegardens@nparks.gov.sg</u></a>.</p>
+<p></p>
