@@ -2614,6 +2614,65 @@ be observed in both freshwater and coastal wetlands.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Alcedo atthis</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Common Kingfisher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alcedinidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>The Collared Kingfisher is distinguished from other kingfishers by a white
+band around its neck and white underparts, with a turquoise blue back and
+wings.</p>
+<p></p>
+<p><strong><u>Ecology, Habitat and Distribution</u></strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>Singapore’s most abundant kingfisher, it feeds on a wide variety of small
+animals and often gives away its presence with its loud cackling calls.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>This species is found in all habitats throughout Singapore, including
+urban areas far from water. Globally, it is distributed across much of
+the Old World from Africa and the Middle East to Southeast Asia and Australia.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>It is featured on the Singapore $10 banknote in the bird series, the second
+of four different series of the Singapore currency.</p>
 </div>
 </details>
 <details class="isomer-details">
