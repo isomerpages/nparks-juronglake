@@ -328,7 +328,8 @@ creatures. Their presence is a welcome sight in our parks and gardens.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Xylocopa latipes</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -337,7 +338,7 @@ creatures. Their presence is a welcome sight in our parks and gardens.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Broad-footed Carpenter Bee</p>
 </td>
 </tr>
 <tr>
@@ -346,13 +347,23 @@ creatures. Their presence is a welcome sight in our parks and gardens.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Apidae</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p><strong>What does it look like?</strong>
+</p>
+<p>The all-black<em> </em>Broad-footed Carpenter Bee is the largest bee in
+Singapore, and also one of the largest in the world. It is shiny and fully
+black with metallic blue green or purple wings in sunlight. It has a distinctive,
+low-pitched buzzing that can be heard while foraging. Males have unusual
+front legs that are lighter in colour and covered in smooth, brush-like
+hairs.</p>
+<p></p>
+<p>
+<br>
 </p>
 </div>
 </details>
