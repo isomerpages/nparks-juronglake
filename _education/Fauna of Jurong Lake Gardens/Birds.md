@@ -2560,7 +2560,7 @@ is largely outcompeted by the introduced and more aggressive Javan Myna.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Acridotheres tristis</em>
+<p><em>Alcedo atthis</em>
 </p>
 </td>
 </tr>
@@ -2570,7 +2570,7 @@ is largely outcompeted by the introduced and more aggressive Javan Myna.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Common Myna</p>
+<p>Common Kingfisher</p>
 </td>
 </tr>
 <tr>
@@ -2579,7 +2579,7 @@ is largely outcompeted by the introduced and more aggressive Javan Myna.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sturnidae</p>
+<p>Alcedinidae</p>
 </td>
 </tr>
 </tbody>
@@ -2591,6 +2591,22 @@ is largely outcompeted by the introduced and more aggressive Javan Myna.</p>
 <p>A small kingfisher about the length of a small ruler, it is characterised
 by predominantly blue plumage with orange brown underparts. Males have
 an all-black bill, while females have an orange lower bill.</p>
+<p></p>
+<p><strong><u>Ecology, Habitat and Distribution</u></strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They are often observed perching on vantage points overlooking water bodies
+such as stakes, signboards and even handrails. They feed predominantly
+on fish, which they catch by diving off these vantage points into the water.</p>
+<p></p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>This species is found across Europe and Asia. In Singapore, it is migratory
+and occurs between the months of August and April, during which it can
+be observed in both freshwater and coastal wetlands.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -2618,4 +2634,5 @@ an all-black bill, while females have an orange lower bill.</p>
 <p>
 <br>
 </p>
+<p></p>
 <p></p>
