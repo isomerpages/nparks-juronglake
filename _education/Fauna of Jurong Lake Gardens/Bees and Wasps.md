@@ -757,7 +757,8 @@ their nest, they will otherwise not attack unprovoked.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Vespa tropica</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -766,7 +767,7 @@ their nest, they will otherwise not attack unprovoked.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Greater Banded Hornet</p>
 </td>
 </tr>
 <tr>
@@ -775,7 +776,7 @@ their nest, they will otherwise not attack unprovoked.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Vespidae</p>
 </td>
 </tr>
 </tbody>
@@ -783,6 +784,24 @@ their nest, they will otherwise not attack unprovoked.</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>It is a medium to large-sized hornet. The colour of this species varies
+based on locality, but in Singapore it is usually black with a distinct
+bright orange band on its abdomen. It can be told apart from the Lesser
+Banded Hornet (<em>Vespa affinis</em>) by its generally larger size. Its
+orange band lies only on the second segment of the abdomen while the band
+on the Lesser Banded Hornet also partially covers the first segment.</p>
+<p><strong><br>Behaviour and Ecology</strong>
+</p>
+<p><strong>Nests: </strong>Their globular nests may be constructed in various
+locations, including underground, in enclosed spaces such as tree hollows,
+or high on trees. The surface of the nest is often covered with intricate,
+ripple-like patterns.&nbsp;</p>
+<p><strong>Behaviour:</strong> &nbsp;Greater Banded Hornets tend to fly high
+in trees under the cover of dense foliage. They are known for their raids
+on Paper Wasp (<em>Ropalidia</em> spp.) nests, where they will kill the
+adults and take the larvae back to feed their own larvae. They may defend
+their nest aggressively when provoked so it is important not to disturb
+their nests.&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
