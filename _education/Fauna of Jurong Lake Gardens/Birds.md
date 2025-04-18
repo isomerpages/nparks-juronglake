@@ -2626,7 +2626,7 @@ be observed in both freshwater and coastal wetlands.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Alcedo atthis</em>
+<p><em>Todiramphus chloris</em>
 </p>
 </td>
 </tr>
@@ -2636,7 +2636,7 @@ be observed in both freshwater and coastal wetlands.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Common Kingfisher</p>
+<p>Collared Kingfisher</p>
 </td>
 </tr>
 <tr>
