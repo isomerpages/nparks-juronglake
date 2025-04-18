@@ -38,29 +38,30 @@ Lake Gardens!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Scientific name:</strong>
+<p>&nbsp;<strong>Scientific name:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;<em>Danaus chrysippus</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Common name:</strong>
+<p>&nbsp;<strong>Common name:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;Plain Tiger</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Family:</strong>
+<p>&nbsp;<strong>Family:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;Nymphalidae</p>
 </td>
 </tr>
 </tbody>
@@ -68,6 +69,13 @@ Lake Gardens!</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>A very common butterfly in Jurong Lake Gardens, the Plain Tiger has rich
+orange forewings with a black border and white spots. Its hindwings are
+white with black spots. There is also a less common orange form that has
+fully orange hind wings. It flies slowly while feeding on its favorite
+nectaring plants.</p>
+<p></p>
+<p><strong>Host Plant: </strong>Giant Milkweed (<em>Calotrops gigantea</em>)</p>
 </div>
 </details>
 <details class="isomer-details">
