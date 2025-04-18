@@ -32,38 +32,44 @@ with our downloadable learning resources:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jurong Lake Gardens Edible Plants Word Search</p>
+<p><a href="/files/Learning Resources/JLG_Edibles_Plant_Word_Search.pdf" rel="noopener noreferrer nofollow" target="_blank">Jurong Lake Gardens Edible Plants Word Search</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Children will learn the names and characteristics of some of the edible
 plants that can be found at Jurong Lake Gardens.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/Learning Resources/JLG_Edibles_Plant_Word_Search_Answer_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jurong Lake Gardens Fruiting Trees Word Search</p>
+<p><a href="/files/Learning Resources/fruiting_tree_word_search.pdf" rel="noopener noreferrer nofollow" target="_blank">Jurong Lake Gardens Fruiting Trees Word Search</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Children will learn the names and characteristics of some of the fruiting
 trees that can be found at Jurong Lake Gardens.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/Learning Resources/fruiting_tree_word_search_answers.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jurong Lake Gardens Animal Crossword Puzzle</p>
+<p><a href="/files/Learning Resources/Animal_Crossword_Puzzle.pdf" rel="noopener noreferrer nofollow" target="_blank">Jurong Lake Gardens Animal Crossword Puzzle</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Children will learn the names and characteristics of some of the animals
 that can be spotted at Jurong Lake Gardens.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/Learning Resources/Animal_Crossword_Puzzle_Answers.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
 </td>
 </tr>
 <tr>
