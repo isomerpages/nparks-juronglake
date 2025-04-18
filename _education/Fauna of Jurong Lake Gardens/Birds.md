@@ -2808,14 +2808,117 @@ the Leopard Tree (<em>Libidibia ferrea)</em> in Japanese Garden.</p>
 </details>
 </div>
 <h4><br>Raptors</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Brahminy Kite</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Pelargopsis capensis</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stork-billed Kingfisher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alcedinidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p></p>
+<p>This common, medium-sized raptor is often known as the “Singapore bald
+eagle”. It is easily identified by the chestnut brown body and white head
+and breast of the adult. Compared to eagles, kites weigh less, as well
+as have smaller heads and narrower wings.</p>
+<p><strong><u><br>Ecology, Habitat and Distribution</u></strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They are primarily scavengers but also prey on a variety of small animals.
+They are often seen soaring in the air and occasionally diving for food.</p>
+<p></p>
+<p><strong>Where is it found?</strong>
+</p>
+<p>The Brahminy Kite is commonly found in our mangroves, forests, parks and
+urban areas. It nests in trees in coastal areas. It is widespread in the
+skies of the Indian subcontinent, Southeast Asia and even Australia.</p>
+<p></p>
+<p>Brahminy Kites have been known to perch on the Lone Tree in the Grasslands
+of Jurong Lake Gardens.</p>
+<p></p>
+<p><strong>Did you know?</strong>
+</p>
+<p>The Malaysian island Langkawi, which means reddish brown eagle, was named
+after this kite.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>White-bellied Sea Eagle</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Grey-headed Fish Eagle</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Crested Serpent Eagle</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Spotted Wood Owl</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Buffy Fish Owl</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 </div>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
