@@ -264,7 +264,8 @@ are inefficient and do not pierce the skin of adults easily.<strong><br></strong
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Amegilla andrewsi</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +274,7 @@ are inefficient and do not pierce the skin of adults easily.<strong><br></strong
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sunda Blue-banded Digger Bee</p>
 </td>
 </tr>
 <tr>
@@ -282,7 +283,7 @@ are inefficient and do not pierce the skin of adults easily.<strong><br></strong
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Apidae</p>
 </td>
 </tr>
 </tbody>
@@ -290,6 +291,20 @@ are inefficient and do not pierce the skin of adults easily.<strong><br></strong
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>Its abdomen is striped with alternating brilliant blue and black bands
+and has orange brown hair covering its thorax. Despite its speedy flight,
+its vibrant blue bands are easily recognisable.</p>
+<p>
+<br><strong>Behaviour and Ecology</strong>
+</p>
+<p>Blue-banded Digger Bees are solitary bees that have the ability to buzz
+pollinate flowers. Clinging onto the flower’s anthers, the bee vibrates
+its body at a particular frequency that causes pollen from the flower to
+be released. They nest in the ground, particularly in clayey soil. In urban
+environments, they are known to use man-made surfaces such as mortar between
+bricks and concrete as nests instead.</p>
+<p>You will rarely ever get stung from this species as they are shy and docile
+creatures. Their presence is a welcome sight in our parks and gardens.</p>
 </div>
 </details>
 </div>
