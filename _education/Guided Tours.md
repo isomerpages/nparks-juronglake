@@ -117,7 +117,7 @@ email will be provided as a Memorandum of Acceptance (MOA) document for
 the applicant’s acknowledgment.&nbsp;</p>
 </li>
 <li>
-<p>Your request is <strong><u>ONLY </u></strong>confirmed upon NParks receiving
+<p>Your request is <strong><u>ONLY</u></strong> confirmed upon NParks receiving
 the signed quotation, which will be sent after receiving the required information
 from the applicant.&nbsp;</p>
 </li>
@@ -136,12 +136,11 @@ within 30 days from the invoice date.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p><strong>Cancelation of Bookings&nbsp;</strong>
-</p>
+<h4><strong>Cancelation of Bookings&nbsp;</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Payment for guided tour bookings is non-refundable. &nbsp;</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>Changes to bookings regarding participant numbers, date, and time of the
 program must be made at least 7 working days before the program commences.
@@ -154,10 +153,7 @@ program must be made at least 7 working days before the program commences.
 </p>
 </li>
 </ul>
-</li>
-</ul>
-<p><strong>Wet Weather Plan</strong>
-</p>
+<h4><strong>Wet Weather Plan</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>In light rain, participants can proceed with the guided tour using umbrellas
