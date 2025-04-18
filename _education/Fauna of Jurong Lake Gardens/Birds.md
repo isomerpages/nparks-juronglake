@@ -3232,10 +3232,10 @@ in recent years.</p>
 <h4>Waterbirds</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Grey Heron</summary>
+<summary><strong>Grey Heron</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br>
+<p><strong><br></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -3249,7 +3249,7 @@ in recent years.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Ardea cinerea</em>
+<p><strong><em>Ardea cinerea</em></strong>
 </p>
 </td>
 </tr>
@@ -3259,7 +3259,8 @@ in recent years.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Grey Heron</p>
+<p><strong>Grey Heron</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -3268,7 +3269,8 @@ in recent years.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ardeidae</p>
+<p><strong>Ardeidae</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -3276,34 +3278,31 @@ in recent years.</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
-<p>The tallest and most commonly seen heron in Jurong Lake Gardens, the Grey
-Heron has a wingspan of 2 m. It has mostly white plumage with a black stripe
-on the head and black streaks down the centre of its neck. Its bill is
-dull yellow. You can observe a nesting colony on the Casuarina trees at
-Japanese Garden.</p>
+<p><strong>The tallest and most commonly seen heron in Jurong Lake Gardens, the Grey Heron has a wingspan of 2 m. It has mostly white plumage with a black stripe on the head and black streaks down the centre of its neck. Its bill is dull yellow. You can observe a nesting colony on the Casuarina trees at Japanese Garden.</strong>
+</p>
 <p><strong><br>Ecology, Habitat and Distribution</strong>
 </p>
 <p><strong>Diet and Behaviour</strong>
 </p>
-<p>They feed on fish, amphibians, small mammals and insects. They are often
-observed perched on trees or the banks of large water bodies.</p>
+<p><strong>They feed on fish, amphibians, small mammals and insects. They are often observed perched on trees or the banks of large water bodies.</strong>
+</p>
 <p><strong>Where are they found?</strong>
 </p>
-<p>This species is commonly observed in a variety of freshwater and coastal
-wetlands across Singapore. Nesting colonies can be found at Pasir Ris Park
-and Japanese Garden. They are widely distributed globally and can be found
-in Europe, Africa and Asia.</p>
+<p><strong>This species is commonly observed in a variety of freshwater and coastal wetlands across Singapore. Nesting colonies can be found at Pasir Ris Park and Japanese Garden. They are widely distributed globally and can be found in Europe, Africa and Asia.</strong>
+</p>
 <p><strong>Did you know?</strong>
 </p>
-<p>A nesting colony of herons is known as a heronry.</p>
+<p><strong>A nesting colony of herons is known as a heronry.</strong>
+</p>
 <p><strong>Conservation Status</strong>
 </p>
-<p>It is classified as nationally endangered, but the local population has
-been increasing in recent years.</p>
+<p><strong>It is classified as nationally endangered, but the local population has been increasing in recent years.</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Purple Heron</summary>
+<summary><strong>Purple Heron</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <table style="minWidth: 50px">
@@ -3888,8 +3887,24 @@ European countries such as Russia.</p>
 </div>
 </details>
 </div>
+<h4><br>Woodpeckers and Barbets </h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Coppersmith Barbet</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Common Flameback</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
