@@ -23,8 +23,7 @@ the variety of butterflies in our gardens.</p>
 <p>Here are some of the butterflies which you can expect to see in Jurong
 Lake Gardens!</p>
 <p></p>
-<h4><strong>Butterflies of Jurong Lake Gardens</strong></h4>
-<p></p>
+<h4><strong>Family Nymphalidae</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Plain Tiger</strong>
@@ -142,16 +141,82 @@ Lake Gardens!</p>
 </div>
 </details>
 </div>
+<h4><br><strong>Family Pieridae</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Grass Yellows</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Painted Jezebel</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Lemon Emigrant</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Orange Emigrant</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Mottled Emigrant</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Striped Albatross</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<h4><br><strong>Family Lycaenidae</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>
 </p>
+</div>
+</details>
+</div>
+<h4><br><strong>Family Papilionidae</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>
 </p>
+</div>
+</details>
+</div>
+<h4><br><strong>Family Hesperiidae</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>
 </p>
-<p>
-<br>
-</p>
+</div>
+</details>
+</div>
 <p></p>
