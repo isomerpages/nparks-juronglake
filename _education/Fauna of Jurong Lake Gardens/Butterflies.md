@@ -623,6 +623,70 @@ white markings.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>&nbsp;Acraea terpsicore</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Tawny Coster</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Nymphalidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
+</div>
+<p>45–55 mm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><br>What does it look like?</strong>
+</p>
+<p>It has an orange upperside with black spots and a narrow black hindwing
+border. Underneath, it is a slightly paler orange in the male and a tawny
+yellow in the female. It has white spots on its black thorax and hindwing
+borders. This butterfly flies sluggishly in a fluttering manner around
+plants of the passion fruit family.</p>
+<p><strong>Host Plant:&nbsp;</strong>Plants from the Passion Flower family
+(Passifloraceae) such as Passion Fruit (<em>Passiflora edulis</em>)</p>
 </div>
 </details>
 <details class="isomer-details">
