@@ -3893,8 +3893,61 @@ European countries such as Russia.</p>
 <summary><strong>Coppersmith Barbet</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Megalaima haemacephala</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coppersmith Barbet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Megalaimidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+<br>Its name is derived from its call which sounds like a coppersmith hitting
+copper sheets – a continuous ‘<em>tonk tonk tonk’ </em>sound<em>.</em> Adults
+have greenish upperparts, a stout blackish bill with fine bristles, a crimson
+forehead, and yellow underparts, around the eyes and on the throat.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They are often encountered alone or in pairs. They feed primarily on fruits
+but will consume insects and small animals as well, particularly during
+breeding season. They breed from February to July and nest in tree cavities.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>This species is the barbet that has adapted most to urban environments
+and is frequently observed in urban green spaces. Elsewhere, it occurs
+on the Indian subcontinent, China and Southeast Asia.<strong><br></strong>
 </p>
 </div>
 </details>
@@ -3903,6 +3956,44 @@ European countries such as Russia.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -3910,6 +4001,44 @@ European countries such as Russia.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -3917,6 +4046,44 @@ European countries such as Russia.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -3924,6 +4091,44 @@ European countries such as Russia.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
 </div>
 </details>
 </div>
