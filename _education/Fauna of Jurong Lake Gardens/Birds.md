@@ -2746,6 +2746,64 @@ It is also widely distributed across Asia.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Pelargopsis capensis</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stork-billed Kingfisher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alcedinidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>It is the largest kingfisher in Singapore and is easily identified by
+its large red bill, grey brown head, blue wings and tail, and warm brown
+collar and underparts.</p>
+<p></p>
+<p><strong><u>Ecology, Habitat and Distribution</u></strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>Despite its size, it is rather inconspicuous while quietly perched amongst
+vegetation. Its large build enables it to feed on larger prey such as crabs.&nbsp;</p>
+<p></p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>This species is widespread but uncommon in both freshwater and coastal
+wetlands across Singapore. A resident pair can often be found perched on
+the Leopard Tree (<em>Libidibia ferrea)</em> in Japanese Garden.</p>
+<p></p>
 </div>
 </details>
 </div>
