@@ -479,6 +479,12 @@ the end of the abdomen.
 </div>
 <p></p>
 <h4><strong>Megachilid Bees</strong></h4>
+<p>These bees are from the family Megachilidae and are solitary or brood
+parasites of the nests of other bees, in contrast to the social groups
+of honey bees. Their nests come in all forms, ranging from soil and stem
+burrows, wood burrows made by beetles, on rocks, to stems and leaves. They
+supplement their nests with other materials, which explains their common
+names of Leaf-cutter Bees and Resin Bees.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Disjunct Resin Bee</strong>
@@ -497,7 +503,8 @@ the end of the abdomen.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Megachile disjuncta</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -506,7 +513,7 @@ the end of the abdomen.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Disjunct Resin Bee</p>
 </td>
 </tr>
 <tr>
@@ -515,13 +522,21 @@ the end of the abdomen.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Megachilidae</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p><strong>What does it look like?</strong>
+</p>
+<p>Megachilid bees like the Resin Bee have a more rectangular or oblong shape
+than other bees. The Disjunct Resin Bee is black with purplish metallic
+wings and has a patch of white hairs on the top of its abdomen near the
+thorax. It stores its collected pollen on the underside of its abdomen
+while foraging, rather than on its hind legs like other bees.</p>
+<p>
+<br>
 </p>
 </div>
 </details>
