@@ -3276,7 +3276,30 @@ in recent years.</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
-<p></p>
+<p>The tallest and most commonly seen heron in Jurong Lake Gardens, the Grey
+Heron has a wingspan of 2 m. It has mostly white plumage with a black stripe
+on the head and black streaks down the centre of its neck. Its bill is
+dull yellow. You can observe a nesting colony on the Casuarina trees at
+Japanese Garden.</p>
+<p><strong><br>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>They feed on fish, amphibians, small mammals and insects. They are often
+observed perched on trees or the banks of large water bodies.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>This species is commonly observed in a variety of freshwater and coastal
+wetlands across Singapore. Nesting colonies can be found at Pasir Ris Park
+and Japanese Garden. They are widely distributed globally and can be found
+in Europe, Africa and Asia.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>A nesting colony of herons is known as a heronry.</p>
+<p><strong>Conservation Status</strong>
+</p>
+<p>It is classified as nationally endangered, but the local population has
+been increasing in recent years.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -3295,7 +3318,8 @@ in recent years.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Ardea pupurea</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -3304,7 +3328,7 @@ in recent years.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Purple Heron</p>
 </td>
 </tr>
 <tr>
@@ -3313,7 +3337,7 @@ in recent years.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ardeidae</p>
 </td>
 </tr>
 </tbody>
@@ -3321,6 +3345,25 @@ in recent years.</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>The adult Purple Heron has a black crown with distinct black lines running
+down the sides of its face and neck. It has grey upperparts, a reddish-brown
+neck, and dark chestnut underparts. The bill and legs are yellowish orange.
+The juvenile is largely brown and lacks the bold black lines along its
+head and neck.</p>
+<p><strong><br>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>The Purple Heron feeds on a wide variety of prey including fish, frogs
+and other small animals. Like many herons, it stands motionless in shallow
+water, waiting for the opportunity to impale its prey with its sharp beak.
+It is shy and often conceals itself in dense vegetation.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>It is an uncommon resident that is usually observed in well-vegetated
+freshwater wetlands in Singapore including Kranji Marshes, Bishan-Ang Mo
+Kio Park and Jurong Lake Gardens. The Purple Heron is also found from Africa
+and Europe to the Indian subcontinent and Southeast Asia.</p>
 </div>
 </details>
 <details class="isomer-details">
