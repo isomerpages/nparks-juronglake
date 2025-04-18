@@ -4,7 +4,7 @@ permalink: /guided-tours/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Guided Tour Routes</strong></h2>
+<h3><strong>Guided Tour Routes</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Lakeside Garden (North)</p>
@@ -19,7 +19,7 @@ description: ""
 <p>Japanese Garden</p>
 </li>
 </ol>
-<h2><strong>Tour Rates</strong></h2>
+<h3><strong>Tour Rates</strong></h3>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
