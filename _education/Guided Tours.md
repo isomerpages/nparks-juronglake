@@ -7,16 +7,20 @@ description: ""
 <h3><strong>Guided Tour Routes</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Lakeside Garden (North)</p>
+<p><a href="/files/Guided Tours/North_Route_deck.pdf" rel="noopener noreferrer nofollow" target="_blank">Lakeside Garden (North)</a>
+</p>
 </li>
 <li>
-<p>Lakeside Garden (South)</p>
+<p><a href="/files/Guided Tours/South_Route_deck.pdf" rel="noopener noreferrer nofollow" target="_blank">Lakeside Garden (South)</a>
+</p>
 </li>
 <li>
-<p>Chinese Garden</p>
+<p><a href="/files/Guided Tours/DIY_CHINESE_GARDEN_GUIDE.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Garden</a>
+</p>
 </li>
 <li>
-<p>Japanese Garden</p>
+<p><a href="/files/Guided Tours/DIY_JAPANESE_GARDEN_GUIDE.pdf" rel="noopener noreferrer nofollow" target="_blank">Japanese Garden</a>
+</p>
 </li>
 </ol>
 <h3><strong>Tour Rates</strong></h3>
