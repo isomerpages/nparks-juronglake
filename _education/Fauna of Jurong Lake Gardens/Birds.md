@@ -3717,7 +3717,8 @@ animals disturbed by grass cutters and lawnmowers!<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Egretta garzetta</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -3726,7 +3727,7 @@ animals disturbed by grass cutters and lawnmowers!<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Little Egret</p>
 </td>
 </tr>
 <tr>
@@ -3735,13 +3736,29 @@ animals disturbed by grass cutters and lawnmowers!<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ardeidae</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p><strong>What does it look like?</strong>
+</p>
+<p>The Little Egret has a uniformly white plumage with black legs, green
+toes, and a blackish beak. During the breeding season, the adult develops
+white plumes behind its head.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>The Little Egret is gregarious and is often found in flocks. It employs
+a variety of methods to catch fish for food, such as disturbing small fish
+by shuffling its feet in water or using a wait-and-ambush strategy.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>It is a common migrant in Singapore, and can be observed in a variety
+of wetlands from urban canals to coastal mudflats. It breeds in countries
+such as China, Korea and Japan.<strong><br></strong>
 </p>
 </div>
 </details>
