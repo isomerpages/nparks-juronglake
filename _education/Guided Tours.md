@@ -71,8 +71,7 @@ description: ""
 <h4>&nbsp;<strong>Guided Tour Booking Terms and Conditions&nbsp;</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bookings for guided tours must be submitted at least one month prior to
-the desired date.&nbsp;</p>
+<p>Bookings for guided tours must be submitted<strong> at least one month prior to the desired date</strong>.&nbsp;</p>
 </li>
 <li>
 <p>One guide will be assigned to a group of 15 participants, with a maximum
@@ -96,7 +95,7 @@ of 20 pax)</p>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p>The minimum age for the school guided tour is 7 years old.&nbsp;</p>
+<p>The<strong> minimum age</strong> for the school guided tour is <strong>7 years old</strong>.&nbsp;</p>
 </li>
 <li>
 <p>The availability of guides, garden capacity, and facilities will determine
