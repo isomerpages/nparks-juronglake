@@ -636,7 +636,8 @@ if left alone and is more likely to flee than attack.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Polistes sagittarius</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -645,7 +646,7 @@ if left alone and is more likely to flee than attack.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Banded Paper Wasp</p>
 </td>
 </tr>
 <tr>
@@ -654,7 +655,7 @@ if left alone and is more likely to flee than attack.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Vespidae</p>
 </td>
 </tr>
 </tbody>
@@ -662,6 +663,24 @@ if left alone and is more likely to flee than attack.</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>It is a medium-sized wasp that is mostly black with reddish brown on parts
+of its thorax and the front of its head. Its most striking feature is its
+abdomen that starts with a small dark brown band, followed by a larger
+deep yellow band. Its wings are tinged brown at the base. It may be confused
+with the Lesser Banded Hornet (<em>Vespa affinis</em>), but is noticeably
+more slender.</p>
+<p><strong><br>Behaviour and Ecology</strong>
+</p>
+<p><strong>Nests:</strong> Paper wasps build their nests by gathering fibres
+from dead wood and plant stems. After mixing them with their saliva, the
+paper-like material is applied in layers onto surfaces to create a tough,
+water-resistant paper when dried. The nests are attached to surfaces with
+a distinct stalk. The combs of the nest are open and are protected by a
+chemical secreted by the wasp that repels predators such as ants.</p>
+<p><strong>Behaviour:</strong> Paper wasps are generally non-aggressive and
+will only attack if threatened. Paper wasps like <em>P. sagittarius</em> prey
+almost exclusively on caterpillars, including many pest species. This makes
+their presence very beneficial to plant nurseries!</p>
 </div>
 </details>
 <details class="isomer-details">
