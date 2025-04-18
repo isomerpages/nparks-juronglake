@@ -2542,5 +2542,37 @@ is largely outcompeted by the introduced and more aggressive Javan Myna.</p>
 </details>
 </div>
 <h4>Kingfishers</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Common Kingfisher</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Collared Kingfisher</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>White-throated Kingfisher</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Stork-billed Kingfisher</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p>
+<br>
+</p>
 <p></p>
