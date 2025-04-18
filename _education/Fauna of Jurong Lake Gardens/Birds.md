@@ -3042,7 +3042,7 @@ has increased in recent years.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Haliastur indus</em>
+<p><em>Spilornis cheela</em>
 </p>
 </td>
 </tr>
@@ -3052,7 +3052,7 @@ has increased in recent years.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brahminy Kite</p>
+<p>Crested Serpent Eagle</p>
 </td>
 </tr>
 <tr>
@@ -3069,6 +3069,24 @@ has increased in recent years.</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>The Crested Serpent Eagle has a generally dark brown plumage with a black-and-white
+crown and yellow beak. Its breast and belly have white barrings and there
+is a prominent central white band across its tail. In flight, a broad white
+band on its dark trailing wing feathers is visible from below.</p>
+<p><strong><u><br>Ecology, Habitat and Distribution</u></strong>
+</p>
+<p></p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>As its name suggests, it primarily feeds on snakes and is often observed
+soaring over forested areas in search of prey.</p>
+<p></p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>This species is nationally threatened and is occasionally seen soaring
+over forested areas or in well-wooded parks. Some of the Crested Serpent
+Eagles observed in Singapore are migratory and spend the winter months
+in our green spaces.</p>
 </div>
 </details>
 <details class="isomer-details">
