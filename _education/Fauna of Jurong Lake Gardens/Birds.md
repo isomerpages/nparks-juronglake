@@ -3779,7 +3779,8 @@ such as China, Korea and Japan.<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Amaurornis phoenicurus</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -3788,7 +3789,7 @@ such as China, Korea and Japan.<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>White-breasted Waterhen</p>
 </td>
 </tr>
 <tr>
@@ -3797,13 +3798,31 @@ such as China, Korea and Japan.<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Rallidae</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p><strong>What does it look like?</strong>
+</p>
+<p>It is easily identified by its contrasting black upperparts and white
+underparts with a chocolate brown vent.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>These omnivorous birds are often observed foraging at the edge of freshwater
+wetlands close to dense vegetation. When threatened, they make a dash for
+the nearest cover.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>This bird is commonly encountered in wetlands across Singapore and has
+adapted to life in urban ponds as well. It is distributed across the Indian
+Subcontinent and Southeast Asia.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>Their chicks are flightless and have a uniformly black body!<strong><br></strong>
 </p>
 </div>
 </details>
@@ -3824,7 +3843,8 @@ such as China, Korea and Japan.<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Actitis hypoleucos</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -3833,7 +3853,7 @@ such as China, Korea and Japan.<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Common Sandpiper</p>
 </td>
 </tr>
 <tr>
@@ -3842,7 +3862,7 @@ such as China, Korea and Japan.<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Scolopacidae</p>
 </td>
 </tr>
 </tbody>
@@ -3850,6 +3870,21 @@ such as China, Korea and Japan.<strong><br></strong>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>The Common Sandpiper has grey-brown upperparts, white underparts, and
+yellowish-brown legs.</p>
+<p><strong><br>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>The Common Sandpiper is solitary and has a habit of bobbing its head up
+and down while walking, and flicking its wings in flight. It is often observed
+feeding on small invertebrates along the banks of canals and artificial
+water bodies like reservoirs.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>It is the most commonly encountered shorebird in Singapore and can be
+observed in both freshwater and coastal wetlands. It breeds across many
+European countries such as Russia.</p>
 </div>
 </details>
 </div>
