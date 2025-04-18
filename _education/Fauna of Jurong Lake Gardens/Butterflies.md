@@ -768,6 +768,70 @@ comparing the position and patterns of the eyespots and streaks.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>&nbsp;Eurema sp.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Grass Yellow</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Pieridae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
+</div>
+<p>35–45 mm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><br>What do they look like?</strong>
+</p>
+<p>Grass yellows are butterflies from the genus <em>Eurema</em> and consist
+of six species of butterflies with bright yellow wings with black borders.
+They are told apart by the number of dark brown cell spots on the underside
+of the wing, but this can be quite a difficult task as they tend to fly
+restlessly and are alert when approached.</p>
+<p><strong>Host Plant:&nbsp;</strong>Many legumes including the Peacock Flower
+(<em>Caesalpinia pulcherrima</em>)</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -775,6 +839,70 @@ comparing the position and patterns of the eyespots and streaks.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>&nbsp;Delias hyparete</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Painted Jezebel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Pieridae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
+</div>
+<p>70–80 mm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><br>What does it look like?</strong>
+</p>
+<p>Easily identified by its intense red and yellow colouration, the Painted
+Jezebel is white above, while the lower half of the hindwing is bright
+yellow with a bright red border. The wings of the females have veins that
+are more heavily dusted that those of the males. It is a common butterfly
+in our forests, mangroves, parks and gardens, and is often observed flying
+higher up near the crowns of trees.</p>
+<p><strong>Host Plant:&nbsp;</strong>Malayan Mistletoe (<em>Dendropthoe pentandra</em>)</p>
 </div>
 </details>
 <details class="isomer-details">
