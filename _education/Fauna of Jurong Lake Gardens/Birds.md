@@ -2807,8 +2807,15 @@ the Leopard Tree (<em>Libidibia ferrea)</em> in Japanese Garden.</p>
 </div>
 </details>
 </div>
-<p>
-<br>Raptors</p>
+<h4><br>Raptors</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Brahminy Kite</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
