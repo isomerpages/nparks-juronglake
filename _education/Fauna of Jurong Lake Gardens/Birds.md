@@ -2826,7 +2826,7 @@ the Leopard Tree (<em>Libidibia ferrea)</em> in Japanese Garden.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Pelargopsis capensis</em>
+<p><em>Haliastur indus</em>
 </p>
 </td>
 </tr>
@@ -2836,7 +2836,7 @@ the Leopard Tree (<em>Libidibia ferrea)</em> in Japanese Garden.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stork-billed Kingfisher</p>
+<p>Brahminy Kite</p>
 </td>
 </tr>
 <tr>
@@ -2845,7 +2845,7 @@ the Leopard Tree (<em>Libidibia ferrea)</em> in Japanese Garden.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alcedinidae</p>
+<p>Accipitridae</p>
 </td>
 </tr>
 </tbody>
