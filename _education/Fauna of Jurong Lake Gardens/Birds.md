@@ -3383,7 +3383,8 @@ and Europe to the Indian subcontinent and Southeast Asia.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Butorides striata</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -3392,7 +3393,7 @@ and Europe to the Indian subcontinent and Southeast Asia.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Striated Heron</p>
 </td>
 </tr>
 <tr>
@@ -3401,7 +3402,7 @@ and Europe to the Indian subcontinent and Southeast Asia.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ardeidae</p>
 </td>
 </tr>
 </tbody>
@@ -3409,6 +3410,27 @@ and Europe to the Indian subcontinent and Southeast Asia.</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
+<p>The Striated Heron has bluish grey plumage with a black cap on its head
+and a dark bill. Its wings are black with buff edges, giving it the appearance
+of white scales. Its legs are glossy orange during breeding season, but
+olive grey or yellowish green otherwise. Compared to the Grey Heron it
+is smaller and stockier.</p>
+<p><strong><br>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>Like most herons, aquatic prey like fish form a large part of their diet.
+They are solitary and are often seen perching along the banks of water
+bodies.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>This is the most adaptable and commonly encountered small heron in Singapore.
+They can be found in all freshwater and coastal wetlands, including urban
+canals.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>Striated Herons are known to use pieces of bread as bait when hunting
+fish.</p>
 </div>
 </details>
 <details class="isomer-details">
