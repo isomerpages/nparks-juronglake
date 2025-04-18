@@ -99,7 +99,8 @@ hives consist of multiple wax combs lined parallel to one another.<strong><br></
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Apis dorsata</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +109,7 @@ hives consist of multiple wax combs lined parallel to one another.<strong><br></
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Giant Honey Bee</p>
 </td>
 </tr>
 <tr>
@@ -117,13 +118,26 @@ hives consist of multiple wax combs lined parallel to one another.<strong><br></
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Apidae</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p><strong>What does it look like?</strong>
+</p>
+<p>The largest of the honey bee species found in Singapore, it has one less
+brown/black band at the top of the abdomen as compared to the Asian Honey
+Bee.</p>
+<p><strong>Behaviour and Ecology</strong>
+</p>
+<p>It is more commonly found in forested areas where it builds its nest hanging
+from tree branches. The nests usually consist of a large, open single comb
+that may support up to 100,000 workers. It is aggressive when its nest
+is provoked, but this has not stopped the indigenous people of Southeast
+Asia from collecting the beeswax and honey produced by this species.</p>
+<p>Unlike other honey bee species, it can actively forage after dusk and
+is often attracted to artificial light sources.<strong><br></strong>
 </p>
 </div>
 </details>
