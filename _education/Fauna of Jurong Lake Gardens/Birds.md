@@ -3968,7 +3968,8 @@ on the Indian subcontinent, China and Southeast Asia.<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Dinopium javanense</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -3977,7 +3978,7 @@ on the Indian subcontinent, China and Southeast Asia.<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Common Flameback</p>
 </td>
 </tr>
 <tr>
@@ -3986,13 +3987,35 @@ on the Indian subcontinent, China and Southeast Asia.<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Picidae</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p><strong>What does it look like?</strong>
+</p>
+<p>The Common Flameback is one of&nbsp;the most commonly seen species of
+woodpeckers in Singapore. A key identification feature is its namesake
+golden yellow back, which both sexes have. Males have a bright red crown,
+while females have a black crown. Its loud, repetitive call is also distinctive.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>Besides insects, they also feed on fruits like Rambutan and Chempedak.
+Males are highly territorial, even confronting Plantain Squirrels when
+they get too close for comfort. They dig their holes 3-10 m above ground,
+usually in dead branches or snags.</p>
+<p><strong>Where is it found?</strong>
+</p>
+<p>The Common Flameback is found in a variety of habitats and is usually
+seen in pairs. It breeds from February to July and is found from the Indian
+subcontinent to southern China and Southeast Asia.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>The Common Flameback keeps parasites off its body by applying tree sap
+to its feathers!<strong><br></strong>
 </p>
 </div>
 </details>
