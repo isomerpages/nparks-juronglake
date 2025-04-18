@@ -248,9 +248,7 @@ It is more often found in close proximity to wetlands and mangrove habitats.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
