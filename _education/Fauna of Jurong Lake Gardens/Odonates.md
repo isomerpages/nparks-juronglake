@@ -35,6 +35,10 @@ and gardens. As the streams are a suitable habitat for the nymphs, many
 species of odonates can be seen in Jurong Lake Gardens.&nbsp;Click below
 to find out more!</p>
 <h3><strong>Damselflies</strong></h3>
+<p>Damselflies are from the suborder Zygoptera. They are more slender than
+their dragonfly relatives and have similarly shaped forewings and hindwings.
+At rest, the wings are held closed and above the abdomen. They are weak
+fliers and their compound eyes are set distinctly apart.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Variable Wisp</strong>
