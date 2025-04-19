@@ -107,8 +107,8 @@ This changes to a dark abdomen with a white thorax when mature. Females
 before maturity are bright red but will become dull olive when mature.</p>
 <p><strong>Habitat and Behaviour</strong>
 </p>
-<p>They can be found along the water’s edge and just above the <a rel="noopener noreferrer nofollow" target="_blank">grass line </a>in most of our parks,
-but a keen eye is required to spot them!</p>
+<p>They can be found along the water’s edge and just above the grass line
+in most of our parks, but a keen eye is required to spot them!</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -116,6 +116,68 @@ but a keen eye is required to spot them!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Ischnura senegalensis</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Common Bluetail</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coenagrionidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 90px; width: 130px; text-align: center;" height="auto" width="100%" alt="damselfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/019-damselfly.png?h=90&amp;w=130">
+</div>
+<p><strong>28–30 mm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>Males can be easily identified by their green thorax and blue abdomen
+tip. Females come in a variety of colours, but the most common is a golden
+orange thorax. Sometimes, females can look similar to males too!</p>
+<p><strong>Habitat and Behaviour</strong>
+</p>
+<p>They thrive in disturbed and open habitats and can be seen in almost all
+the ponds in our parks and gardens. They range widely from Africa and Asia
+to the island of New Guinea.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -123,6 +185,67 @@ but a keen eye is required to spot them!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Ceriagrion cerinorubellum</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ornate Coraltail</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coenagrionidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 90px; width: 130px; text-align: center;" height="auto" width="100%" alt="damselfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/019-damselfly.png?h=90&amp;w=130">
+</div>
+<p><strong>35–38&nbsp;mm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>The Ornate Coraltail is a common damselfly that is easily identified by
+its bluish green thorax and dark abdomen with an orange tip. Females look
+similar to males.</p>
+<p><strong>Habitat and Behaviour</strong>
+</p>
+<p>Any vegetated pond is suitable for this adaptable species. They are distributed
+across the Indian subcontinent and Southeast Asia.</p>
 </div>
 </details>
 <details class="isomer-details">
