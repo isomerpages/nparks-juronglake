@@ -9,7 +9,7 @@ third_nav_title: Fauna of Jurong Lake Gardens
 are known collectively as odonates. Adult odonates have many adaptations
 that make them great fliers and fierce predators of smaller insects, including
 other odonates, such as:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Large, well-developed compound eyes adept at tracking small movements;</p>
 </li>
@@ -20,7 +20,7 @@ of each other, allowing them to move in many directions when flying; and</p>
 <li>
 <p>Legs which have adapted to form a basket to catch prey.</p>
 </li>
-</ol>
+</ul>
 <p>They are also, in turn, important food sources for predators such as birds,
 spiders and frogs.</p>
 <p>Odonates start their life in water. Even when young, odonate larvae, called
