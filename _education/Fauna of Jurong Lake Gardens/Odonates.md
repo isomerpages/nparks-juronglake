@@ -318,13 +318,88 @@ water’s surface.</p>
 </details>
 </div>
 <h3><strong>Dragonflies</strong></h3>
+<p>Dragonflies are from the suborder Anisoptera. Compared to damselflies,
+they are stronger fliers and have bulkier bodies. Their forewings and hindwings
+are shaped differently and they tend to hold their wings out horizontally
+at rest, like an airplane. They also have much larger compound eyes that
+often touch each other and take up most of their head.</p>
+<p></p>
 <h4><strong>Red Dragonflies (males)</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Common Scarlet</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Crocothemis servilia</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Common Scarlet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Libellulidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
+</div>
+<p><strong>40–43 mm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>This is one of the larger species of red dragonflies and is very common
+in Jurong Lake Gardens. The males are red from head to tail, including
+their eyes. They are easily confused with the Common Redbolt but can be
+distinguished from the latter by the distinctive dark line along the top
+of its abdomen. The females are light brown with the same distinctive line.</p>
+<p><strong>Habitat and Behaviour</strong>
+</p>
+<p>These sun-loving dragonflies can be commonly seen in our parks as well
+as other open habitats like freshwater marshes. They range from the Middle
+East throughout tropical and subtropical Asia, to New Guinea in the east.
 <br>
 </p>
 </div>
