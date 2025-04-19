@@ -1280,17 +1280,150 @@ and Micronesia (islands in the western Pacific Ocean).</p>
 <h4><strong>Blue Dragonflies (males)</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Common Chaser</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Potamarcha congener</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Common Chaser&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Libellulidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
+</div>
+<p><strong>43–45 mm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>The first four segments of the abdomen of the males are powdery blue while
+the rest of the abdomen is black with orange markings. Females have yellow
+and black stripes on the sides of their thorax, a black abdomen with dull
+orange markings and a notable flap near the tip.</p>
+<p><strong>Habitat and Behaviour</strong>
+</p>
+<p>They occur all over Singapore, preferring open ponds and slow-flowing
+waters in disturbed habitats. They are also widely distributed in areas
+ranging from tropical Asia to Australia.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Blue Dasher</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Brachydiplax chalybea</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blue Dasher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Libellulidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
+</div>
+<p><strong>33–35 mm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>This dragonfly is distinctive, with males sporting a bluish body coupled
+with a yellowish tint at the base of its wings. It has a broad dark tip
+at the end of its abdomen. Females have clear wings and a yellow abdomen
+with a black streak.</p>
+<p><strong>Habitat and Behaviour</strong>
+</p>
+<p>They are very common and found in ponds in many of our parks, particularly
+those that are well-vegetated.</p>
 </div>
 </details>
 <details class="isomer-details">
