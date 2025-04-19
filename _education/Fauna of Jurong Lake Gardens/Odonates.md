@@ -698,9 +698,75 @@ tropical Asia and Australasia.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Scarlet Grenadier</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Lathrecista asiatica</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Scarlet Grenadier</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Libellulidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
+</div>
+<p><strong>44–47 mm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>The Scarlet Grenadier has a narrow abdomen. Males have an entirely red
+abdomen except for the last segment which is black. Their thorax is dark
+brown with yellow stripes on the sides. Females have a brownish red abdomen.</p>
+<p><strong>Habitat and Behaviour</strong>
+</p>
+<p>This species prefers forested areas and is usually seen perched around
+forest clearings surveying <a rel="noopener noreferrer nofollow" target="_blank">their surroundings&nbsp;</a>for
+prey.</p>
 </div>
 </details>
 <details class="isomer-details">
