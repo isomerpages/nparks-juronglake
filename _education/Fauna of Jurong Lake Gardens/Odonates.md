@@ -45,6 +45,70 @@ fliers and their compound eyes are set distinctly apart.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Agriocnemis femina</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Variable Wisp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coenagrionidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 90px; width: 130px;" height="auto" width="100%" alt="damselfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/019-damselfly.png?h=90&amp;w=130">
+</div>
+<p><strong>20 mm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>Variable wisps are one of the smallest damselflies in Singapore. Their
+wings are only about 1 cm long! It can be difficult to identify them as
+their colour changes with age.</p>
+<p>Before maturity, males have a greenish thorax with an orange abdomen tip.
+This changes to a dark abdomen with a white thorax when mature. Females
+before maturity are bright red but will become dull olive when mature.</p>
+<p><strong>Habitat and Behaviour</strong>
+</p>
+<p>They can be found along the water’s edge and just above the <a rel="noopener noreferrer nofollow" target="_blank">grass line </a>in most of our parks,
+but a keen eye is required to spot them!</p>
 </div>
 </details>
 <details class="isomer-details">
