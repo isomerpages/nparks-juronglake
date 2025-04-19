@@ -984,29 +984,296 @@ They can often be spotted perched on shrubs, basking in the sun.</p>
 <h4><strong>Yellow/Orange Dragonflies (males)</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Common Amberwing</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Brachythemis contaminata</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Common Amberwing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Libellulidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
+</div>
+<p><strong>29–31 mm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>True to its name, male Common Amberwings have beautiful amber tints on
+all their wings. Females look very different with a pale yellow thorax
+and yellowish orange wing spots instead.</p>
+<p><strong>Habitat and Behaviour</strong>
+</p>
+<p>They are very common in ponds, lakes and marshes. Their scientific name <em>contaminata</em> refers
+to this species’ ability to survive even in polluted water. They can usually
+be <a rel="noopener noreferrer nofollow" target="_blank">found in </a>large
+numbers.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Saddleback Glider</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Tramea transmarina</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saddlebag Glider</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Libellulidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
+</div>
+<p><strong>53–54 mm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What does it look like?</strong>
+</p>
+<p>The Saddlebag Glider has a dark brown patch at the base of its hindwings
+near the thorax, resembling a saddlebag and thus giving it its name. Their
+eyes are dark brown above and <a rel="noopener noreferrer nofollow" target="_blank">greyish white </a>below.</p>
+<p><strong>Habitat and Behaviour</strong>
+</p>
+<p>They are common in Singapore and occur in well-vegetated ponds and drains.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Wandering Glider</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Pantala flavescens</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wandering Glider</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Libellulidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
+</div>
+<p><strong>45–47 mm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>How to identify?</strong>
+</p>
+<p>This dragonfly is mainly yellow in colour. It has a series of long, diamond-shaped
+spots along the midline of its abdomen. Their broad wings are clear except
+for a small but distinct dark mark at each of the tips. Males and females
+look similar.</p>
+<p><strong>Habitat and Behaviour</strong>
+</p>
+<p>The Wandering Glider occurs in open habitats in Singapore and is often
+present in swarms, foraging around open areas in search of prey.</p>
+<p>They are the most widespread species of dragonfly and have a global range
+extending from the Americas to Asia.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>White-barred Duskhawk</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Tholymis tillarga</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>White-barred Duskhawk</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Libellulidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
+</div>
+<p><strong>44–47 mm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>How to identify?</strong>
+</p>
+<p>The males are dull orange with a light brown bar and white patches on
+each hindwing. Females are pale brown with clear wings that lack patches.
+Before maturity, males resemble females.</p>
+<p><strong>Habitat and Behaviour</strong>
+</p>
+<p>Mostly active in the late afternoon, they perch vertically below plants
+for shade during the rest of the day. They are found throughout Singapore
+in open habitats like ponds, lakes and slow-flowing streams. Their global
+distribution ranges throughout tropical and subtropical Africa, Asia, Australia
+and Micronesia (islands in the western Pacific Ocean).</p>
 </div>
 </details>
 </div>
