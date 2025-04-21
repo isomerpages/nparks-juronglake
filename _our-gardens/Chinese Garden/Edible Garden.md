@@ -91,7 +91,16 @@ versatility in promoting health and well-being.</p>
 <summary><strong>Herb &amp; Spice Garden</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Embark on a sensory journey through our Herb &amp; Spice Garden, where
+culinary artistry meets botanical diversity. This carefully curated collection
+showcases an array of aromatic herbs and spices that are commonly used
+in local dishes.</p>
+<p>Learn the distinction between herbs – prized for their fresh, leafy parts
+– and spices, derived from dried flowers, fruits, seeds, or bark. Beyond
+adding aroma to dishes, these plants offer healing properties used in traditional
+medicine.</p>
+<p>Immerse yourself in this aromatic oasis and uncover the potential of herbs
+and spices to transform both plate and palette.</p>
 </div>
 </details>
 </div>
