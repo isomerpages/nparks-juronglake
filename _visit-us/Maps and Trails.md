@@ -4,6 +4,10 @@ permalink: /maps-and-trails/
 variant: tiptap
 description: maps, trails, jurong, lake, gardens, jlg
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Visitors/Southern_Promenade.jpg">
+</div>
 <h2>Garden Map</h2>
 <p>Explore Jurong Lake Gardens with ease, download our brochure <a href="/files/Maps and Trails/Jurong_Lake_Garden_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <hr>
