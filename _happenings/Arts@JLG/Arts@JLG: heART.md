@@ -30,6 +30,6 @@ fostering creative expression and holistic well-being amidst nature.</p>
 </div>
 <p><em>Yoga Programmes</em>
 </p>
-<p></p>
+<hr>
 <p><em>Jurong Lake Gardens is part of the Arts &amp; Culture Nodes Network, an initiative by the National Arts Council, for people to come together to experience the arts in their neighbourhood.</em>
 </p>
