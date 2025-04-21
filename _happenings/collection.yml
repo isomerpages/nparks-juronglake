@@ -2,4 +2,5 @@ collections:
   happenings:
     output: true
     order:
+      - Arts@JLG/.keep
       - Lights by the Lake.md
