@@ -20,6 +20,9 @@ a picturesque symbol of our dedication to creating inspiring, culturally
 rich environments.</p>
 <h3>Tea Pavilion</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Garden/CG_Tea_Pavilion_5315.jpg">
+</div>
 <p>Behold "The Gallery of Tea Fragrance" 茗香榭 (míng xiāng xiè), the captivating
 Tea Pavilion. This architectural marvel features three pavilions connected
 by a winding corridor, seemingly floating above the Lotus Pond – a design
