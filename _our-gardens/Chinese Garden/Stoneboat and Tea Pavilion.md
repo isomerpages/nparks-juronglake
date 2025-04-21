@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Chinese Garden
 ---
 <h3>Stoneboat</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Garden/CG_Stoneboat_5300.jpg">
+</div>
 <p>Gracing the shores of the Chinese Garden's Lotus Pond, the Stoneboat 邀月舫
 (yāo yuè fǎng) stands as a testament to architectural elegance. Its name,
 meaning "the boat where one invites the Moon” reflects ancient Chinese
@@ -16,6 +19,7 @@ honouring heritage while embracing contemporary design.</p>
 a picturesque symbol of our dedication to creating inspiring, culturally
 rich environments.</p>
 <h3>Tea Pavilion</h3>
+<p></p>
 <p>Behold "The Gallery of Tea Fragrance" 茗香榭 (míng xiāng xiè), the captivating
 Tea Pavilion. This architectural marvel features three pavilions connected
 by a winding corridor, seemingly floating above the Lotus Pond – a design
@@ -25,3 +29,4 @@ the serene surroundings, including views of the Stoneboat. Steeped in Ming
 Dynasty heritage, this space honours the sophisticated art of tea culture
 and celebrates the art of tea, brewing techniques, elegance, and creativity
 in a timeless experience.</p>
+<p></p>
