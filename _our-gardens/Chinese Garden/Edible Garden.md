@@ -54,7 +54,14 @@ plants bear edible flowers – combining beauty with functionality.</p>
 <details class="isomer-details">
 <summary><strong>Root Garden</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Showcasing nature's ingenious survival strategies, this garden reveals
+the fascinating world of edible, belowground storage organs – from tap
+roots and tubers to corms and rhizomes.</p>
 <p></p>
+<p>These subterranean structures act as lifelines, storing energy and water
+to sustain plants through adverse conditions. Our collection features diverse
+species including radish, cassava, taro, ginger, sweet potato, garlic,
+and onion.</p>
 </div>
 </details>
 <details class="isomer-details">
