@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - "Arts@JLG/Arts@JLG: explore.md"
       - "Arts@JLG/Arts@JLG: heART.md"
       - "Arts@JLG/Arts@JLG: collage.md"
       - Arts@JLG/.keep
