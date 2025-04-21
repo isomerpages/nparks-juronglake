@@ -43,7 +43,12 @@ life.</p>
 <details class="isomer-details">
 <summary><strong>Edible Flower Garden</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Check out the vibrant flowering blooms at the Edible Flower Garden that
+not only enhance visual appeal but also attract pollinators, fostering
+a healthy ecosystem.</p>
 <p></p>
+<p>Chosen for their suitability to Singapore's climate, many of these nectar-rich
+plants bear edible flowers – combining beauty with functionality.</p>
 </div>
 </details>
 <details class="isomer-details">
