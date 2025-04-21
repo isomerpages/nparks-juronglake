@@ -67,14 +67,24 @@ and onion.</p>
 <details class="isomer-details">
 <summary><strong>Climber Garden</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Featuring a diverse array of climbing plants – each with its own adaptive
+strategy – witness as they wind their stems around vertical supports, employ
+specialised tendrils, or use aerial roots to grip porous surfaces.</p>
 <p></p>
+<p>The Climber Garden not only highlights the fascinating growth habits of
+these plants but also illustrates how vertical gardening can enhance biodiversity
+and yield in compact environments.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Beverage &amp; Medicinal Garden</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Our curated collection features species rich in protective compounds –
+nature's own defence mechanisms – which, when scientifically validated,
+can lead to groundbreaking medicine. Discover various preparation methods,
+from simple infusions to potent decoctions, demonstrating these plants'
+versatility in promoting health and well-being.</p>
 </div>
 </details>
 <details class="isomer-details">
