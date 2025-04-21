@@ -4,6 +4,10 @@ permalink: /guided-tours/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guided Tour/NPARKS_BIG_0086.jpg">
+</div>
 <h3><strong>Guided Tour Routes</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
