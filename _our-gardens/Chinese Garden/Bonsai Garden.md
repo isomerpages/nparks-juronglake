@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Chinese Garden
 ---
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Garden/Bonsai_Garden_2.jpg">
+</div>
 <p>The revitalised Suzhou-style Bonsai Garden showcases exquisite miniature
 landscapes from across Asia. Since 1992, this horticultural gem has celebrated
 the art of bonsai cultivation, blending patience with artistic mastery.</p>
@@ -14,3 +16,4 @@ the art of bonsai cultivation, blending patience with artistic mastery.</p>
 Suzhou's timeless elegance.</p>
 <p>At the entrance, two marble lions – symbols of authority and felicity
 – welcome visitors to this haven of horticultural artistry.</p>
+<p></p>
