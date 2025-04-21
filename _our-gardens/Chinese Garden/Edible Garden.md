@@ -24,6 +24,19 @@ food production.</p>
 <details class="isomer-details">
 <summary><strong>The Kitchen Garden</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>The Kitchen Garden showcases a harmonious blend of edible and ornamental
+plants, that not only showcases aesthetic landscaping but one that also
+attracts beneficial pollinators, fostering biodiversity.</p>
+<p></p>
+<p>Plants are grown in raised beds for better presentation of plants and
+are changed periodically to showcase crop rotation for effective pest management
+and landscape diversity. This garden exemplifies the perfect fusion of
+sustainable gardening practices and culinary exploration, offering visitors
+a unique, hands-on encounter with urban agriculture and farm-to-table concepts.</p>
+<p></p>
+<p>The outdoor kitchen that is located next to the Kitchen Garden is a venue
+where culinary workshops are conducted, bringing the garden's harvest to
+life.</p>
 <p></p>
 </div>
 </details>
