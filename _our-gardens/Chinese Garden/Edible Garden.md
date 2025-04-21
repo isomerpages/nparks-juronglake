@@ -16,4 +16,9 @@ on their cultivation and growth.</p>
 <p>Beyond aesthetics, the Edible Garden champions food resilience, demonstrating
 sustainable growing practices and highlighting the importance of local
 food production.</p>
+<h4>Edible Garden Zones </h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Garden/Edible_Gaden_Zones_Map.png">
+</div>
 <p></p>
