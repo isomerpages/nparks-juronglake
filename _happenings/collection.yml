@@ -1,4 +1,10 @@
 collections:
   happenings:
     output: true
-    order: []
+    order:
+      - Volunteer Programmes.md
+      - "Arts@JLG/Arts@JLG: explore.md"
+      - "Arts@JLG/Arts@JLG: heART.md"
+      - "Arts@JLG/Arts@JLG: collage.md"
+      - Arts@JLG/.keep
+      - Lights by the Lake.md
