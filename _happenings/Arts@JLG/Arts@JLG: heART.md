@@ -6,16 +6,15 @@ description: ""
 third_nav_title: Arts@JLG
 ---
 <h1>Celebrating Wellness and Creativity in Nature</h1>
-<p>Arts@JLG:heART is a celebration of wellness and creativity in nature,
-and offers visitors a transformative experience, fostering creative expression
-and holistic well-being amidst nature.</p>
-<p><strong><em>Stay tuned for more information on 2025's edition!  </em></strong>
+<p>Arts@JLG:heART is an event that offers visitors a transformative experience,
+fostering creative expression and holistic well-being amidst nature.</p>
+<p><strong><em>Stay tuned for more information on 2025's edition!</em></strong>
 </p>
 <p>In the meantime, check out highlights from our 2024 edition below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/DSCF4661_min.jpg">
 </div>
-<p><em>Scrapbooking Programme </em>
+<p><em>Scrapbooking Programme</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/DSCF4588_min.jpg">
@@ -24,7 +23,7 @@ and holistic well-being amidst nature.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/DSCF4602_min.jpg">
 </div>
-<p><em>Performances </em>
+<p><em>Performances</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/DSCF4440_min.jpg">
