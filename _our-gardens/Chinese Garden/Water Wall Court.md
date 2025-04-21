@@ -5,3 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Chinese Garden
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Garden/CG_Water_Wall_Court_5392.jpg">
+</div>
+<p></p>
+<p>This hidden gem combines innovative design with natural beauty, offering
+a tranquil retreat in the urban landscape.</p>
+<p>A central pavilion provides the perfect vantage point to admire the ever-changing
+water textures and scenic Jurong Lake views. As day turns to night, witness
+the water wall's transformation into a mesmerising display of golden streams.</p>
