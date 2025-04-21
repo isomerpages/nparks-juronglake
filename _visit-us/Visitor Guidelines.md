@@ -5,6 +5,10 @@ variant: tiptap
 description: visitor, guidelines, jurong, lake, gardens
 ---
 <h2><strong>Do's</strong> and <strong>Don'ts</strong> at Jurong Lake Gardens</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Visitors/Entrance_Pavilion.jpg">
+</div>
 <p>For the safety and enjoyment of all visitors to Jurong Lake Gardens, and
 the protection and conservation of our greenery, please observe the <strong>Parks and Trees Act (Cap. 216)</strong> and
 the <strong>Parks and Trees Regulations (Cap. 216, RG)</strong>, in particular:</p>
