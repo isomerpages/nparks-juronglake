@@ -1583,40 +1583,16 @@ of smaller birds to feed to their own young.</p>
 <summary><strong>Oriental Pied Hornbill</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 213px; width: 320px;" height="auto" width="100%" alt="oriental pied hornbill" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_oriental-pied-hornbill_fy.jpg?h=213&amp;w=320">
 </div>
-<p>&nbsp;Photo credit: Francis Yap</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
+<p><em>&nbsp;Photo: Francis Yap</em>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 239px; width: 320px;" height="auto" width="100%" alt="oriental pied hornbill pc" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_oriental-pied-hornbill_perlyn-chng.jpg?h=239&amp;w=320">
 </div>
-<p>&nbsp;Photo credit: Perlyn Chng</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<p><em>&nbsp;Photo: Perlyn Chng</em>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -1655,48 +1631,41 @@ of smaller birds to feed to their own young.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>70 cm<br></strong>
+<p><strong>70 cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>These large birds are unmistakable. Both sexes are largely black with
 a white belly. Males have a very pronounced black-tipped casque <a rel="noopener noreferrer nofollow" target="_blank">on&nbsp;</a>its clean yellowish bill.
 Females have a much smaller casque with black patches.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>They feed mainly on fruits but are also known to feed on insects and other
 small animals. They are important to the ecosystem as they disperse seeds
 that are too large for smaller bird species to eat.</p>
+<p></p>
 <p>Oriental Pied Hornbills are gregarious and often travel in noisy flocks.
 They require a large tree to nest. The female seals herself inside a suitably
 sized hole in a tree with a plaster made of mud and plant fibres. The male
 forages for food alone, while the female guards the nest to deter predators
 from stealing their eggs for food.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>The Oriental Pied Hornbill has a wide distribution from the Indian Subcontinent
 to Southeast Asia. In Singapore, the species is a prime example of successful
 conservation efforts. It was rediscovered on Pulau Ubin in 1994 and is
 now found across most of Singapore.</p>
+<p></p>
 <p><strong>Did you know?</strong>
 </p>
 <p>The Singapore Hornbill Project was initiated in 2004 by NParks, Jurong
@@ -1704,6 +1673,7 @@ Bird Park and local researchers with the goal of bringing hornbills back
 to Singapore. The project was extremely successful and by the time it ended
 in 2012, the Oriental Pied Hornbill had become a well-known and endearing
 avian icon.</p>
+<p></p>
 <p><strong>Conservation Status</strong>
 </p>
 <p>It is listed as Critically Endangered in the Singapore Red Data Book (2008).
@@ -1716,22 +1686,10 @@ is on the rise.</p>
 <summary><strong>Oriental Magpie-Robin</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 233px; width: 350px;" height="auto" width="100%" alt="oriental magpie-robin" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_oriental-magpie-robin_lpf.jpg?h=233&amp;w=350">
 </div>
-<p>&nbsp;Photo credit: Loke Peng Fai</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<p><em>&nbsp;Photo: Loke Peng Fai</em>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -1770,43 +1728,35 @@ is on the rise.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>19 cm<br></strong>
+<p><strong>19 cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>It has distinctive black and white plumage that resembles a magpie. Males
 have a glossy black head, breast and upperparts, while the rest of the
 underparts are white. It also has a distinct white wing bar. Females are
 similar to males but have a slate grey head, breast and upperparts.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>It forages on insects mainly on the ground, where it can be seen hopping
 around with its tail raised.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>This bird is widely distributed across Southeast Asia. In Singapore, they
 used to be a popular cage bird and were heavily trapped. In more recent
 times, the population appears to be recovering and they are now present
 in many parks and wooded areas.</p>
+<p></p>
 <p><strong>Conservation Status</strong>
 </p>
 <p>It is listed as Endangered in the Singapore Red Data Book (2008). In recent
@@ -1817,22 +1767,10 @@ years, the local population appears to be gradually increasing.</p>
 <summary><strong>Javan Myna</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 246px; width: 350px;" height="auto" width="100%" alt="javan myna" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_javan-myna_cai-yx.jpg?h=246&amp;w=350">
 </div>
-<p>&nbsp;Photo credit: Cai Yixiong, NParks Flora&amp;Fauna Web</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<p><em>Photo: Cai Yixiong, NParks Flora &amp; Fauna Web</em>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -1871,48 +1809,41 @@ years, the local population appears to be gradually increasing.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>24–25 cm<br></strong>
+<p><strong>24–25 cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>The Javan Myna is Singapore’s most recognisable bird. It has slate grey
 plumage with a glossy black head, wings and tail. Its eyes, bill and feet
 are orange yellow.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>They have adapted well to the urban environment by exploiting food sources
 such as leftover food in hawker centres and food waste. Outside of urban
 environments, they forage for insects and other invertebrates on the ground
 by probing the soil with their bills.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>In Singapore, it is by far the most abundant bird and occurs in all habitats.
 The Javan Myna is not native to Singapore but was introduced from Java
 and Bali. The introduced population has since <a rel="noopener noreferrer nofollow" target="_blank">colonised&nbsp;</a>most
 of Peninsular Malaysia and southern Thailand.</p>
+<p></p>
 <p><strong>Did you know?</strong>
 </p>
 <p>Ironically, this bird is very rare in its native range of Java and Bali
 as it is heavily trapped for the pet trade there.</p>
+<p></p>
 <p><strong>Conservation Status</strong>
 </p>
 <p>This bird is classified as “Vulnerable” by the IUCN as it is heavily trapped
@@ -1924,22 +1855,10 @@ pest in Singapore.</p>
 <summary><strong>Common Myna</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 264px; width: 350px;" height="auto" width="100%" alt="common myna" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_common-myna_cheryl-chia.jpg?h=264&amp;w=350">
 </div>
-<p>&nbsp;Photo credit: Cheryl Chia, NParks Flora&amp;Fauna Web</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<p><em>Photo: Cheryl Chia, NParks Flora &amp; Fauna Web</em>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -1978,44 +1897,36 @@ pest in Singapore.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>&nbsp;24–27 cm<br></strong>
+<p><strong>&nbsp;24–27 cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>While similar to the more common Javan Myna, this species has brown, not
 slate grey plumage, and has prominent yellow facial skin around the eye.
 When juveniles moult their head feathers, they often look bald, causing
 many to mistake them for sick birds.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>It feeds mainly on the ground for insects and leftover scraps. It isn’t
 picky about its nesting sites and will use any cavity where it can pile
 nesting material into, including cracks in buildings or air conditioning
 units.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>These birds are native to the Indian subcontinent and Southeast Asia.
 They are also native to Singapore and are found in a wide variety of habitats,
 but in far smaller numbers than the Javan Myna.</p>
+<p></p>
 <p><strong>Did you know?</strong>
 </p>
 <p>The Common Myna, contrary to its name, is not common in Singapore and
