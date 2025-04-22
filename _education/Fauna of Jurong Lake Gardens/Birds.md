@@ -1261,22 +1261,10 @@ comes from the Urdu word for tailor.</p>
 <summary><strong>Ashy&nbsp;Tailorbird</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 233px; width: 350px;" height="auto" width="100%" alt="ashy tailorbird" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_ashy-tailorbird_tan-yip-cheong.jpg?h=233&amp;w=350">
 </div>
-<p>&nbsp;Photo credit: Tan Yip Cheong</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<p><em>Photo: Tan Yip Cheong</em>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -1315,35 +1303,26 @@ comes from the Urdu word for tailor.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>11 cm<br></strong>
+<p><strong>11 cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>The Ashy Tailorbird is a small bird that has slate grey plumage with a
 chestnut patch on its face, and a white belly. Females have a much duller
 colouration.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>They have similar eating and behavioural habits to the Common Tailorbird.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>The Ashy Tailorbird was originally a mangrove species but has adapted
@@ -1356,40 +1335,16 @@ across Southeast Asia.</p>
 <summary><strong>Pacific Swallow</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 214px; width: 320px;" height="auto" width="100%" alt="pacific swallor" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_pacific-swallow_lpf.jpg?h=214&amp;w=320">
 </div>
-<p>&nbsp;Photo credit: Loke Peng Fai</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
+<p><em>&nbsp;Photo: Loke Peng Fai</em>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 200px; width: 320px;" height="auto" width="100%" alt="pacific swallow" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_pacific-swallow_perlyn-chng.jpg?h=200&amp;w=320">
 </div>
-<p>Photo credit: Perlyn Chng</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<p><em>Photo: Perlyn Chng</em>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -1428,37 +1383,28 @@ across Southeast Asia.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>13 cm<br></strong>
+<p><strong>13 cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>The only resident species of swallow in Singapore, it sports metallic
 blue upperparts with an orange forehead, throat and upper breast. It is
 mostly spotted in flight, often in small groups.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>It is a fast flyer that feeds on insects while airborne. Its neat, cup-shaped
 nest is built with mud pellets under a cliff ledge or on man-made structures
 like buildings, bridges and towers.</p>
+<p></p>
 <p><strong>Where is it found?</strong>
 </p>
 <p>The Pacific Swallow has a wide distribution across much of the Eastern
