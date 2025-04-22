@@ -193,24 +193,12 @@ and along the corridors of HDB estates.</p>
 <summary><strong>Scarlet-backed Flowerpecker</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="213" width="320" alt="scarlet backed flowerpecker" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_scarlet-backed-flowerpecker_soh-chui-lian.jpg?h=213&amp;w=320">
 </div>
-<p>&nbsp; Male. Photo credit: Soh Chui Lian</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
+<p>&nbsp;<em>Male. Photo: Soh Chui Lian</em>
 </p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -247,43 +235,35 @@ and along the corridors of HDB estates.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
 <p><strong>9 cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>The male Scarlet-backed Flowerpecker is very distinctive with its bright
 red upperparts, a blackish head, and bluish black wings which contrast
 with its white underparts. The female is a drab olive brown with white
 underparts and a bright red rump. It is one of Singapore’s smallest birds!</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>These birds feed on a variety of food including berries and insects, but
 they are particularly fond of mistletoe fruits. They build a pouch-shaped
 nest with a side entrance and hang it from a high tree branch, similar
 to the sunbird.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>These birds are found in many habitats throughout Singapore. They are
 also distributed across the Indian subcontinent, China and Southeast Asia.</p>
+<p></p>
 <p><strong>Did you know?</strong>
 </p>
 <p>Its scientific name, <em>cruentatum, </em>is derived from the Latin verb
@@ -294,40 +274,16 @@ that means ‘bloodstained’, referring to the scarlet backs of males.</p>
 <summary><strong>Asian Koel</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="214" width="320" alt="asian koel m" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_asian-koel-m_jeremy-yeo.jpg?h=214&amp;w=320">
 </div>
-<p>Male, Photo credit: Jeremy Yeo Wei Liang (NParks)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
+<p><em>Male. Photo: Jeremy Yeo Wei Liang</em>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 481px; width: 320px;" height="auto" width="100%" alt="asian koel f" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_asian-koel-f_francis-yap.jpg?h=481&amp;w=320">
 </div>
-<p>Female, Photo credit: Francis Yap, NParks Flora&amp;FaunaWeb</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<p><em>Female. Photo: Francis Yap, NParks Flora &amp; Fauna Web</em>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -366,32 +322,22 @@ that means ‘bloodstained’, referring to the scarlet backs of males.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p>&nbsp; <strong>44 cm<br></strong>
+<p>&nbsp; <strong>44 cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>This member of the cuckoo family is a large bird that has bright red eyes
 and a pale beak. The males have an entirely glossy black plumage, while
 females are brown with white and light brown spots.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>They are omnivores and feed on a variety of food. Like other cuckoos,
@@ -400,10 +346,12 @@ of other birds, relying on the unsuspecting foster parents to raise their
 chicks. In Singapore, their host is the introduced House Crow (<em>Corvus splendens</em>).
 As the koel chicks hatch and force the crow chicks out of the nest, the
 Asian Koel acts as an important natural control for Singapore’s crow population.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>These birds are found in a wide range of habitats from urban areas to
 secondary forests.</p>
+<p></p>
 <p><strong>Did you know?</strong>
 </p>
 <p>They are infamous for their namesake loud, high pitched ‘<em>ko-el</em>’
