@@ -362,23 +362,10 @@ call which can be heard at any time of the day.</p>
 <summary><strong>Pink-necked Green Pigeon</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 244px; width: 350px;" height="auto" width="100%" alt="pngp" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_pink-necked-green-pigeon_cai-yx.jpg?h=244&amp;w=350">
 </div>
-<p>&nbsp; Male (left) and female (right), Photo credit: Cai Yixiong, NParks
-Flora&amp;FaunaWeb</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<p><em>Male (left) and female (right). Photo: Cai Yixiong, NParks Flora &amp; Fauna Web</em>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -417,31 +404,21 @@ Flora&amp;FaunaWeb</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>25–30&nbsp;cm<br></strong>
+<p><strong>25–30&nbsp;cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>It is sexually dimorphic, and males can be easily distinguished by their
 bright pink neck and orange lower breast. Females are uniformly green.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>They are frugivorous, with large flocks often gathering at fruiting trees.
@@ -449,6 +426,7 @@ They feed on a wide variety of fruits, making them important seed dispersers.
 They are arboreal and generally prefer to perch on branches of tall trees.
 Both males and females are involved in the incubation of eggs and care
 of young chicks.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>These birds can be found in our forests, mangroves, parks and urban areas.
@@ -459,23 +437,10 @@ They are widespread throughout Southeast Asia.</p>
 <summary><strong>Zebra Dove</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="213" width="320" alt="zebra dove francis yap" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_zebra-dove_francis-yap.jpg?h=213&amp;w=320">
 </div>
-<p>Photo credit: Francis Yap</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
+<p><em>Photo: Francis Yap<br></em>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -513,42 +478,34 @@ They are widespread throughout Southeast Asia.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>20–23&nbsp;cm<br></strong>
+<p><strong>20–23&nbsp;cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>The upperparts of this small and slender dove are brownish grey with black
 and white bars. Its underparts are pinkish, with black bars on the sides
 of its neck, breast and belly. Its forehead, face and throat are a pale
 grey, with blue around the eyes.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>Small flocks are often seen quietly foraging on footpaths and lawns in
 search of grass seeds, which are a main part of their diet. Their nests
 consist of a simple platform of leaves and grass blades.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>The Zebra Dove is widespread across Singapore and is often seen in urban
 areas and grasslands. They are found across Southeast Asia.</p>
+<p></p>
 <p><strong>Did you know?</strong>
 </p>
 <p>They are popular pets due to their pleasant call of soft, short ‘<em>coo’</em> notes.
