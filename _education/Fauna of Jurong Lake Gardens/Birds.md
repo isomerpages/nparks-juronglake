@@ -1416,39 +1416,16 @@ habitats.</p>
 <summary><strong>Common Iora</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 213px; width: 320px;" height="auto" width="100%" alt="common iora" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_common-iora_francis-yap.jpg?h=213&amp;w=320">
 </div>
-<p>&nbsp;Male. Photo credit: Francis Yap</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
+<p><em>&nbsp;Male. Photo: Francis Yap</em>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; text-align: justify; height: 211px; width: 320px;" height="auto" width="100%" alt="common iora f" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_common-iora-f_cai-yx.jpg?h=211&amp;w=320">
 </div>
-<p>Female. Photo credit: Cai Yixiong, NParks Flora&amp;Fauna Web</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>Female. Photo: Cai Yixiong, NParks Flora &amp; Fauna Web</p>
 <p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1486,36 +1463,27 @@ habitats.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>12–14 cm<br></strong>
+<p><strong>12–14 cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>It is sexually dimorphic, with the bright yellow males sporting a black
 cap and back during breeding season, while females are entirely olive green.
 Both sexes have yellow underparts and two white bars on their black wings.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>They actively forage for food in the canopy, moving through the crowns
 of trees while looking for insects.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>It is common in our parks and gardens and can be seen along the tree-lined
@@ -1528,40 +1496,16 @@ and Southeast Asia in mangroves, secondary growth and parks.</p>
 <summary><strong>Black-naped Oriole</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 230px; width: 350px;" height="auto" width="100%" alt="black naped oriole" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_black-naped-oriole_cai-yx.jpg?h=230&amp;w=350">
 </div>
-<p>&nbsp; Photo credit: Cai Yixiong, NParks Flora&amp;Fauna Web</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
+<p><em>Photo: Cai Yixiong, NParks Flora &amp; Fauna Web</em>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 481px; width: 320px;" height="auto" width="100%" alt="black naped oriole" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_black-naped-oriole_francis-yap.jpg?h=481&amp;w=320">
 </div>
-<p>Photo credit: Francis Yap</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<p><em>Photo: Francis Yap</em>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -1600,25 +1544,13 @@ and Southeast Asia in mangroves, secondary growth and parks.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>&nbsp;27 cm<br></strong>
+<p><strong>&nbsp;27 cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>One of the most common bird species in Singapore, the Black-naped Oriole
@@ -1627,15 +1559,19 @@ Its name comes from a black band across its eyes that runs down to its
 nape. Females have a slightly greener tinge. Their calls are a melodious
 ‘<em>too-diddlyoo</em>’ whistle, but they also make harsh rasping noises
 at times.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>The Black-naped Oriole feeds mainly on fruits and insects.</p>
+<p></p>
 <p><strong>Where is it found?</strong>
 </p>
 <p>It can be seen in wooded habitats all over the island. It can also be
 found in South Asia and many parts of Southeast Asia.</p>
+<p></p>
 <p><strong>Did you know?</strong>
 </p>
 <p>Black-naped Orioles have a dark side to them! During breeding season,
