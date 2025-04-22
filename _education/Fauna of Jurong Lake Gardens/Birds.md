@@ -678,40 +678,18 @@ them.</p>
 <summary><strong>Rose-ringed Parakeet</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 525px; width: 350px;" height="auto" width="100%" alt="rose ringed parakeet m" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_rose-ringed-parakeet-m_francis-yap.jpg?h=525&amp;w=350">
 </div>
-<p>&nbsp;Male, Photo credit: Francis Yap, NParks Flora&amp;FaunaWeb</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
+<p><em>Male. Photo: Francis Yap, NParks Flora &amp; Fauna Web</em>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; text-align: justify; height: 233px; width: 350px;" height="auto" width="100%" alt="parakeet f" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_rose-ringed-parakeet-f_francis-yap.jpg?h=233&amp;w=350">
 </div>
-<p>Female, Photo credit: Francis Yap, NParks Flora&amp;FaunaWeb</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+<p><em>Female. Photo: Francis Yap, NParks Flora &amp; Fauna Web</em>
+<br>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -748,34 +726,25 @@ them.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>42 cm<br></strong>
+<p><strong>42 cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>It is sexually dimorphic. The male has a distinct black neck ring, which
 is not present in females.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>They are frugivores that feed on a wide range of fruits.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>This is an introduced species which originated with escapees from the
@@ -788,40 +757,16 @@ feral populations exist in many other countries.</p>
 <summary><strong>Yellow-vented Bulbul</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 414px; width: 320px;" height="auto" width="100%" alt="yvbbul" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_yellow-vented-bulbul_ocs.jpg?h=414&amp;w=320">
 </div>
-<p>Photo credit: Ong Chwee Sia</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
+<p><em>Photo: Ong Chwee Sia</em>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="479" width="320" alt="yellow vented bulbul" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_yellow-vented-bulbul_jeremy-yeo.jpg?h=479&amp;w=320">
 </div>
-<p>Photo credit: Jeremy Yeo Wei Liang (NParks)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<p>Photo: Jeremy Yeo Wei Liang
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -860,41 +805,33 @@ feral populations exist in many other countries.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>20 cm<br></strong>
+<p><strong>20 cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>As its name implies, it has a yellow vent on the underside of its tail.
 It is otherwise mainly brown but has a white face with a black band between
 the eyes and the bill.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>They are omnivores that feed on berries, nectar and small animals. They
 are often seen in pairs foraging for food. They build well-camouflaged
 cup-shaped nests out of plant matter.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>They can be found in a wide variety of habitats across Singapore and throughout
 Southeast Asia.</p>
+<p></p>
 <p><strong>Did you know?</strong>
 </p>
 <p>The name “Bulbul” comes from an Arabic word meaning “Nightingale”, which
@@ -905,22 +842,12 @@ alludes to their bubbly calls. However, bulbuls are not related to nightingales.
 <summary><strong>Malaysian Pied Fantail</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 219px; width: 320px;" height="auto" width="100%" alt="fantail" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_msian-pied-fantail_ocs.jpg?h=219&amp;w=320">
 </div>
-<p>&nbsp;Photo credit: Ong Chwee Sia</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+<p><em>Photo: Ong Chwee Sia</em>
+</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -957,42 +884,34 @@ alludes to their bubbly calls. However, bulbuls are not related to nightingales.
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>17.5–19.5 cm<br></strong>
+<p><strong>17.5–19.5 cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>Like other members of its family, this bird has a distinctive fan-shaped
 tail. It has largely black upperparts and white underparts with a broad
 black band across its breast.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>These birds move rapidly through the understorey, fanning their tails
 as they go. They are often seen foraging together with other small insect-eating
 birds.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>Once found primarily in mangroves, this species has <a rel="noopener noreferrer nofollow" target="_blank">colonised</a> many parks in Singapore,
 particularly those with large, wooded water bodies like Jurong Lake Gardens.
 They are also widely distributed across many parts of Southeast Asia.</p>
+<p></p>
 <p><strong>Did you know?</strong>
 </p>
 <p>The Malaysian Pied Fantail is called <em>Murai Gila</em>, or “crazy thrush”
