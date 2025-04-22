@@ -517,22 +517,10 @@ call!</p>
 <summary><strong>Blue-tailed Bee-eater</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 250px; width: 350px;" height="auto" width="100%" alt="btbe" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_blue-tailed-bee-eater_ocs.jpg?h=250&amp;w=350">
 </div>
-<p>&nbsp;Photo credit: Ong Chwee Sia</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<p><em>&nbsp;Photo: Ong Chwee Sia</em>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -571,32 +559,22 @@ call!</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong><br>&nbsp;30 cm (head to streamer)<br></strong>
+<p><strong>&nbsp;30 cm (head to streamer)</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>It has a long, slightly down-curved black bill, is predominantly greenish
 in colour and has blue tail feathers with long tail-streamers. Adults have
 an orange throat with a black eye stripe.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>These birds feed on a variety of flying insects such as dragonflies, bees
@@ -604,6 +582,7 @@ and large flies which are caught <a rel="noopener noreferrer nofollow" target="_
 They like to perch on branches of tall, exposed trees and even antennae
 when searching for prey. When they catch a bee, they beat it against a
 branch to remove its sting before consuming it whole.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>These birds are migratory and can be commonly found in a wide range of
@@ -615,22 +594,12 @@ Asia and migrate south during the northern winter months.</p>
 <summary><strong>Blue-throated Bee-eater</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 283px; width: 350px;" height="auto" width="100%" alt="btbe" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_blue-throated-bee-eater_ocs.jpg?h=283&amp;w=350">
 </div>
-<p>&nbsp;Photo credit: Ong Chwee Sia</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+<p><em>&nbsp;Photo: Ong Chwee Sia</em>
+</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -670,39 +639,33 @@ Asia and migrate south during the northern winter months.</p>
 <p>
 <br>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>&nbsp;&nbsp;28 cm (head to streamer)<br><br></strong>
+<p><strong>&nbsp;&nbsp;28 cm (head to streamer)</strong>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>A mix of brown, green and blue makes this bee-eater easy to identify.
 Adult Blue-throated Bee-eaters have mostly bluish green bodies with a dark
 chestnut crown, black eye stripe and namesake blue throat.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>Its diet and behaviour are largely similar to that of the migratory Blue-tailed
 Bee-eater.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>This species differs from the migratory Blue-tailed Bee-eater in that
 it breeds in Singapore and disperses to Indonesia during the non-breeding
 season. They are mainly found in wooded areas and grasslands. This species
 is also present in many parts of Southeast Asia.</p>
+<p></p>
 <p><strong>Did you know?</strong>
 </p>
 <p>They practise asynchronous brooding, where chicks hatch at different times.
