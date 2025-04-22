@@ -908,9 +908,10 @@ birds.</p>
 <p></p>
 <p><strong>Where are they found?</strong>
 </p>
-<p>Once found primarily in mangroves, this species has <a rel="noopener noreferrer nofollow" target="_blank">colonised</a> many parks in Singapore,
-particularly those with large, wooded water bodies like Jurong Lake Gardens.
-They are also widely distributed across many parts of Southeast Asia.</p>
+<p>Once found primarily in mangroves, this species has colonised many parks
+in Singapore, particularly those with large, wooded water bodies like Jurong
+Lake Gardens. They are also widely distributed across many parts of Southeast
+Asia.</p>
 <p></p>
 <p><strong>Did you know?</strong>
 </p>
@@ -922,40 +923,16 @@ in Malay due to its disjointed song and frantic feeding behaviour.</p>
 <summary><strong>Asian Glossy Starling</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 233px; width: 350px;" height="auto" width="100%" alt="asian glossy starling" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_asian-glossy-starling_perlyn-chng.jpg?h=233&amp;w=350">
 </div>
-<p>Photo credit: Perlyn Chng</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
+<p><em>Photo: Perlyn Chng</em>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 213px; width: 320px;" height="auto" width="100%" alt="glossy starling fyap" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_asian-glossy-starling_francis-yap.jpg?h=213&amp;w=320">
 </div>
-<p>Photo credit: Francis Yap</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<p><em>Photo: Francis Yap</em>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -994,25 +971,13 @@ in Malay due to its disjointed song and frantic feeding behaviour.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>22–25 cm<br></strong>
+<p><strong>22–25 cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>Adults have a uniformly glossy green plumage that appears black in poor
@@ -1020,12 +985,15 @@ light. Its distinctive feature is its bright red eyes. Juveniles are greyish
 brown with white underparts that sport bold dark streaks. They may look
 similar to the Asian Koel at first glance but are much smaller in size
 with shorter tails.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>These highly social omnivores often congregate in large, noisy flocks
 in fruiting trees.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>One of Singapore’s most abundant birds, the Asian Glossy Starling occurs
@@ -1037,22 +1005,10 @@ Asia.</p>
 <summary><strong>Savanna Nightjar</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 233px; width: 350px;" height="auto" width="100%" alt="nightjar" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_savanna-nightjar_lpf.jpg?h=233&amp;w=350">
 </div>
-<p>&nbsp;Photo credit: Loke Peng Fai</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<p><em>Photo: Loke Peng Fai</em>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -1091,42 +1047,34 @@ Asia.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>&nbsp;25 cm<br></strong>
+<p><strong>&nbsp;25 cm</strong>
+<br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>This nocturnal bird has large eyes and brownish grey upperparts irregularly
 interspersed with pale brown speckles. Its underparts are brown with numerous
 fine bars.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>These nocturnal birds hunt for flying insects and are rarely spotted in
 the day when sleeping motionless on the ground. Their plumage provides
 excellent camouflage among the leaf litter, keeping them concealed while
 they roost.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>They are mainly found in grasslands and open country and are distributed
 across the Indian Subcontinent and Southeast Asia.</p>
+<p></p>
 <p><strong>Did you know?</strong>
 </p>
 <p>They lay their eggs directly on the ground in grasslands, so watch your
