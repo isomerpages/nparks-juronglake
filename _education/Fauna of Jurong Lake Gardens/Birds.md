@@ -21,40 +21,16 @@ that frequent our gardens!</p>
 <summary><strong>Brown-throated Sunbird</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 233px; width: 350px;" height="auto" width="100%" alt="brown throated sunbird" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_brown-throated-sunbird_loke-peng-fai.jpg?h=233&amp;w=350">
 </div>
-<p>Male. Photo credit: Loke Peng Fai</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<p><em>Male. Photo: Loke Peng Fai</em>
 <br>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; text-align: justify; height: 233px; width: 350px;" height="auto" width="100%" alt="brown throated f" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_brown-throated-f_lpf.jpg?h=233&amp;w=350">
 </div>
-<p>Female. Photo credit: Loke Peng Fai</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<p><em>Female. Photo: Loke Peng Fai</em>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -94,25 +70,7 @@ that frequent our gardens!</p>
 </tbody>
 </table>
 <p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
-</div>
-<p><strong>14 cm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>What does it look like?</strong>
+<br><strong>What does it look like?</strong>
 </p>
 <p>While the Western Hemisphere has hummingbirds (Family Trochilidae), Africa
 and Asia have sunbirds, which are also primarily nectar-feeders. Brown-throated
@@ -120,8 +78,10 @@ Sunbirds are relatively large compared to other sunbirds. Males have a
 brown throat, with a metallic green head and neck, purple wings and lemon
 yellow belly. The females are dull olive in colour. Both sexes have red
 eyes.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>Their primary diet is nectar, but they will also feed on invertebrates,
@@ -129,6 +89,7 @@ particularly spiders. These birds are often seen visiting flowering trees
 and shrubs in search of nectar. Like other sunbirds, they make pouch-shaped
 nests that are suspended from tree branches using leaves, grass and spiders’
 web.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>A very common sunbird, it is found in many habitats in Singapore and throughout
@@ -139,40 +100,16 @@ Southeast Asia.</p>
 <summary><strong>Olive-backed Sunbird</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="213" width="320" alt="olive backed sunbird m" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_olive-backed-sunbird-m_francis-yap.jpg?h=213&amp;w=320">
 </div>
-<p>&nbsp;Male. Photo credit: Francis Yap</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
+<p><em>Male. Photo: Francis Yap</em>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="427" width="320" alt="olive backed sunbird f" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_olive-backed-sunbird-f-nest_perlyn-chng.jpg?h=427&amp;w=320">
 </div>
-<p>Female and chick in nest. Photo credit: Perlyn Chng</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<p><em>Female and chick in nest. Photo: Perlyn Chng</em>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -211,25 +148,13 @@ Southeast Asia.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
 </div>
-<p><strong>12 cm</strong>
+<p><strong>12cm</strong>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>In addition to the Brown-throated Sunbird, the Olive-backed Sunbird is
@@ -237,8 +162,10 @@ the other sunbird that can be commonly seen in our parks and gardens. Both
 males and females have a dull olive brown back with yellow underparts,
 but the males also have a metallic blue forehead, throat and upper breast.
 This species has a longer, more curved beak than the Brown-throated Sunbird.</p>
+<p></p>
 <p><strong>Ecology, Habitat and Distribution</strong>
 </p>
+<p></p>
 <p><strong>Diet and Behaviour</strong>
 </p>
 <p>They feed on nectar but will also prey on insects, especially when feeding
@@ -247,12 +174,14 @@ and trees. They are more often seen in flowering shrubs compared to the
 Brown-throated Sunbird. Like other sunbirds, they make pouch-shaped nests
 that are suspended from tree branches using leaves, grass and spiders’
 web.</p>
+<p></p>
 <p><strong>Where are they found?</strong>
 </p>
 <p>The Olive-backed Sunbird is very commonly seen in our urban areas and
 are very tolerant of humans. Some are even bold enough to make their nests
 on potted plants in HDB blocks! They are also found across southern China,
 Southeast Asia, northeast Australia and the Solomon Islands.</p>
+<p></p>
 <p><strong>Did you know?</strong>
 </p>
 <p>The nests of Olive-backed Sunbirds are often a source of fascination for
