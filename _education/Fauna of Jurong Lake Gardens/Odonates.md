@@ -901,6 +901,12 @@ numbers.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/saddlebag_glider_crop.jpg">
+</div>
+<p><em>Photo credit: Robin Ngiam (NParks)</em>
+</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -953,6 +959,11 @@ eyes are dark brown above and <a rel="noopener noreferrer nofollow" target="_bla
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/wandering_glider.jpg">
+</div>
+<p>Photo credit: Robin Ngiam (NParks)</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -990,25 +1001,7 @@ eyes are dark brown above and <a rel="noopener noreferrer nofollow" target="_bla
 </tbody>
 </table>
 <p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>45–47 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>How to identify?</strong>
+<br><strong>How to identify?</strong>
 </p>
 <p>This dragonfly is mainly yellow in colour. It has a series of long, diamond-shaped
 spots along the midline of its abdomen. Their broad wings are clear except
