@@ -13,9 +13,13 @@ a captivating gala of lights, music, and cultural delights in celebration
 of the Mid-Autumn Festival.</p>
 <p>Be awed by the larger-than-life lantern displays, cultural showcases and
 music performances, and more!</p>
-<p><em>Lights by the Lake is organised by National Parks Board. </em>
+<h4><strong>Stay tuned for more information on 2025's edition!</strong></h4>
+<p>In the meantime, check out highlights from our 2024 edition below.</p>
+<p>
+<br>
+</p>
+<hr>
+<p><em>Lights by the Lake is organised by National Parks Board.</em>
 </p>
 <p><em>Jurong Lake Gardens is part of the National Arts Council's Arts and Culture Nodes Network.</em>
 </p>
-<h3><strong>Stay tuned for more information on 2025's edition!</strong></h3>
-<p></p>
