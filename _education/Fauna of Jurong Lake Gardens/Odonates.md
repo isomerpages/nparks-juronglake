@@ -224,7 +224,11 @@ across the Indian subcontinent and Southeast Asia.</p>
 <summary><strong>Blue Sprite</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/blue_sprite_m_robin_ngiam.jpg">
+</div>
+<p><em>Male. Photo credit: Robin Ngiam, NParks Flora&amp;FaunaWeb</em>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -257,22 +261,6 @@ across the Indian subcontinent and Southeast Asia.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Coenagrionidae</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 90px; width: 130px; text-align: center;" height="auto" width="100%" alt="damselfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/019-damselfly.png?h=90&amp;w=130">
-</div>
-<p><strong>35–38&nbsp;mm</strong>
-</p>
 </td>
 </tr>
 </tbody>
