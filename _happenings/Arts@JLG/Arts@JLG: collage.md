@@ -14,10 +14,11 @@ art and nature in an open, interactive environment.</p>
 <p>This programme invites visitors to explore the intersections between natural
 landscapes and artistic expression through a series of installations, interactive
 elements, and hands-on workshops.</p>
-<p>Look forward to engaging activities over the weekends, including art workshops
-designed for all ages. Whether you're a curious passerby or an art enthusiast,
-there's something for everyone to enjoy in this unique celebration of art
-in the heart of nature. Check out highlights from our 2025 edition below!</p>
+<p>Look forward to engaging activities, including art workshops designed
+for all ages. Whether you're a curious passerby or an art enthusiast, there's
+something for everyone to enjoy in this unique celebration of art in the
+heart of nature.</p>
+<p>Check out highlights from our 2025 edition below!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/Collage/015A2129.jpg">
 </div>
