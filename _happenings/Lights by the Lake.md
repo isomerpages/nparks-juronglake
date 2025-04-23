@@ -35,7 +35,10 @@ music performances, and more!</p>
 </div>
 <p><em>Community Performances</em>
 </p>
-<p><em><br></em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lights by the Lake/IMG_9680.jpg">
+</div>
+<p><em>Lantern Riddles</em>
 </p>
 <hr>
 <p><em>Lights by the Lake is organised by National Parks Board.</em>
