@@ -167,6 +167,12 @@ to the island of New Guinea.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Ceriagrion_cerinorubellum__Ornate_Coraltail.jpg">
+</div>
+<p><em>Photo credit: Robin Ngiam (NParks)</em>
+</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -199,22 +205,6 @@ to the island of New Guinea.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Coenagrionidae</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 90px; width: 130px; text-align: center;" height="auto" width="100%" alt="damselfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/019-damselfly.png?h=90&amp;w=130">
-</div>
-<p><strong>35–38&nbsp;mm</strong>
-</p>
 </td>
 </tr>
 </tbody>
