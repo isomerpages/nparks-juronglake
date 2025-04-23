@@ -20,7 +20,21 @@ there's something for everyone to enjoy in this unique celebration of art
 in the heart of nature.</p>
 <h4><strong><em>Stay tuned for more information on 2025's edition!</em></strong></h4>
 <p>In the meantime, check out highlights from our 2025 edition below.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/Collage/015A2129.jpg">
+</div>
+<p><em>Community Art Installation, "‘Field Notes for Encountering Nature’</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/Collage/015A2023.jpg">
+</div>
+<p><em>Field Notes for Encountering Nature Co-Creation Activity</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/Collage/015A6823.jpg">
+</div>
+<p><em>Grow Your Own Oyster Mushrooms Programme</em>
+</p>
 <hr>
 <p><em>Jurong Lake Gardens is part of the Arts &amp; Culture Nodes Network, an initiative by the National Arts Council, for people to come together to experience the arts in their neighbourhood.</em>
 <br>
