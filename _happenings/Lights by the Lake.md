@@ -39,7 +39,7 @@ below.</p>
 </div>
 <p><em>Lantern Riddles</em>
 </p>
-<h4><strong>Stay tuned for more information on 2025's edition!</strong></h4>
+<h3><strong>Stay tuned for more information on 2025's edition!</strong></h3>
 <hr>
 <p><em>Lights by the Lake is organised by National Parks Board.</em>
 </p>
