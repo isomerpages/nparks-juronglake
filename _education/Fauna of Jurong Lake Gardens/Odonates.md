@@ -663,6 +663,12 @@ prey.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/spine_tufted_skimmer_crop.jpg">
+</div>
+<p><em>Photo credit: Ruth Tan (NParks)</em>
+</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -699,25 +705,7 @@ prey.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>41–48 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>Males have a dark brown thorax and red abdomen. Females are reddish brown.
@@ -732,6 +720,12 @@ instead of being completely red or orange brown.</p>
 <summary><strong>Common Parasol</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_parasol_m_rt_crop.jpg">
+</div>
+<p><em>Photo credit: Ruth Tan (NParks)</em>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -769,25 +763,7 @@ instead of being completely red or orange brown.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>30–34 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>Males are striking and have a reddish brown thorax and abdomen with maroon
@@ -803,6 +779,12 @@ in Singapore, even frequenting places that are far from a water source.</p>
 <summary><strong>Crimson Dropwing</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_dropwing_m_rt.jpg">
+</div>
+<p><em>Photo credit: Ruth Tan (NParks)</em>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -836,25 +818,6 @@ in Singapore, even frequenting places that are far from a water source.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Libellulidae</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>32–35 mm</strong>
-</p>
 </td>
 </tr>
 </tbody>
