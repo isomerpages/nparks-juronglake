@@ -12,9 +12,8 @@ description: ""
 a captivating gala of lights, music, and cultural delights in celebration
 of the Mid-Autumn Festival.</p>
 <p>Be awed by the larger-than-life lantern displays, cultural showcases and
-music performances, and more!</p>
-<h4><strong>Stay tuned for more information on 2025's edition!</strong></h4>
-<p>In the meantime, check out highlights from our 2024 edition below.</p>
+music performances, and more! Check out highlights from our 2024 edition
+below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lights by the Lake/LBTL_2024_Food_Street.jpg">
 </div>
@@ -40,6 +39,7 @@ music performances, and more!</p>
 </div>
 <p><em>Lantern Riddles</em>
 </p>
+<h4><strong>Stay tuned for more information on 2025's edition!</strong></h4>
 <hr>
 <p><em>Lights by the Lake is organised by National Parks Board.</em>
 </p>
