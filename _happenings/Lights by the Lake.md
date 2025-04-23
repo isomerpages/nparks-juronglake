@@ -15,8 +15,27 @@ of the Mid-Autumn Festival.</p>
 music performances, and more!</p>
 <h4><strong>Stay tuned for more information on 2025's edition!</strong></h4>
 <p>In the meantime, check out highlights from our 2024 edition below.</p>
-<p>
-<br>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lights by the Lake/LBTL_2024_Food_Street.jpg">
+</div>
+<p><em>Food Street</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lights by the Lake/LBTL_2024.jpg">
+</div>
+<p><em>Lantern Displays</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lights by the Lake/5685279e_4e01_429f_bcf0_af48ccec3884.jpg">
+</div>
+<p><em>Uncle Ringo Carnival Rides</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lights by the Lake/DVD0874.jpg">
+</div>
+<p><em>Community Performances </em>
+</p>
+<p><em><br></em>
 </p>
 <hr>
 <p><em>Lights by the Lake is organised by National Parks Board.</em>
