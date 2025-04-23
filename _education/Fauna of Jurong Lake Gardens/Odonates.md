@@ -839,9 +839,13 @@ They can often be spotted perched on shrubs, basking in the sun.</p>
 <summary><strong>Common Amberwing</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_amberwing_m_robin_ngiam.jpg">
+</div>
+<p><em>Male. Photo credit: Robin Ngiam (NParks)</em>
 </p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -878,25 +882,7 @@ They can often be spotted perched on shrubs, basking in the sun.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>29–31 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>True to its name, male Common Amberwings have beautiful amber tints on
