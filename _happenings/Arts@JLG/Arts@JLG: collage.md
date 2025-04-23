@@ -17,9 +17,7 @@ elements, and hands-on workshops.</p>
 <p>Look forward to engaging activities over the weekends, including art workshops
 designed for all ages. Whether you're a curious passerby or an art enthusiast,
 there's something for everyone to enjoy in this unique celebration of art
-in the heart of nature.</p>
-<h4><strong><em>Stay tuned for more information on 2025's edition!</em></strong></h4>
-<p>In the meantime, check out highlights from our 2025 edition below.</p>
+in the heart of nature. Check out highlights from our 2025 edition below!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/Collage/015A2129.jpg">
 </div>
@@ -35,6 +33,7 @@ in the heart of nature.</p>
 </div>
 <p><em>Grow Your Own Oyster Mushrooms Programme</em>
 </p>
+<h3><strong><em>Stay tuned for more information on 2026's edition!</em></strong></h3>
 <hr>
 <p><em>Jurong Lake Gardens is part of the Arts &amp; Culture Nodes Network, an initiative by the National Arts Council, for people to come together to experience the arts in their neighbourhood.</em>
 <br>
