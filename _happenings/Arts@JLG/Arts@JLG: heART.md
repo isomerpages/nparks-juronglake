@@ -27,7 +27,8 @@ of art and nature in promoting well-being. Check out highlights from our
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/DSCF4588_min.jpg">
 </div>
-<p>Community Batik</p>
+<p><em>Community Batik Painting</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/DSCF4602_min.jpg">
 </div>
