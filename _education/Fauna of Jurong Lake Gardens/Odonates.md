@@ -107,6 +107,12 @@ in most of our parks, but a keen eye is required to spot them!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_bluetail_m_rt.jpg">
+</div>
+<p><em>Male. Photo credit: Ruth Tan (NParks)</em>
+</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -143,22 +149,7 @@ in most of our parks, but a keen eye is required to spot them!</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 90px; width: 130px; text-align: center;" height="auto" width="100%" alt="damselfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/019-damselfly.png?h=90&amp;w=130">
-</div>
-<p><strong>28–30 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>Males can be easily identified by their green thorax and blue abdomen
