@@ -1083,9 +1083,17 @@ and Micronesia (islands in the western Pacific Ocean).</p>
 <summary><strong>Common Chaser</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_chaser_m_anthony_quek.jpg">
+</div>
+<p>Male. Photo credit: Anthony Quek</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_chaser_f_anthony_quek.jpg">
+</div>
+<p>Female. Photo credit: Anthony Quek</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1123,25 +1131,7 @@ and Micronesia (islands in the western Pacific Ocean).</p>
 </tbody>
 </table>
 <p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>43–45 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>What does it look like?</strong>
+<br><strong>What does it look like?</strong>
 </p>
 <p>The first four segments of the abdomen of the males are powdery blue while
 the rest of the abdomen is black with orange markings. Females have yellow
@@ -1158,6 +1148,11 @@ ranging from tropical Asia to Australia.</p>
 <summary><strong>Blue Dasher</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Blue_dasher_crop.jpg">
+</div>
+<p>Photo credit: Ruth Tan (NParks)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1195,25 +1190,7 @@ ranging from tropical Asia to Australia.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>33–35 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>This dragonfly is distinctive, with males sporting a bluish body coupled
