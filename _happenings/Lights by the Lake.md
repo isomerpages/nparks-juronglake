@@ -33,7 +33,7 @@ music performances, and more!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lights by the Lake/DVD0874.jpg">
 </div>
-<p><em>Community Performances </em>
+<p><em>Community Performances</em>
 </p>
 <p><em><br></em>
 </p>
