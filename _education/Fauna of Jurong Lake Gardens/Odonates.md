@@ -539,6 +539,11 @@ lack the patch on their hindwings.</p>
 <summary><strong>Grenadier</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/grenadier_m_cai_yx.jpg">
+</div>
+<p><em>Photo credit:  Cai Yixiong, NParks Flora&amp;FaunaWeb</em>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -576,25 +581,7 @@ lack the patch on their hindwings.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>37–41 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>The Grenadier has a blotchy or mottled yellow thorax and a slender abdomen
