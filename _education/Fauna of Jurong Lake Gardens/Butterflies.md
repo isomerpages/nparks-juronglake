@@ -1021,6 +1021,10 @@ the mottling. It can be difficult to tell the emigrants apart in flight.</p>
 <summary><strong>Striped Albatross</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Appias_libythea_olferna__Striped_Albatross____Khew_Sin_Khoon.jpg">
+</div>
+<p>Photo credit: Khew Sin Khoon</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1058,25 +1062,6 @@ the mottling. It can be difficult to tell the emigrants apart in flight.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>55&nbsp;mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>The Striped Albatross is a fast flyer that frequently visits flowers for
@@ -1084,6 +1069,11 @@ nectar during sunny weather. It can be found in open habitats like parks,
 gardens, grassy fields and the forest fringe. It is fairly common as its
 host plant can be found as a weed in many parts of Singapore.</p>
 <p><strong>Host Plant: </strong>Striped Spiderflower (<em>Cleome rutidosperma</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Cleome_rutidosperma_Gary_Chua_Liat_Seng.jpg">
+</div>
+<p>Photo credits: Gary LS Chua, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 </div>
