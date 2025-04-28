@@ -989,4 +989,6 @@ found in Singapore and will only attack humans when greatly provoked.</p>
 </div>
 </details>
 </div>
-<p></p>
+<hr>
+<p><em>Banner: Giant Honey Bees foraging on a water lily flower. Photo credit: Tan Jing Wen</em><strong><a href="https://www.nparks.gov.sg/" class="site-footer__title" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
+</p>
