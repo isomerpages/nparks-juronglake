@@ -228,6 +228,10 @@ It is more often found in close proximity to wetlands and mangrove habitats.</p>
 <summary><strong>Leopard</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/leopard_crop.jpg">
+</div>
+<p>Photo credit: Ruth Tan (NParks)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -265,30 +269,18 @@ It is more often found in close proximity to wetlands and mangrove habitats.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p><strong>45–55&nbsp;mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>The upperside of the Leopard is, like the large feline it is named after,
 a rich orange brown ornamented with black spots and streaks. Its underside
 is a lighter orange with a purplish sheen when lighted from the side.</p>
+<p></p>
 <p><strong>Host Plant:&nbsp;</strong>Batoko Plum (<em>Flacourtia inermis</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Flacourtia_inermis_Patricia_Yap.jpg">
+</div>
+<p>Photo credits: Patricia Yap, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
