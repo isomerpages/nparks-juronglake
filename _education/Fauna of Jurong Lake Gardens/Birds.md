@@ -3242,6 +3242,15 @@ animals disturbed by grass cutters and lawnmowers!<strong><br></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/IMGL2251_copy_min.jpg">
+</div>
+<p>Photo credit: Ong Chwee Sia</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/IMGL4858_min.jpg">
+</div>
+<p>Photo credit: Ong Chwee Sia</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
