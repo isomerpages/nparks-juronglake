@@ -30,7 +30,7 @@ a welcome sight as many of the plants in our parks and garden rely on them
 to reproduce, in turn providing food for other organisms. They also increase
 the fruit yield of many popular edible plants such as brinjals and gourds.</p>
 <p>Here are some of the bees and wasps that you can see in Jurong Lake Gardens.</p>
-<h4><strong>Honey Bees</strong></h4>
+<h2><strong>Honey Bees</strong></h2>
 <p>Honey bees are highly social bees of the genus <em>Apis</em>. They are
 native to Eurasia and Africa but certain species have been distributed
 worldwide (except Antarctica) by people for honey production. They are
@@ -263,7 +263,7 @@ are inefficient and do not pierce the skin of adults easily.<strong><br></strong
 </div>
 </details>
 </div>
-<h4><br><strong>Blue-banded&nbsp;Bees</strong></h4>
+<h2><strong>Blue-banded&nbsp;Bees</strong></h2>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Sunda Blue-banded Digger Bee</strong>
@@ -326,8 +326,7 @@ creatures. Their presence is a welcome sight in our parks and gardens.</p>
 </div>
 </details>
 </div>
-<p></p>
-<h4><strong>Carpenter Bees</strong></h4>
+<h2><strong>Carpenter Bees</strong></h2>
 <p>Carpenter bees from the genus <em>Xylocopa</em> are large and often hairy
 bees that are usually dark coloured and about 20-30 mm in length.</p>
 <p>True to their name, they create burrows in solid wood, usually dead tree
@@ -514,7 +513,7 @@ the end of the abdomen.
 </details>
 </div>
 <p></p>
-<h4><strong>Megachilid Bees</strong></h4>
+<h2><strong>Megachilid Bees</strong></h2>
 <p>These bees are from the family Megachilidae and are solitary or brood
 parasites of the nests of other bees, in contrast to the social groups
 of honey bees. Their nests come in all forms, ranging from soil and stem
@@ -578,7 +577,7 @@ while foraging, rather than on its hind legs like other bees.</p>
 </details>
 </div>
 <p></p>
-<h4><strong>Wasps and Hornets</strong></h4>
+<h2><strong>Wasps and Hornets</strong></h2>
 <p>The term wasps usually refer to<strong> </strong>social wasps from the
 family Vespidae, but may also refer to other families that share a similar
 appearance. Wasps have a slender body form and a distinctive petiole (stalk)
