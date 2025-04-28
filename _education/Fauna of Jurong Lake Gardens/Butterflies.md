@@ -961,6 +961,11 @@ markings.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/mottled_emigrant_crop.jpg">
+</div>
+<p>Photo credit: Ruth Tan (NParks)</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -997,25 +1002,6 @@ markings.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>65 mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>Its wings are greenish-white&nbsp;on the upperside and the forewing has
@@ -1024,6 +1010,11 @@ hue with numerous reddish brown stripes, giving it a ‘mottled’ look, as
 opposed to the similar-looking Lemon Emigrant, which is usually clean without
 the mottling. It can be difficult to tell the emigrants apart in flight.</p>
 <p><strong>Host Plant:&nbsp;</strong>Seven Golden Candlesticks (<em>Senna alata</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Senna_alata_Gary_Chua.jpg">
+</div>
+<p>Photo credits: Gary LS Chua, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
