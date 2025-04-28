@@ -865,6 +865,11 @@ their nest, they will otherwise not attack unprovoked.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Vespa_tropica_min.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
