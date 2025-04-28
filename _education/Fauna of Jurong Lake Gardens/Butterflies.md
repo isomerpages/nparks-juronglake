@@ -157,6 +157,10 @@ the same orange as the forewings.</p>
 <summary><strong>Blue Glassy Tiger</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Blue_Glassy_Tiger__Ideopsis_vulgaris_macrina____Khew_SK.jpg">
+</div>
+<p>Photo credit: Khew Sin Khoon</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -195,23 +199,6 @@ the same orange as the forewings.</p>
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p><strong>75 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>The Blue Glassy Tiger has bluish grey wings that are lined with many black
@@ -220,6 +207,11 @@ it apart from the closely related Dark Glassy Tiger (<em>Parantica agleoides</em
 while in flight. A reliable way to identify a Blue Glassy Tiger is the
 presence of a dark bar on the forewing, which the Dark Glassy Tiger lacks.
 It is more often found in close proximity to wetlands and mangrove habitats.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/blue_glassy_circle.png">
+</div>
+<p><em>The Blue Glassy Tiger has a dark tranverse bar on the forewing cell. Photo credit: Daniel Yee</em>
+</p>
 <p></p>
 <p><strong>Host Plant:&nbsp;</strong><em>Vincetoxicum flexuosum</em>
 </p>
