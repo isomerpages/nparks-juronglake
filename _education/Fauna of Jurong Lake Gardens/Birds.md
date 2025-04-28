@@ -2697,7 +2697,17 @@ in recent years.</p>
 </div>
 </details>
 </div>
-<h4>Waterbirds</h4>
+<h2>Waterbirds</h2>
+<p>Waterbirds refer to birds that live on or around water. Many species have
+specialised adaptations like webbed feet, long legs and serrated bills
+for life in the wetlands. Waterbirds encompass many bird families including
+herons and egrets, shorebirds, ducks and rails to name a few. Listed here
+are some of the more commonly seen waterbirds in Jurong Lake Gardens.</p>
+<h3><strong>Herons, Bitterns and Egrets</strong></h3>
+<p>A varied group of birds found in both freshwater and coastal wetlands,
+they are carnivores that feed on a variety of aquatic prey and small animals.&nbsp;
+They differ from storks and cranes in their curved “S” shaped necks, which
+are retracted completely when flying.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Grey Heron</strong>
@@ -3355,6 +3365,75 @@ European countries such as Russia.</p>
 </div>
 </details>
 </div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>White-breasted Waterhen</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Amaurornis phoenicurus</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Common name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>White-breasted Waterhen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Family:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rallidae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What does it look like?</strong>
+</p>
+<p>It is easily identified by its contrasting black upperparts and white
+underparts with a chocolate brown vent.</p>
+<p><strong>Ecology, Habitat and Distribution</strong>
+</p>
+<p><strong>Diet and Behaviour</strong>
+</p>
+<p>These omnivorous birds are often observed foraging at the edge of freshwater
+wetlands close to dense vegetation. When threatened, they make a dash for
+the nearest cover.</p>
+<p><strong>Where are they found?</strong>
+</p>
+<p>This bird is commonly encountered in wetlands across Singapore and has
+adapted to life in urban ponds as well. It is distributed across the Indian
+Subcontinent and Southeast Asia.</p>
+<p><strong>Did you know?</strong>
+</p>
+<p>Their chicks are flightless and have a uniformly black body!</p>
+</div>
+</details>
+</div>
+<p></p>
 <h4><br>Woodpeckers and Barbets</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
