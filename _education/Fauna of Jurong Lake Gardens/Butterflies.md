@@ -1134,15 +1134,11 @@ grey with dark spots on both wings.</p>
 <p>They are common in parks and gardens except for the Pale Grass Blue, which
 is less often spotted compared to the other two species, the Lesser Grass
 Blue and Pygmy Grass Blue.</p>
-<p><strong>Host Plant:&nbsp;</strong>Mimosa/Touch-me-not (<em>Mimosa pudica</em>)
-<br>
-</p>
+<p><strong>Host Plant:&nbsp;</strong>Mimosa/Touch-me-not (<em>Mimosa pudica</em>)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Mimosa_pudica__flower__Joyce_Foo_Ming_Yen.jpg">
 </div>
 <p>Photo credits: Joyce Foo Ming Yen, NParks Flora&amp;FaunaWeb</p>
-<p></p>
-<p></p>
 </div>
 </details>
 </div>
@@ -1298,5 +1294,4 @@ its wings are a rich, chestnut brown with a series of small silvery white&nbsp;s
 </div>
 <p><em>Banner: Plain Tiger. Photo credit: Ong Chwee Sia</em>
 </p>
-<p><strong><a href="https://www.nparks.gov.sg/" class="site-footer__title" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
-</p>
+<p></p>
