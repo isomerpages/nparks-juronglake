@@ -83,6 +83,11 @@ fully orange hind wings. It flies slowly while feeding on its favorite
 nectaring plants.</p>
 <p></p>
 <p><strong>Host Plant: </strong>Giant Milkweed (<em>Calotrops gigantea</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_giant_milkweed_arthur_ng.jpg">
+</div>
+<p>Photo credits: Arthur Ng, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
