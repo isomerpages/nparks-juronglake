@@ -1214,9 +1214,11 @@ the hindwing margin to protect itself from predators.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Chestnut_20Bob_Iambrix_20salsala_SohKamYung.jpg">
+</div>
+<p>Photo credit: Soh Kam Yung</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1253,33 +1255,17 @@ the hindwing margin to protect itself from predators.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>23–27&nbsp;mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>The Chestnut Bob is from a family of butterflies known as Skippers, characterised
 by their large, heavy bodies and rapid, darting flight. On the underside,
 its wings are a rich, chestnut brown with a series of small silvery white&nbsp;spots.</p>
-<p><strong>Host Plant:&nbsp;</strong>Cow Grass (<em>Axonopus compressus</em>)
-<br>
-</p>
+<p><strong>Host Plant:&nbsp;</strong>Cow Grass (<em>Axonopus compressus</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Axonopus_compressus_Boo_Chih_Min.jpg">
+</div>
+<p>Photo credits: Boo Chih Min, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 </div>
