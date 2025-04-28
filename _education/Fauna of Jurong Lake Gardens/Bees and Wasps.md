@@ -177,6 +177,11 @@ is often attracted to artificial light sources.<strong><br></strong>
 <p></p>
 <h4><strong>Black Dwarf Honey Bee</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Apis_andreniformis.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -215,6 +220,12 @@ is often attracted to artificial light sources.<strong><br></strong>
 </table>
 <p></p>
 <h4><strong>Red Dwarf Honey Bee</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Apis_florea.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
