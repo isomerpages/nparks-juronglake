@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Fauna of Jurong Lake Gardens
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/plain_tiger_banner.jpg">
+</div>
 <p>Butterflies give colour and vibrancy&nbsp;to our parks and gardens and
 are also key pollinators of many plants. They have the typical four-stage
 insect life cycle with complete metamorphosis – egg, larva (caterpillar),
@@ -1409,4 +1412,7 @@ its wings are a rich, chestnut brown with a series of small silvery white&nbsp;s
 </div>
 </details>
 </div>
-<p></p>
+<p><em>Banner: Plain Tiger. Photo credit: Ong Chwee Sia</em>
+</p>
+<p><strong><a href="https://www.nparks.gov.sg/" class="site-footer__title" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
+</p>
