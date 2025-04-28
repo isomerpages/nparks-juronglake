@@ -2756,26 +2756,30 @@ are retracted completely when flying.</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
-<p><strong>The tallest and most commonly seen heron in Jurong Lake Gardens, the Grey Heron has a wingspan of 2 m. It has mostly white plumage with a black stripe on the head and black streaks down the centre of its neck. Its bill is dull yellow. You can observe a nesting colony on the Casuarina trees at Japanese Garden.</strong>
-</p>
+<p>The tallest and most commonly seen heron in Jurong Lake Gardens, the Grey
+Heron has a wingspan of 2 m. It has mostly white plumage with a black stripe
+on the head and black streaks down the centre of its neck. Its bill is
+dull yellow. You can observe a nesting colony on the Casuarina trees at
+Japanese Garden.</p>
 <p><strong><br>Ecology, Habitat and Distribution</strong>
 </p>
 <p><strong>Diet and Behaviour</strong>
 </p>
-<p><strong>They feed on fish, amphibians, small mammals and insects. They are often observed perched on trees or the banks of large water bodies.</strong>
-</p>
+<p>They feed on fish, amphibians, small mammals and insects. They are often
+observed perched on trees or the banks of large water bodies.</p>
 <p><strong>Where are they found?</strong>
 </p>
-<p><strong>This species is commonly observed in a variety of freshwater and coastal wetlands across Singapore. Nesting colonies can be found at Pasir Ris Park and Japanese Garden. They are widely distributed globally and can be found in Europe, Africa and Asia.</strong>
-</p>
+<p>This species is commonly observed in a variety of freshwater and coastal
+wetlands across Singapore. Nesting colonies can be found at Pasir Ris Park
+and Japanese Garden. They are widely distributed globally and can be found
+in Europe, Africa and Asia.</p>
 <p><strong>Did you know?</strong>
 </p>
-<p><strong>A nesting colony of herons is known as a heronry.</strong>
-</p>
+<p>A nesting colony of herons is known as a heronry.</p>
 <p><strong>Conservation Status</strong>
 </p>
-<p><strong>It is classified as nationally endangered, but the local population has been increasing in recent years.</strong>
-</p>
+<p>It is classified as nationally endangered, but the local population has
+been increasing in recent years.</p>
 </div>
 </details>
 <details class="isomer-details">
