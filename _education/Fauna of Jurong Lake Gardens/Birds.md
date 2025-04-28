@@ -3466,6 +3466,15 @@ be found in Jurong Lake Gardens.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/IMG_5961A_copy.jpg">
+</div>
+<p>Photo credit: Ong Chwee Sia</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/DSC08992.jpg">
+</div>
+<p>Photo credit: Tan Chuan-Yean</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -3798,7 +3807,4 @@ across the islands of Sumatra, Java and Borneo.</p>
 <p>
 <br>
 </p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
