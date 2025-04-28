@@ -2703,7 +2703,7 @@ specialised adaptations like webbed feet, long legs and serrated bills
 for life in the wetlands. Waterbirds encompass many bird families including
 herons and egrets, shorebirds, ducks and rails to name a few. Listed here
 are some of the more commonly seen waterbirds in Jurong Lake Gardens.</p>
-<h3><strong>Herons, Bitterns and Egrets</strong></h3>
+<h4><strong>Herons, Bitterns and Egrets</strong></h4>
 <p>A varied group of birds found in both freshwater and coastal wetlands,
 they are carnivores that feed on a variety of aquatic prey and small animals.&nbsp;
 They differ from storks and cranes in their curved “S” shaped necks, which
@@ -3365,7 +3365,11 @@ European countries such as Russia.</p>
 </div>
 </details>
 </div>
-<p></p>
+<h4><strong>Rails</strong></h4>
+<p>Rails are a large family of ground-dwelling birds associated with wetlands.
+Most species are shy and prefer to run at the first sign of danger. Even
+so, many species undertake long distance migrations from their breeding
+grounds in northern Asia to spend winter in Southeast Asia’s wetlands.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>White-breasted Waterhen</strong>
