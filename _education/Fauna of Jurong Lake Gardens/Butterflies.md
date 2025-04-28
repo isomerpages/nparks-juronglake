@@ -776,6 +776,10 @@ restlessly and are alert when approached.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterflies_painted_jezebel_ocs.jpg">
+</div>
+<p>Photo credit: Ong Chwee Sia</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -812,25 +816,6 @@ restlessly and are alert when approached.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>70–80 mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>Easily identified by its intense red and yellow colouration, the Painted
@@ -840,6 +825,15 @@ are more heavily dusted that those of the males. It is a common butterfly
 in our forests, mangroves, parks and gardens, and is often observed flying
 higher up near the crowns of trees.</p>
 <p><strong>Host Plant:&nbsp;</strong>Malayan Mistletoe (<em>Dendropthoe pentandra</em>)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Dendrophthoe_pentandra__plant__Chua_Liat_Seng_Gary.jpg">
+</div>
+<p>Photo credits: Gary LS Chua, NParks Flora&amp;FaunaWeb</p>
+<p></p>
+<p><strong>Fun fact:</strong> The Malayan Mistletoe is a parasitic plant that
+grows on another host tree to obtain its nutrients!</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
