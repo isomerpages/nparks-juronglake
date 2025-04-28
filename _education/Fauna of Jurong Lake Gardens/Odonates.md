@@ -21,6 +21,11 @@ of each other, allowing them to move in many directions when flying; and</p>
 <p>Legs which have adapted to form a basket to catch prey.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/odonates.png">
+</div>
+<p><em>A Scarlet Grenadier (Lathrecista asiatica)&nbsp;dragonfly.&nbsp;Photo credit: Robin Ngiam, NParks Flora&amp;FaunaWeb.</em>
+</p>
 <p>They are also, in turn, important food sources for predators such as birds,
 spiders and frogs.</p>
 <p>Odonates start their life in water. Even when young, odonate larvae, called
@@ -29,6 +34,7 @@ invertebrates. Damselfly nymphs are slender with 3 gills on their tails,
 whereas dragonfly nymphs are short and thick, with gills inside their abdomens.
 They moult (shed their exoskeleton) 8 to 15 times before leaving the water
 to become adults.</p>
+<p></p>
 <p>Habitat enhancement efforts include incorporating spaces such as Neram
 Streams, a naturalised drainage system leading to Jurong Lake, in our parks
 and gardens. As the streams are a suitable habitat for the nymphs, many
