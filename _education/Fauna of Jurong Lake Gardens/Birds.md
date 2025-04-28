@@ -3320,7 +3320,10 @@ grounds in northern Asia to spend winter in Southeast Asia’s wetlands.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Amaurornis_20phoenicurus_White_breasted_20Waterhen_FYAP4911_108EOS1D_120208.jpg">
+</div>
+<p>Photo credit: Francis Yap</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -3387,9 +3390,11 @@ Subcontinent and Southeast Asia.</p>
 <summary><strong>Common Sandpiper</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_sandpiper_nic_kee.jpg">
+</div>
+<p>Photo credit: Nicholas Kee (NParks)</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
