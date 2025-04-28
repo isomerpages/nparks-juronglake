@@ -2948,6 +2948,10 @@ fish.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Nycticorax_20nycticorax_Black_crowned_20Night_20Heron_IMG_1880_109EOS7D_111108.jpg">
+</div>
+<p>Photo credit: Francis Yap</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -3017,6 +3021,14 @@ habitat.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/7L3A7946p_min.jpg">
+</div>
+<p>Non-breeding plumage. Photo credit: Loke Peng Fai</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Ardeola_20bacchus_Chinese_20Pond_20Heron_FYAP1155_110EOS1D_120326.jpg">
+</div>
+<p>Breeding plumage. Photo credit: Francis Yap</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
