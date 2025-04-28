@@ -2478,6 +2478,11 @@ has increased in recent years.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/IMG_3052_Acopy_copy.jpg">
+</div>
+<p>Photo credit: Ong Chwee Sia</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -2541,6 +2546,16 @@ in our green spaces.</p>
 <summary><strong>Spotted Wood Owl</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Owl_1_min.jpg">
+</div>
+<p>Photo credit: Tan Yip Cheong</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Owl_2_min.jpg">
+</div>
+<p>Photo credit: Tan Yip Cheong</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
