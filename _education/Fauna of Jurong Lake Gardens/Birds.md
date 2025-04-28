@@ -2248,6 +2248,11 @@ They can also tear flesh easily with their curved beaks.
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/7L3A6043p3.jpg">
+</div>
+<p>Photo credit: Loke Peng Fai</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -2319,6 +2324,8 @@ after this kite.</p>
 <summary><strong>White-bellied Sea Eagle</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
