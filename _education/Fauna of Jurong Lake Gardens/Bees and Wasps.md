@@ -661,6 +661,15 @@ and pupae found inside.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Delta_pyriforme2.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Potter_Wasp_nick_kee.jpg">
+</div>
+<p>Photo credit: Nicholas Kee (NParks)</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
