@@ -3547,6 +3547,16 @@ four of which can be found in Jurong Lake Gardens.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_flameback1.jpg">
+</div>
+<p>Male. Photo credit: Ruth Tan (NParks)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/birds_common_flameback_f_mendis_tan.jpg">
+</div>
+<p>Female. Photo credit: Mendis Tan, NParks Flora&amp;Fauna Web</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
