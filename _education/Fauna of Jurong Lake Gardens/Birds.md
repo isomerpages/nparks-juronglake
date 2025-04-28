@@ -2629,6 +2629,11 @@ in recent years.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/buffy_fish_owl_cai_yx_ffw.jpg">
+</div>
+<p>Photo credit: Cai Yixiong, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
