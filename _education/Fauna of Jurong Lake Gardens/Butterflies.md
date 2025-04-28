@@ -1083,6 +1083,12 @@ host plant can be found as a weed in many parts of Singapore.</p>
 <summary><strong>Grass Blues</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Pygmy_20Grass_20Blue_Zizula_20hylax_ZhouBoyi.jpg">
+</div>
+<p>Photo credit: Zhou Boyi (NParks)</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1119,25 +1125,6 @@ host plant can be found as a weed in many parts of Singapore.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>8–20&nbsp;mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What do they look like?</strong>
 </p>
 <p>Singapore has three Grass Blue species that are hard to tell apart due
@@ -1150,6 +1137,12 @@ Blue and Pygmy Grass Blue.</p>
 <p><strong>Host Plant:&nbsp;</strong>Mimosa/Touch-me-not (<em>Mimosa pudica</em>)
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Mimosa_pudica__flower__Joyce_Foo_Ming_Yen.jpg">
+</div>
+<p>Photo credits: Joyce Foo Ming Yen, NParks Flora&amp;FaunaWeb</p>
+<p></p>
+<p></p>
 </div>
 </details>
 </div>
