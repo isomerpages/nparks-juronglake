@@ -798,6 +798,16 @@ their presence very beneficial to plant nurseries!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Vespa_affinis1.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Vespa_affinis2.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
