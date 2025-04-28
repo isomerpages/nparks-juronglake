@@ -2235,7 +2235,13 @@ the Leopard Tree (<em>Libidibia ferrea)</em> in Japanese Garden.</p>
 </div>
 </details>
 </div>
-<h4>Raptors</h4>
+<h2>Raptors</h2>
+<p>Also known as birds of prey, this group of birds comprises birds like
+falcons, eagles, buzzards, kites and owls. They have keen eyesight and
+can spot prey from afar, and sharp talons that function as lethal weapons.
+They can also tear flesh easily with their curved beaks.
+<br>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Brahminy Kite</strong>
