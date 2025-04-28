@@ -32,6 +32,10 @@ Lake Gardens!</p>
 <summary><strong>Plain Tiger</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/7L3A5662pp6_min.jpg">
+</div>
+<p>Photo credit: Loke Peng Fai</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
