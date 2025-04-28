@@ -3094,6 +3094,16 @@ and Jurong Lake Gardens.<strong><br></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/yellow_bittern_male_ong_chwee_sia.jpg">
+</div>
+<p>Male. Photo credit: Woo Mun Shih</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/IMG5604JPG_A_min.jpg">
+</div>
+<p>Female. Photo credit: Ong Chwee Sia</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
