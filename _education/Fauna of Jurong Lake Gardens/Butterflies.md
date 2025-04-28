@@ -902,6 +902,10 @@ quickly from plant to plant.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Orange_20Emigrant_Catopsilia_20scylla_JasonYong.jpg">
+</div>
+<p>Photo credit: Jason Yong</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -938,25 +942,6 @@ quickly from plant to plant.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>60–70 mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>While in flight, its upperside, which is white with black borders on the
@@ -964,6 +949,11 @@ forewings and a deep orange yellow on the hindwings, is revealed. The underside,
 visible while it is perched, is also orange yellow with dark spots and
 markings.</p>
 <p><strong>Host Plant:&nbsp;</strong>Golden Shower Tree (<em>Cassia fistula</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Cassia_fistula__6__Keneric_Ng_Wei_Sheng.jpg">
+</div>
+<p>Photo credits: Keneric Ng Wei Sheng, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
