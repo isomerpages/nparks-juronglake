@@ -3698,6 +3698,15 @@ Southeast Asia.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/7L3A2036p1_min.jpg">
+</div>
+<p>Male. Photo credit: Loke Peng Fai</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Female_Laced_Woodpecker_min.jpg">
+</div>
+<p>Female. Photo credit: Loke Peng Fai</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
