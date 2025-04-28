@@ -3628,6 +3628,10 @@ to its feathers!<strong><br></strong>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/52_Tan_Yip_Cheong_min.jpg">
 </div>
 <p>Photo credit: Tan Yip Cheong</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Rufous_Woodpecker.jpg">
+</div>
+<p>Photo credit: Loke Peng Fai</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
