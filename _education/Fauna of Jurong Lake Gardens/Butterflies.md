@@ -713,6 +713,10 @@ comparing the position and patterns of the eyespots and streaks.</p>
 <summary><strong>Grass Yellows</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Eurema_hecabe_contubernalis__Common_Grass_Yellow____Khew_Sin_Khoon.jpg">
+</div>
+<p>Common Grass Yellow (Eurema hecabe). Photo credit: Khew Sin Khoon</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -750,25 +754,6 @@ comparing the position and patterns of the eyespots and streaks.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>35–45 mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What do they look like?</strong>
 </p>
 <p>Grass yellows are butterflies from the genus <em>Eurema</em> and consist
@@ -778,6 +763,12 @@ of the wing, but this can be quite a difficult task as they tend to fly
 restlessly and are alert when approached.</p>
 <p><strong>Host Plant:&nbsp;</strong>Many legumes including the Peacock Flower
 (<em>Caesalpinia pulcherrima</em>)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Caesalpinia_pulcherrima__9__Jessica_Teo__flower.jpg">
+</div>
+<p>Photo credits: Jessica Teo, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
