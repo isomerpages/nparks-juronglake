@@ -292,6 +292,11 @@ are inefficient and do not pierce the skin of adults easily.<strong><br></strong
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/20180531_Amegilla_andrewsi_Dissotis_buzz_pollination_HortPark__2_of_2__2_crop2.jpg">
+</div>
+<p>Photo credit: Zestin Soh (NParks)</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
