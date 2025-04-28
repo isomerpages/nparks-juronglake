@@ -111,6 +111,11 @@ hives consist of multiple wax combs lined parallel to one another.<strong><br></
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Apis_dorsata.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
