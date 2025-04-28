@@ -729,6 +729,10 @@ if left alone and is more likely to flee than attack.</p>
 <summary><strong>Banded Paper Wasp</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/polistes_sagittarius.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
