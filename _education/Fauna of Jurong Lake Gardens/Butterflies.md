@@ -517,6 +517,12 @@ an orange red eyespot. The female is a much duller brown on the upperside.
 The undersides of both sexes are pale brown with the typical markings and
 eyespots from this butterfly family.</p>
 <p><strong>Host Plant:&nbsp;</strong>Coromandel (<em>Asystasia gangetica</em>)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Asystasia_gangetica__flower__Pauline_Tay.jpg">
+</div>
+<p>Photo credits: Pauline Tay, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
