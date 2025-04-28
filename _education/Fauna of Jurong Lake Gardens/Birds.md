@@ -2012,7 +2012,14 @@ be observed in both freshwater and coastal wetlands.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/7L3A1177p2.jpg">
+</div>
+<p>Photo credit: Loke Peng Fai</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/7L3A8053ps1.jpg">
+</div>
+<p>Photo credit: Loke Peng Fai</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
