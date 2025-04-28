@@ -637,6 +637,11 @@ borders. This butterfly flies sluggishly in a fluttering manner around
 plants of the passion fruit family.</p>
 <p><strong>Host Plant:&nbsp;</strong>Plants from the Passion Flower family
 (Passifloraceae) such as Passion Fruit (<em>Passiflora edulis</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Passiflora_edulis_f__edulis_Patricia_Yap.jpg">
+</div>
+<p>Photo credits: Patricia Yap, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
