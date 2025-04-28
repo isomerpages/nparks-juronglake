@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Fauna of Jurong Lake Gardens
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/yellow_barred_flutterer_banner.jpg">
+</div>
 <p>Damselflies and dragonflies belong to the order <strong>Odonata</strong> and
 are known collectively as odonates. Adult odonates have many adaptations
 that make them great fliers and fierce predators of smaller insects, including
