@@ -51,6 +51,12 @@ are docile and safe when foraging away from their nest.</p>
 <summary><strong>Asian Honey Bee</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Apis_cerana.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
