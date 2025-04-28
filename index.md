@@ -22,7 +22,7 @@ sections:
           description: Eateries and dining options
           url: /dining/
         - title: Volunteer
-          description: Sign up as volunteer!
+          description: Sign up as volunteer
           url: /volunteer-programmes/
       variant: center
   - infopic:
