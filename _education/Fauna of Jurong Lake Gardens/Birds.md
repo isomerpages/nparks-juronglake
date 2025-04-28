@@ -3453,8 +3453,7 @@ European countries such as Russia.</p>
 </details>
 </div>
 <h2><br>Woodpeckers and Barbets</h2>
-<p><strong>Asian Barbets</strong>
-</p>
+<h4><strong>Asian Barbets</strong></h4>
 <p>Asian barbets are from the family Megalaimidae. They have large heads
 relative to their body and are generally brightly coloured, arboreal (tree-dwelling)
 birds. The name ‘barbet’ comes from the bristles around their beak. They
@@ -3525,8 +3524,7 @@ on the Indian subcontinent, China and Southeast Asia.</p>
 </div>
 </details>
 </div>
-<p><strong>Woodpeckers</strong>
-</p>
+<h4><strong>Woodpeckers</strong></h4>
 <p>Woodpeckers are from the family Picidae, a large family consisting of
 over 200 species worldwide. They are characterised by their unique feeding
 behaviour, which involves drilling into trees in search of insects, which
