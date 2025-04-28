@@ -2089,6 +2089,11 @@ of four different series of the Singapore currency.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/02_Jeremy_Yeo_Wei_Liang_crop.jpg">
+</div>
+<p>Photo credit: Jeremy Yeo Wei Liang (NParks)</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -2153,6 +2158,14 @@ It is also widely distributed across Asia.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Stork_billed_Kingfisher.jpg">
+</div>
+<p>Photo credit: Perlyn Chng</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/31_Ong_Chwee_Sia_IMG_2704_Acopy_min.jpg">
+</div>
+<p>Photo credit: Ong Chwee Sia</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
