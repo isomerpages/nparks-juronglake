@@ -65,4 +65,17 @@ sections:
             NEA website or dial 6542 7788 for the weather forecast.
           link_text: Visit the NEA Website here!
           link_url: https://www.weather.gov.sg/home/
+        - title: Notice of Closure (Dog Run)
+          date: 28 April 2025
+          announcement: Kindly note that the Dog Run will be closed on 6 May 2025 (Tue)
+            for maintenance works. Thank you for your understanding.
+          link_text: ""
+          link_url: ""
+        - title: Notice of Closure (Clusia Cove)
+          date: 28 April 2025
+          announcement: Kindly note that Clusia Cove will be closed from 5 May 2025 (Mon)
+            until further notice for maintenance works. Thank you for your
+            understanding.
+          link_text: ""
+          link_url: ""
 ---
