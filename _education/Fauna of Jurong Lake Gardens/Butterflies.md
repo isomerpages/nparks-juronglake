@@ -95,6 +95,11 @@ nectaring plants.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_tiger_ruth.jpg">
+</div>
+<p>Photo credit: Ruth Tan (NParks)</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
