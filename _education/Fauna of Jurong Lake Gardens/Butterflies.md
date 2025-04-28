@@ -215,6 +215,10 @@ It is more often found in close proximity to wetlands and mangrove habitats.</p>
 <p></p>
 <p><strong>Host Plant:&nbsp;</strong><em>Vincetoxicum flexuosum</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Vincetoxicum_flexuosum__Vicky_Lim_Yen_Ngoh.jpg">
+</div>
+<p>Photo credits: Vicky Lim Yen Ngoh, NParks Flora&amp;FaunaWeb</p>
 <p>
 <br>
 </p>
