@@ -2713,8 +2713,18 @@ are retracted completely when flying.</p>
 <summary><strong>Grey Heron</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong><br></strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/IMGL0119A.jpg">
+</div>
+<p>Photo credit: Ong Chwee Sia</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/46_Perlyn_Chng_Grey_Heron3.jpg">
+</div>
+<p>A heronry on a Casuarina Tree at Japanese Garden. Photo credit: Perlyn
+Chng</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -2786,6 +2796,15 @@ been increasing in recent years.</p>
 <summary><strong>Purple Heron</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Purple_Heron_180523_109ND500_FYP_8303_N.jpg">
+</div>
+<p>Photo credit: Francis Yap</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/IMG_2753.jpg">
+</div>
+<p>Photo credit: Ong Chwee Sia</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
