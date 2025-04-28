@@ -3170,6 +3170,11 @@ to Southeast Asia to escape the northern winter.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Eastern_Cattle_Egret_Perlyn_Chng.png">
+</div>
+<p>Photo credit: Perlyn Chng</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
