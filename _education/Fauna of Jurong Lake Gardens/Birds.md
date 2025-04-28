@@ -15,7 +15,9 @@ third_nav_title: Fauna of Jurong Lake Gardens
 ecological roles as predators, pollinators and seed dispersers. Get to
 the know the urban birds, kingfishers, raptors, waterbirds and woodpeckers
 that frequent our gardens!</p>
-<h4>Garden and Urban Birds</h4>
+<h2>Garden and Urban Birds</h2>
+<p>Singapore is home to many species of birds that have adapted to the city
+life, many of which frequent Jurong Lake Gardens.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Brown-throated Sunbird</strong>
@@ -1934,7 +1936,13 @@ is largely outcompeted by the introduced and more aggressive Javan Myna.</p>
 </div>
 </details>
 </div>
-<h4>Kingfishers</h4>
+<h2>Kingfishers</h2>
+<p>Kingfishers, true to their name, are master fishers that swoop down to
+catch prey with pinpoint accuracy. However, many species do not live close
+to water and therefore also feed on a wide variety of small animals.</p>
+<p>These birds can be quite conspicuous due to their bright colouration and
+distinctive cackling calls. Take a listen when walking by a body of water
+and you may hear the calls of some of the featured species below!</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Common Kingfisher</strong>
