@@ -3773,6 +3773,10 @@ the fruit through an opening made by a Plantain Squirrel!<strong><br></strong>
 <summary><strong>Sunda Pygmy Woodpecker</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/sunda_pygmy_woodpecker_3_dillen_ng.jpg">
+</div>
+<p>Photo credit: Dillen Ng (NParks)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -3834,5 +3838,6 @@ across the islands of Sumatra, Java and Borneo.</p>
 <p>
 <br>
 </p>
+<p></p>
 <p></p>
 <p></p>
