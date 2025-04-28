@@ -3624,6 +3624,10 @@ to its feathers!<strong><br></strong>
 <summary><strong>Rufous Woodpecker</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/52_Tan_Yip_Cheong_min.jpg">
+</div>
+<p>Photo credit: Tan Yip Cheong</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -3665,10 +3669,10 @@ to its feathers!<strong><br></strong>
 <p><strong>What does it look like?</strong>
 </p>
 <p>It is not commonly found in Singapore. It gets its common name from its
-uniformly <a rel="noopener noreferrer nofollow" target="_blank">reddish brown&nbsp;</a>plumage,
-which distinguishes it from other species of woodpeckers in Singapore.
-Males have a small red cheek patch, which females lack. Its call is a rapid
-series of seven to nine laughter-like ‘<em>hee</em>’ sounds.</p>
+uniformly reddish brown plumage, which distinguishes it from other species
+of woodpeckers in Singapore. Males have a small red cheek patch, which
+females lack. Its call is a rapid series of seven to nine laughter-like
+‘<em>hee</em>’ sounds.</p>
 <p><strong><br>Ecology, Habitat and Distribution</strong>
 </p>
 <p><strong>Diet and Behaviour</strong>
@@ -3817,4 +3821,5 @@ across the islands of Sumatra, Java and Borneo.</p>
 <p>
 <br>
 </p>
+<p></p>
 <p></p>
