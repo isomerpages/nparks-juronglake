@@ -143,10 +143,14 @@ nectaring plants.</p>
 Tiger are strongly marked with black. The white form has white hindwings
 with an orange-tinged border, while the orange form has hindwings with
 the same orange as the forewings.</p>
+<p></p>
 <p><strong>Host Plant:&nbsp;</strong>Coated Swallow-Wort (<em>Cynanchum ovalifolium</em>)</p>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Cynanchum_ovalifolium_Vicky_Lim.jpg">
+</div>
+<p>Photo credits: Vicky Lim Yen Ngoh, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
