@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Fauna of Jurong Lake Gardens
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/plain_tiger_banner.jpg">
+</div>
 <p>Butterflies give colour and vibrancy&nbsp;to our parks and gardens and
 are also key pollinators of many plants. They have the typical four-stage
 insect life cycle with complete metamorphosis – egg, larva (caterpillar),
@@ -29,6 +32,10 @@ Lake Gardens!</p>
 <summary><strong>Plain Tiger</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/7L3A5662pp6_min.jpg">
+</div>
+<p>Photo credit: Loke Peng Fai</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -76,12 +83,22 @@ fully orange hind wings. It flies slowly while feeding on its favorite
 nectaring plants.</p>
 <p></p>
 <p><strong>Host Plant: </strong>Giant Milkweed (<em>Calotrops gigantea</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_giant_milkweed_arthur_ng.jpg">
+</div>
+<p>Photo credits: Arthur Ng, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Common Tiger</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_tiger_ruth.jpg">
+</div>
+<p>Photo credit: Ruth Tan (NParks)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -126,16 +143,24 @@ nectaring plants.</p>
 Tiger are strongly marked with black. The white form has white hindwings
 with an orange-tinged border, while the orange form has hindwings with
 the same orange as the forewings.</p>
+<p></p>
 <p><strong>Host Plant:&nbsp;</strong>Coated Swallow-Wort (<em>Cynanchum ovalifolium</em>)</p>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Cynanchum_ovalifolium_Vicky_Lim.jpg">
+</div>
+<p>Photo credits: Vicky Lim Yen Ngoh, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Blue Glassy Tiger</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Blue_Glassy_Tiger__Ideopsis_vulgaris_macrina____Khew_SK.jpg">
+</div>
+<p>Photo credit: Khew Sin Khoon</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -174,23 +199,6 @@ the same orange as the forewings.</p>
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p><strong>75 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>The Blue Glassy Tiger has bluish grey wings that are lined with many black
@@ -199,9 +207,18 @@ it apart from the closely related Dark Glassy Tiger (<em>Parantica agleoides</em
 while in flight. A reliable way to identify a Blue Glassy Tiger is the
 presence of a dark bar on the forewing, which the Dark Glassy Tiger lacks.
 It is more often found in close proximity to wetlands and mangrove habitats.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/blue_glassy_circle.png">
+</div>
+<p><em>The Blue Glassy Tiger has a dark tranverse bar on the forewing cell. Photo credit: Daniel Yee</em>
+</p>
 <p></p>
 <p><strong>Host Plant:&nbsp;</strong><em>Vincetoxicum flexuosum</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Vincetoxicum_flexuosum__Vicky_Lim_Yen_Ngoh.jpg">
+</div>
+<p>Photo credits: Vicky Lim Yen Ngoh, NParks Flora&amp;FaunaWeb</p>
 <p>
 <br>
 </p>
@@ -211,6 +228,10 @@ It is more often found in close proximity to wetlands and mangrove habitats.</p>
 <summary><strong>Leopard</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/leopard_crop.jpg">
+</div>
+<p>Photo credit: Ruth Tan (NParks)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -248,36 +269,29 @@ It is more often found in close proximity to wetlands and mangrove habitats.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p><strong>45–55&nbsp;mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>The upperside of the Leopard is, like the large feline it is named after,
 a rich orange brown ornamented with black spots and streaks. Its underside
 is a lighter orange with a purplish sheen when lighted from the side.</p>
+<p></p>
 <p><strong>Host Plant:&nbsp;</strong>Batoko Plum (<em>Flacourtia inermis</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Flacourtia_inermis_Patricia_Yap.jpg">
+</div>
+<p>Photo credits: Patricia Yap, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Chocolate Pansy</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Chocolatepansy_Khew.jpg">
+</div>
+<p>Photo credit: Khew Sin Khoon</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -315,26 +329,6 @@ is a lighter orange with a purplish sheen when lighted from the side.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p><strong>55–60 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>Resembling the colour of chocolate, its upper wings are orange brown with
@@ -343,12 +337,23 @@ several dark brown bands and small eyespots. Compared to the Peacock Pansy
 It flies in the usual gliding manner of the genus <em>Junonia</em> and tends
 to sunbathe with their wings wide open in sunny weather.</p>
 <p><strong>Host Plant:&nbsp;</strong>Creeping Ruellia (<em>Ruellia repens</em>)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Ruellia_repens_flower__Vicky_Lim_Yen_Ngoh.jpg">
+</div>
+<p>Photo credits: Vicky Lim Yen Ngoh, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Grey Pansy</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Grey_Pansy___Khew_SK.jpg">
+</div>
+<p>Photo credit: Khew Sin Khoon</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -385,38 +390,27 @@ to sunbathe with their wings wide open in sunny weather.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p><strong>55–60&nbsp;mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>Pansies have a characteristic flap-glide flight pattern. This species
 has a pale grey upperside with numerous eyespots along the wing margins.
 The underside is much paler with very faint markings.</p>
 <p><strong>Host Plant:&nbsp;</strong>Blue Pussyleaf (<em>Nelsonia canescens</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Nelsonia_canescens__plant__Jessica_Teo.jpg">
+</div>
+<p>Photo credits: Jessica Teo, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Peacock Pansy</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/butterflies_peacock_pansy_khew_sin_khoon.jpg">
+</div>
+<p>Photo credit: Perlyn Chng</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -454,36 +448,31 @@ The underside is much paler with very faint markings.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p><strong>53–64 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>It gets its name from its bright orange upperside with prominent eyespots
 on its hindwings, resembling a peacock’s tail feather. The undersides are
 paler, though the eyespots remain prominent.</p>
 <p><strong>Host Plant:&nbsp;</strong>Creeping Ruellia (<em>Ruellia repens</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Ruellia_repens_flower__Vicky_Lim_Yen_Ngoh__1_.jpg">
+</div>
+<p>Photo credits: Vicky Lim Yen Ngoh, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Blue Pansy</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/butterflies_blue_pansy_m_ksk.jpg">
+</div>
+<p>Male. Photo credit: Khew Sin Khoon, NParks Flora&amp;FaunaWeb</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/butterflies_blue_pansy_f_ksk.jpg">
+</div>
+<p>Underside. Photo credit: Khew Sin Khoon, NParks Flora&amp;FaunaWeb</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -521,25 +510,6 @@ paler, though the eyespots remain prominent.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>40–55&nbsp;mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>The male is much flashier thanks to its bright blue hindwings, each with
@@ -547,13 +517,22 @@ an orange red eyespot. The female is a much duller brown on the upperside.
 The undersides of both sexes are pale brown with the typical markings and
 eyespots from this butterfly family.</p>
 <p><strong>Host Plant:&nbsp;</strong>Coromandel (<em>Asystasia gangetica</em>)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Asystasia_gangetica__flower__Pauline_Tay.jpg">
+</div>
+<p>Photo credits: Pauline Tay, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Short Banded Sailor</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/short_banded_sailor_mating_pair.jpg">
+</div>
+<p>Photo credit: Ruth Tan (NParks)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -590,25 +569,6 @@ eyespots from this butterfly family.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>55–65&nbsp;mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>The underside of its wings is a rich grey brown with white stripes arranged
@@ -616,12 +576,21 @@ in a similar manner to the upperside. Often confused with the Common Sailor
 (<em>Neptis hylas</em>), it is the larger of the two and has slightly different
 white markings.</p>
 <p><strong>Host Plant:&nbsp;</strong>Angsana (<em>Pterocarpus indicus</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Pterocarpus_indicus__flower__Boo_Chih_Min.jpg">
+</div>
+<p>Photo credits: Boo Chih Min, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Tawny Coster</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/tawny_coster_perlyn_chng.jpg">
+</div>
+<p>Photo credit: Perlyn Chng</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -659,25 +628,6 @@ white markings.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>45–55 mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>It has an orange upperside with black spots and a narrow black hindwing
@@ -687,12 +637,22 @@ borders. This butterfly flies sluggishly in a fluttering manner around
 plants of the passion fruit family.</p>
 <p><strong>Host Plant:&nbsp;</strong>Plants from the Passion Flower family
 (Passifloraceae) such as Passion Fruit (<em>Passiflora edulis</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Passiflora_edulis_f__edulis_Patricia_Yap.jpg">
+</div>
+<p>Photo credits: Patricia Yap, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Bush Browns</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/butterflies_dark_brand_bush_brown_joy_wong_nparks.jpg">
+</div>
+<p>Dark Brand Bush Brown (Mycalesis mineus). Photo credit: Joy Wong (NParks)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -730,25 +690,6 @@ plants of the passion fruit family.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>35–45 mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>How do they look like?</strong>
 </p>
 <p>Bush Browns are a collection of butterfly species from the genus <em>Mycalesis </em>that
@@ -758,6 +699,11 @@ eyespots and a white stripe on its forewings and hindwings. Bush Browns
 generally look similar and identification of the different species involves
 comparing the position and patterns of the eyespots and streaks.</p>
 <p><strong>Host Plant:&nbsp;</strong>Cow Grass (<em>Axonopus compressus</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Axonopus_compressus_Boo_Chih_Min.jpg">
+</div>
+<p>Photo credits: Boo Chih Min, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 </div>
@@ -767,6 +713,10 @@ comparing the position and patterns of the eyespots and streaks.</p>
 <summary><strong>Grass Yellows</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Eurema_hecabe_contubernalis__Common_Grass_Yellow____Khew_Sin_Khoon.jpg">
+</div>
+<p>Common Grass Yellow (Eurema hecabe). Photo credit: Khew Sin Khoon</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -804,25 +754,6 @@ comparing the position and patterns of the eyespots and streaks.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>35–45 mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What do they look like?</strong>
 </p>
 <p>Grass yellows are butterflies from the genus <em>Eurema</em> and consist
@@ -832,6 +763,12 @@ of the wing, but this can be quite a difficult task as they tend to fly
 restlessly and are alert when approached.</p>
 <p><strong>Host Plant:&nbsp;</strong>Many legumes including the Peacock Flower
 (<em>Caesalpinia pulcherrima</em>)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Caesalpinia_pulcherrima__9__Jessica_Teo__flower.jpg">
+</div>
+<p>Photo credits: Jessica Teo, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -839,6 +776,10 @@ restlessly and are alert when approached.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterflies_painted_jezebel_ocs.jpg">
+</div>
+<p>Photo credit: Ong Chwee Sia</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -875,25 +816,6 @@ restlessly and are alert when approached.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>70–80 mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>Easily identified by its intense red and yellow colouration, the Painted
@@ -903,12 +825,26 @@ are more heavily dusted that those of the males. It is a common butterfly
 in our forests, mangroves, parks and gardens, and is often observed flying
 higher up near the crowns of trees.</p>
 <p><strong>Host Plant:&nbsp;</strong>Malayan Mistletoe (<em>Dendropthoe pentandra</em>)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Dendrophthoe_pentandra__plant__Chua_Liat_Seng_Gary.jpg">
+</div>
+<p>Photo credits: Gary LS Chua, NParks Flora&amp;FaunaWeb</p>
+<p></p>
+<p><strong>Fun fact:</strong> The Malayan Mistletoe is a parasitic plant that
+grows on another host tree to obtain its nutrients!</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Lemon Emigrant</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Lemon_20Emigrant_Catopsilia_20pomona_NurLiyanaZolpakar.jpg">
+</div>
+<p>Photo credit: Nur Liyana Zolpakar</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -946,25 +882,6 @@ higher up near the crowns of trees.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>50–70 mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>This species has at least seven different ‘forms’, with its appearance
@@ -972,6 +889,12 @@ ranging from pale green to orange yellow with varying widths of black borders
 on the upperside. Emigrants are fast-flying and are often observed zipping
 quickly from plant to plant.</p>
 <p><strong>Host Plant:&nbsp;</strong>Golden Shower Tree (<em>Cassia fistula</em>)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Cassia_fistula__6__Keneric_Ng_Wei_Sheng.jpg">
+</div>
+<p>Photo credits: Keneric Ng Wei Sheng, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -979,6 +902,10 @@ quickly from plant to plant.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Orange_20Emigrant_Catopsilia_20scylla_JasonYong.jpg">
+</div>
+<p>Photo credit: Jason Yong</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1015,25 +942,6 @@ quickly from plant to plant.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>60–70 mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>While in flight, its upperside, which is white with black borders on the
@@ -1041,12 +949,22 @@ forewings and a deep orange yellow on the hindwings, is revealed. The underside,
 visible while it is perched, is also orange yellow with dark spots and
 markings.</p>
 <p><strong>Host Plant:&nbsp;</strong>Golden Shower Tree (<em>Cassia fistula</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Cassia_fistula__6__Keneric_Ng_Wei_Sheng.jpg">
+</div>
+<p>Photo credits: Keneric Ng Wei Sheng, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Mottled Emigrant</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/mottled_emigrant_crop.jpg">
+</div>
+<p>Photo credit: Ruth Tan (NParks)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1084,25 +1002,6 @@ markings.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>65 mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>Its wings are greenish-white&nbsp;on the upperside and the forewing has
@@ -1111,12 +1010,21 @@ hue with numerous reddish brown stripes, giving it a ‘mottled’ look, as
 opposed to the similar-looking Lemon Emigrant, which is usually clean without
 the mottling. It can be difficult to tell the emigrants apart in flight.</p>
 <p><strong>Host Plant:&nbsp;</strong>Seven Golden Candlesticks (<em>Senna alata</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Senna_alata_Gary_Chua.jpg">
+</div>
+<p>Photo credits: Gary LS Chua, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Striped Albatross</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Appias_libythea_olferna__Striped_Albatross____Khew_Sin_Khoon.jpg">
+</div>
+<p>Photo credit: Khew Sin Khoon</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1154,25 +1062,6 @@ the mottling. It can be difficult to tell the emigrants apart in flight.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>55&nbsp;mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>The Striped Albatross is a fast flyer that frequently visits flowers for
@@ -1180,6 +1069,11 @@ nectar during sunny weather. It can be found in open habitats like parks,
 gardens, grassy fields and the forest fringe. It is fairly common as its
 host plant can be found as a weed in many parts of Singapore.</p>
 <p><strong>Host Plant: </strong>Striped Spiderflower (<em>Cleome rutidosperma</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Cleome_rutidosperma_Gary_Chua_Liat_Seng.jpg">
+</div>
+<p>Photo credits: Gary LS Chua, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 </div>
@@ -1189,6 +1083,12 @@ host plant can be found as a weed in many parts of Singapore.</p>
 <summary><strong>Grass Blues</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Pygmy_20Grass_20Blue_Zizula_20hylax_ZhouBoyi.jpg">
+</div>
+<p>Photo credit: Zhou Boyi (NParks)</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1225,25 +1125,6 @@ host plant can be found as a weed in many parts of Singapore.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>8–20&nbsp;mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What do they look like?</strong>
 </p>
 <p>Singapore has three Grass Blue species that are hard to tell apart due
@@ -1253,9 +1134,11 @@ grey with dark spots on both wings.</p>
 <p>They are common in parks and gardens except for the Pale Grass Blue, which
 is less often spotted compared to the other two species, the Lesser Grass
 Blue and Pygmy Grass Blue.</p>
-<p><strong>Host Plant:&nbsp;</strong>Mimosa/Touch-me-not (<em>Mimosa pudica</em>)
-<br>
-</p>
+<p><strong>Host Plant:&nbsp;</strong>Mimosa/Touch-me-not (<em>Mimosa pudica</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Mimosa_pudica__flower__Joyce_Foo_Ming_Yen.jpg">
+</div>
+<p>Photo credits: Joyce Foo Ming Yen, NParks Flora&amp;FaunaWeb</p>
 </div>
 </details>
 </div>
@@ -1265,6 +1148,11 @@ Blue and Pygmy Grass Blue.</p>
 <summary><strong>Common Mormon</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Common_Mormon_female___Khew_SK.jpg">
+</div>
+<p>Female. Photo credit: Khew Sin Khoon</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1301,25 +1189,6 @@ Blue and Pygmy Grass Blue.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>70–85 mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>The males are black on the upperside with a series of large whitish yellow
@@ -1330,6 +1199,11 @@ the hindwing margin to protect itself from predators.</p>
 <p><strong>Host Plant:&nbsp;</strong>Pomelo (<em>Citrus maxima</em>)
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Citrus_maxima__fruit__Boo_Chih_Min.jpg">
+</div>
+<p>Photo credits: Boo Chih Min, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 </div>
@@ -1340,9 +1214,11 @@ the hindwing margin to protect itself from predators.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Chestnut_20Bob_Iambrix_20salsala_SohKamYung.jpg">
+</div>
+<p>Photo credit: Soh Kam Yung</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1379,34 +1255,20 @@ the hindwing margin to protect itself from predators.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="butterfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/016-butterfly.png?h=69&amp;w=100">
-</div>
-<p>23–27&nbsp;mm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>The Chestnut Bob is from a family of butterflies known as Skippers, characterised
 by their large, heavy bodies and rapid, darting flight. On the underside,
 its wings are a rich, chestnut brown with a series of small silvery white&nbsp;spots.</p>
-<p><strong>Host Plant:&nbsp;</strong>Cow Grass (<em>Axonopus compressus</em>)
-<br>
-</p>
+<p><strong>Host Plant:&nbsp;</strong>Cow Grass (<em>Axonopus compressus</em>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Butterfly_host_plant_Axonopus_compressus_Boo_Chih_Min.jpg">
+</div>
+<p>Photo credits: Boo Chih Min, NParks Flora&amp;FaunaWeb</p>
+<p></p>
 </div>
 </details>
 </div>
+<p><em>Banner: Plain Tiger. Photo credit: Ong Chwee Sia</em>
+</p>
 <p></p>

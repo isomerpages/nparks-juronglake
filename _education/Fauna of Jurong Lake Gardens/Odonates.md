@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Fauna of Jurong Lake Gardens
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/yellow_barred_flutterer_banner.jpg">
+</div>
 <p>Damselflies and dragonflies belong to the order <strong>Odonata</strong> and
 are known collectively as odonates. Adult odonates have many adaptations
 that make them great fliers and fierce predators of smaller insects, including
@@ -21,6 +24,11 @@ of each other, allowing them to move in many directions when flying; and</p>
 <p>Legs which have adapted to form a basket to catch prey.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/odonates.png">
+</div>
+<p><em>A Scarlet Grenadier (Lathrecista asiatica)&nbsp;dragonfly.&nbsp;Photo credit: Robin Ngiam, NParks Flora&amp;FaunaWeb.</em>
+</p>
 <p>They are also, in turn, important food sources for predators such as birds,
 spiders and frogs.</p>
 <p>Odonates start their life in water. Even when young, odonate larvae, called
@@ -29,6 +37,11 @@ invertebrates. Damselfly nymphs are slender with 3 gills on their tails,
 whereas dragonfly nymphs are short and thick, with gills inside their abdomens.
 They moult (shed their exoskeleton) 8 to 15 times before leaving the water
 to become adults.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/odonate_nymphs.png">
+</div>
+<p><em>Nymphs of the Common Bluetail damselfly (Ischnura senegalensis) and Common Flangetail dragonfly&nbsp;(Ictinogomphus decoratus).&nbsp;Photo credit: Robin Ngiam, NParks Flora&amp;FaunaWeb.</em>
+</p>
 <p>Habitat enhancement efforts include incorporating spaces such as Neram
 Streams, a naturalised drainage system leading to Jurong Lake, in our parks
 and gardens. As the streams are a suitable habitat for the nymphs, many
@@ -44,6 +57,12 @@ fliers and their compound eyes are set distinctly apart.</p>
 <summary><strong>Variable Wisp</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/variable_wisp_mature_m_rt.jpg">
+</div>
+<p><em>Mature male. Photo credit: Ruth Tan (NParks)&nbsp;</em>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -81,22 +100,7 @@ fliers and their compound eyes are set distinctly apart.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 90px; width: 130px;" height="auto" width="100%" alt="damselfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/019-damselfly.png?h=90&amp;w=130">
-</div>
-<p><strong>20 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>Variable wisps are one of the smallest damselflies in Singapore. Their
@@ -115,6 +119,12 @@ in most of our parks, but a keen eye is required to spot them!</p>
 <summary><strong>Common Bluetail</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_bluetail_m_rt.jpg">
+</div>
+<p><em>Male. Photo credit: Ruth Tan (NParks)</em>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -152,22 +162,7 @@ in most of our parks, but a keen eye is required to spot them!</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 90px; width: 130px; text-align: center;" height="auto" width="100%" alt="damselfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/019-damselfly.png?h=90&amp;w=130">
-</div>
-<p><strong>28–30 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>Males can be easily identified by their green thorax and blue abdomen
@@ -184,6 +179,12 @@ to the island of New Guinea.</p>
 <summary><strong>Ornate Coraltail</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Ceriagrion_cerinorubellum__Ornate_Coraltail.jpg">
+</div>
+<p><em>Photo credit: Robin Ngiam (NParks)</em>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -221,22 +222,6 @@ to the island of New Guinea.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 90px; width: 130px; text-align: center;" height="auto" width="100%" alt="damselfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/019-damselfly.png?h=90&amp;w=130">
-</div>
-<p><strong>35–38&nbsp;mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>The Ornate Coraltail is a common damselfly that is easily identified by
@@ -252,7 +237,11 @@ across the Indian subcontinent and Southeast Asia.</p>
 <summary><strong>Blue Sprite</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/blue_sprite_m_robin_ngiam.jpg">
+</div>
+<p><em>Male. Photo credit: Robin Ngiam, NParks Flora&amp;FaunaWeb</em>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -289,22 +278,6 @@ across the Indian subcontinent and Southeast Asia.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 90px; width: 130px; text-align: center;" height="auto" width="100%" alt="damselfly" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/019-damselfly.png?h=90&amp;w=130">
-</div>
-<p><strong>35–38&nbsp;mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>The males of this damselfly are sky blue with black bands on their thorax.
@@ -330,9 +303,13 @@ often touch each other and take up most of their head.</p>
 <summary><strong>Common Scarlet</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_scarlet_male_tan_jing_wen1.jpg">
+</div>
+<p><em>Photo credit: Tan Jing Wen</em>
 </p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -369,25 +346,7 @@ often touch each other and take up most of their head.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>40–43 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>This is one of the larger species of red dragonflies and is very common
@@ -408,6 +367,12 @@ East throughout tropical and subtropical Asia, to New Guinea in the east.
 <summary><strong>Common Redbolt</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_redbolt_male_crop_rt.jpg">
+</div>
+<p><em>Male. Photo credit: Ruth Tan (NParks)</em>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -448,22 +413,6 @@ East throughout tropical and subtropical Asia, to New Guinea in the east.
 <p>
 <br>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>41–44 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>Male Common Redbolts are red throughout with a thick pale band on their
@@ -481,6 +430,12 @@ western India and Sri Lanka to the Solomon Islands.</p>
 <summary><strong>Scarlet Basker</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/scarlet_basker_cai_yx.jpg">
+</div>
+<p><em>Male. Photo credit: Cai Yixiong, NParks Flora&amp;FaunaWeb</em>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -518,25 +473,7 @@ western India and Sri Lanka to the Solomon Islands.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>42–45 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>Male Scarlet Baskers have red eyes, thoraxes and abdomens with a brown
@@ -556,6 +493,12 @@ Southeast Asia to eastern Australia.</p>
 <summary><strong>Scarlet Skimmer</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/scarlet_skimmer.jpg">
+</div>
+<p><em>Male. Photo credit: Robin Ngiam (NParks)</em>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -593,25 +536,7 @@ Southeast Asia to eastern Australia.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>43–48 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>Males have an orange brown thorax and red abdomen with light brownish
@@ -627,6 +552,11 @@ lack the patch on their hindwings.</p>
 <summary><strong>Grenadier</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/grenadier_m_cai_yx.jpg">
+</div>
+<p><em>Photo credit: Cai Yixiong, NParks Flora&amp;FaunaWeb</em>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -664,25 +594,7 @@ lack the patch on their hindwings.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>37–41 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>The Grenadier has a blotchy or mottled yellow thorax and a slender abdomen
@@ -701,6 +613,12 @@ tropical Asia and Australasia.</p>
 <summary><strong>Scarlet Grenadier</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/scarlet_grenadier_m_rt.jpg">
+</div>
+<p><em>Photo credit: Ruth Tan (NParks)</em>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -741,22 +659,6 @@ tropical Asia and Australasia.</p>
 <p>
 <br>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>44–47 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What does it look like?</strong>
 </p>
 <p>The Scarlet Grenadier has a narrow abdomen. Males have an entirely red
@@ -773,6 +675,12 @@ prey.</p>
 <summary><strong>Spine-tufted Skimmer</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/spine_tufted_skimmer_crop.jpg">
+</div>
+<p><em>Photo credit: Ruth Tan (NParks)</em>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -810,25 +718,7 @@ prey.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>41–48 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>Males have a dark brown thorax and red abdomen. Females are reddish brown.
@@ -843,6 +733,12 @@ instead of being completely red or orange brown.</p>
 <summary><strong>Common Parasol</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_parasol_m_rt_crop.jpg">
+</div>
+<p><em>Photo credit: Ruth Tan (NParks)</em>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -880,25 +776,7 @@ instead of being completely red or orange brown.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>30–34 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>Males are striking and have a reddish brown thorax and abdomen with maroon
@@ -914,6 +792,12 @@ in Singapore, even frequenting places that are far from a water source.</p>
 <summary><strong>Crimson Dropwing</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_dropwing_m_rt.jpg">
+</div>
+<p><em>Photo credit: Ruth Tan (NParks)</em>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -951,25 +835,6 @@ in Singapore, even frequenting places that are far from a water source.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>32–35 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><br>What does it look like?</strong>
 </p>
 <p>The eyes, thorax and abdomen of males are bright pink, while females are
@@ -987,9 +852,13 @@ They can often be spotted perched on shrubs, basking in the sun.</p>
 <summary><strong>Common Amberwing</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_amberwing_m_robin_ngiam.jpg">
+</div>
+<p><em>Male. Photo credit: Robin Ngiam (NParks)</em>
 </p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1026,25 +895,7 @@ They can often be spotted perched on shrubs, basking in the sun.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>29–31 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>True to its name, male Common Amberwings have beautiful amber tints on
@@ -1062,6 +913,12 @@ numbers.</p>
 <summary><strong>Saddleback Glider</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/saddlebag_glider_crop.jpg">
+</div>
+<p><em>Photo credit: Robin Ngiam (NParks)</em>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1099,25 +956,7 @@ numbers.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>53–54 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>The Saddlebag Glider has a dark brown patch at the base of its hindwings
@@ -1132,6 +971,11 @@ eyes are dark brown above and <a rel="noopener noreferrer nofollow" target="_bla
 <summary><strong>Wandering Glider</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/wandering_glider.jpg">
+</div>
+<p>Photo credit: Robin Ngiam (NParks)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1170,25 +1014,7 @@ eyes are dark brown above and <a rel="noopener noreferrer nofollow" target="_bla
 </tbody>
 </table>
 <p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>45–47 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>How to identify?</strong>
+<br><strong>How to identify?</strong>
 </p>
 <p>This dragonfly is mainly yellow in colour. It has a series of long, diamond-shaped
 spots along the midline of its abdomen. Their broad wings are clear except
@@ -1206,6 +1032,11 @@ extending from the Americas to Asia.</p>
 <summary><strong>White-barred Duskhawk</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Tholymis_tillarga.jpg">
+</div>
+<p>Photo credit: Robin Ngiam (NParks)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1244,25 +1075,7 @@ extending from the Americas to Asia.</p>
 </tbody>
 </table>
 <p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>44–47 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>How to identify?</strong>
+<br><strong>How to identify?</strong>
 </p>
 <p>The males are dull orange with a light brown bar and white patches on
 each hindwing. Females are pale brown with clear wings that lack patches.
@@ -1283,9 +1096,17 @@ and Micronesia (islands in the western Pacific Ocean).</p>
 <summary><strong>Common Chaser</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_chaser_m_anthony_quek.jpg">
+</div>
+<p>Male. Photo credit: Anthony Quek</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_chaser_f_anthony_quek.jpg">
+</div>
+<p>Female. Photo credit: Anthony Quek</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1323,25 +1144,7 @@ and Micronesia (islands in the western Pacific Ocean).</p>
 </tbody>
 </table>
 <p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>43–45 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>What does it look like?</strong>
+<br><strong>What does it look like?</strong>
 </p>
 <p>The first four segments of the abdomen of the males are powdery blue while
 the rest of the abdomen is black with orange markings. Females have yellow
@@ -1358,6 +1161,11 @@ ranging from tropical Asia to Australia.</p>
 <summary><strong>Blue Dasher</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Blue_dasher_crop.jpg">
+</div>
+<p>Photo credit: Ruth Tan (NParks)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1395,25 +1203,7 @@ ranging from tropical Asia to Australia.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>33–35 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>This dragonfly is distinctive, with males sporting a bluish body coupled
@@ -1430,6 +1220,10 @@ those that are well-vegetated.</p>
 <summary><strong>Blue Percher</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Blue_percher_robin_ngiam.jpg">
+</div>
+<p>Male. Photo credit: Robin Ngiam, NParks Flora&amp;FaunaWeb</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1467,25 +1261,7 @@ those that are well-vegetated.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>29–33 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>A small dragonfly, its males are light bluish with bright blue eyes and
@@ -1504,6 +1280,11 @@ and Australasia.</p>
 <summary><strong>Trumpet Tail</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/trumpet_tail_m_crop_rt.jpg">
+</div>
+<p>Male. Photo credit: Ruth Tan (NParks)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1578,6 +1359,11 @@ with many plants.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/common_flangetail_crop.jpg">
+</div>
+<p>Photo credit: NParks</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1614,25 +1400,7 @@ with many plants.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>64–68 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>It has a heavily-built body with a distinctive yellow and black pattern
@@ -1651,6 +1419,11 @@ Lake and other large lakes and reservoirs.
 <summary><strong>Variegated Green Skimmer</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/variegated_green_skimmer_crop.jpg">
+</div>
+<p>Photo credit: Nicholas Kee (NParks)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1688,25 +1461,7 @@ Lake and other large lakes and reservoirs.
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>47–52 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>They are easily recognised by their pale green colour and white markings
@@ -1721,6 +1476,11 @@ wetlands, including drains and flooded fields.</p>
 <summary><strong>Yellow-barred Flutterer</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/yellow_barred_flutterer_crop.jpg">
+</div>
+<p>Photo credit: Ruth Tan (NParks)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1759,25 +1519,7 @@ wetlands, including drains and flooded fields.</p>
 </tbody>
 </table>
 <p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="69" width="100" alt="odonate" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/017-odonate.png?h=69&amp;w=100">
-</div>
-<p><strong>39–41 mm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>What does it look like?</strong>
+<br><strong>What does it look like?</strong>
 </p>
 <p>It has a dark thorax and abdomen with a metallic sheen while the base
 of the hindwing has unmistakable yellow and dark bars. Males and females
@@ -1790,4 +1532,5 @@ fields together with Wandering Gliders in search of aerial prey.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>

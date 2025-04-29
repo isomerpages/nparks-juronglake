@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Fauna of Jurong Lake Gardens
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/apis_dorsata_tjw_crop.jpg">
+</div>
 <p><strong>What are they?</strong>
 </p>
 <p>Bees and wasps (together with ants) form the large insect order <strong>Hymenoptera</strong>.
@@ -27,7 +30,7 @@ a welcome sight as many of the plants in our parks and garden rely on them
 to reproduce, in turn providing food for other organisms. They also increase
 the fruit yield of many popular edible plants such as brinjals and gourds.</p>
 <p>Here are some of the bees and wasps that you can see in Jurong Lake Gardens.</p>
-<h4><strong>Honey Bees</strong></h4>
+<h2><strong>Honey Bees</strong></h2>
 <p>Honey bees are highly social bees of the genus <em>Apis</em>. They are
 native to Eurasia and Africa but certain species have been distributed
 worldwide (except Antarctica) by people for honey production. They are
@@ -48,6 +51,12 @@ are docile and safe when foraging away from their nest.</p>
 <summary><strong>Asian Honey Bee</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Apis_cerana.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -101,6 +110,11 @@ hives consist of multiple wax combs lined parallel to one another.<strong><br></
 <summary><strong>Giant Honey Bee</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Apis_dorsata.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -163,6 +177,11 @@ is often attracted to artificial light sources.<strong><br></strong>
 <p></p>
 <h4><strong>Black Dwarf Honey Bee</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Apis_andreniformis.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -201,6 +220,12 @@ is often attracted to artificial light sources.<strong><br></strong>
 </table>
 <p></p>
 <h4><strong>Red Dwarf Honey Bee</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Apis_florea.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -260,12 +285,17 @@ are inefficient and do not pierce the skin of adults easily.<strong><br></strong
 </div>
 </details>
 </div>
-<h4><br><strong>Blue-banded&nbsp;Bees</strong></h4>
+<h2><strong>Blue-banded&nbsp;Bees</strong></h2>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Sunda Blue-banded Digger Bee</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/20180531_Amegilla_andrewsi_Dissotis_buzz_pollination_HortPark__2_of_2__2_crop2.jpg">
+</div>
+<p>Photo credit: Zestin Soh (NParks)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -323,8 +353,7 @@ creatures. Their presence is a welcome sight in our parks and gardens.</p>
 </div>
 </details>
 </div>
-<p></p>
-<h4><strong>Carpenter Bees</strong></h4>
+<h2><strong>Carpenter Bees</strong></h2>
 <p>Carpenter bees from the genus <em>Xylocopa</em> are large and often hairy
 bees that are usually dark coloured and about 20-30 mm in length.</p>
 <p>True to their name, they create burrows in solid wood, usually dead tree
@@ -348,6 +377,16 @@ are some common species found in Jurong Lake Gardens.<strong><br></strong>
 <summary><strong>Broad-footed Carpenter Bee</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Xylocopa_latipes.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/xylocopa_latipes_nic_kee.jpg">
+</div>
+<p>Photo credit: Nicholas Kee (NParks)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -405,6 +444,16 @@ hairs.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Xylocopa_aestuans_male.jpg">
+</div>
+<p>Male. Photo credit: John X. Q. Lee</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Xylocopa_aestuans.jpg">
+</div>
+<p>Female. Photo credit: John X. Q. Lee</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -461,6 +510,16 @@ iridescence of the Yellow-and-black Carpenter Bee.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Xylocopa_flavonigrescens_male.jpg">
+</div>
+<p>Male. Photo credit: John X. Q. Lee</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Xylocopa_flavonigrescens.jpg">
+</div>
+<p>Female. Photo credit: John X. Q. Lee</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -511,7 +570,7 @@ the end of the abdomen.
 </details>
 </div>
 <p></p>
-<h4><strong>Megachilid Bees</strong></h4>
+<h2><strong>Megachilid Bees</strong></h2>
 <p>These bees are from the family Megachilidae and are solitary or brood
 parasites of the nests of other bees, in contrast to the social groups
 of honey bees. Their nests come in all forms, ranging from soil and stem
@@ -523,6 +582,11 @@ names of Leaf-cutter Bees and Resin Bees.</p>
 <summary><strong>Disjunct Resin Bee</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/DSC07663__13_.jpg">
+</div>
+<p>Photo credit: Ong Kwan Han (<a href="http://www.natureloveyou.sg" rel="noopener noreferrer nofollow" target="_blank">www.natureloveyou.sg</a>)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -575,7 +639,7 @@ while foraging, rather than on its hind legs like other bees.</p>
 </details>
 </div>
 <p></p>
-<h4><strong>Wasps and Hornets</strong></h4>
+<h2><strong>Wasps and Hornets</strong></h2>
 <p>The term wasps usually refer to<strong> </strong>social wasps from the
 family Vespidae, but may also refer to other families that share a similar
 appearance. Wasps have a slender body form and a distinctive petiole (stalk)
@@ -596,6 +660,15 @@ and pupae found inside.</p>
 <summary><strong>Pear-tailed Potter Wasp</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Delta_pyriforme2.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Potter_Wasp_nick_kee.jpg">
+</div>
+<p>Photo credit: Nicholas Kee (NParks)</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -656,6 +729,10 @@ if left alone and is more likely to flee than attack.</p>
 <summary><strong>Banded Paper Wasp</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/polistes_sagittarius.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -721,6 +798,16 @@ their presence very beneficial to plant nurseries!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Vespa_affinis1.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Vespa_affinis2.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -777,6 +864,11 @@ their nest, they will otherwise not attack unprovoked.</p>
 <summary><strong>Greater Banded Hornet</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Vespa_tropica_min.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -842,6 +934,10 @@ their nests.&nbsp;&nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/Vespa_analis.jpg">
+</div>
+<p>Photo credit: John X. Q. Lee</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -893,4 +989,6 @@ found in Singapore and will only attack humans when greatly provoked.</p>
 </div>
 </details>
 </div>
-<p></p>
+<hr>
+<p><em>Banner: Giant Honey Bees foraging on a water lily flower. Photo credit: Tan Jing Wen</em><strong><a href="https://www.nparks.gov.sg/" class="site-footer__title" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
+</p>
