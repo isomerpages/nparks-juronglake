@@ -27,7 +27,7 @@ nighttime.</p>
 </li>
 <li>
 <p><strong>Clusia Cove</strong> will be closed for maintenance works from <strong>5 May 2025</strong>.
-Works is estimated to be completed in one month’s time.</p>
+Works is estimated to be completed in <strong>one month’s time</strong>.</p>
 </li>
 </ol>
 <p></p>
