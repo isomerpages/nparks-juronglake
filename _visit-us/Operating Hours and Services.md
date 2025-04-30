@@ -11,18 +11,26 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4><strong>Important Notice 📢</strong></h4>
 <p></p>
-<p><strong>1. Please note that the following nature areas are not lighted. For your own safety, please do not enter these areas during nighttime:</strong>
-</p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
-<p>Grasslands</p>
+<p>Please note that the following nature areas are not lighted. For your
+own safety, please do not enter <strong>Grasslands </strong>and <strong>Neram Streams</strong> during
+nighttime.</p>
+<p></p>
 </li>
 <li>
-<p>Neram Streams</p>
+<p>Clusia Cove will be closed for maintenance works from 5 May 2025. Works
+is estimated to be completed in one month’s time.</p>
 </li>
-</ul>
+</ol>
+<p></p>
 </td>
 </tr>
 </tbody>
