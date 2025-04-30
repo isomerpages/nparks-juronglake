@@ -73,9 +73,8 @@ sections:
           link_url: ""
         - title: Notice of Closure (Clusia Cove)
           date: 28 April 2025
-          announcement: Kindly note that Clusia Cove will be closed from 5 May 2025 (Mon)
-            until further notice for maintenance works. Thank you for your
-            understanding.
+          announcement: Clusia Cove will be closed for maintenance works from 5 May 2025.
+            Works is estimated to be completed in one month’s time.
           link_text: ""
           link_url: ""
 ---
