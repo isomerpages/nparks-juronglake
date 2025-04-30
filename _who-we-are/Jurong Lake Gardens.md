@@ -9,7 +9,7 @@ description: ""
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wW2IUERkvzo?si=AWDPEnDBMLPIdBCl"></iframe>
 </div>
 <p></p>
-<p>Jurong Lake Gardens is Singapore’s national gardens in the heartlands.
+<p>Jurong Lake Gardens is Singapore’s first national gardens in the heartlands.
 This 90-hectare green oasis, thoughtfully designed to unite families and
 communities, comprises Lakeside Garden, Chinese and Japanese Gardens, and
 Garden Promenade.</p>
