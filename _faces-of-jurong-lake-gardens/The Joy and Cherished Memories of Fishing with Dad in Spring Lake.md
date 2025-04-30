@@ -44,6 +44,10 @@ such as Boon Lay, Taman Jurong, and Hong Kah forming Jurong West Town.
 Under the Jurong West Extension, Pioneer and the surrounding neighborhoods
 were also added to the town. The upcoming Jurong Lake District is expected
 to transform the area into an attractive location to live, work, and play.</p>
+<blockquote>
+<p>My roots are in Jurong, and that’s why I have remained in this area all
+these years</p>
+</blockquote>
 <p>Despite the passage of time and the changes that have transformed Jurong,
 Mr Yip's roots remain firmly planted in the soil of his children. “My roots
 are in Jurong, and that’s why I have remained in this area all these years,”
