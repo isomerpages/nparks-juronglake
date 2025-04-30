@@ -6,7 +6,6 @@ description: ""
 ---
 <h2><strong>The Ice Cream Man cometh to Jurong Lake Gardens</strong></h2>
 <p></p>
-<p></p>
 <p>As a child, Lau Su How eagerly anticipated the ringing of the ice cream
 man’s bell as he made his rounds in the neighborhood. He and his friends
 would dash to gather around the ice cream cart, clamoring for their favorite

@@ -11,18 +11,30 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4><strong>Important Notice 📢</strong></h4>
 <p></p>
-<p><strong>1. Please note that the following nature areas are not lighted. For your own safety, please do not enter these areas during nighttime:</strong>
-</p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
-<p>Grasslands</p>
+<p>Please note that the following nature areas are not lighted. For your
+own safety, please do not enter <strong>Grasslands </strong>and <strong>Neram Streams</strong> during
+nighttime.</p>
+<p></p>
 </li>
 <li>
-<p>Neram Streams</p>
+<p><strong>Clusia Cove</strong> will be closed for maintenance works from <strong>5 May 2025</strong>.
+Works is estimated to be completed in <strong>one month’s time</strong>.</p>
+<p></p>
 </li>
-</ul>
+<li>
+<p>Kindly note that the <strong>Dog Run</strong> will be closed on <strong>6 May 2025 (Tue)</strong> for
+maintenance works. Thank you for your understanding.</p>
+</li>
+</ol>
 </td>
 </tr>
 </tbody>

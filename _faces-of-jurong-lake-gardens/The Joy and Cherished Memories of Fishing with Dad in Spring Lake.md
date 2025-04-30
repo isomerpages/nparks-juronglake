@@ -24,8 +24,9 @@ the gentle rhythms of nature but also with his family.&nbsp;"Those were
 simple, idyllic days,” he adds, with a tinge of nostalgia.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Eric Yip" src="/images/People of Jurong Lake Gardens/IMG_5071___Eric_Yip.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Faces of Jurong Lake Gardens/IMG_5072.jpg">
 </div>
+<p></p>
 <p>Pointing to where the pond once was, while taking a break from his mid-day
 jog near the Floral Garden in the revitalised Japanese Garden, Mr. Yip
 reminisces: “It was at the other end of Jurong, but it was a popular spot
@@ -43,6 +44,10 @@ such as Boon Lay, Taman Jurong, and Hong Kah forming Jurong West Town.
 Under the Jurong West Extension, Pioneer and the surrounding neighborhoods
 were also added to the town. The upcoming Jurong Lake District is expected
 to transform the area into an attractive location to live, work, and play.</p>
+<blockquote>
+<p>My roots are in Jurong, and that’s why I have remained in this area all
+these years</p>
+</blockquote>
 <p>Despite the passage of time and the changes that have transformed Jurong,
 Mr Yip's roots remain firmly planted in the soil of his children. “My roots
 are in Jurong, and that’s why I have remained in this area all these years,”
@@ -56,6 +61,11 @@ before".</p>
 <p>&nbsp;Mr Yip's story is not just a reflection of a changing landscape,
 but a reminder of childhood joys and familial love that&nbsp;can be found
 in the simplest of pastimes.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Faces of Jurong Lake Gardens/IMG_5071___Eric_Yip.jpg">
+</div>
 <p></p>
 <p>By Irene Ngoo (October 2024)</p>
 <p></p>
