@@ -20,6 +20,10 @@ spots. There, she set up her camera with a long zoom lens mounted on a
 tall tripod stand amidst a field of tall, swaying grasses in the late afternoon.
 A trolley bag filled with other lenses, water bottles, and snacks stood
 next to her.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Faces of Jurong Lake Gardens/IMG_5182.jpg">
+</div>
 <p>Spanning 3.5 hectares, the Grassland at Lakeside Garden is part of an
 intertidal habitat that transitions from dry grassland inland to wet grassland
 by Jurong Lake. A 300-metre boardwalk meanders along the shoreline, offering
@@ -59,6 +63,11 @@ and sound."</p>
 of birds all contribute to the experience,” she replies. Immersing herself
 in nature has deepened her understanding of the ecosystems they inhabit,
 she adds.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Faces of Jurong Lake Gardens/IMG_5183.jpg">
+</div>
 <p>“Birdwatching is a healthy activity. It helps you connect with nature
 and fosters an appreciation for wildlife and the environment,” Olivia explains.
 “Being in natural settings and focusing on observing birds can be a calming
@@ -68,4 +77,6 @@ and helps reduce stress and anxiety.”</p>
 or trek with friends, all while exploring the great outdoors. All you need
 is a good pair of binoculars, comfortable shoes, and, perhaps, a quality
 camera lens.</p>
+<p></p>
+<p>By Irene Ngoo (October 2024)</p>
 <p></p>
