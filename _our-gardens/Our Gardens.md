@@ -7,7 +7,8 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FnpnauGxK44?si=ZbECuihnHbIX6OE4"></iframe>
 </div>
-<p>Jurong Lake Gardens is Singapore’s 3rd national gardens in the heartlands.</p>
+<p>Jurong Lake Gardens is Singapore’s third national garden and the first
+in the heartlands.</p>
 <p>Situated within the Jurong Lake District, this 90-hectare green oasis
 comprises the Lakeside Garden, Chinese and Japanese Gardens. Envisioned
 to be a peoples' garden, families and the community can come together to
