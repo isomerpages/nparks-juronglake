@@ -47,6 +47,12 @@ a festive atmosphere. When asked for his favorite tune, he obligingly plays
 a short Chinese piece, "Lover's Bridge." The bittersweet melody conveys
 a deep sense of longing and reunion, reflecting the emotional journey of
 two lovers separated by time.&nbsp;</p>
+<blockquote>
+<p>Look at this peaceful place; it’s so tranquil and serene. This calm setting
+is perfect for focusing on my music and practicing mindfulness through
+flute playing. The beauty of the surroundings makes it all the more enjoyable
+and fulfilling</p>
+</blockquote>
 <p>He comes to the gardens to practice because the setting combines the beauty
 of nature with the ethereal sound of his instrument. The gardens offer
 natural acoustics that enhance the flute's sound, allowing the music to
