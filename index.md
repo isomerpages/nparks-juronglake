@@ -67,7 +67,7 @@ sections:
           link_url: https://www.weather.gov.sg/home/
         - title: Notice of Closure (Dog Run)
           date: 28 April 2025
-          announcement: Kindly note that the Dog Run will be closed on 6 May 2025 (Tue)
+          announcement: Kindly note that the Dog Run will be closed on 9 May 2025 (Fri)
             for maintenance works. Thank you for your understanding.
           link_text: ""
           link_url: ""
