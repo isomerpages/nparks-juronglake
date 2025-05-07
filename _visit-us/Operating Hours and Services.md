@@ -31,7 +31,7 @@ Works is estimated to be completed in <strong>one month’s time</strong>.</p>
 <p></p>
 </li>
 <li>
-<p>Kindly note that the <strong>Dog Run</strong> will be closed on <strong>6 May 2025 (Tue)</strong> for
+<p>Kindly note that the <strong>Dog Run</strong> will be closed on <strong>9 May 2025 </strong>for
 maintenance works. Thank you for your understanding.</p>
 </li>
 </ol>
