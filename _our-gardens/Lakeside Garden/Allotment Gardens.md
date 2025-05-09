@@ -31,7 +31,7 @@ within the space. You may even amaze garden visitors with your creative
 plots and inspire more people to take up gardening! Head over now to meet
 and exchange gardening tips with other like-minded people.</p>
 <p>For more information on Allotment Gardens and registration procedures,
-please click<a href="https://www.nparks.gov.sg/gardening/allotment-gardens" rel="noopener noreferrer nofollow" target="_blank"> here.</a>
+please click<a href="https://gardeningsg.nparks.gov.sg/get-involved/allotment-gardens/" rel="noopener noreferrer nofollow" target="_blank"> here.</a>
 </p>
 <p></p>
 <p></p>
