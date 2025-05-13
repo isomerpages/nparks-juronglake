@@ -4,7 +4,7 @@ permalink: /events/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Upcoming Events</strong></h2>
+<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_31/1075_Lakeside-Garden-South-Guided-Tour-Session-2" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="LG guided tours" src="/images/Guided Tour/Guided_Tour_LG_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">(24 May, 9am) Guided Tours of Lakeside Garden</div><div class="isomer-card-description">Learn about the rich biodiversity, sustainable and family-friendly attractions within the Southern section of Lakeside Gardens at Jurong Lake Gardens!</div><div class="isomer-card-link">READ MORE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_33/1118_Arts-JLG-explore-Edible-Garden-Tour-and-Propagation-Workshop" class="isomer-card">
 <div class="isomer-card-image">
