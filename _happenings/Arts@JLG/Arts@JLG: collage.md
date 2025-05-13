@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Arts@JLG
 ---
-<h2>Where Art Meets Nature</h2>
+<h2><strong>Where Art Meets Nature</strong></h2>
 <p><strong>Arts@JLG: <em>collage</em></strong> is a programme held as part
 of <strong>Singapore Art Week</strong>, featuring art installations and
 hands-on workshops for the public. Set in <strong>Jurong Lake Gardens</strong>,
