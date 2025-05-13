@@ -2,7 +2,7 @@ collections:
   happenings:
     output: true
     order:
-      - Events.md
+      - Calendar of Events.md
       - Arts@JLG/.keep
       - "Arts@JLG/Arts@JLG: explore.md"
       - "Arts@JLG/Arts@JLG: heART.md"
