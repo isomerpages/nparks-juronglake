@@ -56,7 +56,7 @@ as virtual tours of Jurong Lake Gardens.&nbsp;</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eOBxf4QIMiE?si=-ZvDbc4f_6qW5riQ"></iframe>
 </div>
 <p></p>
-<p>Dragonflies and Damselflies of Neram Streams</p>
+<p>Dragonflies and Damselflies of Neram Streams (Lakeside Garden)</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/o5a_U4U869E?si=pwF5ewhfOdYLMwEv&amp;start=1"></iframe>
 </div>
