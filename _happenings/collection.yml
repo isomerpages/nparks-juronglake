@@ -2,7 +2,6 @@ collections:
   happenings:
     output: true
     order:
-      - Our Videos.md
       - Calendar of Events.md
       - Arts@JLG/.keep
       - "Arts@JLG/Arts@JLG: explore.md"
@@ -10,3 +9,4 @@ collections:
       - "Arts@JLG/Arts@JLG: collage.md"
       - Volunteer Programmes.md
       - Lights by the Lake.md
+      - Our Videos.md
