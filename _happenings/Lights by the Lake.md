@@ -4,7 +4,7 @@ permalink: /lights-by-the-lake/
 variant: tiptap
 description: ""
 ---
-<h2>Celebrating Mid-Autumn at Jurong Lake Gardens</h2>
+<h2><strong>Celebrating Mid-Autumn at Jurong Lake Gardens</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lights by the Lake/LBTL_2024_Lanterns.jpg">
 </div>
