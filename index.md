@@ -16,13 +16,13 @@ sections:
           description: Visit our thematic gardens
           url: /our-gardens/
         - title: Play
-          description: Fun for children and adults
+          description: Fun for all!
           url: /play/
         - title: Dine
-          description: Eateries and dining options
+          description: Check out our dining options
           url: /dining/
         - title: Volunteer
-          description: Sign up as volunteer
+          description: Join us as a volunteer
           url: /volunteer-programmes/
       variant: center
   - infopic:
@@ -36,7 +36,7 @@ sections:
       url: /our-gardens/
       image: /images/Key Attractions/Neram_Stream_.jpg
   - infobar:
-      title: WHO WE ARE
+      title: Who We Are
       subtitle: About Jurong Lake Gardens
       description: Singapore’s national gardens in the heartlands. A people’s garden,
         where spaces are created for families and the community to come
@@ -49,7 +49,7 @@ sections:
       id: infopic
       description: Be inspired with stories from people of all ages and cultures that
         visit us here!
-      button: Read all about it
+      button: Read more
       url: /faces-of-jlg/
       image: /images/Faces of Jurong Lake Gardens/IMG_6095.jpg
       alt: Family photo at JLG
@@ -63,7 +63,7 @@ sections:
           announcement: Seek cover at the nearest shelter available and avoid entering
             forested areas during and immediately after bad weather. Visit the
             NEA website or dial 6542 7788 for the weather forecast.
-          link_text: Visit the NEA Website here!
+          link_text: Visit the NEA Website here
           link_url: https://www.weather.gov.sg/home/
         - title: Notice of Closure (Dog Run)
           date: 28 April 2025
