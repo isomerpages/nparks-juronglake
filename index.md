@@ -34,7 +34,7 @@ sections:
       button: PLAN YOUR VISIT
       alt: Image alt text
       url: /our-gardens/
-      image: /images/Key Attractions/Neram_Stream_.jpg
+      image: /images/Chinese Garden/CG_Lotus_Pond.jpg
   - infobar:
       title: Who We Are
       subtitle: About Jurong Lake Gardens
