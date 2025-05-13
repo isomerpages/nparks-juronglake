@@ -30,7 +30,7 @@ sections:
       subtitle: Welcome to Jurong Lake Gardens
       id: infopic
       description: Explore the thematic gardens at Jurong Lake Gardens. Immerse
-        yourself in nature teemed with wildlife.
+        yourself in nature teeming with wildlife.
       button: PLAN YOUR VISIT
       alt: Image alt text
       url: /our-gardens/
