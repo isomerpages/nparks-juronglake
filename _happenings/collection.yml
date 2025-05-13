@@ -2,9 +2,11 @@ collections:
   happenings:
     output: true
     order:
-      - Volunteer Programmes.md
+      - Calendar of Events.md
+      - Arts@JLG/.keep
       - "Arts@JLG/Arts@JLG: explore.md"
       - "Arts@JLG/Arts@JLG: heART.md"
       - "Arts@JLG/Arts@JLG: collage.md"
-      - Arts@JLG/.keep
       - Lights by the Lake.md
+      - Volunteer Programmes.md
+      - Our Videos.md
