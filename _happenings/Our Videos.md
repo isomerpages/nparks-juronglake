@@ -4,8 +4,8 @@ permalink: /our-videos/
 variant: tiptap
 description: ""
 ---
-<p>Browse through some of our videos on gardening as well as virtual tours
-of Jurong Lake Gardens.&nbsp;</p>
+<p>Browse through our videos on the flora and fauna you can find as well
+as virtual tours of Jurong Lake Gardens.&nbsp;</p>
 <p><strong>Discover Jurong Lake Gardens</strong>
 </p>
 <div class="iframe-wrapper">
