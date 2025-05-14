@@ -3,18 +3,18 @@ url: https://juronglakegardens.nparks.gov.sg
 favicon: /images/JLG_Secondary_Logo.png
 colors:
   primary-color: "#c05131"
-  secondary-color: "#c05131"
+  secondary-color: "#215732"
   media-colors:
     - title: media-color-one
-      color: "#c05131"
+      color: "#a09200"
     - title: media-color-two
-      color: "#c05131"
+      color: "#a09200"
     - title: media-color-three
-      color: "#c05131"
+      color: "#a09200"
     - title: media-color-four
-      color: "#c05131"
+      color: "#a09200"
     - title: media-color-five
-      color: "#c05131"
+      color: "#a09200"
 description: Jurong Lake Gardens is Singapore’s national gardens in the
   heartlands – a people’s garden, with spaces landscaped and created for
   families and the community to come together.
