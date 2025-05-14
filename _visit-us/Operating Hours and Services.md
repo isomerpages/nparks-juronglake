@@ -28,11 +28,6 @@ nighttime.</p>
 <li>
 <p><strong>Clusia Cove</strong> will be closed for maintenance works from <strong>5 May 2025</strong>.
 Works is estimated to be completed in <strong>one month’s time</strong>.</p>
-<p></p>
-</li>
-<li>
-<p>Kindly note that the <strong>Dog Run</strong> will be closed on <strong>9 May 2025 </strong>for
-maintenance works. Thank you for your understanding.</p>
 </li>
 </ol>
 </td>
