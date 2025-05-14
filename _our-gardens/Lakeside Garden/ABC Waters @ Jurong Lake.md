@@ -5,11 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Lakeside Garden
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ABC Waters" src="/images/Lakeside Garden/ABC_waters.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lakeside Garden/ABC Waters/ABC_waters.jpg">
 </div>
-<p></p>
 <p>Located next to Clusia Cove, the boardwalk at Jurong Lake provides a scenic
 and up-close view of nature for visitors. The boardwalk is an initiative
 under National Water Agency PUB’s Active, Beautiful, Clean Waters (ABC
