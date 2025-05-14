@@ -15,9 +15,7 @@ Waters) Programme to revitalise Singapore’s water bodies, and help enhance
 the liveability of the environment.</p>
 <p>Visitors can observe the abundant wildlife in Jurong Lake up close, and
 admire the lush greenery and scenery around the lake. Visitors can also
-rest and admire the lake from the amphitheatre located next to the boardwalk.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Find out more about ABC Waters @ Jurong Lake at&nbsp;<a href="http://www.pub.gov.sg/abcwaters/explore/juronglake" rel="noopener noreferrer nofollow" target="_blank">https://www.pub.gov.sg/abcwaters/explore/juronglake</a>.</p>
-<p>&nbsp;</p>
+rest and admire the lake from the amphitheatre located next to the boardwalk.&nbsp;&nbsp;</p>
+<p>Find out more about ABC Waters @ Jurong Lake at&nbsp;<a href="http://www.pub.gov.sg/abcwaters/explore/juronglake" rel="noopener noreferrer nofollow" target="_blank">https://www.pub.gov.sg/abcwaters/explore/juronglake</a>.&nbsp;</p>
 <p>For enquiries or feedback about the ABC Waters @ Jurong Lake (boardwalk
 and amphitheatre), please contact PUB at 1800-2255-782.</p>
