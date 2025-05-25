@@ -7,15 +7,17 @@ third_nav_title: Arts@JLG
 ---
 <h2><strong>Nurturing Wellness Through Nature's Palette</strong></h2>
 <p><strong>Arts@JLG: heART</strong> is a 2-day event taking place on 12 and
-13 July 2025 at Lakeside Field, Jurong Lake Gardens intertwining art and
-nature offering a transformative experience, fostering self-reflection,
-creative expression, and holistic well-being inspired by the journey of
-self-discovery.</p>
+13 July 2025 intertwining art and nature offering a transformative experience,
+fostering self-reflection, creative expression, and holistic well-being
+inspired by the journey of self-discovery.</p>
 <p>We invite you to explore your relationship with art and personal well-being,
 while cultivating inner peace and mindfulness through creative expression
 and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
-<p><strong>12 July (Sat</strong>): 8am – 7pm (Market from 10am)
+<p><strong>Date &amp; time:<br>12 July (Sat): </strong>8am – 7pm (Market
+from 10am)
 <br><strong>13 July (Sun)</strong>: 8am – 5pm (Market from 10am)</p>
+<p><strong>Venue:</strong>
+<br>Lakeside Field, Jurong Lake Gardens</p>
 <p>Watch this space for more information!</p>
 <hr>
 <p>Highlights from our 2024 edition</p>
