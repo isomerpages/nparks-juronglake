@@ -18,7 +18,8 @@ from 10am)
 <br><strong>13 July (Sun)</strong>: 8am – 5pm (Market from 10am)</p>
 <p><strong>Venue:</strong>
 <br>Lakeside Field, Jurong Lake Gardens</p>
-<p>Watch this space for more information!</p>
+<p><em>Watch this space for more information!</em>
+</p>
 <hr>
 <p>Highlights from our 2024 edition</p>
 <div class="isomer-image-wrapper">
