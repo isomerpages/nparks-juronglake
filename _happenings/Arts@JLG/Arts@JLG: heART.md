@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Arts@JLG
 ---
-<h2><strong>Celebrating Wellness and Creativity in Nature</strong></h2>
+<h2><strong>Nurturing Wellness Through Nature's Palette</strong></h2>
 <p><strong>Arts@JLG: heART</strong> is an event that invites visitors to embark
 on a transformative journey of creative expression and holistic well-being
 amidst the serene beauty of Jurong Lake Gardens. This event offers a variety
