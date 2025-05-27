@@ -4,11 +4,9 @@ permalink: /getting-here/
 variant: tiptap
 description: getting, here, jurong, lake, gardens
 ---
-<h2>Getting to <strong>Jurong Lake Gardens</strong> is simple</h2>
-<blockquote>
+<h3>Getting to <strong>Jurong Lake Gardens</strong> is simple</h3>
 <p>Whether you are coming by public transportation or driving, let us help
 guide you.</p>
-</blockquote>
 <p><a href="https://maps.app.goo.gl/5ZANmXsGgqX81bei7" rel="noopener nofollow" target="_blank">Getting to Jurong Lake Gardens via Google Maps</a>
 </p>
 <p></p>
