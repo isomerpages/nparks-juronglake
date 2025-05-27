@@ -4,13 +4,15 @@ permalink: /book-a-venue/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Elevate your event amidst the lush beauty of Jurong Lake Gardens. Reserve our venues now and create lasting memories!&nbsp;</strong></h2>
+<h3><strong>Elevate your event amidst the lush beauty of Jurong Lake Gardens. </strong></h3>
+<h4><strong>Book our venues now and create lasting memories!&nbsp;</strong></h4>
 <p></p>
-<h4>Browse our selection of venues below and email <a href="mailto:nparks_jlg@eventbutler.sg" rel="noopener noreferrer nofollow" target="_blank">nparks_jlg@eventbutler.sg</a> if you are interested!</h4>
+<p>Browse our selection of venues below and email nparks_jlg@eventbutler.sg
+if you are interested!</p>
 <p><em>For venues at Fort Canning Park, HortPark, or Singapore Botanic Gardens, please contact </em><strong><em><a href="https://www.eventbutler.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Event Butler</u></a></em></strong><em>.</em>
 </p>
 <hr>
-<h3>Indoor Venues</h3>
+<h4><strong>Indoor Venues</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Mempat Hall</summary>
@@ -1127,7 +1129,7 @@ the following time-blocks:</p>
 </div>
 </details>
 </div>
-<h3>Outdoor Venues</h3>
+<h4><strong>Outdoor Venues</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>BBQ Pits</summary>
