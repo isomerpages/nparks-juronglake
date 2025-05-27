@@ -39,7 +39,7 @@ vibrant flora, and traditional architectural marvels.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_38/1143_Arts-JLG-heART-2025" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="heart" src="/images/Arts@JLG/HeART/DSCF4595_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="heart" src="/images/Arts@JLG/HeART/DSCF4588_min.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
