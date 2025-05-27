@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Arts@JLG
 ---
-<h2><strong>Nurturing Creativity for All at Jurong Lake Gardens</strong></h2>
+<h3><strong>Nurturing Creativity for All at Jurong Lake Gardens</strong></h3>
 <p><strong>Arts@JLG: explore</strong> is a 4-day event taking place from 29
 May to 1 June 2025 at Jurong Lake Gardens.
 <br>
@@ -39,6 +39,8 @@ here:</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/explore2025-edibles" rel="noopener nofollow" target="_blank">Edible Garden Tour and Propagation Workshop</a>
 </p>
+<p><strong>[Fully subscribed]</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -48,6 +50,8 @@ here:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/67fe0fd7e01289775bd827e3" rel="noopener nofollow" target="_blank">Guided Tour of Chinese Garden (with SGSL Interpreter)</a>
+</p>
+<p><strong>[Limited slots left!]</strong>
 </p>
 </td>
 </tr>
@@ -69,6 +73,8 @@ here:</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/67fe0de645377fdf3dbea3b2" rel="noopener nofollow" target="_blank">Guided Tour of Chinese Garden (with SGSL Interpreter)</a>
 </p>
+<p><strong>[Limited slots left!]</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -78,6 +84,8 @@ here:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/67fe0e7ba8fbc76da48a6b22" rel="noopener nofollow" target="_blank">Guided Tour of Japanese Garden (with SGSL Interpreter)</a>
+</p>
+<p><strong>[Fully subscribed]</strong>
 </p>
 </td>
 </tr>
