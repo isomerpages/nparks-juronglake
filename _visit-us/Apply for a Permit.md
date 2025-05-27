@@ -4,7 +4,7 @@ permalink: /apply-for-a-permit/
 variant: tiptap
 description: apply, for, a, permit, jurong, lake, gardens
 ---
-<h2><strong>Permits for all your outdoor needs</strong></h2>
+<h3><strong>Permits for all your outdoor needs</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Visitors/Grasslands__2_.jpg">
