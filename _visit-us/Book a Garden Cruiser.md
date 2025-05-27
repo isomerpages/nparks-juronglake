@@ -4,7 +4,7 @@ permalink: /garden-cruiser/
 variant: tiptap
 description: jurong, lake, gardens, garden, cruiser
 ---
-<h2>Glide through mesmerising pathways and enjoy the captivating scenery of our Gardens in style and comfort.</h2>
+<h4><strong>Glide through mesmerising pathways and enjoy the captivating scenery of our Gardens in style and comfort.</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Garden Cruiser/Garden_Cruiser_1__2_.jpg">

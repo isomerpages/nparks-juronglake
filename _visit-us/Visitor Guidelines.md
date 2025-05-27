@@ -4,7 +4,7 @@ permalink: /visitor-guidelines/
 variant: tiptap
 description: visitor, guidelines, jurong, lake, gardens
 ---
-<h2><strong>Do's</strong> and <strong>Don'ts</strong> at Jurong Lake Gardens</h2>
+<h3><strong>Do's</strong> and <strong>Don'ts</strong> at Jurong Lake Gardens</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG Visitors/Entrance_Pavilion.jpg">

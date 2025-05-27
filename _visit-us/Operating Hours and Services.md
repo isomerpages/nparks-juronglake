@@ -35,7 +35,7 @@ Works is estimated to be completed in <strong>one month’s time</strong>.</p>
 </tbody>
 </table>
 <hr>
-<h3><strong>Attractions</strong></h3>
+<h4><strong>Attractions</strong></h4>
 <h4><strong>Lakeside Garden (Open 24 hours)</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -247,7 +247,7 @@ more information.</p>
 </details>
 </div>
 <hr>
-<h3><strong>Services and Amenities</strong></h3>
+<h4><strong>Services and Amenities</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Information Counters</strong>
