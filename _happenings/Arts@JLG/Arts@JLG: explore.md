@@ -63,6 +63,8 @@ here:</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/explore2025-jg31" rel="noopener noreferrer nofollow" target="_blank"><u>Guided Tour of&nbsp;Japanese Garden (with SGSL Interpreter)</u></a>
 </p>
+<p><strong>[Limited slots left!]</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +75,7 @@ here:</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/67fe0de645377fdf3dbea3b2" rel="noopener nofollow" target="_blank">Guided Tour of Chinese Garden (with SGSL Interpreter)</a>
 </p>
-<p><strong>[Limited slots left!]</strong>
+<p><strong>[Fully subscribed]</strong>
 </p>
 </td>
 </tr>
