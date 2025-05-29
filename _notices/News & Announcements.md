@@ -18,3 +18,10 @@ dial 6542 7788 for the weather forecast.</p>
 </p>
 <p>Kindly note that Clusia Cove will be closed from 5 May 2025 (Mon) until
 further notice for maintenance works. Thank you for your understanding.</p>
+<hr>
+<h3><strong>Notice of Closure (Waterwall Court)</strong></h3>
+<p><strong>29 May 2025</strong>
+</p>
+<p>Kindly note that Waterwall Court will be closed from 2 June 2025 (Mon)
+until further notice for maintenance works. Thank you for your understanding.</p>
+<p></p>
