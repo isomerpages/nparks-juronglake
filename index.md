@@ -6,8 +6,8 @@ description: Jurong Lake Gardens is Singapore’s national gardens in the
   families and the community to come together.
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
-notification: Clusia Cove will be closed from 5 May 2025 (Mon) until further
-  notice for maintenance works. Thank you for your understanding.
+notification: Please note that the Garden Shuttle Service will be suspended from
+  9 to 13 June 2025. Thank you for your understanding.
 sections:
   - hero:
       title: Jurong Lake Gardens
@@ -70,6 +70,12 @@ sections:
           date: 28 April 2025
           announcement: Clusia Cove will be closed for maintenance works from 5 May 2025.
             Works is estimated to be completed in one month’s time.
+          link_text: ""
+          link_url: ""
+        - title: Notice of Suspension (Garden Shuttle Service)
+          date: 06 June 2025
+          announcement: Please note that the Garden Shuttle Service will be suspended from
+            9 to 13 June 2025. Thank you for your understanding.
           link_text: ""
           link_url: ""
 ---
