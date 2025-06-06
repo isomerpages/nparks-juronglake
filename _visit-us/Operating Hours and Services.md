@@ -26,8 +26,13 @@ nighttime.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Clusia Cove</strong> will be closed for maintenance works from <strong>5 May 2025</strong>.
-Works is estimated to be completed in <strong>one month’s time</strong>.</p>
+<p><strong>Clusia Cove</strong> will be closed for maintenance works from <strong>5 May 2025</strong> until
+further notice.</p>
+<p></p>
+</li>
+<li>
+<p>Please note that the <strong>Garden Shuttle Service</strong> will be suspended
+from <strong>9 to 13 June 2025</strong>. Thank you for your understanding.</p>
 </li>
 </ol>
 </td>
@@ -322,7 +327,8 @@ event of heavy rain or lightning warning.</p>
 </li>
 </ul>
 <p></p>
-<p>Please refer to the poster here for more information on the service.</p>
+<p>Please refer to the poster <a href="/files/Maps and Trails/Garden_Shuttle_Service_A2Poster4.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on the service.</p>
 </div>
 </details>
 <details class="isomer-details">
