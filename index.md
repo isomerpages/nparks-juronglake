@@ -78,9 +78,10 @@ sections:
             until further notice. Thank you for your understanding.
           link_text: ""
           link_url: ""
-        - title: New Announcement
+        - title: Notice of Closure (Water Wall Court)
           date: 06 June 2025
-          announcement: Announcement content
+          announcement: Please note that Water Wall Court will be closed for maintenance
+            works until further notice. Thank you for your understanding.
           link_text: ""
           link_url: ""
 ---
