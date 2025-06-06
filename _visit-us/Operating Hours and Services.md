@@ -26,11 +26,6 @@ nighttime.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Clusia Cove</strong> will be closed for maintenance works from <strong>5 May 2025</strong> until
-further notice.</p>
-<p></p>
-</li>
-<li>
 <p>Please note that the <strong>Garden Shuttle Service</strong> will be suspended
 from <strong>9 to 13 June 2025</strong>. Thank you for your understanding.</p>
 </li>
