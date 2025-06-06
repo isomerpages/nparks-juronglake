@@ -72,4 +72,15 @@ sections:
             9 to 13 June 2025. Thank you for your understanding.
           link_text: ""
           link_url: ""
+        - title: Notice of Closure (Clusia Cove)
+          date: 06 June 2025
+          announcement: Please note that Clusia Cove will be closed for maintenance works
+            until further notice. Thank you for your understanding.
+          link_text: ""
+          link_url: ""
+        - title: New Announcement
+          date: 06 June 2025
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
