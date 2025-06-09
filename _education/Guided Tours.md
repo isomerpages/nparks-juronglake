@@ -76,7 +76,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>&nbsp;<strong>Guided Tour Booking Terms and Conditions&nbsp;</strong></h4>
+<h4><strong>Guided Tour Booking Terms and Conditions&nbsp;</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bookings for guided tours must be submitted<strong> at least one month prior to the desired date</strong>.&nbsp;</p>
