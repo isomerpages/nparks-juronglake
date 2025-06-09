@@ -86,11 +86,11 @@ description: ""
 of 20 participants – to be advised by NParks.&nbsp;</p>
 </li>
 <li>
-<p>The maximum number for each booking is 40 participants (i.e. 2 groups
+<p>The maximum number for each booking is 60 participants (i.e. 3 groups
 of 20 pax)</p>
 </li>
 <li>
-<p>If you have more than 40 participants, please consider the following options:</p>
+<p>If you have more than 60 participants, please consider the following options:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Option 1: Stagger tour times on the same day</p>
