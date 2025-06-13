@@ -13,9 +13,9 @@ inspired by the journey of self-discovery.</p>
 <p>We invite you to explore your relationship with art and personal well-being,
 while cultivating inner peace and mindfulness through creative expression
 and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
-<p><strong>Date &amp; time:<br>12 July (Sat): </strong>8am – 7pm (Market
+<p><strong>Date &amp; time:<br>12 July (Sat): </strong>9am – 7pm (Market
 from 10am)
-<br><strong>13 July (Sun)</strong>: 8am – 5pm (Market from 10am)</p>
+<br><strong>13 July (Sun)</strong>: 9am – 5pm (Market from 10am)</p>
 <p><strong>Venue:</strong>
 <br>Lakeside Field, Jurong Lake Gardens</p>
 <p><em>Watch this space for more information!</em>
