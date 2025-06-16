@@ -6,9 +6,8 @@ description: Jurong Lake Gardens is Singapore’s national gardens in the
   families and the community to come together.
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
-notification: Please note that the Garden Shuttle Service will be suspended from
-  9 to 13 June 2025, and Clusia Cove and Water Wall Court will be closed for
-  maintenance until further notice. Thank you for your understanding.
+notification: Please note that Clusia Cove and Water Wall Court will be closed
+  for maintenance until further notice. Thank you for your understanding.
 sections:
   - hero:
       title: Jurong Lake Gardens
@@ -67,12 +66,6 @@ sections:
             NEA website or dial 6542 7788 for the weather forecast.
           link_text: Visit the NEA Website here
           link_url: https://www.weather.gov.sg/home/
-        - title: Notice of Suspension (Garden Shuttle Service)
-          date: 06 June 2025
-          announcement: Please note that the Garden Shuttle Service will be suspended from
-            9 to 13 June 2025. Thank you for your understanding.
-          link_text: ""
-          link_url: ""
         - title: Notice of Closure (Clusia Cove)
           date: 06 June 2025
           announcement: Please note that Clusia Cove will be closed for maintenance until

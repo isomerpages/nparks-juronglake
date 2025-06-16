@@ -26,11 +26,6 @@ nighttime.</p>
 <p></p>
 </li>
 <li>
-<p>Please note that the <strong>Garden Shuttle Service</strong> will be suspended
-from <strong>9 to 13 June 2025</strong>. Thank you for your understanding.</p>
-<p></p>
-</li>
-<li>
 <p>Please note that Clusia Cove and Water Wall Court will be closed for maintenance
 until further notice. Thank you for your understanding.</p>
 </li>
