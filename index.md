@@ -66,12 +66,6 @@ sections:
             NEA website or dial 6542 7788 for the weather forecast.
           link_text: Visit the NEA Website here
           link_url: https://www.weather.gov.sg/home/
-        - title: Notice of Suspension (Garden Shuttle Service)
-          date: 06 June 2025
-          announcement: Please note that the Garden Shuttle Service will be suspended from
-            9 to 13 June 2025. Thank you for your understanding.
-          link_text: ""
-          link_url: ""
         - title: Notice of Closure (Clusia Cove)
           date: 06 June 2025
           announcement: Please note that Clusia Cove will be closed for maintenance until
