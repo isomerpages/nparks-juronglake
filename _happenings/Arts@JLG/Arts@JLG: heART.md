@@ -338,22 +338,29 @@ activities we have in store for you!</p>
 <p>In the event of rain, the bouncy castles will be closed.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/NFF_Expo_Day_4_117.jpg">
+</div>
 <p>&nbsp;</p>
 <p><strong>Game Sets</strong>&nbsp;</p>
 <p><strong>&nbsp;</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/image__2_.jpg">
+</div>
 <p><strong><br></strong><em>Basketball Game</em>
 </p>
-<p><em>&nbsp;</em>
-</p>
+<p></p>
 <p>Join your family for an exciting basketball game! Work together to build
 on each other's strengths and encourage one another as you aim to achieve
 your personal best scores. After the game, show your appreciation by writing
 heartfelt words of affirmation for your family members!</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/image__7_.jpg">
+</div>
 <p><em>Golf Game</em>
 </p>
 <p><em>&nbsp;</em>
