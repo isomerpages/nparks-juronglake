@@ -318,10 +318,168 @@ for your family members!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Project Blue Wave Booth</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By: PAssion Wave @ Jurong Lake Gardens</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Learn about Project Blue Wave!</strong>
+</p>
+<p>Date: Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time: 9am onwards</p>
+<p>&nbsp;</p>
 <p></p>
+<p>&nbsp;</p>
+<p>Come and drop by our Project Blue Wave booth and learn about the movement
+by PAssion Wave to promote clean and blue water landscape in Singapore!&nbsp;
+Take part in our booth games such as "How long till it's gone?" and "The
+6 R's" to find out more about how you can play a part in saving the environment
+whilst having fun at it.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Nagomi Art &amp; Eco-Upcycle Interest Group</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By: PAssion Wave @ Jurong Lake Gardens</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Art and Craft Activities by PAssionWave</strong>
+</p>
+<p>Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time:</p>
+<p>Eco-Upcycling Session: 9am to 12pm
+<br>Nagomi Art Session: 1pm to 5pm</p>
+<p>&nbsp;</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Nagomi Art<br>&nbsp;</strong>
+</p>
+</li>
+</ol>
+<p></p>
+<p>&nbsp;</p>
+<p>Join our Nagomi Arts Try Out and immerse yourself in the timeless essence
+of this craft and discover tranquillity entwined with tradition as you
+savour a harmonious fusion of colours and charm.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong> Craft &amp; Eco-Upcycle Interest Group</strong>
+</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>Transform everyday items into beautiful crafts while contributing to environmental
+sustainability! Join our vibrant community of women who share a passion
+for crafting and upcycling.</p>
+<p>&nbsp;</p>
+<p>This activity is conducted by Taman Jurong CC's Women's Executive Committee
+(WEC).</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Meet the Composting Heroes</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By Majulah Green</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Meet the Composting Heroes</strong>
+</p>
+<p>Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time: 9:30 am onwards (final session at 5:50pm)</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>This is a&nbsp;<strong>15-minute interactive micro-show</strong>, happening&nbsp;<strong>every 40 minutes from 9am to 6pm</strong>.
+It’s designed for walk-in visitors of all ages to enjoy a fun and educational
+hands-on introduction to composting through the fascinating world of worms.</p>
+<p>&nbsp;</p>
+<p>The show features the&nbsp;<strong>African Night Crawlers (ANCs)</strong>&nbsp;composting
+worms that turn food and paper waste into&nbsp;<strong>worm castings</strong>,
+known as&nbsp;<em>farmer’s gold</em>.</p>
+<p>&nbsp;</p>
+<p><strong>What Visitors Will Experience:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Meet and handle African Night Crawlers</p>
+</li>
+<li>
+<p>Touch and feel real worm castings (vermicompost)</p>
+</li>
+<li>
+<p>Learn how worms recycle waste into natural fertilizer</p>
+</li>
+<li>
+<p>Understand the role of worm castings in soil and plant health</p>
+</li>
+<li>
+<p>Enjoy short, fun educational slides (if screen is available)</p>
+</li>
+<li>
+<p>Pick up simple composting tips for home and garden use</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOLLY Mobile Library</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By: National Library Board</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MOLLY Mobile Library</strong>
+</p>
+<p>Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time: 10am – 5pm</p>
+<p>&nbsp;</p>
+<p>All aboard MOLLY — the National Library Board’s magical Mobile Library!
+Get ready to discover the world of knowledge for the whole family!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Roving Art Studio</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By: National Gallery Singapore</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Roving Art Studio by National Gallery Singapore</strong>
+</p>
+<p>Date: 12 Jul (Sat)</p>
+<p>Time: 9am – 2pm</p>
+<p>&nbsp;</p>
+<p>Explore nature-inspired motifs through Batik!</p>
+<p>&nbsp;</p>
+<p>Did you know that natural materials such as leaves, fruits, branches,
+roots, and flowers are often used to make dyes for batik artworks? Many
+batik pieces feature motifs inspired by the flora and fauna of the region.</p>
+<p>&nbsp;</p>
+<p>Create your own batik-inspired artwork inspired by the traditional batik
+making technique. Guided by our facilitators, you will apply glue to outline
+nature-inspired motifs before adding colors, just like in real batik art.</p>
 </td>
 </tr>
 </tbody>
