@@ -252,6 +252,41 @@ through prompts.
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Get active with PAssionWave @ Jurong Lake Gardens!</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Kayak and pedal boats try-outs at PAssion Wave @ Jurong Lake Gardens</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Water Activities Try-out!&nbsp;</strong>
+</p>
+<p>Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time:
+<br>(Session 1) 2pm – 3pm</p>
+<p>(Session 2) 3pm – 4pm</p>
+<p>(Session 3) 4pm – 5pm</p>
+<p>Location: PAssion Wave @ Jurong Lake Gardens (register at Lakeside Field)</p>
+<p>&nbsp;</p>
+<p>&nbsp;In the event of heavy rain, this event will be cancelled.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Register for your preferred time slot at the PAssion Wave booth at Lakeside
+Field in the morning.</p>
+<p>&nbsp;Limited slots are available on a first-come-first-served basis.</p>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>Experience the fun of the double-seated open deck kayaking&nbsp;and pedal
+boating while taking in the scenic views of Jurong Lake Gardens.</p>
+<p>&nbsp;&nbsp;</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -372,7 +407,7 @@ savour a harmonious fusion of colours and charm.</p>
 </p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong> Craft &amp; Eco-Upcycle Interest Group</strong>
+<p><strong>Craft &amp; Eco-Upcycle Interest Group</strong>
 </p>
 </li>
 </ol>
