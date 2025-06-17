@@ -82,10 +82,37 @@ a dish full of bold flavours and cultural tradition!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Guided Tours at Japanese Garden and Chinese Garden</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Guided Tour of Chinese Garden</strong>
+</p>
+<p>Date: 13 July (Sun)&nbsp;</p>
+<p>Time: 9am – 10.30am&nbsp;</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-cgtour</a>
+</p>
+<p>Meeting point: Entrance Pavilion @ North Carpark, Jurong Lake Gardens
+[Click <a href="https://file.go.gov.sg/ncpep.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+a photo of the meeting point]&nbsp;</p>
+<p>&nbsp;</p>
+<p>Immerse yourself in the rich history and serene beauty of the Chinese
+Garden. In this guided tour, explore the intricately designed landscapes,
+vibrant flora, and traditional architectural marvels. &nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Guided Tour of Japanese Garden</strong>
+</p>
+<p>Date: 13 July (Sun)&nbsp;</p>
+<p>Time: 9am - 10.30am</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-jgtour</a>
+</p>
+<p>Meeting point: Outside Mempat Hall @ Gardenhouse, Jurong Lake Gardens
+[Click <a href="https://file.go.gov.sg/ghll.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+a photo of the meeting point]</p>
+<p>&nbsp;</p>
+<p>Immerse yourself in the tranquil spaces and serene beauty of the Japanese
+Garden. In this guided tour, explore the intricately designed landscapes,
+vibrant flora, and enjoy a peaceful retreat.</p>
 </td>
 </tr>
 </tbody>
