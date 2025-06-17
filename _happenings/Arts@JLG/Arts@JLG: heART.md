@@ -552,8 +552,5 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
 <hr>
-<p><em>Jurong Lake Gardens is part of the Arts &amp; Culture Nodes Network, an initiative by the National Arts Council, for people to come together to experience the arts in their neighbourhood.</em>
-</p>
+<p></p>
