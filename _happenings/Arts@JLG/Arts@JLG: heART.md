@@ -92,6 +92,7 @@ a dish full of bold flavours and cultural tradition!</p>
 <p>Time: 9am – 10.30am&nbsp;</p>
 <p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-cgtour</a>
 </p>
+<p></p>
 <p>Meeting point: Entrance Pavilion @ North Carpark, Jurong Lake Gardens
 [Click <a href="https://file.go.gov.sg/ncpep.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 a photo of the meeting point]&nbsp;</p>
@@ -113,6 +114,12 @@ a photo of the meeting point]</p>
 <p>Immerse yourself in the tranquil spaces and serene beauty of the Japanese
 Garden. In this guided tour, explore the intricately designed landscapes,
 vibrant flora, and enjoy a peaceful retreat.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Workshops at Lakeside Field</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -154,10 +161,95 @@ we build together!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Tote Bag Stamping Workshop</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By: Dot Parade</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Tote Bag Stamping Workshop</strong>
+</p>
+<p>Date: 12 July (Sat)</p>
+<p>Time: 2pm – 3pm</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>The workshop is open to adults and children aged between 5 to 12.</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-totebag</a>
+</p>
+<p>&nbsp;</p>
+<p>Bring home your very own unique tote bag created using printmaking techniques!
+<br>
+<br>Join us in a beginner-friendly workshop by Dot Parade where you’ll learn
+the basics of print composition by using compressed foam to create nature-inspired
+shapes! Plus, you get to design your tote bag with two special stamps that
+are exclusive to Jurong Lake Gardens!</p>
+<p>&nbsp;</p>
+<p>Each parent-child duo will get to bring home their one-of-a-kind masterpiece.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Terrapy SG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Preserved Moss Art Workshop</strong>
+</p>
+<p><strong>Date: </strong>13 July (Sun)</p>
+<p><strong>Time: </strong>2.30pm - 4pm</p>
+<p>&nbsp;</p>
+<p>The workshop is open to adults and children aged 6 and above.</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-mossart</a>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Step into a calming, sensory- rich experience with TerrapySG’s Preserved
+Moss Art workshop—an immersive activity that blends creativity, mindfulness,
+and a connection to nature. Participants will craft their own unique piece
+of botanical wall art using real preserved moss in lush greens and earthy
+tones. This tactile and meditative process encourages presence, focus,
+and relaxation, as individuals thoughtfully arrange natural materials into
+soothing, organic patterns.</p>
+<p>&nbsp;</p>
+<p>The completed artwork not only serves as a beautiful, lasting reminder
+of the experience, but also as a symbol of the restorative power of nature—a
+perfect complement to any space that values wellbeing and creativity.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Breathe and Colour: A Mindful Art Workshop</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By: BitterGod Art</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Breathe and Colour: A Mindful Art Workshop</strong>
+</p>
+<p>Date: 13 July (Sun)</p>
+<p>Time: 2.30pm - 4pm</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>The workshop is open to adults and children aged 6 and above.</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-bandc</a>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Join Beeli (aka. Bittergod Art), a Singapore artist, on a workshop to
+re-discover how mindful art can be used to reduce stress and enhance your
+focus. Engaging in mindful art can foster quality bonding time between
+parent and child, while promoting emotional connection and creative expression.</p>
+<p>&nbsp;</p>
+<p>In this 1.5-hour beginner-friendly workshop, participants will learn how
+to engage in a mindful breath drawing exercise and draw collaboratively
+through prompts.
+<br>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
