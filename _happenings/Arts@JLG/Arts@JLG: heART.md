@@ -18,7 +18,7 @@ and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
 <p>12 and 13 July 2025 (Sat &amp; Sun)
 <br>9am – 6pm (Market from 10am)</p>
 <p><strong>Venue:</strong> Lakeside Field, Jurong Lake Gardens</p>
-<p>Getting to Jurong Lake Gardens: <a href="https://safe.menlosecurity.com/https:/juronglakegardens.nparks.gov.sg/getting-here/" rel="noopener noreferrer nofollow" target="_blank">Getting Here</a>
+<p>Getting to Jurong Lake Gardens: <a href="https:/juronglakegardens.nparks.gov.sg/getting-here/" rel="noopener noreferrer nofollow" target="_blank">Getting Here</a>
 </p>
 <p>This is a free-of-charge, pet-friendly and sheltered event. All programmes
 will proceed regardless of weather conditions, unless otherwise stated.</p>
@@ -34,7 +34,7 @@ Arts Council’s Arts &amp; Culture Nodes Network.</p>
 <details class="isomer-details">
 <summary>Walk-in Activities</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
