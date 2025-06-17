@@ -557,5 +557,4 @@ boating while taking in the scenic views of Jurong Lake Gardens.</p>
 </div>
 </details>
 </div>
-<p><a href="https://juronglakegardens.nparks.gov.sg/arts-jlg-explore/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
+<p></p>
