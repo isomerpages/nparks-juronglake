@@ -285,16 +285,15 @@ through prompts.
 <p>(Session 2) 3pm – 4pm</p>
 <p>(Session 3) 4pm – 5pm</p>
 <p>Location: PAssion Wave @ Jurong Lake Gardens (register at Lakeside Field)</p>
-<p>&nbsp;</p>
-<p>&nbsp;In the event of heavy rain, this event will be cancelled.</p>
+<p>In the event of heavy rain, this event will be cancelled.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>Register for your preferred time slot at the PAssion Wave booth at Lakeside
 Field in the morning.</p>
 <p>&nbsp;Limited slots are available on a first-come-first-served basis.</p>
-<p>&nbsp;</p>
-<p></p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Kayaking.png">
+</div>
 <p>Experience the fun of the double-seated open deck kayaking&nbsp;and pedal
 boating while taking in the scenic views of Jurong Lake Gardens.</p>
 <p>&nbsp;&nbsp;</p>
