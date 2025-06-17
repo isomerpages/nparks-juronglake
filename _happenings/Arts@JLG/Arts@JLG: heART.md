@@ -32,281 +32,8 @@ Arts Council’s Arts &amp; Culture Nodes Network.</p>
 <h4><strong>Don't miss out - sign up for our programmes today!</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Registered Workshops</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Around the Gardens</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Guided Tour of the Kitchen Garden</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Cooking Demonstration at Outdoor Kitchen</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration<br></strong>
-</p>
-<p>Date: 12 July (Sat)</p>
-<p>Time: 10am – 12pm</p>
-<p>Venue: Kitchen Garden at Chinese Garden</p>
-<p>&nbsp;</p>
-<p>The workshop is open to adults and children aged 12 and above.</p>
-<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-pinakbet</a>
-</p>
-<p>&nbsp;</p>
-<p><strong>First Stop: The Philippines!</strong>
-</p>
-<p>Get ready to kick off our Around the World series with a delicious adventure!</p>
-<p>We’ll start the day with a stroll through the Kitchen Garden, where you’ll
-discover some unique and tasty vegetables that are staples in Filipino
-cooking.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Pinakbet.jpg">
-</div>
-<p><em>Pinakbet</em>
-</p>
-<p></p>
-<p>Learn from our aspiring chefs as they show you how to make Pinakbet, a
-hearty, colourful Filipino vegetable stew. We will be cooking with freshly
-harvested squash, eggplant, okra, and long beans, all simmered in a rich,
-savoury broth flavoured with fermented shrimp paste (called bagoong). It’s
-a dish full of bold flavours and cultural tradition!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Guided Tours at Japanese Garden and Chinese Garden</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Guided Tour of Chinese Garden</strong>
-</p>
-<p>Date: 13 July (Sun)&nbsp;</p>
-<p>Time: 9am – 10.30am&nbsp;</p>
-<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-cgtour</a>
-</p>
-<p></p>
-<p>Meeting point: Entrance Pavilion @ North Carpark, Jurong Lake Gardens
-[Click <a href="https://file.go.gov.sg/ncpep.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-a photo of the meeting point]&nbsp;</p>
-<p>&nbsp;</p>
-<p>Immerse yourself in the rich history and serene beauty of the Chinese
-Garden. In this guided tour, explore the intricately designed landscapes,
-vibrant flora, and traditional architectural marvels. &nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Guided Tour of Japanese Garden</strong>
-</p>
-<p>Date: 13 July (Sun)&nbsp;</p>
-<p>Time: 9am - 10.30am</p>
-<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-jgtour</a>
-</p>
-<p>Meeting point: Outside Mempat Hall @ Gardenhouse, Jurong Lake Gardens
-[Click <a href="https://file.go.gov.sg/ghll.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-a photo of the meeting point]</p>
-<p>&nbsp;</p>
-<p>Immerse yourself in the tranquil spaces and serene beauty of the Japanese
-Garden. In this guided tour, explore the intricately designed landscapes,
-vibrant flora, and enjoy a peaceful retreat.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Workshops at Lakeside Field</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>The Time Travellers’ Guild</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>By: KidsSTOP™</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP</strong>
-</p>
-<p>Date: 12 July (Sat)</p>
-<p>Time:
-<br>(Session 1) 10.30am – 11.30am</p>
-<p>(Session 2) 12pm – 1pm</p>
-<p>&nbsp;</p>
-<p>The workshop is open to children between the ages of 4 and 8.</p>
-<p>Register here: <a href="https://form.gov.sg/6846806de40c6da8c44f6b46" rel="noopener noreferrer nofollow" target="_blank">Arts@JLG: Registration for The Time Travellers' Guild Workshop by KidsSTOP™ | FormSG</a>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/The_Time_Travellers__Guild_Workshop_IG_NParks.jpg">
-</div>
-<p></p>
-<p>Calling all young creators and dreamers! Step into a world of wonder where
-Science meets Imagination!</p>
-<p>&nbsp;</p>
-<p>Let your ideas take flight as you explore the incredible machines that
-have carried us across land, sea, and sky. This is your chance to express
-yourself freely — dream big, design boldly, and create your very own masterpiece.</p>
-<p>&nbsp;</p>
-<p>Together with other young inventors, your creation will become part of
-a giant time-travelling machine, celebrating the power of imagination and
-teamwork. Watch your ideas come to life as part of a community display
-at KidsSTOP™, from 30 September to end December 2025.</p>
-<p>&nbsp;</p>
-<p>Create, connect, and be inspired — because amazing things happen when
-we build together!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tote Bag Stamping Workshop</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>By: Dot Parade</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Tote Bag Stamping Workshop</strong>
-</p>
-<p>Date: 12 July (Sat)</p>
-<p>Time: 2pm – 3pm</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>The workshop is open to adults and children aged between 5 to 12.</p>
-<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-totebag</a>
-</p>
-<p>&nbsp;</p>
-<p>Bring home your very own unique tote bag created using printmaking techniques!
-<br>
-<br>Join us in a beginner-friendly workshop by Dot Parade where you’ll learn
-the basics of print composition by using compressed foam to create nature-inspired
-shapes! Plus, you get to design your tote bag with two special stamps that
-are exclusive to Jurong Lake Gardens!</p>
-<p>&nbsp;</p>
-<p>Each parent-child duo will get to bring home their one-of-a-kind masterpiece.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Sample5.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Terrapy SG</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Preserved Moss Art Workshop</strong>
-</p>
-<p><strong>Date: </strong>13 July (Sun)</p>
-<p><strong>Time: </strong>2.30pm - 4pm</p>
-<p>&nbsp;</p>
-<p>The workshop is open to adults and children aged 6 and above.</p>
-<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-mossart</a>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Step into a calming, sensory- rich experience with TerrapySG’s Preserved
-Moss Art workshop—an immersive activity that blends creativity, mindfulness,
-and a connection to nature. Participants will craft their own unique piece
-of botanical wall art using real preserved moss in lush greens and earthy
-tones. This tactile and meditative process encourages presence, focus,
-and relaxation, as individuals thoughtfully arrange natural materials into
-soothing, organic patterns.</p>
-<p>&nbsp;</p>
-<p>The completed artwork not only serves as a beautiful, lasting reminder
-of the experience, but also as a symbol of the restorative power of nature—a
-perfect complement to any space that values wellbeing and creativity.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Breathe and Colour: A Mindful Art Workshop</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>By: BitterGod Art</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Breathe and Colour: A Mindful Art Workshop</strong>
-</p>
-<p>Date: 13 July (Sun)</p>
-<p>Time: 2.30pm - 4pm</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>The workshop is open to adults and children aged 6 and above.</p>
-<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-bandc</a>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Join Beeli (aka. Bittergod Art), a Singapore artist, on a workshop to
-re-discover how mindful art can be used to reduce stress and enhance your
-focus. Engaging in mindful art can foster quality bonding time between
-parent and child, while promoting emotional connection and creative expression.</p>
-<p>&nbsp;</p>
-<p>In this 1.5-hour beginner-friendly workshop, participants will learn how
-to engage in a mindful breath drawing exercise and draw collaboratively
-through prompts.
-<br>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Get active with PAssionWave @ Jurong Lake Gardens!</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Kayak and pedal boats try-outs at PAssion Wave @ Jurong Lake Gardens</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Water Activities Try-out!&nbsp;</strong>
-</p>
-<p>Date: 12 to 13 July (Sat to Sun)</p>
-<p>Time:
-<br>(Session 1) 2pm – 3pm</p>
-<p>(Session 2) 3pm – 4pm</p>
-<p>(Session 3) 4pm – 5pm</p>
-<p>Location: PAssion Wave @ Jurong Lake Gardens (register at Lakeside Field)</p>
-<p>In the event of heavy rain, this event will be cancelled.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Register for your preferred time slot at the PAssion Wave booth at Lakeside
-Field in the morning.</p>
-<p>&nbsp;Limited slots are available on a first-come-first-served basis.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Kayaking.png">
-</div>
-<p>Experience the fun of the double-seated open deck kayaking&nbsp;and pedal
-boating while taking in the scenic views of Jurong Lake Gardens.</p>
-<p>&nbsp;&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
 <summary>Walk-in Activities</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -549,6 +276,288 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Registered Workshops</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong><u>Workshops at Lakeside Garden</u></strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>The Time Travellers’ Guild</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By: KidsSTOP™</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP</strong>
+</p>
+<p>Date: 12 July (Sat)</p>
+<p>Time:
+<br>(Session 1) 10.30am – 11.30am</p>
+<p>(Session 2) 12pm – 1pm</p>
+<p>&nbsp;</p>
+<p>The workshop is open to children between the ages of 4 and 8.</p>
+<p>Register here: <a href="https://form.gov.sg/6846806de40c6da8c44f6b46" rel="noopener noreferrer nofollow" target="_blank">Arts@JLG: Registration for The Time Travellers' Guild Workshop by KidsSTOP™ | FormSG</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/The_Time_Travellers__Guild_Workshop_IG_NParks.jpg">
+</div>
+<p></p>
+<p>Calling all young creators and dreamers! Step into a world of wonder where
+Science meets Imagination!</p>
+<p>&nbsp;</p>
+<p>Let your ideas take flight as you explore the incredible machines that
+have carried us across land, sea, and sky. This is your chance to express
+yourself freely — dream big, design boldly, and create your very own masterpiece.</p>
+<p>&nbsp;</p>
+<p>Together with other young inventors, your creation will become part of
+a giant time-travelling machine, celebrating the power of imagination and
+teamwork. Watch your ideas come to life as part of a community display
+at KidsSTOP™, from 30 September to end December 2025.</p>
+<p>&nbsp;</p>
+<p>Create, connect, and be inspired — because amazing things happen when
+we build together!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tote Bag Stamping Workshop</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By: Dot Parade</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tote Bag Stamping Workshop</strong>
+</p>
+<p>Date: 12 July (Sat)</p>
+<p>Time: 2pm – 3pm</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>The workshop is open to adults and children aged between 5 to 12.</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-totebag</a>
+</p>
+<p>&nbsp;</p>
+<p>Bring home your very own unique tote bag created using printmaking techniques!
+<br>
+<br>Join us in a beginner-friendly workshop by Dot Parade where you’ll learn
+the basics of print composition by using compressed foam to create nature-inspired
+shapes! Plus, you get to design your tote bag with two special stamps that
+are exclusive to Jurong Lake Gardens!</p>
+<p>&nbsp;</p>
+<p>Each parent-child duo will get to bring home their one-of-a-kind masterpiece.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Sample5.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Terrapy SG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Preserved Moss Art Workshop</strong>
+</p>
+<p><strong>Date: </strong>13 July (Sun)</p>
+<p><strong>Time: </strong>2.30pm - 4pm</p>
+<p>&nbsp;</p>
+<p>The workshop is open to adults and children aged 6 and above.</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-mossart</a>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Step into a calming, sensory- rich experience with TerrapySG’s Preserved
+Moss Art workshop—an immersive activity that blends creativity, mindfulness,
+and a connection to nature. Participants will craft their own unique piece
+of botanical wall art using real preserved moss in lush greens and earthy
+tones. This tactile and meditative process encourages presence, focus,
+and relaxation, as individuals thoughtfully arrange natural materials into
+soothing, organic patterns.</p>
+<p>&nbsp;</p>
+<p>The completed artwork not only serves as a beautiful, lasting reminder
+of the experience, but also as a symbol of the restorative power of nature—a
+perfect complement to any space that values wellbeing and creativity.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Breathe and Colour: A Mindful Art Workshop</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By: BitterGod Art</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Breathe and Colour: A Mindful Art Workshop</strong>
+</p>
+<p>Date: 13 July (Sun)</p>
+<p>Time: 2.30pm - 4pm</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>The workshop is open to adults and children aged 6 and above.</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-bandc</a>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Join Beeli (aka. Bittergod Art), a Singapore artist, on a workshop to
+re-discover how mindful art can be used to reduce stress and enhance your
+focus. Engaging in mindful art can foster quality bonding time between
+parent and child, while promoting emotional connection and creative expression.</p>
+<p>&nbsp;</p>
+<p>In this 1.5-hour beginner-friendly workshop, participants will learn how
+to engage in a mindful breath drawing exercise and draw collaboratively
+through prompts.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><u>Around the Gardens</u></strong>
+</p>
+<p></p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Guided Tour of the Kitchen Garden</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Cooking Demonstration at Outdoor Kitchen</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration<br></strong>
+</p>
+<p>Date: 12 July (Sat)</p>
+<p>Time: 10am – 12pm</p>
+<p>Venue: Kitchen Garden at Chinese Garden</p>
+<p>&nbsp;</p>
+<p>The workshop is open to adults and children aged 12 and above.</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-pinakbet</a>
+</p>
+<p>&nbsp;</p>
+<p><strong>First Stop: The Philippines!</strong>
+</p>
+<p>Get ready to kick off our Around the World series with a delicious adventure!</p>
+<p>We’ll start the day with a stroll through the Kitchen Garden, where you’ll
+discover some unique and tasty vegetables that are staples in Filipino
+cooking.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Pinakbet.jpg">
+</div>
+<p><em>Pinakbet</em>
+</p>
+<p></p>
+<p>Learn from our aspiring chefs as they show you how to make Pinakbet, a
+hearty, colourful Filipino vegetable stew. We will be cooking with freshly
+harvested squash, eggplant, okra, and long beans, all simmered in a rich,
+savoury broth flavoured with fermented shrimp paste (called bagoong). It’s
+a dish full of bold flavours and cultural tradition!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Guided Tours at Japanese Garden and Chinese Garden</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Guided Tour of Chinese Garden</strong>
+</p>
+<p>Date: 13 July (Sun)&nbsp;</p>
+<p>Time: 9am – 10.30am&nbsp;</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-cgtour</a>
+</p>
+<p></p>
+<p>Meeting point: Entrance Pavilion @ North Carpark, Jurong Lake Gardens
+[Click <a href="https://file.go.gov.sg/ncpep.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+a photo of the meeting point]&nbsp;</p>
+<p>&nbsp;</p>
+<p>Immerse yourself in the rich history and serene beauty of the Chinese
+Garden. In this guided tour, explore the intricately designed landscapes,
+vibrant flora, and traditional architectural marvels. &nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Guided Tour of Japanese Garden</strong>
+</p>
+<p>Date: 13 July (Sun)&nbsp;</p>
+<p>Time: 9am - 10.30am</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-jgtour</a>
+</p>
+<p>Meeting point: Outside Mempat Hall @ Gardenhouse, Jurong Lake Gardens
+[Click <a href="https://file.go.gov.sg/ghll.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+a photo of the meeting point]</p>
+<p>&nbsp;</p>
+<p>Immerse yourself in the tranquil spaces and serene beauty of the Japanese
+Garden. In this guided tour, explore the intricately designed landscapes,
+vibrant flora, and enjoy a peaceful retreat.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><u>Get active with PAssionWave @ Jurong Lake Gardens!</u></strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Kayak and pedal boats try-outs at PAssion Wave @ Jurong Lake Gardens</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Water Activities Try-out!&nbsp;</strong>
+</p>
+<p>Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time:
+<br>(Session 1) 2pm – 3pm</p>
+<p>(Session 2) 3pm – 4pm</p>
+<p>(Session 3) 4pm – 5pm</p>
+<p>Location: PAssion Wave @ Jurong Lake Gardens (register at Lakeside Field)</p>
+<p>In the event of heavy rain, this event will be cancelled.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Register for your preferred time slot at the PAssion Wave booth at Lakeside
+Field in the morning.</p>
+<p>&nbsp;Limited slots are available on a first-come-first-served basis.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Kayaking.png">
+</div>
+<p>Experience the fun of the double-seated open deck kayaking&nbsp;and pedal
+boating while taking in the scenic views of Jurong Lake Gardens.</p>
+<p>&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 </div>
 </details>
 </div>
