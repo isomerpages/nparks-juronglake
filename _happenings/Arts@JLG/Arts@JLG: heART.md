@@ -115,6 +115,57 @@ Garden. In this guided tour, explore the intricately designed landscapes,
 vibrant flora, and enjoy a peaceful retreat.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Registered Workshops</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>The Time Travellers’ Guild</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By: KidsSTOP™</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP</strong>
+</p>
+<p>Date: 12 July (Sat)</p>
+<p>Time:
+<br>(Session 1) 10.30am – 11.30am</p>
+<p>(Session 2) 12pm – 1pm</p>
+<p>&nbsp;</p>
+<p>The workshop is open to children between the ages of 4 and 8.</p>
+<p>Register here: <a href="https://form.gov.sg/6846806de40c6da8c44f6b46" rel="noopener noreferrer nofollow" target="_blank">Arts@JLG: Registration for The Time Travellers' Guild Workshop by KidsSTOP™ | FormSG</a>
+</p>
+<p></p>
+<p>Calling all young creators and dreamers! Step into a world of wonder where
+Science meets Imagination!</p>
+<p>&nbsp;</p>
+<p>Let your ideas take flight as you explore the incredible machines that
+have carried us across land, sea, and sky. This is your chance to express
+yourself freely — dream big, design boldly, and create your very own masterpiece.</p>
+<p>&nbsp;</p>
+<p>Together with other young inventors, your creation will become part of
+a giant time-travelling machine, celebrating the power of imagination and
+teamwork. Watch your ideas come to life as part of a community display
+at KidsSTOP™, from 30 September to end December 2025.</p>
+<p>&nbsp;</p>
+<p>Create, connect, and be inspired — because amazing things happen when
+we build together!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
