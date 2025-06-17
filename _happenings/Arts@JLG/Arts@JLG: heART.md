@@ -558,4 +558,38 @@ boating while taking in the scenic views of Jurong Lake Gardens.</p>
 </details>
 </div>
 <hr>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Supported by</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>In Partnership with:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>In Support of:</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Arts Council</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Families for Life</p>
+<p></p>
+<p>National Gallery Singapore</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Family Festival 2025</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
