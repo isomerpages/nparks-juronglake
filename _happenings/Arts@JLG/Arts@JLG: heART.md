@@ -29,7 +29,7 @@ the National Family Festival. Jurong Lake Gardens is part of the National
 Arts Council’s Arts &amp; Culture Nodes Network.</p>
 <p>Do you have feedback for us? Let us know here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-feedback</a>
 </p>
-<p></p>
+<h4><strong>Don't miss out - sign up for our programmes today! </strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Registered Workshops</summary>
@@ -72,6 +72,12 @@ Arts Council’s Arts &amp; Culture Nodes Network.</p>
 <p>We’ll start the day with a stroll through the Kitchen Garden, where you’ll
 discover some unique and tasty vegetables that are staples in Filipino
 cooking.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Pinakbet.jpg">
+</div>
+<p><em>Pinakbet</em>
+</p>
 <p></p>
 <p>Learn from our aspiring chefs as they show you how to make Pinakbet, a
 hearty, colourful Filipino vegetable stew. We will be cooking with freshly
