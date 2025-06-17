@@ -53,7 +53,7 @@ Arts Council’s Arts &amp; Culture Nodes Network.</p>
 <br>Time: 9am onwards</p>
 <p>In support of the National Family Festival, check out some of the fun
 activities we have in store for you!</p>
-<p><strong>Bouncy Castles</strong>&nbsp;</p>
+<p><strong><u>Bouncy Castles</u></strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Parental supervision is recommended.</p>
@@ -66,7 +66,7 @@ activities we have in store for you!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/NFF_Expo_Day_4_117.jpg">
 </div>
-<p><strong>Game Sets</strong>&nbsp;</p>
+<p><strong><u>Game Sets</u></strong>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/image__2_.jpg">
 </div>
