@@ -260,6 +260,72 @@ through prompts.
 <summary>Walk-in Activities</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Family Festival 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Let’s Celebrate National Family Festival!</strong>
+</p>
+<p></p>
+<p>Date: 12 to 13 July (Sat to Sun)
+<br>Time: 9am onwards</p>
+<p>&nbsp;</p>
+<p>In support of the National Family Festival, check out some of the fun
+activities we have in store for you!</p>
+<p>&nbsp;</p>
+<p><strong>Bouncy Castles</strong>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parental supervision is recommended.</p>
+</li>
+<li>
+<p>In the event of rain, the bouncy castles will be closed.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Game Sets</strong>&nbsp;</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><br></strong><em>Basketball Game</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p>Join your family for an exciting basketball game! Work together to build
+on each other's strengths and encourage one another as you aim to achieve
+your personal best scores. After the game, show your appreciation by writing
+heartfelt words of affirmation for your family members!</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
+<p><em>Golf Game</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p>Gather your family for an exciting game of golf! Take careful aim and
+try to get the golf ball into the hole with as few strokes as possible.
+After the game, show your appreciation by writing heartfelt words of affirmation
+for your family members!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
