@@ -494,7 +494,10 @@ known as&nbsp;<em>farmer’s gold</em>.</p>
 <p>Pick up simple composting tips for home and garden use</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Composting_Heroes.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -514,6 +517,9 @@ known as&nbsp;<em>farmer’s gold</em>.</p>
 <p>&nbsp;</p>
 <p>All aboard MOLLY — the National Library Board’s magical Mobile Library!
 Get ready to discover the world of knowledge for the whole family!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/NNM___404_.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -540,6 +546,9 @@ batik pieces feature motifs inspired by the flora and fauna of the region.</p>
 <p>Create your own batik-inspired artwork inspired by the traditional batik
 making technique. Guided by our facilitators, you will apply glue to outline
 nature-inspired motifs before adding colors, just like in real batik art.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Roving_Art_Studio.jpg">
+</div>
 </td>
 </tr>
 </tbody>
