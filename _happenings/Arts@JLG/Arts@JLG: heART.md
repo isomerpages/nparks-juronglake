@@ -29,29 +29,78 @@ the National Family Festival. Jurong Lake Gardens is part of the National
 Arts Council’s Arts &amp; Culture Nodes Network.</p>
 <p>Do you have feedback for us? Let us know here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-feedback</a>
 </p>
-<hr>
-<hr>
-<p>Highlights from our 2024 edition</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/DSCF4661_min.jpg">
-</div>
-<p><em>Scrapbooking Programme</em>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Registered Workshops</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Around the Gardens</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Guided Tour of the Kitchen Garden</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/DSCF4588_min.jpg">
-</div>
-<p><em>Community Batik Painting</em>
+<p><strong>&nbsp;</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/DSCF4602_min.jpg">
-</div>
-<p><em>Performances</em>
+<p><strong>Cooking Demonstration at Outdoor Kitchen</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/DSCF4440_min.jpg">
-</div>
-<p><em>Yoga Programmes</em>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration<br></strong>
 </p>
+<p>Date: 12 July (Sat)</p>
+<p>Time: 10am – 12pm</p>
+<p>Venue: Kitchen Garden at Chinese Garden</p>
+<p>&nbsp;</p>
+<p>The workshop is open to adults and children aged 12 and above.</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-pinakbet</a>
+</p>
+<p>&nbsp;</p>
+<p><strong>First Stop: The Philippines!</strong>
+</p>
+<p>Get ready to kick off our Around the World series with a delicious adventure!</p>
+<p>We’ll start the day with a stroll through the Kitchen Garden, where you’ll
+discover some unique and tasty vegetables that are staples in Filipino
+cooking.</p>
+<p></p>
+<p>Learn from our aspiring chefs as they show you how to make Pinakbet, a
+hearty, colourful Filipino vegetable stew. We will be cooking with freshly
+harvested squash, eggplant, okra, and long beans, all simmered in a rich,
+savoury broth flavoured with fermented shrimp paste (called bagoong). It’s
+a dish full of bold flavours and cultural tradition!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Walk-in Activities</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <hr>
 <p><em>Jurong Lake Gardens is part of the Arts &amp; Culture Nodes Network, an initiative by the National Arts Council, for people to come together to experience the arts in their neighbourhood.</em>
 </p>
