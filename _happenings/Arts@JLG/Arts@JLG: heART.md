@@ -29,7 +29,7 @@ the National Family Festival. Jurong Lake Gardens is part of the National
 Arts Council’s Arts &amp; Culture Nodes Network.</p>
 <p>Do you have feedback for us? Let us know here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-feedback</a>
 </p>
-<h4><strong>Don't miss out - sign up for our programmes today! </strong></h4>
+<h4><strong>Don't miss out - sign up for our programmes today!</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Registered Workshops</summary>
@@ -148,6 +148,10 @@ vibrant flora, and enjoy a peaceful retreat.</p>
 <p>The workshop is open to children between the ages of 4 and 8.</p>
 <p>Register here: <a href="https://form.gov.sg/6846806de40c6da8c44f6b46" rel="noopener noreferrer nofollow" target="_blank">Arts@JLG: Registration for The Time Travellers' Guild Workshop by KidsSTOP™ | FormSG</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/The_Time_Travellers__Guild_Workshop_IG_NParks.jpg">
+</div>
 <p></p>
 <p>Calling all young creators and dreamers! Step into a world of wonder where
 Science meets Imagination!</p>
