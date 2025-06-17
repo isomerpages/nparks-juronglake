@@ -557,8 +557,5 @@ boating while taking in the scenic views of Jurong Lake Gardens.</p>
 </div>
 </details>
 </div>
-<hr>
-<p><em>Jurong Lake Gardens is part of the Arts &amp; Culture Nodes Network, an initiative by the National Arts Council, for people to come together to experience the arts in their neighbourhood.</em>
-</p>
 <p><a href="https://juronglakegardens.nparks.gov.sg/arts-jlg-explore/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
