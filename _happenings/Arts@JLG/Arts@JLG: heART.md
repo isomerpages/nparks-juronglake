@@ -197,6 +197,9 @@ shapes! Plus, you get to design your tote bag with two special stamps that
 are exclusive to Jurong Lake Gardens!</p>
 <p>&nbsp;</p>
 <p>Each parent-child duo will get to bring home their one-of-a-kind masterpiece.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Sample5.jpg">
+</div>
 </td>
 </tr>
 <tr>
