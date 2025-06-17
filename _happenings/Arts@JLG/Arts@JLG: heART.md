@@ -378,8 +378,10 @@ for your family members!</p>
 </p>
 <p>Date: Date: 12 to 13 July (Sat to Sun)</p>
 <p>Time: 9am onwards</p>
-<p>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Project_Blue_Wave.png">
+</div>
 <p>&nbsp;</p>
 <p>Come and drop by our Project Blue Wave booth and learn about the movement
 by PAssion Wave to promote clean and blue water landscape in Singapore!&nbsp;
@@ -411,7 +413,9 @@ whilst having fun at it.</p>
 </p>
 </li>
 </ol>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Nagomi_Art.jpg">
+</div>
 <p>&nbsp;</p>
 <p>Join our Nagomi Arts Try Out and immerse yourself in the timeless essence
 of this craft and discover tranquillity entwined with tradition as you
@@ -422,11 +426,12 @@ savour a harmonious fusion of colours and charm.</p>
 <li>
 <p><strong>Craft &amp; Eco-Upcycle Interest Group</strong>
 </p>
+<p></p>
 </li>
 </ol>
-<p>&nbsp;</p>
-<p></p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Eco_Upcycle.png">
+</div>
 <p>Transform everyday items into beautiful crafts while contributing to environmental
 sustainability! Join our vibrant community of women who share a passion
 for crafting and upcycling.</p>
