@@ -322,13 +322,10 @@ boating while taking in the scenic views of Jurong Lake Gardens.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Let’s Celebrate National Family Festival!</strong>
 </p>
-<p></p>
 <p>Date: 12 to 13 July (Sat to Sun)
 <br>Time: 9am onwards</p>
-<p>&nbsp;</p>
 <p>In support of the National Family Festival, check out some of the fun
 activities we have in store for you!</p>
-<p>&nbsp;</p>
 <p><strong>Bouncy Castles</strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
