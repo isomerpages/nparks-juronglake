@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Calendar of Events.md
-      - Arts@JLG/Arts@JLG.md
       - Arts@JLG/.keep
-      - "Arts@JLG/Arts@JLG: explore.md"
+      - Arts@JLG/Arts@JLG.md
       - "Arts@JLG/Arts@JLG: heART.md"
+      - "Arts@JLG/Arts@JLG: explore.md"
       - "Arts@JLG/Arts@JLG: collage.md"
       - Lights by the Lake.md
       - Volunteer Programmes.md
