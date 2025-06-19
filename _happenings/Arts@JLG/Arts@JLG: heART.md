@@ -29,7 +29,7 @@ the National Family Festival. Jurong Lake Gardens is part of the National
 Arts Council’s Arts &amp; Culture Nodes Network.</p>
 <p>Do you have feedback for us? Let us know here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-feedback</a>
 </p>
-<h4><strong>Don't miss out - sign up for our programmes today!</strong></h4>
+<h4><strong>Don't miss out – sign up for our programmes today!</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Walk-in Activities</summary>
