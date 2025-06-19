@@ -40,6 +40,6 @@ has your personal information.</p>
 something is a scam.</p>
 <p>*Exceptions apply for National Service call-ups and emergency services.
 Read more about&nbsp;<a href="https://www.sms.gov.sg/exceptions" rel="noopener noreferrer nofollow" target="_blank">the exceptions.</a> For more information
-on how to protect yourself against scams, pls visit <a rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg.</a>
+on how to protect yourself against scams, please visit <a rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg.</a>
 </p>
 <p></p>
