@@ -558,3 +558,5 @@ boating while taking in the scenic views of Jurong Lake Gardens.</p>
 </details>
 </div>
 <p></p>
+<p><strong>Questions? </strong>
+<br>Read our Frequently Asked Questions <a href="/files/heART_2025_FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
