@@ -29,7 +29,7 @@ the National Family Festival. Jurong Lake Gardens is part of the National
 Arts Council’s Arts &amp; Culture Nodes Network.</p>
 <p>Do you have feedback for us? Let us know here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-feedback</a>
 </p>
-<h4><strong>Don't miss out - sign up for our programmes today!</strong></h4>
+<h4><strong>Don't miss out – sign up for our programmes today!</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Walk-in Activities</summary>
@@ -301,7 +301,7 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 </p>
 <p>Date: 12 July (Sat)</p>
 <p>Time:
-<br>(Session 1) 10.30am – 11.30am</p>
+<br>(Session 1) 10.30am – 12pm</p>
 <p>(Session 2) 12pm – 1pm</p>
 <p>&nbsp;</p>
 <p>The workshop is open to children between the ages of 4 and 8.</p>
@@ -341,7 +341,7 @@ we build together!</p>
 <p><strong>Tote Bag Stamping Workshop</strong>
 </p>
 <p>Date: 12 July (Sat)</p>
-<p>Time: 2pm – 3pm</p>
+<p>Time: 2pm – 4pm</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>The workshop is open to adults and children aged between 5 to 12.</p>
@@ -369,8 +369,8 @@ are exclusive to Jurong Lake Gardens!</p>
 <td rowspan="1" colspan="1">
 <p><strong>Preserved Moss Art Workshop</strong>
 </p>
-<p><strong>Date: </strong>13 July (Sun)</p>
-<p><strong>Time: </strong>2.30pm - 4pm</p>
+<p><strong>Date: </strong>12 July (Sat)</p>
+<p><strong>Time: </strong>4pm – 6pm</p>
 <p>&nbsp;</p>
 <p>The workshop is open to adults and children aged 6 and above.</p>
 <p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-mossart</a>
@@ -558,3 +558,5 @@ boating while taking in the scenic views of Jurong Lake Gardens.</p>
 </details>
 </div>
 <p></p>
+<p><strong>Questions? </strong>
+<br>Read our Frequently Asked Questions <a href="/files/heART_2025_FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
