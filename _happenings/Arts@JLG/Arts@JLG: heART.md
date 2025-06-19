@@ -301,7 +301,7 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 </p>
 <p>Date: 12 July (Sat)</p>
 <p>Time:
-<br>(Session 1) 10.30am – 11.30am</p>
+<br>(Session 1) 10.30am – 12pm</p>
 <p>(Session 2) 12pm – 1pm</p>
 <p>&nbsp;</p>
 <p>The workshop is open to children between the ages of 4 and 8.</p>
@@ -341,7 +341,7 @@ we build together!</p>
 <p><strong>Tote Bag Stamping Workshop</strong>
 </p>
 <p>Date: 12 July (Sat)</p>
-<p>Time: 2pm – 3pm</p>
+<p>Time: 2pm – 4pm</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>The workshop is open to adults and children aged between 5 to 12.</p>
@@ -370,7 +370,7 @@ are exclusive to Jurong Lake Gardens!</p>
 <p><strong>Preserved Moss Art Workshop</strong>
 </p>
 <p><strong>Date: </strong>12 July (Sat)</p>
-<p><strong>Time: </strong>4pm - 6pm</p>
+<p><strong>Time: </strong>4pm – 6pm</p>
 <p>&nbsp;</p>
 <p>The workshop is open to adults and children aged 6 and above.</p>
 <p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-mossart</a>
