@@ -78,7 +78,7 @@ sections:
             until further notice. Thank you for your understanding.
           link_text: ""
           link_url: ""
-        - title: Notice
+        - title: Beware of Impersonation Scams
           date: 19 June 2025
           announcement: Government officials will NEVER ask you to transfer money or
             disclose bank log-in details over a phone call. Call the 24/7
