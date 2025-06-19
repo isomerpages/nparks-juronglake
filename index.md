@@ -78,4 +78,12 @@ sections:
             until further notice. Thank you for your understanding.
           link_text: ""
           link_url: ""
+        - title: Notice
+          date: 19 June 2025
+          announcement: Government officials will NEVER ask you to transfer money or
+            disclose bank log-in details over a phone call. Call the 24/7
+            ScamShield Helpline at 1799 if you are unsure if something is a
+            scam.
+          link_text: Visit the ScamShield Website here
+          link_url: https://www.scamshield.gov.sg/
 ---
