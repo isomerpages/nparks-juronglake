@@ -369,8 +369,8 @@ are exclusive to Jurong Lake Gardens!</p>
 <td rowspan="1" colspan="1">
 <p><strong>Preserved Moss Art Workshop</strong>
 </p>
-<p><strong>Date: </strong>13 July (Sun)</p>
-<p><strong>Time: </strong>2.30pm - 4pm</p>
+<p><strong>Date: </strong>12 July (Sat)</p>
+<p><strong>Time: </strong>4pm - 6pm</p>
 <p>&nbsp;</p>
 <p>The workshop is open to adults and children aged 6 and above.</p>
 <p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-mossart</a>
