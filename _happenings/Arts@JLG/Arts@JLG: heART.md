@@ -300,13 +300,11 @@ to get together with others and dance your way to greater health and fitness.</p
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>The Time Travellers’ Guild by KidsSTOP™</strong>
+<summary><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP</strong>
-</p>
-<p>Date: 12 July (Sat)</p>
-<p>Time:
+<p><strong>Date</strong>: 12 July (Sat)</p>
+<p><strong>Time</strong>:
 <br>(Session 1) 10.30am – 11.30am</p>
 <p>(Session 2) 12pm – 1pm</p>
 <p>&nbsp;</p>
@@ -338,10 +336,8 @@ we build together!</p>
 <summary><strong>Tote Bag Stamping Workshop by Dot Parade</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Tote Bag Stamping Workshop</strong>
-</p>
-<p>Date: 12 July (Sat)</p>
-<p>Time: 2pm – 3pm</p>
+<p><strong>Date</strong>: 12 July (Sat)</p>
+<p><strong>Time</strong>: 2pm – 3pm</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>The workshop is open to adults and children aged between 5 to 12.</p>
@@ -356,6 +352,7 @@ shapes! Plus, you get to design your tote bag with two special stamps that
 are exclusive to Jurong Lake Gardens!</p>
 <p>&nbsp;</p>
 <p>Each parent-child duo will get to bring home their one-of-a-kind masterpiece.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Sample5.jpg">
 </div>
@@ -365,7 +362,6 @@ are exclusive to Jurong Lake Gardens!</p>
 <summary><strong>Preserved Moss Art Workshop by Terrapy SG [FULLY SUBSCRIBED]</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p><strong>Date: </strong>12 July (Sat)</p>
 <p><strong>Time: </strong>4pm – 5.30pm</p>
 <p>&nbsp;</p>
@@ -392,8 +388,6 @@ perfect complement to any space that values wellbeing and creativity.</p>
 <summary><strong>Cyanotype Printing Workshop by Co:Creation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Cyanotype Sun Printing Workshop</strong>
-</p>
 <p><strong>Date: </strong>13 July (Sun)</p>
 <p><strong>Time: </strong>9.30am – 11.30am</p>
 <p><strong>&nbsp;</strong>
@@ -444,11 +438,9 @@ engage in a Q&amp;A session to gain insights and connect with fellow participant
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Beyond the Surface Workshop by Co:Creation</strong>
+<summary><strong>Beyond the Surface: Frottage and Collage Workshop by Co:Creation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Beyond the Surface: Frottage and Collage Workshop</strong>
-</p>
 <p><strong>Date: </strong>13 July (Sun)</p>
 <p><strong>Time: </strong>12pm – 2pm<strong> </strong>&nbsp;</p>
 <p>&nbsp;</p>
@@ -500,10 +492,8 @@ of textures.</p>
 <summary><strong>Breathe and Colour: A Mindful Art Workshop by BitterGod Art</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Breathe and Colour: A Mindful Art Workshop</strong>
-</p>
-<p>Date: 13 July (Sun)</p>
-<p>Time: 2.30pm - 4pm</p>
+<p><strong>Date</strong>: 13 July (Sun)</p>
+<p><strong>Time</strong>: 2.30pm - 4pm</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>The workshop is open to adults and children aged 6 and above.</p>
@@ -525,13 +515,11 @@ through prompts.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Drama Workshop by Act 3</strong>
+<summary><strong>Snake and the Banyan Tree: A Drama Workshop by Act 3</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Snake and the Banyan Tree: A Drama Workshop</strong>
-</p>
-<p>Date: 13 July (Sun)</p>
-<p>Time: 4:30pm - 5:30pm</p>
+<p><strong>Date</strong>: 13 July (Sun)</p>
+<p><strong>Time</strong>: 4:30pm - 5:30pm</p>
 <p>&nbsp;</p>
 <p>This workshop is open to children between the ages of 4 and 8.</p>
 <p>Register here: <a href="https://form.gov.sg/684fc5265d6656cfcc3707e4" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-drama</a>
@@ -572,9 +560,9 @@ setting.</p>
 <summary><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date: 12 July (Sat)</p>
-<p>Time: 10am – 12pm</p>
-<p>Venue: Kitchen Garden at Chinese Garden</p>
+<p><strong>Date</strong>: 12 July (Sat)</p>
+<p><strong>Time</strong>: 10am – 12pm</p>
+<p><strong>Venue</strong>: Kitchen Garden at Chinese Garden</p>
 <p>&nbsp;</p>
 <p>The workshop is open to adults and children aged 12 and above.</p>
 <p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-pinakbet</a>
@@ -604,14 +592,13 @@ a dish full of bold flavours and cultural tradition!</p>
 <summary><strong>Guided Tour of Chinese Garden</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date: 13 July (Sun)&nbsp;</p>
-<p>Time: 9am – 10.30am&nbsp;</p>
-<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-cgtour</a>
+<p><strong>Date</strong>: 13 July (Sun)&nbsp;</p>
+<p><strong>Time</strong>: 9am – 10.30am&nbsp;</p>
+<p><strong>Register here</strong>: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-cgtour</a>
 </p>
-<p></p>
-<p>Meeting point: Entrance Pavilion @ North Carpark, Jurong Lake Gardens
-[Click <a href="https://file.go.gov.sg/ncpep.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-a photo of the meeting point]&nbsp;</p>
+<p><strong>Meeting point</strong>: Entrance Pavilion @ North Carpark, Jurong
+Lake Gardens [Click <a href="https://file.go.gov.sg/ncpep.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for a photo of the meeting
+point]&nbsp;</p>
 <p>&nbsp;</p>
 <p>Immerse yourself in the rich history and serene beauty of the Chinese
 Garden. In this guided tour, explore the intricately designed landscapes,
@@ -626,13 +613,13 @@ vibrant flora, and traditional architectural marvels. &nbsp;</p>
 <summary><strong>Guided Tour of Japanese Garden</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date: 13 July (Sun)&nbsp;</p>
-<p>Time: 9am - 10.30am</p>
-<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-jgtour</a>
+<p><strong>Date</strong>: 13 July (Sun)&nbsp;</p>
+<p><strong>Time</strong>: 9am - 10.30am</p>
+<p><strong>Register here</strong>: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-jgtour</a>
 </p>
-<p>Meeting point: Outside Mempat Hall @ Gardenhouse, Jurong Lake Gardens
-[Click <a href="https://file.go.gov.sg/ghll.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-a photo of the meeting point]</p>
+<p><strong>Meeting point</strong>: Outside Mempat Hall @ Gardenhouse, Jurong
+Lake Gardens [Click <a href="https://file.go.gov.sg/ghll.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for a photo of the meeting
+point]</p>
 <p>&nbsp;</p>
 <p>Immerse yourself in the tranquil spaces and serene beauty of the Japanese
 Garden. In this guided tour, explore the intricately designed landscapes,
@@ -648,17 +635,17 @@ vibrant flora, and enjoy a peaceful retreat.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Kayak and pedal boats try-outs at PAssion Wave @ Jurong Lake Gardens</strong>
+<summary><strong>Kayak and Pedal Boat Try-outs at PAssion Wave @ Jurong Lake Gardens</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Water Activities Try-out!&nbsp;</strong>
-</p>
-<p>Date: 12 to 13 July (Sat to Sun)</p>
-<p>Time:
+<p></p>
+<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)</p>
+<p><strong>Time</strong>:
 <br>(Session 1) 2pm – 3pm</p>
 <p>(Session 2) 3pm – 4pm</p>
 <p>(Session 3) 4pm – 5pm</p>
-<p>Location: PAssion Wave @ Jurong Lake Gardens (register at Lakeside Field)</p>
+<p><strong>Location</strong>: PAssion Wave @ Jurong Lake Gardens (register
+at Lakeside Field)</p>
 <p>In the event of heavy rain, this event will be cancelled.</p>
 <p><strong>&nbsp;</strong>
 </p>
