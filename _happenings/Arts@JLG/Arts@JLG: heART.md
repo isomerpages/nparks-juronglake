@@ -26,15 +26,15 @@ will proceed regardless of weather conditions, unless otherwise stated.</p>
 Culture Nodes Network.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Supported_by.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Supported_by.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/In_Partnership_With_2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/In_Partnership_With_2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/In_Support_Of.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/In_Support_Of.png">
 </div>
 <p>Do you have feedback for us? Let us know here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-feedback</a>
 </p>
