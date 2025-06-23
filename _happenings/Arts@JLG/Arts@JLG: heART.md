@@ -535,6 +535,50 @@ to engage in a mindful breath drawing exercise and draw collaboratively
 through prompts.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Drama Workshop</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By Act 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Snake and the Banyan Tree: A Drama Workshop</strong>
+</p>
+<p>Date: 13 July (Sun)</p>
+<p>Time: 4:30pm - 5:30pm</p>
+<p>&nbsp;</p>
+<p>This workshop is open to children between the ages of 4 and 8.</p>
+<p>Register here:</p>
+<p>&nbsp;</p>
+<p></p>
+<p>This interactive drama workshop by Act 3 International invites families
+to explore themes of courage, unity, and the beauty of nature — all through
+imaginative play. No drama experience is needed, just a willingness to
+move, pretend, and have fun together!</p>
+<p>&nbsp;</p>
+<p>Key Benefits</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enhances emotional connection between parent and child.</p>
+</li>
+<li>
+<p>Encourages creative thinking and communication through story-based play.</p>
+</li>
+<li>
+<p>Builds confidence, imagination, and empathy in a low-pressure, joyful
+setting.</p>
+</li>
+<li>
+<p>Offers a gentle way to explore values like courage, cooperation, and kindness.</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
