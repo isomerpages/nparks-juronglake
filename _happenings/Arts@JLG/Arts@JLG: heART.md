@@ -243,7 +243,33 @@ Get ready to discover the world of knowledge for the whole family!</p>
 </div>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Roving Art Studio by National Gallery Singapore</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Roving Art Studio by National Gallery Singapore</strong>
+</p>
+<p>Date: 12 Jul (Sat)</p>
+<p>Time: 9am – 2pm</p>
+<p>&nbsp;</p>
+<p>Explore nature-inspired motifs through Batik!</p>
+<p>&nbsp;</p>
+<p>Did you know that natural materials such as leaves, fruits, branches,
+roots, and flowers are often used to make dyes for batik artworks? Many
+batik pieces feature motifs inspired by the flora and fauna of the region.</p>
+<p>&nbsp;</p>
+<p>Create your own batik-inspired artwork inspired by the traditional batik
+making technique. Guided by our facilitators, you will apply glue to outline
+nature-inspired motifs before adding colors, just like in real batik art.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Roving_Art_Studio.jpg">
 </div>
+</div>
+</details>
+</div>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
