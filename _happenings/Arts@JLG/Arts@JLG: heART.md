@@ -143,6 +143,51 @@ for crafting and upcycling.</p>
 (WEC).</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Meet the Composting Heroes by Majulah Green</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Meet the Composting Heroes</strong>
+</p>
+<p>Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time: 9:30 am onwards (final session at 5:50pm)</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>This is a&nbsp;<strong>15-minute interactive micro-show</strong>, happening&nbsp;<strong>every 40 minutes from 9am to 6pm</strong>.
+It’s designed for walk-in visitors of all ages to enjoy a fun and educational
+hands-on introduction to composting through the fascinating world of worms.</p>
+<p>&nbsp;</p>
+<p>The show features the&nbsp;<strong>African Night Crawlers (ANCs)</strong>&nbsp;composting
+worms that turn food and paper waste into&nbsp;<strong>worm castings</strong>,
+known as&nbsp;<em>farmer’s gold</em>.</p>
+<p></p>
+<p><strong>What Visitors Will Experience:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Meet and handle African Night Crawlers</p>
+</li>
+<li>
+<p>Touch and feel real worm castings (vermicompost)</p>
+</li>
+<li>
+<p>Learn how worms recycle waste into natural fertilizer</p>
+</li>
+<li>
+<p>Understand the role of worm castings in soil and plant health</p>
+</li>
+<li>
+<p>Enjoy short, fun educational slides (if screen is available)</p>
+</li>
+<li>
+<p>Pick up simple composting tips for home and garden use</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Composting_Heroes.png">
+</div>
+</div>
+</details>
 </div>
 <p><strong>&nbsp;</strong>
 </p>
