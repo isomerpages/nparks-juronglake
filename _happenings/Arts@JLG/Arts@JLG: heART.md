@@ -392,6 +392,56 @@ perfect complement to any space that values wellbeing and creativity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Cyanotype Printing Workshop</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By Co:Creation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Cyanotype Sun Printing Workshop</strong>
+</p>
+<p><strong>Date: </strong>13 July (Sun)</p>
+<p><strong>Time: </strong>9.30am – 11.30am</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>The workshop is open to adults and children aged 5 and above.</p>
+<p>Register here: https://go.gov.sg/heart25-cyanotype</p>
+<p>&nbsp;</p>
+<p></p>
+<p><strong>Create Art with Nature’s Touch</strong>
+</p>
+<p>&nbsp;</p>
+<p>Uncover the magic of cyanotype in this immersive workshop! Using sunlight
+and light-sensitive materials, transform pressed flowers or photos into
+elegant blue-toned prints on framed paper, totes, or pouches. Guided by
+experienced instructors, you’ll discover the interplay of art and nature
+while exploring the design principles of positive and negative space.</p>
+<p>&nbsp;</p>
+<p>This session blends creativity, technique, and mindfulness. Create something
+timeless and meaningful—let’s print with sunlight!</p>
+<p>&nbsp;</p>
+<p><strong>What you will be doing</strong>
+</p>
+<p>• &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore the art of
+cyanotype: Discover sun printing, an ancient technique that uses light-sensitive
+materials and sunlight to create stunning blue-toned designs.</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Learn step-by-step creation: Arrange pressed flowers or objects of your
+choice on sensitized surfaces, then expose and develop your cyanotype prints
+with guided demonstrations.</p>
+<p>• &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Master design principles:
+Experiment with composition, focusing on positive and negative space, to
+create unique prints on paper and personalized cyanotype tote bags.</p>
+<p>• &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reflect and connect:
+Share your process, present your final designs, and engage in a Q&amp;A
+session to gain insights and connect with fellow participants.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Breathe and Colour: A Mindful Art Workshop</strong>
 </p>
 <p><strong>&nbsp;</strong>
