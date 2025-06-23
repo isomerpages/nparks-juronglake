@@ -624,6 +624,27 @@ vibrant flora, and traditional architectural marvels. &nbsp;</p>
 </div>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Guided Tour of Japanese Garden</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Date: 13 July (Sun)&nbsp;</p>
+<p>Time: 9am - 10.30am</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-jgtour</a>
+</p>
+<p>Meeting point: Outside Mempat Hall @ Gardenhouse, Jurong Lake Gardens
+[Click <a href="https://file.go.gov.sg/ghll.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+a photo of the meeting point]</p>
+<p>&nbsp;</p>
+<p>Immerse yourself in the tranquil spaces and serene beauty of the Japanese
+Garden. In this guided tour, explore the intricately designed landscapes,
+vibrant flora, and enjoy a peaceful retreat.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guided Tour/Guided_Tour_JG.jpg">
+</div>
+</div>
+</details>
 </div>
 <p><strong>&nbsp;</strong>
 </p>
