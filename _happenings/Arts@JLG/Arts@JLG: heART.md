@@ -228,63 +228,38 @@ by the natural forms- ripples in water, leaf veins, and flower petals</p>
 </ul>
 </div>
 </details>
-</div>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>MOLLY Mobile Library by National Library Board</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p><strong>&nbsp;</strong>
+<p><strong>MOLLY Mobile Library</strong>
 </p>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time: 10am – 5pm</p>
+<p>&nbsp;</p>
+<p>All aboard MOLLY — the National Library Board’s magical Mobile Library!
+Get ready to discover the world of knowledge for the whole family!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/NNM___404_.jpg">
+</div>
 </div>
 </details>
 </div>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>&nbsp;</strong>
+</p>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>&nbsp;</strong>
+</p>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>&nbsp;</strong>
+</p>
 <p></p>
-</div>
-</details>
-</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Walk-in Activities</summary>
