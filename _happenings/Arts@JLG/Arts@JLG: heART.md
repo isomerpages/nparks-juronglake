@@ -295,9 +295,47 @@ to get together with others and dance your way to greater health and fitness.</p
 </div>
 <p><strong>&nbsp;</strong>
 </p>
+<h4><strong>Registered Activities</strong></h4>
+<p>Workshops at Lakeside Garden</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>The Time Travellers’ Guild by KidsSTOP™</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP</strong>
+</p>
+<p>Date: 12 July (Sat)</p>
+<p>Time:
+<br>(Session 1) 10.30am – 11.30am</p>
+<p>(Session 2) 12pm – 1pm</p>
+<p>&nbsp;</p>
+<p>The workshop is open to children between the ages of 4 and 8.</p>
+<p>Register here: <a href="https://form.gov.sg/6846806de40c6da8c44f6b46" rel="noopener noreferrer nofollow" target="_blank">Arts@JLG: Registration for The Time Travellers' Guild Workshop by KidsSTOP™ | FormSG</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/The_Time_Travellers__Guild_Workshop_IG_NParks.jpg">
+</div>
 <p></p>
+<p>Calling all young creators and dreamers! Step into a world of wonder where
+Science meets Imagination!</p>
+<p>&nbsp;</p>
+<p>Let your ideas take flight as you explore the incredible machines that
+have carried us across land, sea, and sky. This is your chance to express
+yourself freely — dream big, design boldly, and create your very own masterpiece.</p>
+<p>&nbsp;</p>
+<p>Together with other young inventors, your creation will become part of
+a giant time-travelling machine, celebrating the power of imagination and
+teamwork. Watch your ideas come to life as part of a community display
+at KidsSTOP™, from 30 September to end December 2025.</p>
+<p>&nbsp;</p>
+<p>Create, connect, and be inspired — because amazing things happen when
+we build together!</p>
+</div>
+</details>
+</div>
 <p><strong>&nbsp;</strong>
 </p>
+<p></p>
 <p></p>
 <p><strong>&nbsp;</strong>
 </p>
