@@ -235,6 +235,10 @@ known as&nbsp;<em>farmer’s gold</em>.</p>
 <p>Time: 10am onwards</p>
 <p>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/2.jpg">
+</div>
+<p></p>
 <p><strong>Create stunning patterns inspired by nature</strong>
 </p>
 <p>Dive into the mesmerizing art of water marbling in this hands-on activity!
@@ -332,6 +336,10 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 <p>Date: 12 to 13 July (Sat to Sun)</p>
 <p>Time: 9am onwards</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Zumba.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sessions are free and open to public walk-ins</p>
@@ -457,6 +465,11 @@ are exclusive to Jurong Lake Gardens!</p>
 <p>The workshop is open to adults and children aged 6 and above.</p>
 <p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-mossart</a>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Moss_Art_Workshop.jpg">
+</div>
 <p><strong>&nbsp;</strong>
 </p>
 <p>Step into a calming, sensory- rich experience with TerrapySG’s Preserved
@@ -489,7 +502,13 @@ perfect complement to any space that values wellbeing and creativity.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>The workshop is open to adults and children aged 5 and above.</p>
-<p>Register here: https://go.gov.sg/heart25-cyanotype</p>
+<p>Register here: <a href="https://go.gov.sg/heart25-cyanotype" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-cyanotype</a>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/1.jpg">
+</div>
 <p>&nbsp;</p>
 <p></p>
 <p><strong>Create Art with Nature’s Touch</strong>
@@ -544,7 +563,13 @@ engage in a Q&amp;A session to gain insights and connect with fellow participant
 <p><strong>Time: </strong>12pm – 2pm<strong> </strong>&nbsp;</p>
 <p>&nbsp;</p>
 <p>The workshop is open to adults and children aged 5 and above.</p>
-<p>Register here: https://go.gov.sg/heart25-beyondsurface</p>
+<p>Register here: <a href="https://go.gov.sg/heart25-beyondsurface" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-beyondsurface</a>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/3.jpg">
+</div>
 <p>&nbsp;</p>
 <p></p>
 <p>&nbsp;</p>
@@ -607,6 +632,11 @@ of textures.</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/2025_photo_1.jpg">
+</div>
+<p></p>
 <p>Join Beeli (aka. Bittergod Art), a Singapore artist, on a workshop to
 re-discover how mindful art can be used to reduce stress and enhance your
 focus. Engaging in mindful art can foster quality bonding time between
@@ -636,6 +666,11 @@ through prompts.</p>
 <p>Register here: <a href="https://form.gov.sg/684fc5265d6656cfcc3707e4" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/684fc5265d6656cfcc3707e4</a>
 </p>
 <p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/ACT3International__2_.jpg">
+</div>
+<p></p>
 <p>This interactive drama workshop by Act 3 International invites families
 to explore themes of courage, unity, and the beauty of nature — all through
 imaginative play. No drama experience is needed, just a willingness to
