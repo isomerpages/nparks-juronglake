@@ -361,6 +361,32 @@ are exclusive to Jurong Lake Gardens!</p>
 </div>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Terrapy SG</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Preserved Moss Art Workshop</strong>
+</p>
+<p><strong>Date: </strong>12 July (Sat)</p>
+<p><strong>Time: </strong>4pm – 5.30pm</p>
+<p>&nbsp;</p>
+<p>The workshop is open to adults and children aged 6 and above.</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-mossart</a>
+</p>
+<p></p>
+<p>Step into a calming, sensory- rich experience with TerrapySG’s Preserved
+Moss Art workshop—an immersive activity that blends creativity, mindfulness,
+and a connection to nature. Participants will craft their own unique piece
+of botanical wall art using real preserved moss in lush greens and earthy
+tones. This tactile and meditative process encourages presence, focus,
+and relaxation, as individuals thoughtfully arrange natural materials into
+soothing, organic patterns.</p>
+<p>&nbsp;</p>
+<p>The completed artwork not only serves as a beautiful, lasting reminder
+of the experience, but also as a symbol of the restorative power of nature—a
+perfect complement to any space that values wellbeing and creativity.</p>
+</div>
+</details>
 </div>
 <p><strong>&nbsp;</strong>
 </p>
