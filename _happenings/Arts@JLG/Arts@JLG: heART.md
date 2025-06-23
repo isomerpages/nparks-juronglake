@@ -18,7 +18,7 @@ and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
 <p>12 and 13 July 2025 (Sat &amp; Sun)
 <br>9am – 6pm (Marketplace from 10am)</p>
 <p><strong>Venue:</strong> Lakeside Field, Jurong Lake Gardens</p>
-<p>Getting to Jurong Lake Gardens: <a href="https:/juronglakegardens.nparks.gov.sg/getting-here/" rel="noopener noreferrer nofollow" target="_blank">Getting Here</a>
+<p>Getting to Jurong Lake Gardens: <a href="https://juronglakegardens.nparks.gov.sg/getting-here/" rel="noopener noreferrer nofollow" target="_blank">Getting Here</a>
 </p>
 <p>This is a free-of-charge, pet-friendly and sheltered event. All programmes
 will proceed regardless of weather conditions, unless otherwise stated.</p>
@@ -30,13 +30,269 @@ Arts Council’s Arts &amp; Culture Nodes Network.</p>
 <p>Do you have feedback for us? Let us know here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-feedback</a>
 </p>
 <h4><strong>Don't miss out – sign up for our programmes today!</strong></h4>
+<h4><strong>Walk-in Activities</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>National Family Festival 2025</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Let’s Celebrate National Family Festival!</strong>
+</p>
+<p>Date: 12 to 13 July (Sat to Sun)
+<br>Time: 9am onwards</p>
+<p>In support of the National Family Festival, check out some of the fun
+activities we have in store for you!</p>
+<p></p>
+<p><strong><u>Bouncy Castles</u></strong>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parental supervision is recommended.</p>
+</li>
+<li>
+<p>In the event of rain, the bouncy castles will be closed.</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/NFF_Expo_Day_4_117.jpg">
+</div>
+<p></p>
+<p><strong><u>Game Sets</u></strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/image__2_.jpg">
+</div>
+<p><em>Basketball Game</em>
+</p>
+<p></p>
+<p>Join your family for an exciting basketball game! Work together to build
+on each other's strengths and encourage one another as you aim to achieve
+your personal best scores. After the game, show your appreciation by writing
+heartfelt words of affirmation for your family members!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/image__7_.jpg">
+</div>
+<p><em>Golf Game</em>
+</p>
+<p></p>
+<p>Gather your family for an exciting game of golf! Take careful aim and
+try to get the golf ball into the hole with as few strokes as possible.
+After the game, show your appreciation by writing heartfelt words of affirmation
+for your family members!</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Project Blue Wave Booth by PAssion Wave @ Jurong Lake Gardens</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Learn about Project Blue Wave!</strong>
+</p>
+<p>Date: Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time: 9am onwards</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Project_Blue_Wave.png">
+</div>
+<p>&nbsp;</p>
+<p>Come and drop by our Project Blue Wave booth and learn about the movement
+by PAssion Wave to promote clean and blue water landscape in Singapore!&nbsp;
+Take part in our booth games such as "How long till it's gone?" and "The
+6 R's" to find out more about how you can play a part in saving the environment
+whilst having fun at it.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Nagomi Art &amp; Eco-Upcycle Interest Group by PAssion Wave @ Jurong Lake Gardens</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Art and Craft Activities by PAssionWave</strong>
+</p>
+<p>Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time:</p>
+<p>Eco-Upcycling Session: 9am to 12pm
+<br>Nagomi Art Session: 1pm to 5pm</p>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Nagomi Art<br>&nbsp;</strong>
+</p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Nagomi_Art.jpg">
+</div>
+<p>&nbsp;</p>
+<p>Join our Nagomi Arts Try Out and immerse yourself in the timeless essence
+of this craft and discover tranquillity entwined with tradition as you
+savour a harmonious fusion of colours and charm.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Craft &amp; Eco-Upcycle Interest Group</strong>
+</p>
+<p></p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Eco_Upcycle.png">
+</div>
+<p>Transform everyday items into beautiful crafts while contributing to environmental
+sustainability! Join our vibrant community of women who share a passion
+for crafting and upcycling.</p>
+<p></p>
+<p>This activity is conducted by Taman Jurong CC's Women's Executive Committee
+(WEC).</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Meet the Composting Heroes by Majulah Green</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Meet the Composting Heroes</strong>
+</p>
+<p>Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time: 9:30 am onwards (final session at 5:50pm)</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>This is a&nbsp;<strong>15-minute interactive micro-show</strong>, happening&nbsp;<strong>every 40 minutes from 9am to 6pm</strong>.
+It’s designed for walk-in visitors of all ages to enjoy a fun and educational
+hands-on introduction to composting through the fascinating world of worms.</p>
+<p></p>
+<p>The show features the&nbsp;<strong>African Night Crawlers (ANCs)</strong>&nbsp;composting
+worms that turn food and paper waste into&nbsp;<strong>worm castings</strong>,
+known as&nbsp;<em>farmer’s gold</em>.</p>
+<p>&nbsp;</p>
+<p><strong>What Visitors Will Experience:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Meet and handle African Night Crawlers</p>
+</li>
+<li>
+<p>Touch and feel real worm castings (vermicompost)</p>
+</li>
+<li>
+<p>Learn how worms recycle waste into natural fertilizer</p>
+</li>
+<li>
+<p>Understand the role of worm castings in soil and plant health</p>
+</li>
+<li>
+<p>Enjoy short, fun educational slides (if screen is available)</p>
+</li>
+<li>
+<p>Pick up simple composting tips for home and garden use</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Composting_Heroes.png">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Water Marbling by Co:Creation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Dancing Colours on Water</strong>
+</p>
+<p>Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time: 10am onwards</p>
+<p></p>
+<p><strong>Create stunning patterns inspired by nature</strong>
+</p>
+<p>Dive into the mesmerizing art of water marbling in this hands-on activity!
+Using vibrant paints and water, you’ll create stunning patterns on water.
+Beyond the beauty, water marbling fosters relaxation, enhances focus, and
+boosts creativity, offering a calming and rewarding experience. Step into
+this creative journey, to create beautiful, marbled masterpieces that are
+uniquely yours!</p>
+<p></p>
+<p><strong>What you will be doing</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Discover water marbling: Learn about this centuries-old craft, its cultural
+significance, and how swirling paints on water creates mesmerizing, one-of-a-kind
+patterns.</p>
+</li>
+<li>
+<p>Experience relaxation and focus: Engage in the calming process of water
+marbling, which enhances mindfulness, reduces stress, and encourages mental
+clarity through creative expression.</p>
+</li>
+<li>
+<p>Build artistic skills: Experiment with patterns and colour blending inspired
+by the natural forms- ripples in water, leaf veins, and flower petals</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Walk-in Activities</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -89,6 +345,9 @@ try to get the golf ball into the hole with as few strokes as possible.
 After the game, show your appreciation by writing heartfelt words of affirmation
 for your family members!</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -98,6 +357,9 @@ for your family members!</p>
 </p>
 <p><strong>By: PAssion Wave @ Jurong Lake Gardens</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Learn about Project Blue Wave!</strong>
@@ -166,6 +428,9 @@ for crafting and upcycling.</p>
 (WEC).</p>
 <p>&nbsp;</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -218,6 +483,9 @@ known as&nbsp;<em>farmer’s gold</em>.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Composting_Heroes.png">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -265,6 +533,9 @@ by the natural forms- ripples in water, leaf veins, and flower petals</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -286,6 +557,9 @@ Get ready to discover the world of knowledge for the whole family!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/NNM___404_.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -315,6 +589,9 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Roving_Art_Studio.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -350,6 +627,9 @@ Gallery (Level 2).</p>
 Fitness programme. Set against fast-paced Latin music, this is your chance
 to get together with others and dance your way to greater health and fitness.</p>
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -633,9 +913,9 @@ through prompts.</p>
 <p>Time: 4:30pm - 5:30pm</p>
 <p>&nbsp;</p>
 <p>This workshop is open to children between the ages of 4 and 8.</p>
-<p>Register here:</p>
+<p>Register here: <a href="https://form.gov.sg/684fc5265d6656cfcc3707e4" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/684fc5265d6656cfcc3707e4</a>
+</p>
 <p>&nbsp;</p>
-<p></p>
 <p>This interactive drama workshop by Act 3 International invites families
 to explore themes of courage, unity, and the beauty of nature — all through
 imaginative play. No drama experience is needed, just a willingness to
