@@ -31,7 +31,7 @@ Arts Council’s Arts &amp; Culture Nodes Network.</p>
 </p>
 <h4><strong>Don't miss out – sign up for our programmes today!</strong></h4>
 <h4><strong>Walk-in Activities</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>National Family Festival 2025</strong>
 </summary>
@@ -80,7 +80,72 @@ for your family members!</p>
 </ul>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Project Blue Wave Booth by PAssion Wave @ Jurong Lake Gardens</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Learn about Project Blue Wave!</strong>
+</p>
+<p>Date: Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time: 9am onwards</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Project_Blue_Wave.png">
 </div>
+<p>Come and drop by our Project Blue Wave booth and learn about the movement
+by PAssion Wave to promote clean and blue water landscape in Singapore!&nbsp;
+Take part in our booth games such as "How long till it's gone?" and "The
+6 R's" to find out more about how you can play a part in saving the environment
+whilst having fun at it.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Nagomi Art &amp; Eco-Upcycle Interest Group by PAssion Wave @ Jurong Lake Gardens</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Art and Craft Activities by PAssionWave</strong>
+</p>
+<p>Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time:</p>
+<p>Eco-Upcycling Session: 9am to 12pm
+<br>Nagomi Art Session: 1pm to 5pm</p>
+<p></p>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Nagomi Art<br>&nbsp;</strong>
+</p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Nagomi_Art.jpg">
+</div>
+<p>&nbsp;</p>
+<p>Join our Nagomi Arts Try Out and immerse yourself in the timeless essence
+of this craft and discover tranquillity entwined with tradition as you
+savour a harmonious fusion of colours and charm.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Craft &amp; Eco-Upcycle Interest Group</strong>
+</p>
+<p></p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Eco_Upcycle.png">
+</div>
+<p>Transform everyday items into beautiful crafts while contributing to environmental
+sustainability! Join our vibrant community of women who share a passion
+for crafting and upcycling.</p>
+<p></p>
+<p>This activity is conducted by Taman Jurong CC's Women's Executive Committee
+(WEC).</p>
+</div>
+</details>
+</div>
+<p><strong>&nbsp;</strong>
+</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
