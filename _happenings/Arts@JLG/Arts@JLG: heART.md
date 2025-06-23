@@ -188,7 +188,48 @@ known as&nbsp;<em>farmer’s gold</em>.</p>
 </div>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Water Marbling by Co:Creation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Dancing Colours on Water</strong>
+</p>
+<p>Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time: 10am onwards</p>
+<p>&nbsp;</p>
+<p></p>
+<p><strong>Create stunning patterns inspired by nature</strong>
+</p>
+<p>Dive into the mesmerizing art of water marbling in this hands-on activity!
+Using vibrant paints and water, you’ll create stunning patterns on water.
+Beyond the beauty, water marbling fosters relaxation, enhances focus, and
+boosts creativity, offering a calming and rewarding experience. Step into
+this creative journey, to create beautiful, marbled masterpieces that are
+uniquely yours!</p>
+<p>&nbsp;</p>
+<p><strong>What you will be doing</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Discover water marbling: Learn about this centuries-old craft, its cultural
+significance, and how swirling paints on water creates mesmerizing, one-of-a-kind
+patterns.</p>
+</li>
+<li>
+<p>Experience relaxation and focus: Engage in the calming process of water
+marbling, which enhances mindfulness, reduces stress, and encourages mental
+clarity through creative expression.</p>
+</li>
+<li>
+<p>Build artistic skills: Experiment with patterns and colour blending inspired
+by the natural forms- ripples in water, leaf veins, and flower petals</p>
+</li>
+</ul>
 </div>
+</details>
+</div>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
