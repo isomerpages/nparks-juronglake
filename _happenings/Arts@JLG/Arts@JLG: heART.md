@@ -296,7 +296,8 @@ to get together with others and dance your way to greater health and fitness.</p
 <p><strong>&nbsp;</strong>
 </p>
 <h4><strong>Registered Activities</strong></h4>
-<p>Workshops at Lakeside Garden</p>
+<p><strong><u>Workshops at Lakeside Garden</u></strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>The Time Travellers’ Guild by KidsSTOP™</strong>
@@ -312,6 +313,7 @@ to get together with others and dance your way to greater health and fitness.</p
 <p>The workshop is open to children between the ages of 4 and 8.</p>
 <p>Register here: <a href="https://form.gov.sg/6846806de40c6da8c44f6b46" rel="noopener noreferrer nofollow" target="_blank">Arts@JLG: Registration for The Time Travellers' Guild Workshop by KidsSTOP™ | FormSG</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/The_Time_Travellers__Guild_Workshop_IG_NParks.jpg">
 </div>
