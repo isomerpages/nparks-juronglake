@@ -526,7 +526,50 @@ through prompts.</p>
 </div>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Drama Workshop by Act 3</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Snake and the Banyan Tree: A Drama Workshop</strong>
+</p>
+<p>Date: 13 July (Sun)</p>
+<p>Time: 4:30pm - 5:30pm</p>
+<p>&nbsp;</p>
+<p>This workshop is open to children between the ages of 4 and 8.</p>
+<p>Register here: <a href="https://form.gov.sg/684fc5265d6656cfcc3707e4" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/684fc5265d6656cfcc3707e4</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/ACT3International__2_.jpg">
 </div>
+<p>This interactive drama workshop by Act 3 International invites families
+to explore themes of courage, unity, and the beauty of nature — all through
+imaginative play. No drama experience is needed, just a willingness to
+move, pretend, and have fun together!</p>
+<p>
+<br><strong>Key Benefits</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enhances emotional connection between parent and child.</p>
+</li>
+<li>
+<p>Encourages creative thinking and communication through story-based play.</p>
+</li>
+<li>
+<p>Builds confidence, imagination, and empathy in a low-pressure, joyful
+setting.</p>
+</li>
+<li>
+<p>Offers a gentle way to explore values like courage, cooperation, and kindness.</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
