@@ -567,9 +567,53 @@ setting.</p>
 </div>
 </details>
 </div>
+<p><strong><u>&nbsp;Around the Gardens</u></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Date: 12 July (Sat)</p>
+<p>Time: 10am – 12pm</p>
+<p>Venue: Kitchen Garden at Chinese Garden</p>
+<p>&nbsp;</p>
+<p>The workshop is open to adults and children aged 12 and above.</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-pinakbet</a>
+</p>
+<p>&nbsp;</p>
+<p><strong>First Stop: The Philippines!</strong>
+</p>
+<p>Get ready to kick off our Around the World series with a delicious adventure!</p>
+<p>We’ll start the day with a stroll through the Kitchen Garden, where you’ll
+discover some unique and tasty vegetables that are staples in Filipino
+cooking.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Pinakbet.jpg">
+</div>
+<p><em>Pinakbet</em>
+</p>
+<p></p>
+<p>Learn from our aspiring chefs as they show you how to make Pinakbet, a
+hearty, colourful Filipino vegetable stew. We will be cooking with freshly
+harvested squash, eggplant, okra, and long beans, all simmered in a rich,
+savoury broth flavoured with fermented shrimp paste (called bagoong). It’s
+a dish full of bold flavours and cultural tradition!</p>
+</div>
+</details>
+</div>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
