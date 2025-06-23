@@ -362,11 +362,10 @@ are exclusive to Jurong Lake Gardens!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Terrapy SG</strong>
+<summary><strong>Preserved Moss Art Workshop by Terrapy SG</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Preserved Moss Art Workshop</strong>
-</p>
+<p></p>
 <p><strong>Date: </strong>12 July (Sat)</p>
 <p><strong>Time: </strong>4pm – 5.30pm</p>
 <p>&nbsp;</p>
@@ -385,6 +384,10 @@ soothing, organic patterns.</p>
 <p>The completed artwork not only serves as a beautiful, lasting reminder
 of the experience, but also as a symbol of the restorative power of nature—a
 perfect complement to any space that values wellbeing and creativity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Moss_Art_Workshop.jpg">
+</div>
 </div>
 </details>
 </div>
@@ -1207,3 +1210,4 @@ boating while taking in the scenic views of Jurong Lake Gardens.</p>
 <p></p>
 <p><strong>Questions? </strong>
 <br>Read our Frequently Asked Questions <a href="/files/heART_2025_FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
