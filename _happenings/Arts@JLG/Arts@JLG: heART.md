@@ -362,7 +362,7 @@ are exclusive to Jurong Lake Gardens!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Preserved Moss Art Workshop by Terrapy SG</strong>
+<summary><strong>Preserved Moss Art Workshop by Terrapy SG [FULLY SUBSCRIBED]</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -370,8 +370,6 @@ are exclusive to Jurong Lake Gardens!</p>
 <p><strong>Time: </strong>4pm – 5.30pm</p>
 <p>&nbsp;</p>
 <p>The workshop is open to adults and children aged 6 and above.</p>
-<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-mossart</a>
-</p>
 <p></p>
 <p>Step into a calming, sensory- rich experience with TerrapySG’s Preserved
 Moss Art workshop—an immersive activity that blends creativity, mindfulness,
@@ -536,7 +534,7 @@ through prompts.</p>
 <p>Time: 4:30pm - 5:30pm</p>
 <p>&nbsp;</p>
 <p>This workshop is open to children between the ages of 4 and 8.</p>
-<p>Register here: <a href="https://form.gov.sg/684fc5265d6656cfcc3707e4" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/684fc5265d6656cfcc3707e4</a>
+<p>Register here: <a href="https://form.gov.sg/684fc5265d6656cfcc3707e4" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-drama</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
