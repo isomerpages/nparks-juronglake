@@ -390,7 +390,64 @@ perfect complement to any space that values wellbeing and creativity.</p>
 </div>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Cyanotype Printing Workshop by Co:Creation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Cyanotype Sun Printing Workshop</strong>
+</p>
+<p><strong>Date: </strong>13 July (Sun)</p>
+<p><strong>Time: </strong>9.30am – 11.30am</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>The workshop is open to adults and children aged 5 and above.</p>
+<p>Register here: <a href="https://go.gov.sg/heart25-cyanotype" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-cyanotype</a>
+</p>
+<p></p>
+<p><strong>Create Art with Nature’s Touch</strong>
+</p>
+<p>&nbsp;</p>
+<p>Uncover the magic of cyanotype in this immersive workshop! Using sunlight
+and light-sensitive materials, transform pressed flowers or photos into
+elegant blue-toned prints on framed paper, totes, or pouches. Guided by
+experienced instructors, you’ll discover the interplay of art and nature
+while exploring the design principles of positive and negative space.</p>
+<p>&nbsp;</p>
+<p>This session blends creativity, technique, and mindfulness. Create something
+timeless and meaningful—let’s print with sunlight!</p>
+<p>&nbsp;</p>
+<p><strong>What you will be doing</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Explore the art of cyanotype: Discover sun printing, an ancient technique
+that uses light-sensitive materials and sunlight to create stunning blue-toned
+designs.</p>
+</li>
+<li>
+<p>Learn step-by-step creation: Arrange pressed flowers or objects of your
+choice on sensitized surfaces, then expose and develop your cyanotype prints
+with guided demonstrations.</p>
+</li>
+<li>
+<p>Master design principles: Experiment with composition, focusing on positive
+and negative space, to create unique prints on paper and personalized cyanotype
+tote bags.</p>
+</li>
+<li>
+<p>Reflect and connect: Share your process, present your final designs, and
+engage in a Q&amp;A session to gain insights and connect with fellow participants.</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/1.jpg">
 </div>
+</div>
+</details>
+</div>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>&nbsp;</strong>
