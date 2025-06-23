@@ -18,7 +18,7 @@ and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
 <p>12 and 13 July 2025 (Sat &amp; Sun)
 <br>9am – 6pm (Marketplace from 10am)</p>
 <p><strong>Venue:</strong> Lakeside Field, Jurong Lake Gardens</p>
-<p>Getting to Jurong Lake Gardens: <a href="https:/juronglakegardens.nparks.gov.sg/getting-here/" rel="noopener noreferrer nofollow" target="_blank">Getting Here</a>
+<p>Getting to Jurong Lake Gardens: <a href="https://juronglakegardens.nparks.gov.sg/getting-here/" rel="noopener noreferrer nofollow" target="_blank">Getting Here</a>
 </p>
 <p>This is a free-of-charge, pet-friendly and sheltered event. All programmes
 will proceed regardless of weather conditions, unless otherwise stated.</p>
@@ -633,9 +633,9 @@ through prompts.</p>
 <p>Time: 4:30pm - 5:30pm</p>
 <p>&nbsp;</p>
 <p>This workshop is open to children between the ages of 4 and 8.</p>
-<p>Register here:</p>
+<p>Register here: <a href="https://form.gov.sg/684fc5265d6656cfcc3707e4" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/684fc5265d6656cfcc3707e4</a>
+</p>
 <p>&nbsp;</p>
-<p></p>
 <p>This interactive drama workshop by Act 3 International invites families
 to explore themes of courage, unity, and the beauty of nature — all through
 imaginative play. No drama experience is needed, just a willingness to
