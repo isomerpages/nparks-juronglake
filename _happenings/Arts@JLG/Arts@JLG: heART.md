@@ -18,7 +18,7 @@ and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
 <p>12 and 13 July 2025 (Sat &amp; Sun)
 <br>9am – 6pm (Marketplace from 10am)</p>
 <p><strong>Venue:</strong> Lakeside Field, Jurong Lake Gardens</p>
-<p>Getting to Jurong Lake Gardens: <a href="https://juronglakegardens.nparks.gov.sg/getting-here/" rel="noopener noreferrer nofollow" target="_blank">Getting Here</a>
+<p><a href="https://juronglakegardens.nparks.gov.sg/getting-here/" rel="noopener nofollow" target="_blank">Getting to Jurong Lake Gardens</a>
 </p>
 <p>This is a free-of-charge, pet-friendly and sheltered event. All programmes
 will proceed regardless of weather conditions, unless otherwise stated.</p>
@@ -36,8 +36,7 @@ Culture Nodes Network.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/In_Support_Of.png">
 </div>
-<p>Do you have feedback for us? Let us know here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-feedback</a>
-</p>
+<p>Do you have feedback for us? Let us know <a href="https://go.gov.sg/heart25-feedback" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>Don't miss out – sign up for our programmes today!</strong></h4>
 <h4><strong>Walk-in Activities</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -307,8 +306,7 @@ to get together with others and dance your way to greater health and fitness.</p
 <p>(Session 2) 12pm – 1pm</p>
 <p>&nbsp;</p>
 <p>The workshop is open to children between the ages of 4 and 8.</p>
-<p>Register here: <a href="https://form.gov.sg/6846806de40c6da8c44f6b46" rel="noopener noreferrer nofollow" target="_blank">Arts@JLG: Registration for The Time Travellers' Guild Workshop by KidsSTOP™ | FormSG</a>
-</p>
+<p>Register <a href="https://form.gov.sg/6846806de40c6da8c44f6b46" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/The_Time_Travellers__Guild_Workshop_IG_NParks.jpg">
@@ -339,8 +337,7 @@ we build together!</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>The workshop is open to adults and children aged between 5 to 12.</p>
-<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-totebag</a>
-</p>
+<p>Register <a href="https://go.gov.sg/heart25-totebag" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;</p>
 <p>Bring home your very own unique tote bag created using printmaking techniques!
 <br>
@@ -391,8 +388,7 @@ perfect complement to any space that values wellbeing and creativity.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>The workshop is open to adults and children aged 5 and above.</p>
-<p>Register here: <a href="https://go.gov.sg/heart25-cyanotype" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-cyanotype</a>
-</p>
+<p>Register <a href="https://go.gov.sg/heart25-cyanotype" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p><strong>Create Art with Nature’s Touch</strong>
 </p>
@@ -443,8 +439,7 @@ engage in a Q&amp;A session to gain insights and connect with fellow participant
 <p><strong>Time: </strong>12pm – 2pm<strong> </strong>&nbsp;</p>
 <p>&nbsp;</p>
 <p>The workshop is open to adults and children aged 5 and above.</p>
-<p>Register here: <a href="https://go.gov.sg/heart25-beyondsurface" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-beyondsurface</a>
-</p>
+<p>Register <a href="https://go.gov.sg/heart25-beyondsurface" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/3.jpg">
@@ -495,8 +490,7 @@ of textures.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>The workshop is open to adults and children aged 6 and above.</p>
-<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-bandc</a>
-</p>
+<p>Register <a href="https://go.gov.sg/heart25-bandc" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p>Join Beeli (aka. Bittergod Art), a Singapore artist, on a workshop to
 re-discover how mindful art can be used to reduce stress and enhance your
@@ -520,8 +514,7 @@ through prompts.</p>
 <p><strong>Time</strong>: 4:30pm - 5:30pm</p>
 <p>&nbsp;</p>
 <p>This workshop is open to children between the ages of 4 and 8.</p>
-<p>Register here: <a href="https://form.gov.sg/684fc5265d6656cfcc3707e4" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-drama</a>
-</p>
+<p>Register <a href="https://go.gov.sg/heart25-drama" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/ACT3International__2_.jpg">
@@ -563,8 +556,7 @@ setting.</p>
 <p><strong>Venue</strong>: Kitchen Garden at Chinese Garden</p>
 <p>&nbsp;</p>
 <p>The workshop is open to adults and children aged 12 and above.</p>
-<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-pinakbet</a>
-</p>
+<p>Register <a href="https://go.gov.sg/heart25-pinakbet" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;</p>
 <p><strong>First Stop: The Philippines!</strong>
 </p>
@@ -592,11 +584,11 @@ a dish full of bold flavours and cultural tradition!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date</strong>: 13 July (Sun)&nbsp;</p>
 <p><strong>Time</strong>: 9am – 10.30am&nbsp;</p>
-<p><strong>Register here</strong>: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-cgtour</a>
-</p>
 <p><strong>Meeting point</strong>: Entrance Pavilion @ North Carpark, Jurong
 Lake Gardens [Click <a href="https://file.go.gov.sg/ncpep.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for a photo of the meeting
 point]&nbsp;</p>
+<p></p>
+<p>Register <a href="https://go.gov.sg/heart25-cgtour" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;</p>
 <p>Immerse yourself in the rich history and serene beauty of the Chinese
 Garden. In this guided tour, explore the intricately designed landscapes,
@@ -613,11 +605,11 @@ vibrant flora, and traditional architectural marvels. &nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date</strong>: 13 July (Sun)&nbsp;</p>
 <p><strong>Time</strong>: 9am - 10.30am</p>
-<p><strong>Register here</strong>: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-jgtour</a>
-</p>
 <p><strong>Meeting point</strong>: Outside Mempat Hall @ Gardenhouse, Jurong
 Lake Gardens [Click <a href="https://file.go.gov.sg/ghll.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for a photo of the meeting
 point]</p>
+<p></p>
+<p>Register <a href="https://go.gov.sg/heart25-jgtour" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;</p>
 <p>Immerse yourself in the tranquil spaces and serene beauty of the Japanese
 Garden. In this guided tour, explore the intricately designed landscapes,
@@ -659,6 +651,6 @@ boating while taking in the scenic views of Jurong Lake Gardens.</p>
 </details>
 </div>
 <p></p>
-<p><strong>Questions? </strong>
-<br>Read our Frequently Asked Questions <a href="/files/heART_2025_FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4><strong>Questions?</strong></h4>
+<p>Read our Frequently Asked Questions <a href="/files/heART_2025_FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
