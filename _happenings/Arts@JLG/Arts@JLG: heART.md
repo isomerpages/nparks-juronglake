@@ -221,6 +221,53 @@ known as&nbsp;<em>farmer’s gold</em>.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Water Marbling</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By Co:Creation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dancing Colours on Water</strong>
+</p>
+<p>Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time: 10am onwards</p>
+<p>&nbsp;</p>
+<p></p>
+<p><strong>Create stunning patterns inspired by nature</strong>
+</p>
+<p>Dive into the mesmerizing art of water marbling in this hands-on activity!
+Using vibrant paints and water, you’ll create stunning patterns on water.
+Beyond the beauty, water marbling fosters relaxation, enhances focus, and
+boosts creativity, offering a calming and rewarding experience. Step into
+this creative journey, to create beautiful, marbled masterpieces that are
+uniquely yours!</p>
+<p>&nbsp;</p>
+<p><strong>What you will be doing</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Discover water marbling: Learn about this centuries-old craft, its cultural
+significance, and how swirling paints on water creates mesmerizing, one-of-a-kind
+patterns.</p>
+</li>
+<li>
+<p>Experience relaxation and focus: Engage in the calming process of water
+marbling, which enhances mindfulness, reduces stress, and encourages mental
+clarity through creative expression.</p>
+</li>
+<li>
+<p>Build artistic skills: Experiment with patterns and colour blending inspired
+by the natural forms- ripples in water, leaf veins, and flower petals</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>MOLLY Mobile Library</strong>
 </p>
 <p><strong>&nbsp;</strong>
@@ -268,6 +315,41 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Roving_Art_Studio.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Zumba Activity</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By: PAssion Wave @ Jurong Lake Gardens</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time: 9am onwards</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sessions are free and open to public walk-ins</p>
+</li>
+<li>
+<p>No registration required</p>
+</li>
+<li>
+<p>This workout session will be conducted on <strong>Lakeside Field</strong>.
+In the event of heavy rain, it will be shifted to PAssion Wave Viewing
+Gallery (Level 2).</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Add more rhythm to your fitness regime by joining our exhilarating Zumba®
+Fitness programme. Set against fast-paced Latin music, this is your chance
+to get together with others and dance your way to greater health and fitness.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -392,6 +474,120 @@ perfect complement to any space that values wellbeing and creativity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Cyanotype Printing Workshop</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By Co:Creation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Cyanotype Sun Printing Workshop</strong>
+</p>
+<p><strong>Date: </strong>13 July (Sun)</p>
+<p><strong>Time: </strong>9.30am – 11.30am</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>The workshop is open to adults and children aged 5 and above.</p>
+<p>Register here: https://go.gov.sg/heart25-cyanotype</p>
+<p>&nbsp;</p>
+<p></p>
+<p><strong>Create Art with Nature’s Touch</strong>
+</p>
+<p>&nbsp;</p>
+<p>Uncover the magic of cyanotype in this immersive workshop! Using sunlight
+and light-sensitive materials, transform pressed flowers or photos into
+elegant blue-toned prints on framed paper, totes, or pouches. Guided by
+experienced instructors, you’ll discover the interplay of art and nature
+while exploring the design principles of positive and negative space.</p>
+<p>&nbsp;</p>
+<p>This session blends creativity, technique, and mindfulness. Create something
+timeless and meaningful—let’s print with sunlight!</p>
+<p>&nbsp;</p>
+<p><strong>What you will be doing</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Explore the art of cyanotype: Discover sun printing, an ancient technique
+that uses light-sensitive materials and sunlight to create stunning blue-toned
+designs.</p>
+</li>
+<li>
+<p>Learn step-by-step creation: Arrange pressed flowers or objects of your
+choice on sensitized surfaces, then expose and develop your cyanotype prints
+with guided demonstrations.</p>
+</li>
+<li>
+<p>Master design principles: Experiment with composition, focusing on positive
+and negative space, to create unique prints on paper and personalized cyanotype
+tote bags.</p>
+</li>
+<li>
+<p>Reflect and connect: Share your process, present your final designs, and
+engage in a Q&amp;A session to gain insights and connect with fellow participants.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Beyond the Surface Workshop</strong>
+</p>
+<p><strong>By Co:Creation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Beyond the Surface: Frottage and Collage Workshop</strong>
+</p>
+<p><strong>Date: </strong>13 July (Sun)</p>
+<p><strong>Time: </strong>12pm – 2pm<strong> </strong>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The workshop is open to adults and children aged 5 and above.</p>
+<p>Register here: https://go.gov.sg/heart25-beyondsurface</p>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p><strong>Create nature-inspired designs</strong>
+</p>
+<p>&nbsp;</p>
+<p>Discover the beauty of frottage and collage in this engaging workshop!
+Inspired by textures from your surroundings, you’ll learn to transform
+rubbings and simple materials into unique artworks like vibrant collages,
+line drawings, or simplified patterns.</p>
+<p>&nbsp;</p>
+<p>Unleash your imagination, connect with others, and leave with personalized
+artistic creations that reflect your unique perspective!</p>
+<p>&nbsp;</p>
+<p><strong>What you will be doing</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Discover frottage and collage: Learn about the art of frottage and how
+rubbing textures from everyday surfaces can inspire unique and meaningful
+creative expressions.</p>
+</li>
+<li>
+<p>Step-by-step guidance: Explore techniques for creating textured rubbings,
+cutting, layering, and arranging them into vibrant collages or simplified
+pattern-based designs.</p>
+</li>
+<li>
+<p>Learn creative skills: Master texture observation and composition to craft
+unique outcomes such as collage artworks, line drawings, or abstract representations.</p>
+</li>
+<li>
+<p>Reflect and connect: Share your artistic journey, discuss the inspiration
+behind your pieces, and connect with others over the creative exploration
+of textures.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Breathe and Colour: A Mindful Art Workshop</strong>
 </p>
 <p><strong>&nbsp;</strong>
@@ -419,6 +615,50 @@ parent and child, while promoting emotional connection and creative expression.<
 <p>In this 1.5-hour beginner-friendly workshop, participants will learn how
 to engage in a mindful breath drawing exercise and draw collaboratively
 through prompts.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Drama Workshop</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By Act 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Snake and the Banyan Tree: A Drama Workshop</strong>
+</p>
+<p>Date: 13 July (Sun)</p>
+<p>Time: 4:30pm - 5:30pm</p>
+<p>&nbsp;</p>
+<p>This workshop is open to children between the ages of 4 and 8.</p>
+<p>Register here:</p>
+<p>&nbsp;</p>
+<p></p>
+<p>This interactive drama workshop by Act 3 International invites families
+to explore themes of courage, unity, and the beauty of nature — all through
+imaginative play. No drama experience is needed, just a willingness to
+move, pretend, and have fun together!</p>
+<p>&nbsp;</p>
+<p>Key Benefits</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enhances emotional connection between parent and child.</p>
+</li>
+<li>
+<p>Encourages creative thinking and communication through story-based play.</p>
+</li>
+<li>
+<p>Builds confidence, imagination, and empathy in a low-pressure, joyful
+setting.</p>
+</li>
+<li>
+<p>Offers a gentle way to explore values like courage, cooperation, and kindness.</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 </tr>
 </tbody>
