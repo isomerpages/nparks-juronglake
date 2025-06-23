@@ -569,7 +569,7 @@ setting.</p>
 </div>
 <p><strong><u>&nbsp;Around the Gardens</u></strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration</strong>
 </summary>
@@ -602,18 +602,33 @@ savoury broth flavoured with fermented shrimp paste (called bagoong). It’s
 a dish full of bold flavours and cultural tradition!</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Guided Tour of Chinese Garden</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Date: 13 July (Sun)&nbsp;</p>
+<p>Time: 9am – 10.30am&nbsp;</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-cgtour</a>
+</p>
+<p></p>
+<p>Meeting point: Entrance Pavilion @ North Carpark, Jurong Lake Gardens
+[Click <a href="https://file.go.gov.sg/ncpep.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+a photo of the meeting point]&nbsp;</p>
+<p>&nbsp;</p>
+<p>Immerse yourself in the rich history and serene beauty of the Chinese
+Garden. In this guided tour, explore the intricately designed landscapes,
+vibrant flora, and traditional architectural marvels. &nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guided Tour/Guided_Tour_CG_.jpg">
+</div>
+</div>
+</details>
 </div>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
