@@ -298,7 +298,7 @@ to get together with others and dance your way to greater health and fitness.</p
 <h4><strong>Registered Activities</strong></h4>
 <p><strong><u>Workshops at Lakeside Garden</u></strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>The Time Travellers’ Guild by KidsSTOP™</strong>
 </summary>
@@ -334,7 +334,36 @@ at KidsSTOP™, from 30 September to end December 2025.</p>
 we build together!</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Tote Bag Stamping Workshop by Dot Parade</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Tote Bag Stamping Workshop</strong>
+</p>
+<p>Date: 12 July (Sat)</p>
+<p>Time: 2pm – 3pm</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>The workshop is open to adults and children aged between 5 to 12.</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-totebag</a>
+</p>
+<p>&nbsp;</p>
+<p>Bring home your very own unique tote bag created using printmaking techniques!
+<br>
+<br>Join us in a beginner-friendly workshop by Dot Parade where you’ll learn
+the basics of print composition by using compressed foam to create nature-inspired
+shapes! Plus, you get to design your tote bag with two special stamps that
+are exclusive to Jurong Lake Gardens!</p>
+<p>&nbsp;</p>
+<p>Each parent-child duo will get to bring home their one-of-a-kind masterpiece.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Sample5.jpg">
 </div>
+</div>
+</details>
+</div>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
