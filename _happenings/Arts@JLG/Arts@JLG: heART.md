@@ -450,6 +450,62 @@ engage in a Q&amp;A session to gain insights and connect with fellow participant
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Beyond the Surface Workshop</strong>
+</p>
+<p><strong>By Co:Creation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Beyond the Surface: Frottage and Collage Workshop</strong>
+</p>
+<p><strong>Date: </strong>13 July (Sun)</p>
+<p><strong>Time: </strong>12pm – 2pm<strong> </strong>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The workshop is open to adults and children aged 5 and above.</p>
+<p>Register here: https://go.gov.sg/heart25-beyondsurface</p>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p><strong>Create nature-inspired designs</strong>
+</p>
+<p>&nbsp;</p>
+<p>Discover the beauty of frottage and collage in this engaging workshop!
+Inspired by textures from your surroundings, you’ll learn to transform
+rubbings and simple materials into unique artworks like vibrant collages,
+line drawings, or simplified patterns.</p>
+<p>&nbsp;</p>
+<p>Unleash your imagination, connect with others, and leave with personalized
+artistic creations that reflect your unique perspective!</p>
+<p>&nbsp;</p>
+<p><strong>What you will be doing</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Discover frottage and collage: Learn about the art of frottage and how
+rubbing textures from everyday surfaces can inspire unique and meaningful
+creative expressions.</p>
+</li>
+<li>
+<p>Step-by-step guidance: Explore techniques for creating textured rubbings,
+cutting, layering, and arranging them into vibrant collages or simplified
+pattern-based designs.</p>
+</li>
+<li>
+<p>Learn creative skills: Master texture observation and composition to craft
+unique outcomes such as collage artworks, line drawings, or abstract representations.</p>
+</li>
+<li>
+<p>Reflect and connect: Share your artistic journey, discuss the inspiration
+behind your pieces, and connect with others over the creative exploration
+of textures.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Breathe and Colour: A Mindful Art Workshop</strong>
 </p>
 <p><strong>&nbsp;</strong>
