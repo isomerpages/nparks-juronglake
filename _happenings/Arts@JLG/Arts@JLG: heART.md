@@ -317,6 +317,41 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Zumba Activity</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By: PAssion Wave @ Jurong Lake Gardens</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Date: 12 to 13 July (Sat to Sun)</p>
+<p>Time: 9am onwards</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sessions are free and open to public walk-ins</p>
+</li>
+<li>
+<p>No registration required</p>
+</li>
+<li>
+<p>This workout session will be conducted on <strong>Lakeside Field</strong>.
+In the event of heavy rain, it will be shifted to PAssion Wave Viewing
+Gallery (Level 2).</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Add more rhythm to your fitness regime by joining our exhilarating Zumba®
+Fitness programme. Set against fast-paced Latin music, this is your chance
+to get together with others and dance your way to greater health and fitness.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
