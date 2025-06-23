@@ -455,7 +455,7 @@ engage in a Q&amp;A session to gain insights and connect with fellow participant
 <p><strong>Time: </strong>12pm – 2pm<strong> </strong>&nbsp;</p>
 <p>&nbsp;</p>
 <p>The workshop is open to adults and children aged 5 and above.</p>
-<p>Register here: <a href="https://go.gov.sg/heart25-beyondsurface" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-beyondsurface</a> 
+<p>Register here: <a href="https://go.gov.sg/heart25-beyondsurface" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-beyondsurface</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -499,12 +499,36 @@ of textures.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Breathe and Colour: A Mindful Art Workshop by BitterGod Art</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Breathe and Colour: A Mindful Art Workshop</strong>
+</p>
+<p>Date: 13 July (Sun)</p>
+<p>Time: 2.30pm - 4pm</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>The workshop is open to adults and children aged 6 and above.</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-bandc</a>
+</p>
 <p></p>
+<p>Join Beeli (aka. Bittergod Art), a Singapore artist, on a workshop to
+re-discover how mindful art can be used to reduce stress and enhance your
+focus. Engaging in mindful art can foster quality bonding time between
+parent and child, while promoting emotional connection and creative expression.</p>
+<p>&nbsp;</p>
+<p>In this 1.5-hour beginner-friendly workshop, participants will learn how
+to engage in a mindful breath drawing exercise and draw collaboratively
+through prompts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/2025_photo_1.jpg">
+</div>
 </div>
 </details>
 </div>
+<p><strong>&nbsp;</strong>
+</p>
 <p></p>
 <p><strong>&nbsp;</strong>
 </p>
