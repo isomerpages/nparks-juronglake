@@ -4,7 +4,7 @@ permalink: /book-a-venue/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Elevate your event amidst the lush beauty of Jurong Lake Gardens. </strong></h3>
+<h3><strong>Elevate your event amidst the lush beauty of Jurong Lake Gardens.</strong></h3>
 <h4><strong>Book our venues now and create lasting memories!&nbsp;</strong></h4>
 <p></p>
 <p>Browse our selection of venues below and email nparks_jlg@eventbutler.sg
@@ -633,8 +633,7 @@ setting for events and gatherings amidst tranquil ponds and garden views.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dining: 500 pax</p>
-<p>Conference: 1,000 pax</p>
+<p>500 pax</p>
 </td>
 </tr>
 <tr>
@@ -2307,7 +2306,6 @@ the following time-blocks:</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
