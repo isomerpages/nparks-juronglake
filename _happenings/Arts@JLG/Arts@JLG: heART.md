@@ -296,6 +296,19 @@ to get together with others and dance your way to greater health and fitness.</p
 </div>
 <p><strong>&nbsp;</strong>
 </p>
+<h4><strong>Registered Activities</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>The Time Travellers’ Guild by: KidsSTOP™</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
 <p></p>
 <p><strong>&nbsp;</strong>
 </p>
