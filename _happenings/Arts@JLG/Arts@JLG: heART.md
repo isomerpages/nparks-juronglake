@@ -22,11 +22,20 @@ and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
 </p>
 <p>This is a free-of-charge, pet-friendly and sheltered event. All programmes
 will proceed regardless of weather conditions, unless otherwise stated.</p>
-<p>Arts@JLG: heART is supported by the National Arts Council, and held in
-partnership with Families for Life, PAssionWave @Jurong Lake Gardens, National
-Library Board, National Gallery Singapore, and KidsSTOP, in support of
-the National Family Festival. Jurong Lake Gardens is part of the National
-Arts Council’s Arts &amp; Culture Nodes Network.</p>
+<p>Jurong Lake Gardens is part of the National Arts Council’s Arts &amp;
+Culture Nodes Network.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Supported_by.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/In_Partnership_With_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/In_Support_Of.png">
+</div>
 <p>Do you have feedback for us? Let us know here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-feedback</a>
 </p>
 <h4><strong>Don't miss out – sign up for our programmes today!</strong></h4>
