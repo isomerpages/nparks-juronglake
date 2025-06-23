@@ -424,19 +424,27 @@ timeless and meaningful—let’s print with sunlight!</p>
 <p>&nbsp;</p>
 <p><strong>What you will be doing</strong>
 </p>
-<p>• &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore the art of
-cyanotype: Discover sun printing, an ancient technique that uses light-sensitive
-materials and sunlight to create stunning blue-toned designs.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Learn step-by-step creation: Arrange pressed flowers or objects of your
+<ul data-tight="true" class="tight">
+<li>
+<p>Explore the art of cyanotype: Discover sun printing, an ancient technique
+that uses light-sensitive materials and sunlight to create stunning blue-toned
+designs.</p>
+</li>
+<li>
+<p>Learn step-by-step creation: Arrange pressed flowers or objects of your
 choice on sensitized surfaces, then expose and develop your cyanotype prints
 with guided demonstrations.</p>
-<p>• &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Master design principles:
-Experiment with composition, focusing on positive and negative space, to
-create unique prints on paper and personalized cyanotype tote bags.</p>
-<p>• &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reflect and connect:
-Share your process, present your final designs, and engage in a Q&amp;A
-session to gain insights and connect with fellow participants.</p>
+</li>
+<li>
+<p>Master design principles: Experiment with composition, focusing on positive
+and negative space, to create unique prints on paper and personalized cyanotype
+tote bags.</p>
+</li>
+<li>
+<p>Reflect and connect: Share your process, present your final designs, and
+engage in a Q&amp;A session to gain insights and connect with fellow participants.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 </tr>
