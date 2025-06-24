@@ -113,6 +113,9 @@ whilst having fun at it.</p>
 <summary><strong>Nagomi Art &amp; Eco-Upcycle Interest Group by PAssion Wave @ Jurong Lake Gardens</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Nagomi Art &amp; Eco-Upcycle Interest Group by PAssion Wave @ Jurong Lake Gardens</strong>
+</p>
 <p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
 <p><strong>Time</strong>:</p>
 <p>Eco-Upcycling Session: 9am – 12pm
@@ -154,6 +157,9 @@ for crafting and upcycling.</p>
 <summary><strong>Meet the Composting Heroes by Majulah Green</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Meet the Composting Heroes by Majulah Green</strong>
+</p>
 <p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
 <p><strong>Time</strong>: 9am – 6pm (final session at 5:50pm)</p>
 <p><strong>&nbsp;</strong>
@@ -182,9 +188,6 @@ known as&nbsp;<em>farmer’s gold</em>.</p>
 <p>Understand the role of worm castings in soil and plant health</p>
 </li>
 <li>
-<p>Enjoy short, fun educational slides</p>
-</li>
-<li>
 <p>Pick up simple composting tips for home and garden use</p>
 </li>
 </ul>
@@ -197,6 +200,7 @@ known as&nbsp;<em>farmer’s gold</em>.</p>
 <summary><strong>Water Marbling by Co:Creation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>Dancing Colours on Water</strong>
 </p>
 <p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
@@ -235,6 +239,9 @@ by the natural forms- ripples in water, leaf veins, and flower petals</p>
 <summary><strong>MOLLY Mobile Library by National Library Board</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>MOLLY Mobile Library by National Library Board</strong>
+</p>
 <p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
 <p><strong>Time</strong>: 10am – 5pm</p>
 <p>&nbsp;</p>
@@ -249,6 +256,9 @@ Get ready to discover the world of knowledge for the whole family!</p>
 <summary><strong>Roving Art Studio by National Gallery Singapore</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Roving Art Studio by National Gallery Singapore</strong>
+</p>
 <p><strong>Date</strong>: 12 Jul (Sat)</p>
 <p><strong>Time</strong>: 9am – 2pm</p>
 <p>&nbsp;</p>
@@ -270,6 +280,9 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 <summary><strong>Zumba Activity by PAssion Wave @ Jurong Lake Gardens</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Zumba Activity by PAssion Wave @ Jurong Lake Gardens</strong>
+</p>
 <p><strong>Date</strong>: 12 July (Sat)</p>
 <p><strong>Time</strong>: 9am – 10am</p>
 <p></p>
