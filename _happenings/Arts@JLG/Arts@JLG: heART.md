@@ -158,8 +158,8 @@ for crafting and upcycling.</p>
 <p><strong>Time</strong>: 9am – 6pm (final session at 5:50pm)</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p>This is a&nbsp;<strong>15-minute interactive micro-show</strong>, happening&nbsp;<strong>every 40 minutes from 9am to 6pm</strong>.
-It’s designed for walk-in visitors of all ages to enjoy a fun and educational
+<p>This is a&nbsp;<strong>15-minute interactive micro-show</strong>, happening&nbsp;<strong>every 40 minutes.</strong> It’s
+designed for walk-in visitors of all ages to enjoy a fun and educational
 hands-on introduction to composting through the fascinating world of worms.</p>
 <p>&nbsp;</p>
 <p>The show features the&nbsp;<strong>African Night Crawlers (ANCs)</strong>&nbsp;composting
@@ -182,7 +182,7 @@ known as&nbsp;<em>farmer’s gold</em>.</p>
 <p>Understand the role of worm castings in soil and plant health</p>
 </li>
 <li>
-<p>Enjoy short, fun educational slides (if screen is available)</p>
+<p>Enjoy short, fun educational slides</p>
 </li>
 <li>
 <p>Pick up simple composting tips for home and garden use</p>
@@ -270,7 +270,7 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 <summary><strong>Zumba Activity by PAssion Wave @ Jurong Lake Gardens</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
+<p><strong>Date</strong>: 12 July (Sat)</p>
 <p><strong>Time</strong>: 9am – 10am</p>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -492,7 +492,7 @@ of textures.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date</strong>: 13 July (Sun)</p>
-<p><strong>Time</strong>: 2.30pm - 4pm</p>
+<p><strong>Time</strong>: 2.30pm – 4pm</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>The workshop is open to adults and children aged 6 and above.</p>
@@ -517,7 +517,7 @@ through prompts.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date</strong>: 13 July (Sun)</p>
-<p><strong>Time</strong>: 4:30pm - 5:30pm</p>
+<p><strong>Time</strong>: 4:30pm – 5:30pm</p>
 <p>&nbsp;</p>
 <p>This workshop is open to children between the ages of 4 and 8.</p>
 <p>Register <a href="https://go.gov.sg/heart25-drama" rel="noopener nofollow" target="_blank">here</a>.</p>
@@ -610,7 +610,7 @@ vibrant flora, and traditional architectural marvels. &nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date</strong>: 13 July (Sun)&nbsp;</p>
-<p><strong>Time</strong>: 9am - 10.30am</p>
+<p><strong>Time</strong>: 9am – 10.30am</p>
 <p><strong>Meeting point</strong>: Outside Mempat Hall @ Gardenhouse, Jurong
 Lake Gardens [Click <a href="https://file.go.gov.sg/ghll.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for a photo of the meeting
 point]</p>
@@ -635,7 +635,7 @@ vibrant flora, and enjoy a peaceful retreat.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)</p>
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
 <p><strong>Time</strong>:
 <br>(Session 1) 2pm – 3pm</p>
 <p>(Session 2) 3pm – 4pm</p>
@@ -646,8 +646,8 @@ at Lakeside Field)</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>Register for your preferred time slot at the PAssion Wave booth at Lakeside
-Field in the morning.</p>
-<p>&nbsp;Limited slots are available on a first-come-first-served basis.</p>
+Field in the morning. Limited slots are available on a first-come-first-served
+basis.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Kayaking.png">
 </div>
