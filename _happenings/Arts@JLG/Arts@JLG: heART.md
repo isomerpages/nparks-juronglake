@@ -44,9 +44,10 @@ Culture Nodes Network.</p>
 <summary><strong>National Family Festival 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>Let’s Celebrate National Family Festival!</strong>
 </p>
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)
 <br><strong>Time</strong>: 9am onwards</p>
 <p>In support of the National Family Festival, check out some of the fun
 activities we have in store for you!</p>
@@ -93,9 +94,10 @@ for your family members!</p>
 <summary><strong>Project Blue Wave Booth by PAssion Wave @ Jurong Lake Gardens</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>Learn about Project Blue Wave!</strong>
 </p>
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)</p>
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
 <p><strong>Time</strong>: 9am onwards</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Project_Blue_Wave.png">
@@ -111,10 +113,13 @@ whilst having fun at it.</p>
 <summary><strong>Nagomi Art &amp; Eco-Upcycle Interest Group by PAssion Wave @ Jurong Lake Gardens</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)</p>
+<p></p>
+<p><strong>Nagomi Art &amp; Eco-Upcycle Interest Group by PAssion Wave @ Jurong Lake Gardens</strong>
+</p>
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
 <p><strong>Time</strong>:</p>
-<p>Eco-Upcycling Session: 9am to 12pm
-<br>Nagomi Art Session: 1pm to 5pm</p>
+<p>Eco-Upcycling Session: 9am – 12pm
+<br>Nagomi Art Session: 1pm – 5pm</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Nagomi Art<br>&nbsp;</strong>
@@ -152,12 +157,15 @@ for crafting and upcycling.</p>
 <summary><strong>Meet the Composting Heroes by Majulah Green</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)</p>
-<p><strong>Time</strong>: 9:30 am onwards (final session at 5:50pm)</p>
+<p></p>
+<p><strong>Meet the Composting Heroes by Majulah Green</strong>
+</p>
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
+<p><strong>Time</strong>: 9am – 6pm (final session at 5:50pm)</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p>This is a&nbsp;<strong>15-minute interactive micro-show</strong>, happening&nbsp;<strong>every 40 minutes from 9am to 6pm</strong>.
-It’s designed for walk-in visitors of all ages to enjoy a fun and educational
+<p>This is a&nbsp;<strong>15-minute interactive micro-show</strong>, happening&nbsp;<strong>every 40 minutes.</strong> It’s
+designed for walk-in visitors of all ages to enjoy a fun and educational
 hands-on introduction to composting through the fascinating world of worms.</p>
 <p>&nbsp;</p>
 <p>The show features the&nbsp;<strong>African Night Crawlers (ANCs)</strong>&nbsp;composting
@@ -180,9 +188,6 @@ known as&nbsp;<em>farmer’s gold</em>.</p>
 <p>Understand the role of worm castings in soil and plant health</p>
 </li>
 <li>
-<p>Enjoy short, fun educational slides (if screen is available)</p>
-</li>
-<li>
 <p>Pick up simple composting tips for home and garden use</p>
 </li>
 </ul>
@@ -195,9 +200,10 @@ known as&nbsp;<em>farmer’s gold</em>.</p>
 <summary><strong>Water Marbling by Co:Creation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>Dancing Colours on Water</strong>
 </p>
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)</p>
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
 <p><strong>Time</strong>: 10am onwards</p>
 <p></p>
 <p><strong>Create stunning patterns inspired by nature</strong>
@@ -233,7 +239,10 @@ by the natural forms- ripples in water, leaf veins, and flower petals</p>
 <summary><strong>MOLLY Mobile Library by National Library Board</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)</p>
+<p></p>
+<p><strong>MOLLY Mobile Library by National Library Board</strong>
+</p>
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
 <p><strong>Time</strong>: 10am – 5pm</p>
 <p>&nbsp;</p>
 <p>All aboard MOLLY — the National Library Board’s magical Mobile Library!
@@ -247,6 +256,9 @@ Get ready to discover the world of knowledge for the whole family!</p>
 <summary><strong>Roving Art Studio by National Gallery Singapore</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Roving Art Studio by National Gallery Singapore</strong>
+</p>
 <p><strong>Date</strong>: 12 Jul (Sat)</p>
 <p><strong>Time</strong>: 9am – 2pm</p>
 <p>&nbsp;</p>
@@ -268,8 +280,11 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 <summary><strong>Zumba Activity by PAssion Wave @ Jurong Lake Gardens</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)</p>
-<p><strong>Time</strong>: 9am onwards</p>
+<p></p>
+<p><strong>Zumba Activity by PAssion Wave @ Jurong Lake Gardens</strong>
+</p>
+<p><strong>Date</strong>: 12 July (Sat)</p>
+<p><strong>Time</strong>: 9am – 10am</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -288,6 +303,10 @@ Gallery (Level 2).</p>
 <p>Add more rhythm to your fitness regime by joining our exhilarating Zumba®
 Fitness programme. Set against fast-paced Latin music, this is your chance
 to get together with others and dance your way to greater health and fitness.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Zumba.jpg">
+</div>
 </div>
 </details>
 </div>
@@ -297,9 +316,12 @@ to get together with others and dance your way to greater health and fitness.</p
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP</strong>
+<summary><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP™</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP™</strong>
+</p>
 <p><strong>Date</strong>: 12 July (Sat)</p>
 <p><strong>Time</strong>:
 <br>(Session 1) 10.30am – 11.30am</p>
@@ -332,6 +354,9 @@ we build together!</p>
 <summary><strong>Tote Bag Stamping Workshop by Dot Parade</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Tote Bag Stamping Workshop by Dot Parade</strong>
+</p>
 <p><strong>Date</strong>: 12 July (Sat)</p>
 <p><strong>Time</strong>: 2pm – 3pm</p>
 <p><strong>&nbsp;</strong>
@@ -354,9 +379,12 @@ are exclusive to Jurong Lake Gardens!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Preserved Moss Art Workshop by Terrapy SG [FULLY SUBSCRIBED]</strong>
+<summary><strong>Preserved Moss Art Workshop by Terrapy SG <sup>[FULLY SUBSCRIBED]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Preserved Moss Art Workshop by Terrapy SG <sup>[FULLY SUBSCRIBED]</sup></strong>
+</p>
 <p><strong>Date: </strong>12 July (Sat)</p>
 <p><strong>Time: </strong>4pm – 5.30pm</p>
 <p>&nbsp;</p>
@@ -383,6 +411,9 @@ perfect complement to any space that values wellbeing and creativity.</p>
 <summary><strong>Cyanotype Printing Workshop by Co:Creation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Cyanotype Printing Workshop by Co:Creation</strong>
+</p>
 <p><strong>Date: </strong>13 July (Sun)</p>
 <p><strong>Time: </strong>9.30am – 11.30am</p>
 <p><strong>&nbsp;</strong>
@@ -435,6 +466,9 @@ engage in a Q&amp;A session to gain insights and connect with fellow participant
 <summary><strong>Beyond the Surface: Frottage and Collage Workshop by Co:Creation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Beyond the Surface: Frottage and Collage Workshop by Co:Creation</strong>
+</p>
 <p><strong>Date: </strong>13 July (Sun)</p>
 <p><strong>Time: </strong>12pm – 2pm<strong> </strong>&nbsp;</p>
 <p>&nbsp;</p>
@@ -485,8 +519,11 @@ of textures.</p>
 <summary><strong>Breathe and Colour: A Mindful Art Workshop by BitterGod Art</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Breathe and Colour: A Mindful Art Workshop by BitterGod Art</strong>
+</p>
 <p><strong>Date</strong>: 13 July (Sun)</p>
-<p><strong>Time</strong>: 2.30pm - 4pm</p>
+<p><strong>Time</strong>: 2.30pm – 4pm</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>The workshop is open to adults and children aged 6 and above.</p>
@@ -510,8 +547,11 @@ through prompts.</p>
 <summary><strong>Snake and the Banyan Tree: A Drama Workshop by Act 3</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Snake and the Banyan Tree: A Drama Workshop by Act 3</strong>
+</p>
 <p><strong>Date</strong>: 13 July (Sun)</p>
-<p><strong>Time</strong>: 4:30pm - 5:30pm</p>
+<p><strong>Time</strong>: 4:30pm – 5:30pm</p>
 <p>&nbsp;</p>
 <p>This workshop is open to children between the ages of 4 and 8.</p>
 <p>Register <a href="https://go.gov.sg/heart25-drama" rel="noopener nofollow" target="_blank">here</a>.</p>
@@ -551,6 +591,9 @@ setting.</p>
 <summary><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration</strong>
+</p>
 <p><strong>Date</strong>: 12 July (Sat)</p>
 <p><strong>Time</strong>: 10am – 12pm</p>
 <p><strong>Venue</strong>: Kitchen Garden at Chinese Garden</p>
@@ -582,6 +625,9 @@ a dish full of bold flavours and cultural tradition!</p>
 <summary><strong>Guided Tour of Chinese Garden</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Guided Tour of Chinese Garden</strong>
+</p>
 <p><strong>Date</strong>: 13 July (Sun)&nbsp;</p>
 <p><strong>Time</strong>: 9am – 10.30am&nbsp;</p>
 <p><strong>Meeting point</strong>: Entrance Pavilion @ North Carpark, Jurong
@@ -603,8 +649,11 @@ vibrant flora, and traditional architectural marvels. &nbsp;</p>
 <summary><strong>Guided Tour of Japanese Garden</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Guided Tour of Japanese Garden</strong>
+</p>
 <p><strong>Date</strong>: 13 July (Sun)&nbsp;</p>
-<p><strong>Time</strong>: 9am - 10.30am</p>
+<p><strong>Time</strong>: 9am – 10.30am</p>
 <p><strong>Meeting point</strong>: Outside Mempat Hall @ Gardenhouse, Jurong
 Lake Gardens [Click <a href="https://file.go.gov.sg/ghll.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for a photo of the meeting
 point]</p>
@@ -629,7 +678,9 @@ vibrant flora, and enjoy a peaceful retreat.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)</p>
+<p><strong>Water Activities Try-out!</strong>
+</p>
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
 <p><strong>Time</strong>:
 <br>(Session 1) 2pm – 3pm</p>
 <p>(Session 2) 3pm – 4pm</p>
@@ -640,8 +691,8 @@ at Lakeside Field)</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>Register for your preferred time slot at the PAssion Wave booth at Lakeside
-Field in the morning.</p>
-<p>&nbsp;Limited slots are available on a first-come-first-served basis.</p>
+Field in the morning. Limited slots are available on a first-come-first-served
+basis.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Kayaking.png">
 </div>
