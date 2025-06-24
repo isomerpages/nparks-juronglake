@@ -60,7 +60,7 @@ activities we have in store for you!</p>
 <li>
 <p>In the event of rain, the bouncy castles will be closed.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/NFF_Expo_Day_4_117.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/NFF_Expo_Day_4_117.jpg">
 </div>
 <p></p>
 <p><strong><u>Game Sets</u></strong>&nbsp;</p>
@@ -233,6 +233,10 @@ clarity through creative expression.</p>
 by the natural forms- ripples in water, leaf veins, and flower petals</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/2.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
@@ -307,6 +311,35 @@ to get together with others and dance your way to greater health and fitness.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Zumba.jpg">
 </div>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Kayak and Pedal Boat Try-outs at PAssion Wave @ Jurong Lake Gardens</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Water Activities Try-out!</strong>
+</p>
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
+<p><strong>Time</strong>:
+<br>(Session 1) 2pm – 3pm</p>
+<p>(Session 2) 3pm – 4pm</p>
+<p>(Session 3) 4pm – 5pm</p>
+<p><strong>Location</strong>: PAssion Wave @ Jurong Lake Gardens (register
+at Lakeside Field)</p>
+<p>In the event of heavy rain, this event will be cancelled.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Register for your preferred time slot at the PAssion Wave booth at Lakeside
+Field in the morning. Limited slots are available on a first-come-first-served
+basis.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Kayaking.png">
+</div>
+<p></p>
+<p>Experience the fun of the double-seated open deck kayaking&nbsp;and pedal
+boating while taking in the scenic views of Jurong Lake Gardens.</p>
 </div>
 </details>
 </div>
@@ -670,38 +703,6 @@ vibrant flora, and enjoy a peaceful retreat.</p>
 </div>
 </details>
 </div>
-<p><strong><u>GET ACTIVE WITH PASSIONWAVE @ JURONG LAKE GARDENS!&nbsp;</u></strong>
-</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Kayak and Pedal Boat Try-outs at PAssion Wave @ Jurong Lake Gardens</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Water Activities Try-out!</strong>
-</p>
-<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
-<p><strong>Time</strong>:
-<br>(Session 1) 2pm – 3pm</p>
-<p>(Session 2) 3pm – 4pm</p>
-<p>(Session 3) 4pm – 5pm</p>
-<p><strong>Location</strong>: PAssion Wave @ Jurong Lake Gardens (register
-at Lakeside Field)</p>
-<p>In the event of heavy rain, this event will be cancelled.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Register for your preferred time slot at the PAssion Wave booth at Lakeside
-Field in the morning. Limited slots are available on a first-come-first-served
-basis.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Kayaking.png">
-</div>
-<p>Experience the fun of the double-seated open deck kayaking&nbsp;and pedal
-boating while taking in the scenic views of Jurong Lake Gardens.</p>
-</div>
-</details>
-</div>
-<p></p>
 <h4><strong>Questions?</strong></h4>
 <p>Read our Frequently Asked Questions <a href="/files/heART_2025_FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
