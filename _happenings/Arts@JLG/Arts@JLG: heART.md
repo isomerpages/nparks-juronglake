@@ -269,7 +269,7 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date</strong>: 12 to 13 July (Sat to Sun)</p>
-<p><strong>Time</strong>: 9am onwards</p>
+<p><strong>Time</strong>: 9am – 10am</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -288,6 +288,10 @@ Gallery (Level 2).</p>
 <p>Add more rhythm to your fitness regime by joining our exhilarating Zumba®
 Fitness programme. Set against fast-paced Latin music, this is your chance
 to get together with others and dance your way to greater health and fitness.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Zumba.jpg">
+</div>
 </div>
 </details>
 </div>
