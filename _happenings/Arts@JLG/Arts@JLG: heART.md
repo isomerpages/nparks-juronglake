@@ -44,9 +44,10 @@ Culture Nodes Network.</p>
 <summary><strong>National Family Festival 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>Let’s Celebrate National Family Festival!</strong>
 </p>
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)
 <br><strong>Time</strong>: 9am onwards</p>
 <p>In support of the National Family Festival, check out some of the fun
 activities we have in store for you!</p>
@@ -93,9 +94,10 @@ for your family members!</p>
 <summary><strong>Project Blue Wave Booth by PAssion Wave @ Jurong Lake Gardens</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>Learn about Project Blue Wave!</strong>
 </p>
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)</p>
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
 <p><strong>Time</strong>: 9am onwards</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Project_Blue_Wave.png">
@@ -111,10 +113,10 @@ whilst having fun at it.</p>
 <summary><strong>Nagomi Art &amp; Eco-Upcycle Interest Group by PAssion Wave @ Jurong Lake Gardens</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)</p>
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
 <p><strong>Time</strong>:</p>
-<p>Eco-Upcycling Session: 9am to 12pm
-<br>Nagomi Art Session: 1pm to 5pm</p>
+<p>Eco-Upcycling Session: 9am – 12pm
+<br>Nagomi Art Session: 1pm – 5pm</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Nagomi Art<br>&nbsp;</strong>
@@ -152,8 +154,8 @@ for crafting and upcycling.</p>
 <summary><strong>Meet the Composting Heroes by Majulah Green</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)</p>
-<p><strong>Time</strong>: 9:30 am onwards (final session at 5:50pm)</p>
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
+<p><strong>Time</strong>: 9am – 6pm (final session at 5:50pm)</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>This is a&nbsp;<strong>15-minute interactive micro-show</strong>, happening&nbsp;<strong>every 40 minutes from 9am to 6pm</strong>.
@@ -197,7 +199,7 @@ known as&nbsp;<em>farmer’s gold</em>.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Dancing Colours on Water</strong>
 </p>
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)</p>
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
 <p><strong>Time</strong>: 10am onwards</p>
 <p></p>
 <p><strong>Create stunning patterns inspired by nature</strong>
@@ -233,7 +235,7 @@ by the natural forms- ripples in water, leaf veins, and flower petals</p>
 <summary><strong>MOLLY Mobile Library by National Library Board</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)</p>
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
 <p><strong>Time</strong>: 10am – 5pm</p>
 <p>&nbsp;</p>
 <p>All aboard MOLLY — the National Library Board’s magical Mobile Library!
@@ -268,7 +270,7 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 <summary><strong>Zumba Activity by PAssion Wave @ Jurong Lake Gardens</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)</p>
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
 <p><strong>Time</strong>: 9am – 10am</p>
 <p></p>
 <ul data-tight="true" class="tight">
