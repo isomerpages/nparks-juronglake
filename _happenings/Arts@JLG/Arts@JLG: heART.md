@@ -379,7 +379,7 @@ are exclusive to Jurong Lake Gardens!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Preserved Moss Art Workshop by Terrapy SG</strong>
+<summary><strong>Preserved Moss Art Workshop by Terrapy SG <sup>[FULLY SUBSCRIBED]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
