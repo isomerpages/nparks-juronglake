@@ -316,9 +316,12 @@ to get together with others and dance your way to greater health and fitness.</p
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP</strong>
+<summary><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP™</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP™</strong>
+</p>
 <p><strong>Date</strong>: 12 July (Sat)</p>
 <p><strong>Time</strong>:
 <br>(Session 1) 10.30am – 11.30am</p>
@@ -351,6 +354,9 @@ we build together!</p>
 <summary><strong>Tote Bag Stamping Workshop by Dot Parade</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Tote Bag Stamping Workshop by Dot Parade</strong>
+</p>
 <p><strong>Date</strong>: 12 July (Sat)</p>
 <p><strong>Time</strong>: 2pm – 3pm</p>
 <p><strong>&nbsp;</strong>
@@ -373,9 +379,12 @@ are exclusive to Jurong Lake Gardens!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Preserved Moss Art Workshop by Terrapy SG [FULLY SUBSCRIBED]</strong>
+<summary><strong>Preserved Moss Art Workshop by Terrapy SG</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Preserved Moss Art Workshop by Terrapy SG <sup>[FULLY SUBSCRIBED]</sup></strong>
+</p>
 <p><strong>Date: </strong>12 July (Sat)</p>
 <p><strong>Time: </strong>4pm – 5.30pm</p>
 <p>&nbsp;</p>
@@ -402,6 +411,9 @@ perfect complement to any space that values wellbeing and creativity.</p>
 <summary><strong>Cyanotype Printing Workshop by Co:Creation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Cyanotype Printing Workshop by Co:Creation</strong>
+</p>
 <p><strong>Date: </strong>13 July (Sun)</p>
 <p><strong>Time: </strong>9.30am – 11.30am</p>
 <p><strong>&nbsp;</strong>
@@ -454,6 +466,9 @@ engage in a Q&amp;A session to gain insights and connect with fellow participant
 <summary><strong>Beyond the Surface: Frottage and Collage Workshop by Co:Creation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Beyond the Surface: Frottage and Collage Workshop by Co:Creation</strong>
+</p>
 <p><strong>Date: </strong>13 July (Sun)</p>
 <p><strong>Time: </strong>12pm – 2pm<strong> </strong>&nbsp;</p>
 <p>&nbsp;</p>
@@ -504,6 +519,9 @@ of textures.</p>
 <summary><strong>Breathe and Colour: A Mindful Art Workshop by BitterGod Art</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Breathe and Colour: A Mindful Art Workshop by BitterGod Art</strong>
+</p>
 <p><strong>Date</strong>: 13 July (Sun)</p>
 <p><strong>Time</strong>: 2.30pm – 4pm</p>
 <p><strong>&nbsp;</strong>
@@ -529,6 +547,9 @@ through prompts.</p>
 <summary><strong>Snake and the Banyan Tree: A Drama Workshop by Act 3</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Snake and the Banyan Tree: A Drama Workshop by Act 3</strong>
+</p>
 <p><strong>Date</strong>: 13 July (Sun)</p>
 <p><strong>Time</strong>: 4:30pm – 5:30pm</p>
 <p>&nbsp;</p>
@@ -570,6 +591,9 @@ setting.</p>
 <summary><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration</strong>
+</p>
 <p><strong>Date</strong>: 12 July (Sat)</p>
 <p><strong>Time</strong>: 10am – 12pm</p>
 <p><strong>Venue</strong>: Kitchen Garden at Chinese Garden</p>
@@ -601,6 +625,9 @@ a dish full of bold flavours and cultural tradition!</p>
 <summary><strong>Guided Tour of Chinese Garden</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Guided Tour of Chinese Garden</strong>
+</p>
 <p><strong>Date</strong>: 13 July (Sun)&nbsp;</p>
 <p><strong>Time</strong>: 9am – 10.30am&nbsp;</p>
 <p><strong>Meeting point</strong>: Entrance Pavilion @ North Carpark, Jurong
@@ -622,6 +649,9 @@ vibrant flora, and traditional architectural marvels. &nbsp;</p>
 <summary><strong>Guided Tour of Japanese Garden</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Guided Tour of Japanese Garden</strong>
+</p>
 <p><strong>Date</strong>: 13 July (Sun)&nbsp;</p>
 <p><strong>Time</strong>: 9am – 10.30am</p>
 <p><strong>Meeting point</strong>: Outside Mempat Hall @ Gardenhouse, Jurong
@@ -648,6 +678,8 @@ vibrant flora, and enjoy a peaceful retreat.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong>Water Activities Try-out!</strong>
+</p>
 <p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
 <p><strong>Time</strong>:
 <br>(Session 1) 2pm – 3pm</p>
