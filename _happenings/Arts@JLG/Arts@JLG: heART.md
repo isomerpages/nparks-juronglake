@@ -346,6 +346,38 @@ basis.</p>
 boating while taking in the scenic views of Jurong Lake Gardens.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>HIIT Activity by PAssion Wave @ Jurong Lake Gardens</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>HIIT Activity by PAssion Wave @ Jurong Lake Gardens</strong>
+</p>
+<p><strong>Date</strong>: 13 July (Sun)</p>
+<p><strong>Time</strong>: 9am – 10am</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sessions are free and open to public walk-ins</p>
+</li>
+<li>
+<p>No registration required</p>
+</li>
+<li>
+<p>This workout session will be conducted on <strong>Lakeside Field</strong>.
+In the event of heavy rain, it will be shifted to PAssion Wave Viewing
+Gallery (Level 2).</p>
+</li>
+</ul>
+<p></p>
+<p>Ready to kickstart your fitness journey? Join our beginner-friendly HIIT
+program designed for ages 13–60! We’ll walk you through a simple workouts
+that can fit into your daily routine. No experience needed—just bring your
+energy and we’ll take care of the rest!
+<br>
+</p>
+</div>
+</details>
 </div>
 <p></p>
 <h4><strong>Registered Activities</strong></h4>
@@ -625,6 +657,47 @@ setting.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Art Therapy Nature Walk by The Red Pencil</strong>&nbsp;<strong> </strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Art Therapy Nature Walk by The Red Pencil</strong>&nbsp;</p>
+<p>Date: 12 July (Sat)&nbsp;</p>
+<p>Time: 9am – 11am&nbsp;</p>
+<p>Register here: <a href="https://go.gov.sg/heart25-naturewalk" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-naturewalk</a>&nbsp;</p>
+<p>Meeting point: Lakeside Field, Jurong Lake Gardens&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/artmaking_2_1.jpg">
+</div>
+<p>&nbsp;</p>
+<p>The workshop is open to adults and children aged 3 and above.&nbsp;</p>
+<p>Harnessing the inherent therapeutic qualities of both nature and creative
+expression, this nature-based workshop is designed to encourage mindfulness,
+self-reflection and appreciation for oneself through nature &amp; art.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Led by experienced art therapists, participants will journey through mindful
+grounding exercises, engage in a sensory-rich nature walk, and create personal
+artwork using gathered natural materials. The session concludes with a
+sharing circle, offering a space for reflection and connection. Designed
+to be inclusive and accessible, this workshop is suitable for participants
+of all ages and backgrounds, offering a restorative and enriching experience
+for anyone seeking to slow down, recharge, and rediscover their connection
+to both nature and art.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Workshop Objectives:</strong>&nbsp;</p>
+<p>1. Relieve stress and enhance grounding through mindfulness practice that
+reconnect participants with nature and senses.&nbsp;&nbsp;</p>
+<p>2. Cultivate compassion for self and the nature through guided reflections
+that nurture emotional awareness, empathy, and a sense of interconnectedness
+with Mother Nature.&nbsp;&nbsp;</p>
+<p>3. Inspire the development of sustainable self-care practices by encouraging
+participants to integrate mindful, nature-based rituals into daily lives
+for long-term well-being.&nbsp;&nbsp;</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -656,6 +729,7 @@ hearty, colourful Filipino vegetable stew. We will be cooking with freshly
 harvested squash, eggplant, okra, and long beans, all simmered in a rich,
 savoury broth flavoured with fermented shrimp paste (called bagoong). It’s
 a dish full of bold flavours and cultural tradition!</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -665,6 +739,7 @@ a dish full of bold flavours and cultural tradition!</p>
 <p></p>
 <p><strong>Guided Tour of Chinese Garden</strong>
 </p>
+<p></p>
 <p><strong>Date</strong>: 13 July (Sun)&nbsp;</p>
 <p><strong>Time</strong>: 9am – 10.30am&nbsp;</p>
 <p><strong>Meeting point</strong>: Entrance Pavilion @ North Carpark, Jurong
@@ -680,6 +755,7 @@ vibrant flora, and traditional architectural marvels. &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guided Tour/Guided_Tour_CG_.jpg">
 </div>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -704,6 +780,7 @@ vibrant flora, and enjoy a peaceful retreat.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guided Tour/Guided_Tour_JG.jpg">
 </div>
+<p></p>
 </div>
 </details>
 </div>
