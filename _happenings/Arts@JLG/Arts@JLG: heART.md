@@ -347,11 +347,11 @@ boating while taking in the scenic views of Jurong Lake Gardens.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>HIIT Activity by PAssion Wave @ Jurong Lake Gardens</strong>
+<summary><strong>HIIT Workout by PAssion Wave @ Jurong Lake Gardens</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>HIIT Activity by PAssion Wave @ Jurong Lake Gardens</strong>
+<p><strong>HIIT Workout by PAssion Wave @ Jurong Lake Gardens</strong>
 </p>
 <p><strong>Date</strong>: 13 July (Sun)</p>
 <p><strong>Time</strong>: 9am – 10am</p>
@@ -381,6 +381,52 @@ energy and we’ll take care of the rest!</p>
 <p>
 <br>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Singapore Association for Mental Health</strong>&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Singapore Association for Mental Health</strong>&nbsp;</p>
+<p></p>
+<p>Come discover SAMH's inspiring work in mental wellness! Since 1968, the
+Singapore Association for Mental Health has been empowering individuals
+through creative, psychosocial and vocational programmes.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>At our Mindset Learning Hub, we support persons-in-recovery through employability
+training in areas like F&amp;B, retail, and administrative work, while
+nurturing their creative expression through handcrafted merchandise. At
+Activity Hub @ Pelangi Village, residents engage in therapy, social work,
+and vocational programmes, creating artwork that reflects their personal
+journeys of resilience and hope.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Visit our booth to learn more about our initiatives and browse through
+handcrafted items that tell meaningful stories of recovery. Your support
+makes a difference in fostering mental wellness and social inclusion in
+our community.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Marketplace</strong>&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Marketplace</strong>&nbsp;</p>
+<p></p>
+<p>Date: 12 to 13 July (Sat to Sun)&nbsp;</p>
+<p>Time: 10am onwards&nbsp;</p>
+<p>&nbsp;</p>
+<p>Discover a curated selection of local artisanal goods, handcrafted items,
+and delectable treats at our vibrant marketplace. From sustainable lifestyle
+products to unique art pieces and gourmet delights, our vendors offer thoughtfully
+crafted items that celebrate creativity and conscious living.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Look Out For: Heartfelt handcrafted treasures from SAMH Mindset Learning
+Hub and SAMH Activity Hub @ Pelangi Village! Browse through a meaningful
+collection of crochet bags, canvas art, handmade accessories, and lifestyle
+gifts - each piece lovingly created by persons-in-recovery as part of their
+creative expression and recovery journey. Your support helps build confidence
+and foster social inclusion while promoting mental wellness awareness in
+our community.&nbsp;</p>
 </div>
 </details>
 </div>
