@@ -373,7 +373,12 @@ Gallery (Level 2).</p>
 <p>Ready to kickstart your fitness journey? Join our beginner-friendly HIIT
 program designed for ages 13–60! We’ll walk you through a simple workouts
 that can fit into your daily routine. No experience needed—just bring your
-energy and we’ll take care of the rest!
+energy and we’ll take care of the rest!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/HIIT.jpg">
+</div>
+<p>
 <br>
 </p>
 </div>
@@ -657,8 +662,7 @@ setting.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Art Therapy Nature Walk by The Red Pencil</strong>&nbsp;<strong> </strong>
-</summary>
+<summary><strong>Art Therapy Nature Walk by The Red Pencil</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Art Therapy Nature Walk by The Red Pencil</strong>&nbsp;</p>
