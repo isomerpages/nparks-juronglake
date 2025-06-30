@@ -471,18 +471,17 @@ we build together!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Tote Bag Stamping Workshop by Dot Parade</strong>
+<summary><strong>Tote Bag Stamping Workshop by Dot Parade <sup>[FULLY SUBSCRIBED]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Tote Bag Stamping Workshop by Dot Parade</strong>
+<p><strong>Tote Bag Stamping Workshop by Dot Parade <sup>[FULLY SUBSCRIBED]</sup></strong>
 </p>
 <p><strong>Date</strong>: 12 July (Sat)</p>
 <p><strong>Time</strong>: 2pm – 3pm</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>The workshop is open to adults and children aged between 5 to 12.</p>
-<p>Register <a href="https://go.gov.sg/heart25-totebag" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;</p>
 <p>Bring home your very own unique tote bag created using printmaking techniques!
 <br>
