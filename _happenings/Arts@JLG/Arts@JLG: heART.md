@@ -27,28 +27,26 @@ and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
 <p>This is a free-of-charge, pet-friendly and sheltered event. All programmes
 will proceed regardless of weather conditions, unless otherwise stated.</p>
 <p></p>
-<p><strong>Exclusive Goodie Bag from National Family Festival and NParks:</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/heART_Goodie_Bag.jpg">
-</div>
-<p><strong>I'm interested! How do I redeem a Goodie Bag?</strong>
-<br>1. Complete feedback form
-<br>2. Post a photo on IG/FB of them participating in the programmes and tag
-us @nparksbuzz
-<br>3. Follow NParks on IG/FB</p>
-<p></p>
-<ul>
+<h4><strong>Get Your Exclusive National Family Festival x NParks Goodie Bag!</strong></h4>
+<p>Complete these simple steps to redeem a special goodie bag filled with
+family-friendly items including a National Family Festival card game and
+picnic mat, as well as fun NParks activities and stickers:&nbsp;</p>
+<ol data-tight="true" class="tight">
 <li>
-<p>Goodie Bags are limited to 100 pieces per day.</p>
+<p>Share your feedback with us here: <a href="https://go.gov.sg/heart25-feedback" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-feedback</a>&nbsp;</p>
 </li>
 <li>
-<p>Visit our redemption booth at Lakeside Field and show us that you have
-completed the three tasks (indicated above) to redeem a Goodie Bag!</p>
+<p>Post a photo on Instagram or Facebook of your festival experience and
+tag @nparksbuzz&nbsp;</p>
 </li>
-</ul>
+<li>
+<p>Follow NParks on Instagram or Facebook&nbsp;</p>
+</li>
+</ol>
+<p>Visit the information booth at Lakeside Field to show us your completed
+tasks. Limited to first 100 bags daily, so don't miss out!&nbsp;</p>
 <p></p>
+<hr>
 <p></p>
 <p>Jurong Lake Gardens is part of the National Arts Council’s Arts &amp;
 Culture Nodes Network.</p>
