@@ -26,6 +26,30 @@ and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
 </p>
 <p>This is a free-of-charge, pet-friendly and sheltered event. All programmes
 will proceed regardless of weather conditions, unless otherwise stated.</p>
+<p></p>
+<p><strong>Exclusive Goodie Bag from National Family Festival and NParks:</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/heART_Goodie_Bag.jpg">
+</div>
+<p><strong>I'm interested! How do I redeem a Goodie Bag?</strong>
+<br>1. Complete feedback form
+<br>2. Post a photo on IG/FB of them participating in the programmes and tag
+us @nparksbuzz
+<br>3. Follow NParks on IG/FB</p>
+<p></p>
+<ul>
+<li>
+<p>Goodie Bags are limited to 100 pieces per day.</p>
+</li>
+<li>
+<p>Visit our redemption booth at Lakeside Field and show us that you have
+completed the three tasks (indicated above) to redeem a Goodie Bag!</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <p>Jurong Lake Gardens is part of the National Arts Council’s Arts &amp;
 Culture Nodes Network.</p>
 <p></p>
