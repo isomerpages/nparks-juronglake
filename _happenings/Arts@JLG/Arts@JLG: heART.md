@@ -7,7 +7,7 @@ third_nav_title: Arts@JLG
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/EDM.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/EDM_V5_shadow.png">
 </div>
 <h2><strong>Celebrating Wellness and Creativity in Nature</strong></h2>
 <p>Arts@JLG: heART&nbsp;is a 2-day event taking place on 12 and 13 July 2025
