@@ -187,7 +187,7 @@ for crafting and upcycling.</p>
 <p><strong>Meet the Composting Heroes by Majulah Green</strong>
 </p>
 <p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
-<p><strong>Time</strong>: 9am – 6pm (final session at 5:50pm)</p>
+<p><strong>Time</strong>: 9.30am – 6pm (final session at 5.50pm)</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>This is a&nbsp;<strong>15-minute interactive micro-show</strong>, happening&nbsp;<strong>every 40 minutes.</strong> It’s
