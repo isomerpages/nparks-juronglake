@@ -410,6 +410,8 @@ energy and we’ll take care of the rest!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Singapore Association for Mental Health</strong>&nbsp;</p>
+<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)&nbsp;</p>
+<p><strong>Time</strong>: 10am onwards&nbsp;</p>
 <p></p>
 <p>Come discover SAMH's inspiring work in mental wellness! Since 1968, the
 Singapore Association for Mental Health has been empowering individuals
@@ -434,8 +436,8 @@ our community.&nbsp;</p>
 <p></p>
 <p><strong>Marketplace</strong>&nbsp;</p>
 <p></p>
-<p>Date: 12 to 13 July (Sat to Sun)&nbsp;</p>
-<p>Time: 10am onwards&nbsp;</p>
+<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)&nbsp;</p>
+<p><strong>Time</strong>: 10am onwards&nbsp;</p>
 <p>&nbsp;</p>
 <p>Discover a curated selection of local artisanal goods, handcrafted items,
 and delectable treats at our vibrant marketplace. From sustainable lifestyle
