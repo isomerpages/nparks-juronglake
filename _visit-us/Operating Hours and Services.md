@@ -29,6 +29,10 @@ nighttime.</p>
 <p>Please note that Clusia Cove and Water Wall Court will be closed for maintenance
 until further notice. Thank you for your understanding.</p>
 </li>
+<li>
+<p>Please note that Forest Ramble Snake Play will be closed from 7th July
+2025 for maintenance works until further notice.</p>
+</li>
 </ol>
 </td>
 </tr>
@@ -367,6 +371,7 @@ and Cascade Pavilion.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
