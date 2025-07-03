@@ -8,6 +8,8 @@ third_nav_title: Fauna of Jurong Lake Gardens
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/yellow_barred_flutterer_banner.jpg">
 </div>
+<p><em>Photo: Yellow-barred Flutterer (Rhyothemis phyllis) (Credit: Ruth Tan)</em>
+</p>
 <p>Damselflies and dragonflies belong to the order <strong>Odonata</strong> and
 are known collectively as odonates. Adult odonates have many adaptations
 that make them great fliers and fierce predators of smaller insects, including
@@ -27,7 +29,7 @@ of each other, allowing them to move in many directions when flying; and</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/odonates.png">
 </div>
-<p><em>A Scarlet Grenadier (Lathrecista asiatica)&nbsp;dragonfly.&nbsp;Photo credit: Robin Ngiam, NParks Flora&amp;FaunaWeb.</em>
+<p><em>Photo: A Scarlet Grenadier dragonfly (Lathrecista asiatica)&nbsp;&nbsp;(Credit: Robin Ngiam, NParks Flora&amp;FaunaWeb)</em>
 </p>
 <p>They are also, in turn, important food sources for predators such as birds,
 spiders and frogs.</p>
@@ -40,7 +42,7 @@ to become adults.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/odonate_nymphs.png">
 </div>
-<p><em>Nymphs of the Common Bluetail damselfly (Ischnura senegalensis) and Common Flangetail dragonfly&nbsp;(Ictinogomphus decoratus).&nbsp;Photo credit: Robin Ngiam, NParks Flora&amp;FaunaWeb.</em>
+<p><em>Photo: Nymphs of the Common Bluetail damselfly (Ischnura senegalensis) and Common Flangetail dragonfly&nbsp;(Ictinogomphus decoratus) (Credit: Robin Ngiam, NParks Flora&amp;FaunaWeb)</em>
 </p>
 <p>Habitat enhancement efforts include incorporating spaces such as Neram
 Streams, a naturalised drainage system leading to Jurong Lake, in our parks
