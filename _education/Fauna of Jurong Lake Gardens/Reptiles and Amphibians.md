@@ -8,7 +8,7 @@ third_nav_title: Fauna of Jurong Lake Gardens
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/monitor_crop.jpg">
 </div>
-<p><em>Photo: Malayan Water Monitor (Credit: Ruth Tan)</em>
+<p><em>Photo: Malayan Water Monitor (Varanus salvator) (Credit: Ruth Tan)</em>
 </p>
 <p>Jurong Lake Gardens is home to a number of reptile and amphibian species.
 Both reptiles and amphibians are ectotherms, or cold-blooded, and rely
