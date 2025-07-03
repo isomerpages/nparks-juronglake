@@ -8,6 +8,8 @@ third_nav_title: Fauna of Jurong Lake Gardens
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/01_Jeremy_Yeo_Wei_Liang_cropped.jpg">
 </div>
+<p><em>Banner: Smooth-coated Otter (Lutrogale perspicillata) | Photo: Jeremy Yeo Wei Liang</em>
+</p>
 <p>Mammals are warm-blooded and often have hair on their bodies. They also
 produce milk to feed their young. The name “mammal” comes from the word
 “mammary” which is the gland that produces milk!</p>
@@ -398,6 +400,7 @@ natural food in our rainforests, which would also help our forests regenerate.</
 </details>
 </div>
 <p></p>
-<p><em>Banner: Smooth-coated Otter (Lutrogale perspicillata) <br>Photo: Jeremy Yeo Wei Liang</em>
-</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
