@@ -36,11 +36,10 @@ picnic mat, as well as fun NParks activities and stickers:&nbsp;</p>
 <p>Share your feedback with us here: <a href="https://go.gov.sg/heart25-feedback" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-feedback</a>&nbsp;</p>
 </li>
 <li>
-<p>Post a photo on Instagram or Facebook of your festival experience and
-tag @nparksbuzz&nbsp;</p>
+<p>Post a photo or story on your Instagram or Facebook of your festival experience</p>
 </li>
 <li>
-<p>Follow NParks on Instagram or Facebook&nbsp;</p>
+<p>Follow NParks on Instagram or Facebook&nbsp;at @nparksbuzz</p>
 </li>
 </ol>
 <p>Visit the information booth at Lakeside Field to show us your completed
