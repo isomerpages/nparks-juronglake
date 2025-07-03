@@ -7,6 +7,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guided Tour/JLG_Guided_Tours_montage.png">
 </div>
+<p>Guided tours at (L) Lakeside Garden, (C) Japanese Garden, (R) Chinese
+Garden</p>
 <h3><strong>Guided Tour Routes</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
