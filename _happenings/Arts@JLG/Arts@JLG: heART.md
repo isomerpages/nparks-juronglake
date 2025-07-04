@@ -66,7 +66,7 @@ Culture Nodes Network.</p>
 <h4><strong>Walk-in Activities</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>National Family Festival 2025</strong>
+<summary><strong>Bouncy Castles, Basketball &amp; Mini Golf by National Family Festival 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -265,6 +265,169 @@ by the natural forms- ripples in water, leaf veins, and flower petals</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary><strong>Clouds in the Sky by Wild Dot</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Clouds in the Sky by Wild Dot</strong>
+</p>
+<p><strong>Date</strong>: 13 July (Sun)</p>
+<p><strong>Time</strong>: 9am onwards</p>
+<p></p>
+<p>Stay tuned for more details!</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Singapore Association for Mental Health</strong>&nbsp;<strong>Booth</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Singapore Association for Mental Health</strong>&nbsp;</p>
+<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)&nbsp;</p>
+<p><strong>Time</strong>: 10am onwards&nbsp;</p>
+<p></p>
+<p>Come discover SAMH's inspiring work in mental wellness! Since 1968, the
+Singapore Association for Mental Health has been empowering individuals
+through creative, psychosocial and vocational programmes.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>At our Mindset Learning Hub, we support persons-in-recovery through employability
+training in areas like F&amp;B, retail, and administrative work, while
+nurturing their creative expression through handcrafted merchandise. At
+Activity Hub @ Pelangi Village, residents engage in therapy, social work,
+and vocational programmes, creating artwork that reflects their personal
+journeys of resilience and hope.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Visit our booth to learn more about our initiatives and browse through
+handcrafted items that tell meaningful stories of recovery. Your support
+makes a difference in fostering mental wellness and social inclusion in
+our community.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Lifestyle and F&amp;B Marketplace</strong>&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Marketplace</strong>&nbsp;</p>
+<p></p>
+<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)&nbsp;</p>
+<p><strong>Time</strong>: 10am onwards&nbsp;</p>
+<p>&nbsp;</p>
+<p>Discover a curated selection of local artisanal goods, handcrafted items,
+and delectable treats at our vibrant marketplace. From sustainable lifestyle
+products to unique art pieces and gourmet delights, our vendors offer thoughtfully
+crafted items that celebrate creativity and conscious living.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Look Out For: Heartfelt handcrafted treasures from SAMH Mindset Learning
+Hub and SAMH Activity Hub @ Pelangi Village! Browse through a meaningful
+collection of crochet bags, canvas art, handmade accessories, and lifestyle
+gifts - each piece lovingly created by persons-in-recovery as part of their
+creative expression and recovery journey. Your support helps build confidence
+and foster social inclusion while promoting mental wellness awareness in
+our community.&nbsp;</p>
+</div>
+</details>
+</div>
+<h4><strong>Fitness Activities</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Kayak and Pedal Boat Try-outs by PAssion Wave @ Jurong Lake Gardens</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Water Activities Try-out!</strong>
+</p>
+<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
+<p><strong>Time</strong>:
+<br>(Session 1) 2pm – 3pm</p>
+<p>(Session 2) 3pm – 4pm</p>
+<p>(Session 3) 4pm – 5pm</p>
+<p><strong>Location</strong>: PAssion Wave @ Jurong Lake Gardens (register
+at Lakeside Field)</p>
+<p>In the event of heavy rain, this event will be cancelled.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Register for your preferred time slot at the PAssion Wave booth at Lakeside
+Field in the morning. Limited slots are available on a first-come-first-served
+basis.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Kayaking.png">
+</div>
+<p></p>
+<p>Experience the fun of the double-seated open deck kayaking&nbsp;and pedal
+boating while taking in the scenic views of Jurong Lake Gardens.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Zumba Activity by PAssion Wave @ Jurong Lake Gardens</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Zumba Activity by PAssion Wave @ Jurong Lake Gardens</strong>
+</p>
+<p><strong>Date</strong>: 12 July (Sat)</p>
+<p><strong>Time</strong>: 9am – 10am</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sessions are free and open to public walk-ins</p>
+</li>
+<li>
+<p>No registration required</p>
+</li>
+<li>
+<p>This workout session will be conducted on <strong>Lakeside Field</strong>.
+In the event of heavy rain, it will be shifted to PAssion Wave Viewing
+Gallery (Level 2).</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Add more rhythm to your fitness regime by joining our exhilarating Zumba®
+Fitness programme. Set against fast-paced Latin music, this is your chance
+to get together with others and dance your way to greater health and fitness.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Zumba.jpg">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>HIIT Workout by PAssion Wave @ Jurong Lake Gardens</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>HIIT Workout by PAssion Wave @ Jurong Lake Gardens</strong>
+</p>
+<p><strong>Date</strong>: 13 July (Sun)</p>
+<p><strong>Time</strong>: 9am – 10am</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sessions are free and open to public walk-ins</p>
+</li>
+<li>
+<p>No registration required</p>
+</li>
+<li>
+<p>This workout session will be conducted on <strong>Lakeside Field</strong>.
+In the event of heavy rain, it will be shifted to PAssion Wave Viewing
+Gallery (Level 2).</p>
+</li>
+</ul>
+<p></p>
+<p>Ready to kickstart your fitness journey? Join our beginner-friendly HIIT
+program designed for ages 13–60! We’ll walk you through a simple workouts
+that can fit into your daily routine. No experience needed—just bring your
+energy and we’ll take care of the rest!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/HIIT.jpg">
+</div>
+</div>
+</details>
+</div>
+<h4><strong>Mobile Trucks</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>MOLLY Mobile Library by National Library Board</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -305,155 +468,7 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 </div>
 </div>
 </details>
-<details class="isomer-details">
-<summary><strong>Zumba Activity by PAssion Wave @ Jurong Lake Gardens</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Zumba Activity by PAssion Wave @ Jurong Lake Gardens</strong>
-</p>
-<p><strong>Date</strong>: 12 July (Sat)</p>
-<p><strong>Time</strong>: 9am – 10am</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Sessions are free and open to public walk-ins</p>
-</li>
-<li>
-<p>No registration required</p>
-</li>
-<li>
-<p>This workout session will be conducted on <strong>Lakeside Field</strong>.
-In the event of heavy rain, it will be shifted to PAssion Wave Viewing
-Gallery (Level 2).</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-<p>Add more rhythm to your fitness regime by joining our exhilarating Zumba®
-Fitness programme. Set against fast-paced Latin music, this is your chance
-to get together with others and dance your way to greater health and fitness.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Zumba.jpg">
 </div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Kayak and Pedal Boat Try-outs at PAssion Wave @ Jurong Lake Gardens</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Water Activities Try-out!</strong>
-</p>
-<p><strong>Date</strong>: 12 – 13 July (Sat to Sun)</p>
-<p><strong>Time</strong>:
-<br>(Session 1) 2pm – 3pm</p>
-<p>(Session 2) 3pm – 4pm</p>
-<p>(Session 3) 4pm – 5pm</p>
-<p><strong>Location</strong>: PAssion Wave @ Jurong Lake Gardens (register
-at Lakeside Field)</p>
-<p>In the event of heavy rain, this event will be cancelled.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Register for your preferred time slot at the PAssion Wave booth at Lakeside
-Field in the morning. Limited slots are available on a first-come-first-served
-basis.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Kayaking.png">
-</div>
-<p></p>
-<p>Experience the fun of the double-seated open deck kayaking&nbsp;and pedal
-boating while taking in the scenic views of Jurong Lake Gardens.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>HIIT Workout by PAssion Wave @ Jurong Lake Gardens</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>HIIT Workout by PAssion Wave @ Jurong Lake Gardens</strong>
-</p>
-<p><strong>Date</strong>: 13 July (Sun)</p>
-<p><strong>Time</strong>: 9am – 10am</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Sessions are free and open to public walk-ins</p>
-</li>
-<li>
-<p>No registration required</p>
-</li>
-<li>
-<p>This workout session will be conducted on <strong>Lakeside Field</strong>.
-In the event of heavy rain, it will be shifted to PAssion Wave Viewing
-Gallery (Level 2).</p>
-</li>
-</ul>
-<p></p>
-<p>Ready to kickstart your fitness journey? Join our beginner-friendly HIIT
-program designed for ages 13–60! We’ll walk you through a simple workouts
-that can fit into your daily routine. No experience needed—just bring your
-energy and we’ll take care of the rest!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/HIIT.jpg">
-</div>
-<p>
-<br>
-</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Singapore Association for Mental Health</strong>&nbsp;</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Singapore Association for Mental Health</strong>&nbsp;</p>
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)&nbsp;</p>
-<p><strong>Time</strong>: 10am onwards&nbsp;</p>
-<p></p>
-<p>Come discover SAMH's inspiring work in mental wellness! Since 1968, the
-Singapore Association for Mental Health has been empowering individuals
-through creative, psychosocial and vocational programmes.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>At our Mindset Learning Hub, we support persons-in-recovery through employability
-training in areas like F&amp;B, retail, and administrative work, while
-nurturing their creative expression through handcrafted merchandise. At
-Activity Hub @ Pelangi Village, residents engage in therapy, social work,
-and vocational programmes, creating artwork that reflects their personal
-journeys of resilience and hope.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>Visit our booth to learn more about our initiatives and browse through
-handcrafted items that tell meaningful stories of recovery. Your support
-makes a difference in fostering mental wellness and social inclusion in
-our community.&nbsp;</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Marketplace</strong>&nbsp;</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Marketplace</strong>&nbsp;</p>
-<p></p>
-<p><strong>Date</strong>: 12 to 13 July (Sat to Sun)&nbsp;</p>
-<p><strong>Time</strong>: 10am onwards&nbsp;</p>
-<p>&nbsp;</p>
-<p>Discover a curated selection of local artisanal goods, handcrafted items,
-and delectable treats at our vibrant marketplace. From sustainable lifestyle
-products to unique art pieces and gourmet delights, our vendors offer thoughtfully
-crafted items that celebrate creativity and conscious living.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Look Out For: Heartfelt handcrafted treasures from SAMH Mindset Learning
-Hub and SAMH Activity Hub @ Pelangi Village! Browse through a meaningful
-collection of crochet bags, canvas art, handmade accessories, and lifestyle
-gifts - each piece lovingly created by persons-in-recovery as part of their
-creative expression and recovery journey. Your support helps build confidence
-and foster social inclusion while promoting mental wellness awareness in
-our community.&nbsp;</p>
-</div>
-</details>
-</div>
-<p></p>
 <h4><strong>Registered Activities</strong></h4>
 <p><strong><u>WORKSHOPS AT LAKESIDE GARDEN</u></strong>
 </p>
@@ -550,7 +565,7 @@ perfect complement to any space that values wellbeing and creativity.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Cyanotype Printing Workshop by Co:Creation</strong>
+<summary><strong>Cyanotype Printing Workshop by Co:Creation <sup>[LIMITED SLOTS LEFT!]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -685,7 +700,7 @@ through prompts.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Snake and the Banyan Tree: A Drama Workshop by Act 3</strong>
+<summary><strong>Snake and the Banyan Tree: A Drama Workshop by Act 3 <sup>[LIMITED SLOTS LEFT!]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -729,7 +744,8 @@ setting.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Art Therapy Nature Walk by The Red Pencil</strong>&nbsp;</summary>
+<summary><strong>Art Therapy Nature Walk by The Red Pencil&nbsp;</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Art Therapy Nature Walk by The Red Pencil</strong>&nbsp;</p>
@@ -769,7 +785,7 @@ for long-term well-being.&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration</strong>
+<summary><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration by NParks <sup>[LIMITED SLOTS LEFT!]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -804,7 +820,7 @@ a dish full of bold flavours and cultural tradition!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Guided Tour of Chinese Garden</strong>
+<summary><strong>Guided Tour of Chinese Garden by NParks</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -830,7 +846,7 @@ vibrant flora, and traditional architectural marvels. &nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Guided Tour of Japanese Garden</strong>
+<summary><strong>Guided Tour of Japanese Garden by NParks</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
