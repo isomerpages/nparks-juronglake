@@ -621,7 +621,7 @@ engage in a Q&amp;A session to gain insights and connect with fellow participant
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Beyond the Surface: Frottage and Collage Workshop by Co:Creation</strong>
+<summary><strong>Beyond the Surface: Frottage and Collage Workshop by Co:Creation <sup>[LIMITED SLOTS LEFT!]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
