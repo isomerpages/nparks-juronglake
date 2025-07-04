@@ -66,8 +66,8 @@ Culture Nodes Network.</p>
 <h4><strong>Walk-in Activities</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Bouncy Castles, Basketball &amp; Mini Golf </strong>by National
-Family Festival 2025</summary>
+<summary><strong>Bouncy Castles, Basketball &amp; Mini Golf by National Family Festival 2025</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Let’s Celebrate National Family Festival!</strong>
@@ -116,8 +116,8 @@ for your family members!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Project Blue Wave Booth </strong>by PAssion Wave @ Jurong Lake
-Gardens</summary>
+<summary><strong>Project Blue Wave Booth by PAssion Wave @ Jurong Lake Gardens</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Learn about Project Blue Wave!</strong>
@@ -135,8 +135,8 @@ whilst having fun at it.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Nagomi Art &amp; Eco-Upcycle Interest Group </strong>by PAssion
-Wave @ Jurong Lake Gardens</summary>
+<summary><strong>Nagomi Art &amp; Eco-Upcycle Interest Group by PAssion Wave @ Jurong Lake Gardens</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Nagomi Art &amp; Eco-Upcycle Interest Group by PAssion Wave @ Jurong Lake Gardens</strong>
@@ -179,7 +179,8 @@ for crafting and upcycling.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Meet the Composting Heroes </strong>by Majulah Green</summary>
+<summary><strong>Meet the Composting Heroes by Majulah Green</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Meet the Composting Heroes by Majulah Green</strong>
@@ -221,7 +222,8 @@ known as&nbsp;<em>farmer’s gold</em>.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Water Marbling </strong>by Co:Creation</summary>
+<summary><strong>Water Marbling by Co:Creation</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Dancing Colours on Water</strong>
@@ -263,7 +265,8 @@ by the natural forms- ripples in water, leaf veins, and flower petals</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Clouds in the Sky </strong>by Wild Dot</summary>
+<summary><strong>Clouds in the Sky by Wild Dot</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Clouds in the Sky by Wild Dot</strong>
@@ -327,8 +330,8 @@ our community.&nbsp;</p>
 <h4><strong>Fitness Activities</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Kayak and Pedal Boat Try-outs </strong>by PAssion Wave @ Jurong
-Lake Gardens</summary>
+<summary><strong>Kayak and Pedal Boat Try-outs by PAssion Wave @ Jurong Lake Gardens</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Water Activities Try-out!</strong>
@@ -356,7 +359,8 @@ boating while taking in the scenic views of Jurong Lake Gardens.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Zumba Activity </strong>by PAssion Wave @ Jurong Lake Gardens</summary>
+<summary><strong>Zumba Activity by PAssion Wave @ Jurong Lake Gardens</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Zumba Activity by PAssion Wave @ Jurong Lake Gardens</strong>
@@ -388,7 +392,8 @@ to get together with others and dance your way to greater health and fitness.</p
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>HIIT Workout </strong>by PAssion Wave @ Jurong Lake Gardens</summary>
+<summary><strong>HIIT Workout by PAssion Wave @ Jurong Lake Gardens</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>HIIT Workout by PAssion Wave @ Jurong Lake Gardens</strong>
@@ -423,7 +428,7 @@ energy and we’ll take care of the rest!</p>
 <h4><strong>Mobile Trucks</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>MOLLY Mobile Library<strong> </strong>
+<summary><strong>MOLLY Mobile Library by National Library Board</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -469,7 +474,8 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>The Time Travellers’ Guild: A Workshop </strong>by KidsSTOP™</summary>
+<summary><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP™</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP™</strong>
@@ -503,7 +509,7 @@ we build together!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Tote Bag Stamping Workshop </strong>by Dot Parade<strong> <sup>[FULLY SUBSCRIBED]</sup></strong>
+<summary><strong>Tote Bag Stamping Workshop by Dot Parade <sup>[FULLY SUBSCRIBED]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -530,7 +536,7 @@ are exclusive to Jurong Lake Gardens!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Preserved Moss Art Workshop </strong>by Terrapy SG <strong><sup>[FULLY SUBSCRIBED]</sup></strong>
+<summary><strong>Preserved Moss Art Workshop by Terrapy SG <sup>[FULLY SUBSCRIBED]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -559,7 +565,7 @@ perfect complement to any space that values wellbeing and creativity.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Cyanotype Printing Workshop </strong>by Co:Creation<strong> <sup>[LIMITED SLOTS LEFT!]</sup></strong>
+<summary><strong>Cyanotype Printing Workshop by Co:Creation <sup>[LIMITED SLOTS LEFT!]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -614,8 +620,8 @@ engage in a Q&amp;A session to gain insights and connect with fellow participant
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Beyond the Surface: Frottage and Collage Workshop </strong>by
-Co:Creation</summary>
+<summary><strong>Beyond the Surface: Frottage and Collage Workshop by Co:Creation</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Beyond the Surface: Frottage and Collage Workshop by Co:Creation</strong>
@@ -667,8 +673,7 @@ of textures.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Breathe and Colour: A Mindful Art Workshop </strong>by BitterGod
-Art<strong> <sup>[FULLY SUBSCRIBED]</sup></strong>
+<summary><strong>Breathe and Colour: A Mindful Art Workshop by BitterGod Art <sup>[FULLY SUBSCRIBED]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -695,7 +700,7 @@ through prompts.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Snake and the Banyan Tree: A Drama Workshop </strong>by Act 3<strong>  <sup>[LIMITED SLOTS LEFT!]</sup></strong>
+<summary><strong>Snake and the Banyan Tree: A Drama Workshop by Act 3 <sup>[LIMITED SLOTS LEFT!]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -739,7 +744,8 @@ setting.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Art Therapy Nature Walk </strong>by The Red Pencil&nbsp;</summary>
+<summary><strong>Art Therapy Nature Walk by The Red Pencil&nbsp;</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Art Therapy Nature Walk by The Red Pencil</strong>&nbsp;</p>
@@ -779,8 +785,7 @@ for long-term well-being.&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration </strong>by
-NParks<strong>  <sup>[LIMITED SLOTS LEFT!]</sup></strong>
+<summary><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration by NParks <sup>[LIMITED SLOTS LEFT!]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -815,7 +820,8 @@ a dish full of bold flavours and cultural tradition!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Guided Tour of Chinese Garden</strong> by NParks</summary>
+<summary><strong>Guided Tour of Chinese Garden by NParks</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Guided Tour of Chinese Garden</strong>
@@ -840,7 +846,8 @@ vibrant flora, and traditional architectural marvels. &nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Guided Tour of Japanese Garden</strong> by NParks</summary>
+<summary><strong>Guided Tour of Japanese Garden by NParks</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Guided Tour of Japanese Garden</strong>
