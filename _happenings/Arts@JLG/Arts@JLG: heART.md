@@ -658,7 +658,7 @@ of textures.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Breathe and Colour: A Mindful Art Workshop by BitterGod Art</strong>
+<summary><strong>Breathe and Colour: A Mindful Art Workshop by BitterGod Art <sup>[FULLY SUBSCRIBED]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -669,7 +669,6 @@ of textures.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>The workshop is open to adults and children aged 6 and above.</p>
-<p>Register <a href="https://go.gov.sg/heart25-bandc" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p>Join Beeli (aka. Bittergod Art), a Singapore artist, on a workshop to
 re-discover how mindful art can be used to reduce stress and enhance your
