@@ -275,6 +275,10 @@ by the natural forms- ripples in water, leaf veins, and flower petals</p>
 <p><strong>Date</strong>: 13 July (Sun)</p>
 <p><strong>Time</strong>: 9am onwards</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Screenshot_20250707_144829_Drive.jpg">
+</div>
+<p></p>
 <p>Stay tuned for more details!</p>
 </div>
 </details>
@@ -566,7 +570,7 @@ perfect complement to any space that values wellbeing and creativity.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Cyanotype Printing Workshop by Co:Creation <sup>[LIMITED SLOTS LEFT!]</sup></strong>
+<summary><strong>Cyanotype Printing Workshop by Co:Creation <sup>[FULLY SUBSCRIBED]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -577,7 +581,6 @@ perfect complement to any space that values wellbeing and creativity.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>The workshop is open to adults and children aged 5 and above.</p>
-<p>Register <a href="https://go.gov.sg/heart25-cyanotype" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p><strong>Create Art with Nature’s Touch</strong>
 </p>
@@ -621,7 +624,7 @@ engage in a Q&amp;A session to gain insights and connect with fellow participant
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Beyond the Surface: Frottage and Collage Workshop by Co:Creation <sup>[LIMITED SLOTS LEFT!]</sup></strong>
+<summary><strong>Beyond the Surface: Frottage and Collage Workshop by Co:Creation <sup>[FULLY SUBSCRIBED]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -631,7 +634,6 @@ engage in a Q&amp;A session to gain insights and connect with fellow participant
 <p><strong>Time: </strong>12pm – 2pm<strong> </strong>&nbsp;</p>
 <p>&nbsp;</p>
 <p>The workshop is open to adults and children aged 5 and above.</p>
-<p>Register <a href="https://go.gov.sg/heart25-beyondsurface" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/3.jpg">
