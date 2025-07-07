@@ -276,7 +276,7 @@ by the natural forms- ripples in water, leaf veins, and flower petals</p>
 <p><strong>Time</strong>: 9am onwards</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Screenshot_20250707_144829_Drive.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Screenshot_20250707_144829_Drive.jpg">
 </div>
 <p></p>
 <p>Stay tuned for more details!</p>
@@ -479,7 +479,7 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP™</strong>
+<summary><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP™ <sup>[LIMITED SLOTS LEFT!]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
