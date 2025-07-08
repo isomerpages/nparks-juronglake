@@ -718,7 +718,6 @@ through prompts.</p>
 <p><strong>Time</strong>: 4:30pm – 5:30pm</p>
 <p>&nbsp;</p>
 <p>This workshop is open to children between the ages of 4 and 8.</p>
-<p>Register <a href="https://go.gov.sg/heart25-drama" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/ACT3International__2_.jpg">
