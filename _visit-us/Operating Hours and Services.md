@@ -23,7 +23,11 @@ description: ""
 <p>Please note that the following nature areas are not lighted. For your
 own safety, please do not enter <strong>Grasslands </strong>and <strong>Neram Streams</strong> during
 nighttime.</p>
-<p></p>
+</li>
+<li>
+<p>Please note that Big Bowl Pod and Plaza Pod at the SkatePark @ Lakeside
+Garden will be closed for an event from 18 to 20 July 2025. Thank you for
+your understanding.</p>
 </li>
 <li>
 <p>Please note that Clusia Cove and Water Wall Court will be closed for maintenance
