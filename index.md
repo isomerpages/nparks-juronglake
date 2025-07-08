@@ -66,16 +66,18 @@ sections:
             NEA website or dial 6542 7788 for the weather forecast.
           link_text: Visit the NEA Website here
           link_url: https://www.weather.gov.sg/home/
-        - title: Notice of Closure (Clusia Cove)
+        - title: Notice of Closure (Clusia Cove and Water Wall Court)
           date: 06 June 2025
-          announcement: Please note that Clusia Cove will be closed for maintenance until
-            further notice. Thank you for your understanding.
+          announcement: Please note that Clusia Cove and Water Wall Court will be closed
+            for maintenance until further notice. Thank you for your
+            understanding.
           link_text: ""
           link_url: ""
-        - title: Notice of Closure (Water Wall Court)
+        - title: Notice of Closure (Big Bowl Pod and Plaza Pod)
           date: 06 June 2025
-          announcement: Please note that Water Wall Court will be closed for maintenance
-            until further notice. Thank you for your understanding.
+          announcement: Please note that Big Bowl Pod and Plaza Pod at the SkatePark @
+            Lakeside Garden will be closed for an event from 18 to 20 July 2025.
+            Thank you for your understanding.
           link_text: ""
           link_url: ""
         - title: Beware of Impersonation Scams
