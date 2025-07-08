@@ -708,7 +708,7 @@ through prompts.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Snake and the Banyan Tree: A Drama Workshop by Act 3 <sup>[LIMITED SLOTS LEFT!]</sup></strong>
+<summary><strong>Snake and the Banyan Tree: A Drama Workshop by Act 3 <sup>[FULLY SUBSCRIBED]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
