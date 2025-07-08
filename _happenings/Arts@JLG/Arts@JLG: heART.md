@@ -275,11 +275,16 @@ by the natural forms- ripples in water, leaf veins, and flower petals</p>
 <p><strong>Date</strong>: 13 July (Sun)</p>
 <p><strong>Time</strong>: 9am onwards</p>
 <p></p>
+<p>This participatory work "Clouds in the Sky" invites visitors to play,
+transform and reinterpret, through making foraged prints and the slow process
+of rejuvenating unrefined pottery clay into paint.</p>
+<p></p>
+<p>It is a gentle, open-ended invitation to consider how various forms and
+shapes encountered in the Garden might shift and take on new life from
+start to finish!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/Screenshot_20250707_144829_Drive.jpg">
 </div>
-<p></p>
-<p>Stay tuned for more details!</p>
 </div>
 </details>
 <details class="isomer-details">
