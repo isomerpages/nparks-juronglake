@@ -485,7 +485,7 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP™ <sup>[LIMITED SLOTS LEFT!]</sup></strong>
+<summary><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP™ <sup>[FULLY SUBSCRIBED]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -497,7 +497,6 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 <p>(Session 2) 12pm – 1pm</p>
 <p>&nbsp;</p>
 <p>The workshop is open to children between the ages of 4 and 8.</p>
-<p>Register <a href="https://form.gov.sg/6846806de40c6da8c44f6b46" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/The_Time_Travellers__Guild_Workshop_IG_NParks.jpg">
