@@ -790,7 +790,7 @@ for long-term well-being.&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration by NParks <sup>[LIMITED SLOTS LEFT!]</sup></strong>
+<summary><strong>Kitchens Around the World: Garden Tour &amp; Cooking Demonstration by NParks <sup>[FULLY SUBSCRIBED]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -801,7 +801,6 @@ for long-term well-being.&nbsp;&nbsp;</p>
 <p><strong>Venue</strong>: Kitchen Garden at Chinese Garden</p>
 <p>&nbsp;</p>
 <p>The workshop is open to adults and children aged 12 and above.</p>
-<p>Register <a href="https://go.gov.sg/heart25-pinakbet" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;</p>
 <p><strong>First Stop: The Philippines!</strong>
 </p>
