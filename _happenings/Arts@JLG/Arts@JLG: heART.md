@@ -369,11 +369,11 @@ boating while taking in the scenic views of Jurong Lake Gardens.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Zumba Activity by PAssion Wave @ Jurong Lake Gardens</strong>
+<summary><strong>Zumba® Activity by PAssion Wave @ Jurong Lake Gardens</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Zumba Activity by PAssion Wave @ Jurong Lake Gardens</strong>
+<p><strong>Zumba® Activity by PAssion Wave @ Jurong Lake Gardens</strong>
 </p>
 <p><strong>Date</strong>: 12 July (Sat)</p>
 <p><strong>Time</strong>: 9am – 10am</p>
