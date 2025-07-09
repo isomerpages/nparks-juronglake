@@ -429,6 +429,7 @@ Gallery (Level 2).</p>
 program designed for ages 13–60! We’ll walk you through a simple workouts
 that can fit into your daily routine. No experience needed—just bring your
 energy and we’ll take care of the rest!</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/HIIT.jpg">
 </div>
@@ -484,7 +485,7 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP™ <sup>[LIMITED SLOTS LEFT!]</sup></strong>
+<summary><strong>The Time Travellers’ Guild: A Workshop by KidsSTOP™ <sup>[FULLY SUBSCRIBED]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -496,7 +497,6 @@ nature-inspired motifs before adding colors, just like in real batik art.</p>
 <p>(Session 2) 12pm – 1pm</p>
 <p>&nbsp;</p>
 <p>The workshop is open to children between the ages of 4 and 8.</p>
-<p>Register <a href="https://form.gov.sg/6846806de40c6da8c44f6b46" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/The_Time_Travellers__Guild_Workshop_IG_NParks.jpg">
@@ -639,14 +639,9 @@ engage in a Q&amp;A session to gain insights and connect with fellow participant
 <p><strong>Time: </strong>12pm – 2pm<strong> </strong>&nbsp;</p>
 <p>&nbsp;</p>
 <p>The workshop is open to adults and children aged 5 and above.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/3.jpg">
-</div>
 <p>&nbsp;</p>
 <p><strong>Create nature-inspired designs</strong>
 </p>
-<p>&nbsp;</p>
 <p>Discover the beauty of frottage and collage in this engaging workshop!
 Inspired by textures from your surroundings, you’ll learn to transform
 rubbings and simple materials into unique artworks like vibrant collages,
@@ -678,6 +673,10 @@ behind your pieces, and connect with others over the creative exploration
 of textures.</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/3.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
@@ -718,11 +717,7 @@ through prompts.</p>
 <p><strong>Time</strong>: 4:30pm – 5:30pm</p>
 <p>&nbsp;</p>
 <p>This workshop is open to children between the ages of 4 and 8.</p>
-<p>Register <a href="https://go.gov.sg/heart25-drama" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/ACT3International__2_.jpg">
-</div>
 <p>This interactive drama workshop by Act 3 International invites families
 to explore themes of courage, unity, and the beauty of nature — all through
 imaginative play. No drama experience is needed, just a willingness to
@@ -745,6 +740,9 @@ setting.</p>
 <p>Offers a gentle way to explore values like courage, cooperation, and kindness.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/ACT3International__2_.jpg">
+</div>
 </div>
 </details>
 </div>
@@ -761,10 +759,6 @@ setting.</p>
 <p>Time: 9am – 11am&nbsp;</p>
 <p>Register here: <a href="https://go.gov.sg/heart25-naturewalk" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-naturewalk</a>&nbsp;</p>
 <p>Meeting point: Lakeside Field, Jurong Lake Gardens&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/artmaking_2_1.jpg">
-</div>
 <p>&nbsp;</p>
 <p>The workshop is open to adults and children aged 3 and above.&nbsp;</p>
 <p>Harnessing the inherent therapeutic qualities of both nature and creative
@@ -790,6 +784,9 @@ with Mother Nature.&nbsp;&nbsp;</p>
 participants to integrate mindful, nature-based rituals into daily lives
 for long-term well-being.&nbsp;&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/artmaking_2_1.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
@@ -848,9 +845,8 @@ Garden. In this guided tour, explore the intricately designed landscapes,
 vibrant flora, and traditional architectural marvels. &nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guided Tour/Guided_Tour_CG_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guided Tour/Chinese Garden/CG_Guided_Tour.jpg">
 </div>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -873,9 +869,8 @@ Garden. In this guided tour, explore the intricately designed landscapes,
 vibrant flora, and enjoy a peaceful retreat.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guided Tour/Guided_Tour_JG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guided Tour/Japanese Garden/20250628_100750.jpg">
 </div>
-<p></p>
 </div>
 </details>
 </div>
