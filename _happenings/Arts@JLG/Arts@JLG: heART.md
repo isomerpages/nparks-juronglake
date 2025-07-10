@@ -750,7 +750,7 @@ setting.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Art Therapy Nature Walk by The Red Pencil&nbsp;</strong>
+<summary><strong>Art Therapy Nature Walk by The Red Pencil <sup>[LIMITED SLOTS AVAILABLE]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -824,7 +824,7 @@ a dish full of bold flavours and cultural tradition!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Guided Tour of Chinese Garden by NParks</strong>
+<summary><strong>Guided Tour of Chinese Garden by NParks <sup>[LIMITED SLOTS AVAILABLE]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
