@@ -750,14 +750,13 @@ setting.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Art Therapy Nature Walk by The Red Pencil <sup>[LIMITED SLOTS AVAILABLE]</sup></strong>
+<summary><strong>Art Therapy Nature Walk by The Red Pencil <sup>[FULLY SUBSCRIBED]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Art Therapy Nature Walk by The Red Pencil</strong>&nbsp;</p>
 <p>Date: 12 July (Sat)&nbsp;</p>
 <p>Time: 9am – 11am&nbsp;</p>
-<p>Register here: <a href="https://go.gov.sg/heart25-naturewalk" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-naturewalk</a>&nbsp;</p>
 <p>Meeting point: Lakeside Field, Jurong Lake Gardens&nbsp;</p>
 <p>&nbsp;</p>
 <p>The workshop is open to adults and children aged 3 and above.&nbsp;</p>
