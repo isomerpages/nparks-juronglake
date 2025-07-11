@@ -27,13 +27,15 @@ and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
 <p>This is a free-of-charge, pet-friendly and sheltered event. All programmes
 will proceed regardless of weather conditions, unless otherwise stated.</p>
 <p></p>
-<h4><strong>Get Your Exclusive National Family Festival x NParks Goodie Bag!</strong></h4>
-<p>Complete these simple steps to redeem a special goodie bag filled with
-family-friendly items including a National Family Festival card game and
-picnic mat, as well as fun NParks activities and stickers:&nbsp;</p>
+<h4><strong>Get Your Exclusive National Family Festival X NParks Goodie Bag! (12 &amp; 13 July only)</strong></h4>
+<p>Complete these simple steps <strong>on 12 and 13 July </strong>to redeem
+a special goodie bag filled with family-friendly items including a National
+Family Festival card game and picnic mat, as well as fun NParks activities
+and stickers:&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Share your feedback with us here: <a href="https://go.gov.sg/heart25-feedback" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heart25-feedback</a>&nbsp;</p>
+<p>Share your feedback with us <a href="https://go.gov.sg/heart25-feedback" rel="noopener nofollow" target="_blank">here</a>
+</p>
 </li>
 <li>
 <p>Post a photo or story on your Instagram or Facebook of your festival experience
