@@ -421,9 +421,8 @@ to get together with others and dance your way to greater health and fitness.</p
 <p>No registration required</p>
 </li>
 <li>
-<p>This workout session will be conducted on <strong>Lakeside Field</strong>.
-In the event of heavy rain, it will be shifted to PAssion Wave Viewing
-Gallery (Level 2).</p>
+<p>This workout session will be conducted on <strong>PAssion Wave Viewing Gallery (Level 2).</strong>
+</p>
 </li>
 </ul>
 <p></p>
@@ -825,7 +824,7 @@ a dish full of bold flavours and cultural tradition!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Guided Tour of Chinese Garden by NParks <sup>[LIMITED SLOTS AVAILABLE]</sup></strong>
+<summary><strong>Guided Tour of Chinese Garden by NParks <sup>[REGISTRATION CLOSED]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -837,8 +836,6 @@ a dish full of bold flavours and cultural tradition!</p>
 <p><strong>Meeting point</strong>: Entrance Pavilion @ North Carpark, Jurong
 Lake Gardens [Click <a href="https://file.go.gov.sg/ncpep.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for a photo of the meeting
 point]&nbsp;</p>
-<p></p>
-<p>Register <a href="https://go.gov.sg/heart25-cgtour" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;</p>
 <p>Immerse yourself in the rich history and serene beauty of the Chinese
 Garden. In this guided tour, explore the intricately designed landscapes,
@@ -850,7 +847,7 @@ vibrant flora, and traditional architectural marvels. &nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Guided Tour of Japanese Garden by NParks</strong>
+<summary><strong>Guided Tour of Japanese Garden by NParks <sup>[REGISTRATION CLOSED]</sup></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -861,8 +858,6 @@ vibrant flora, and traditional architectural marvels. &nbsp;</p>
 <p><strong>Meeting point</strong>: Outside Mempat Hall @ Gardenhouse, Jurong
 Lake Gardens [Click <a href="https://file.go.gov.sg/ghll.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a> for a photo of the meeting
 point]</p>
-<p></p>
-<p>Register <a href="https://go.gov.sg/heart25-jgtour" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;</p>
 <p>Immerse yourself in the tranquil spaces and serene beauty of the Japanese
 Garden. In this guided tour, explore the intricately designed landscapes,
