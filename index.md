@@ -6,8 +6,8 @@ description: Jurong Lake Gardens is Singapore’s national gardens in the
   families and the community to come together.
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
-notification: Please note that Clusia Cove and Water Wall Court will be closed
-  for maintenance until further notice. Thank you for your understanding.
+notification: Please note that Dog Run will be closed on 5 August 2025 for
+  maintenance works. Thank you for your understanding.
 sections:
   - hero:
       title: Jurong Lake Gardens
@@ -73,11 +73,11 @@ sections:
             understanding.
           link_text: ""
           link_url: ""
-        - title: Notice of Closure (Big Bowl Pod and Plaza Pod)
+        - title: Notice of Closure (Plaza Pod)
           date: 06 June 2025
-          announcement: Please note that Big Bowl Pod and Plaza Pod at the SkatePark @
-            Lakeside Garden will be closed for an event from 18 to 20 July 2025.
-            Thank you for your understanding.
+          announcement: Please note that Plaza Pod at the SkatePark @ Lakeside Garden will
+            be closed for an event on 30 July 2025. Thank you for your
+            understanding.
           link_text: ""
           link_url: ""
         - title: Beware of Impersonation Scams

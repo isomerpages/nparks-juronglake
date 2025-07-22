@@ -25,17 +25,21 @@ own safety, please do not enter <strong>Grasslands </strong>and <strong>Neram St
 nighttime.</p>
 </li>
 <li>
-<p>Please note that Big Bowl Pod and Plaza Pod at the SkatePark @ Lakeside
-Garden will be closed for an event from 18 to 20 July 2025. Thank you for
-your understanding.</p>
+<p>Please note that <strong>Plaza Pod</strong> at the SkatePark @ Lakeside
+Garden will be closed for an event on<strong> 30 July 2025</strong>. Thank
+you for your understanding.</p>
 </li>
 <li>
-<p>Please note that Clusia Cove and Water Wall Court will be closed for maintenance
-until further notice. Thank you for your understanding.</p>
+<p>Please note that<strong> Clusia Cove and Water Wall Court </strong>will
+be closed for maintenance until further notice. Thank you for your understanding.</p>
 </li>
 <li>
-<p>Please note that Forest Ramble Snake Play will be closed from 7th July
-2025 for maintenance works until further notice.</p>
+<p>Please note that<strong> Forest Ramble Snake Play</strong> will be closed
+from 7th July 2025 for maintenance works until further notice.</p>
+</li>
+<li>
+<p>Please note that <strong>Dog Run</strong> will be closed on <strong>5 August 2025</strong> for
+maintenance works. Thank you for your understanding.</p>
 </li>
 </ol>
 </td>
