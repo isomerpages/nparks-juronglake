@@ -6,8 +6,8 @@ description: Jurong Lake Gardens is Singapore’s national gardens in the
   families and the community to come together.
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
-notification: Please note that Clusia Cove and Water Wall Court will be closed
-  for maintenance until further notice. Thank you for your understanding.
+notification: Please note that Dog Run will be closed on 5 August 2025 for
+  maintenance works. Thank you for your understanding.
 sections:
   - hero:
       title: Jurong Lake Gardens
