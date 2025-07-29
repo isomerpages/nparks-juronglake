@@ -27,7 +27,7 @@ vibrant flora, and traditional architectural marvels.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">(23 Aug 2025, 10am) Lakeside Garden (North) Guided Tour (Session 2))</div>
+<div class="isomer-card-title">(23 Aug 2025, 10am) Lakeside Garden (North) Guided Tour (Session 2)</div>
 <div class="isomer-card-description">Learn about the rich biodiversity, sustainable and family-friendly attractions
 within the Northern section of Lakeside Gardens at Jurong Lake Gardens!</div>
 <div class="isomer-card-link">READ MORE</div>
