@@ -86,5 +86,12 @@ heart and soul.</p>
 </p>
 <p>Where: Sunken Garden, Japanese Garden</p>
 <p>Opening hours:</p>
-<p>Weekdays (Mon - Fri)11am to 10pm</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Weekdays (Mon - Fri): 11am to 10pm</p>
+</li>
+<li>
+<p>Weekends (Sat - Sun) &amp; Public Holidays: 9am to 10pm</p>
+</li>
+</ul>
+<p></p>
