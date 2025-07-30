@@ -85,7 +85,8 @@ heart and soul.</p>
 <p><strong>Ice-cream Man and Friends</strong>
 </p>
 <p>Where: Sunken Garden, Japanese Garden</p>
-<p>Opening hours:</p>
+<p><u>Opening hours:</u>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Weekdays (Mon - Fri): 11am to 10pm</p>
