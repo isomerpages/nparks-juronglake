@@ -73,11 +73,11 @@ sections:
             understanding.
           link_text: ""
           link_url: ""
-        - title: Notice of Closure (Plaza Pod)
+        - title: Notice of Closure (Big Bowl Pod)
           date: 06 June 2025
-          announcement: Please note that Plaza Pod at the SkatePark @ Lakeside Garden will
-            be closed for an event on 30 July 2025. Thank you for your
-            understanding.
+          announcement: Please note that Big Bowl Pod at the SkatePark @ Lakeside Garden
+            will be closed for an event from 16 to 17 Aug 2025. Thank you for
+            your understanding.
           link_text: ""
           link_url: ""
         - title: Beware of Impersonation Scams
