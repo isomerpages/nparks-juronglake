@@ -744,7 +744,7 @@ setting for events and gatherings amidst tranquil ponds and garden views.</p>
 <p>$348.80</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$436</p>
 </td>
 </tr>
 </tbody>
