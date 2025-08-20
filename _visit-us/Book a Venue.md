@@ -182,7 +182,7 @@ scenic Rasau walk and Grasslands!</p>
 <p>$327</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$436</p>
 </td>
 </tr>
 </tbody>
