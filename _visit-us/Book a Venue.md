@@ -741,7 +741,7 @@ setting for events and gatherings amidst tranquil ponds and garden views.</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$320</p>
+<p>$348.80</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$400</p>
