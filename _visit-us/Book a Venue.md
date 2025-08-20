@@ -347,10 +347,10 @@ scenic Rasau walk and Grasslands!</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,300</p>
+<p>$1,417</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,600</p>
+<p>$1,744</p>
 </td>
 </tr>
 <tr>
@@ -358,10 +358,10 @@ scenic Rasau walk and Grasslands!</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$500</p>
+<p>$545</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$600</p>
+<p>$654</p>
 </td>
 </tr>
 <tr>
@@ -369,10 +369,10 @@ scenic Rasau walk and Grasslands!</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$109</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$218</p>
 </td>
 </tr>
 </tbody>
