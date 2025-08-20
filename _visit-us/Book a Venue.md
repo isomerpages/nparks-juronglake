@@ -157,10 +157,10 @@ scenic Rasau walk and Grasslands!</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,300</p>
+<p>$2,507</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,900</p>
+<p>$3,161</p>
 </td>
 </tr>
 <tr>
@@ -168,10 +168,10 @@ scenic Rasau walk and Grasslands!</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$900</p>
+<p>$981</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,100</p>
+<p>$1,199</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@ scenic Rasau walk and Grasslands!</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$300</p>
+<p>$327</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$400</p>
@@ -188,7 +188,6 @@ scenic Rasau walk and Grasslands!</p>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
