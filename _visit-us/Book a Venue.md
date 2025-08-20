@@ -719,10 +719,10 @@ setting for events and gatherings amidst tranquil ponds and garden views.</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$3,200</p>
+<p>$3,488</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$4,000</p>
+<p>$4,360</p>
 </td>
 </tr>
 <tr>
@@ -730,10 +730,10 @@ setting for events and gatherings amidst tranquil ponds and garden views.</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,280</p>
+<p>$1,395.20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,600</p>
+<p>$1,744</p>
 </td>
 </tr>
 <tr>
@@ -750,7 +750,6 @@ setting for events and gatherings amidst tranquil ponds and garden views.</p>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
