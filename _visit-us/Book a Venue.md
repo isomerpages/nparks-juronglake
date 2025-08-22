@@ -1552,10 +1552,10 @@ Carnivals and more.</p>
 <p>$2,180</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,100</p>
+<p>$1,199</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$900</p>
+<p>$981</p>
 </td>
 </tr>
 <tr>
@@ -1563,13 +1563,13 @@ Carnivals and more.</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$800</p>
+<p>$872</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$436</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$300</p>
+<p>$327</p>
 </td>
 </tr>
 <tr>
@@ -1577,19 +1577,18 @@ Carnivals and more.</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$218</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$109</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$109</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
