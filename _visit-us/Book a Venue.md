@@ -1733,10 +1733,10 @@ is a perfect location for performance, carnivals and more!</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,800</p>
+<p>$1,962</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,200</p>
+<p>$2,398</p>
 </td>
 </tr>
 <tr>
@@ -1744,10 +1744,10 @@ is a perfect location for performance, carnivals and more!</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$600</p>
+<p>$654</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$900</p>
+<p>$981</p>
 </td>
 </tr>
 <tr>
@@ -1755,16 +1755,16 @@ is a perfect location for performance, carnivals and more!</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$300</p>
+<p>$327</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$300</p>
+<p>$327</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
+<p></p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
