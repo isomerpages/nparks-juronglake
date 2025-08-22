@@ -1501,13 +1501,13 @@ Carnivals and more.</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,600</p>
+<p>$2,834</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,300</p>
+<p>$1,417</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,100</p>
+<p>$1,199</p>
 </td>
 </tr>
 <tr>
@@ -1515,13 +1515,13 @@ Carnivals and more.</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,000</p>
+<p>$1,090</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$600</p>
+<p>$654</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$436</p>
 </td>
 </tr>
 <tr>
@@ -1529,13 +1529,13 @@ Carnivals and more.</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$300</p>
+<p>$327</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$218</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$109</p>
 </td>
 </tr>
 <tr>
@@ -1549,7 +1549,7 @@ Carnivals and more.</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,000</p>
+<p>$2,180</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$1,100</p>
