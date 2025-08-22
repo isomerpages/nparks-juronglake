@@ -2071,10 +2071,10 @@ attractions around The Oval such as the popular Rasau Walk and Grassland.&nbsp;<
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,400</p>
+<p>$1,526</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,700</p>
+<p>$1,853</p>
 </td>
 </tr>
 <tr>
@@ -2082,10 +2082,10 @@ attractions around The Oval such as the popular Rasau Walk and Grassland.&nbsp;<
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$500</p>
+<p>$545</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$700</p>
+<p>$763</p>
 </td>
 </tr>
 <tr>
@@ -2093,16 +2093,15 @@ attractions around The Oval such as the popular Rasau Walk and Grassland.&nbsp;<
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$109</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$218</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
