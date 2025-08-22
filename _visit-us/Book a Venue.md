@@ -2242,10 +2242,10 @@ near Cloud Pagoda in Chinese Garden, it's an ideal spot for outdoor enjoyment.</
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,600</p>
+<p>$1,744</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,000</p>
+<p>$2,180</p>
 </td>
 </tr>
 <tr>
@@ -2253,10 +2253,10 @@ near Cloud Pagoda in Chinese Garden, it's an ideal spot for outdoor enjoyment.</
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$640</p>
+<p>$697.60</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$800</p>
+<p>$872</p>
 </td>
 </tr>
 <tr>
@@ -2264,16 +2264,15 @@ near Cloud Pagoda in Chinese Garden, it's an ideal spot for outdoor enjoyment.</
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$160</p>
+<p>$174.40</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$218</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
