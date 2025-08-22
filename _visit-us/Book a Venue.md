@@ -157,10 +157,10 @@ scenic Rasau walk and Grasslands!</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,300</p>
+<p>$2,507</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,900</p>
+<p>$3,161</p>
 </td>
 </tr>
 <tr>
@@ -168,10 +168,10 @@ scenic Rasau walk and Grasslands!</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$900</p>
+<p>$981</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,100</p>
+<p>$1,199</p>
 </td>
 </tr>
 <tr>
@@ -179,16 +179,15 @@ scenic Rasau walk and Grasslands!</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$300</p>
+<p>$327</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$436</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
@@ -348,10 +347,10 @@ scenic Rasau walk and Grasslands!</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,300</p>
+<p>$1,417</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,600</p>
+<p>$1,744</p>
 </td>
 </tr>
 <tr>
@@ -359,10 +358,10 @@ scenic Rasau walk and Grasslands!</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$500</p>
+<p>$545</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$600</p>
+<p>$654</p>
 </td>
 </tr>
 <tr>
@@ -370,16 +369,15 @@ scenic Rasau walk and Grasslands!</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$109</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$218</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
@@ -540,10 +538,10 @@ walk and Grasslands!</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$436</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$500</p>
+<p>$545</p>
 </td>
 </tr>
 <tr>
@@ -551,10 +549,10 @@ walk and Grasslands!</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$218</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$218</p>
 </td>
 </tr>
 <tr>
@@ -562,16 +560,16 @@ walk and Grasslands!</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$109</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$109</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
+<p></p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
@@ -721,10 +719,10 @@ setting for events and gatherings amidst tranquil ponds and garden views.</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$3,200</p>
+<p>$3,488</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$4,000</p>
+<p>$4,360</p>
 </td>
 </tr>
 <tr>
@@ -732,10 +730,10 @@ setting for events and gatherings amidst tranquil ponds and garden views.</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,280</p>
+<p>$1,395.20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,600</p>
+<p>$1,744</p>
 </td>
 </tr>
 <tr>
@@ -743,16 +741,15 @@ setting for events and gatherings amidst tranquil ponds and garden views.</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$320</p>
+<p>$348.80</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$436</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
@@ -904,10 +901,10 @@ a perfect spot to unwind.</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$800</p>
+<p>$872</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,000</p>
+<p>$1,090</p>
 </td>
 </tr>
 <tr>
@@ -915,10 +912,10 @@ a perfect spot to unwind.</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$320</p>
+<p>$380.80</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$436</p>
 </td>
 </tr>
 <tr>
@@ -926,16 +923,15 @@ a perfect spot to unwind.</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$80</p>
+<p>$87.20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$109</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
@@ -1073,10 +1069,10 @@ ponds and blooming water lilies in the Water Lily Garden.</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$800</p>
+<p>$872</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,000</p>
+<p>$1,090</p>
 </td>
 </tr>
 <tr>
@@ -1084,10 +1080,10 @@ ponds and blooming water lilies in the Water Lily Garden.</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$320</p>
+<p>$348.80</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$436</p>
 </td>
 </tr>
 <tr>
@@ -1095,16 +1091,15 @@ ponds and blooming water lilies in the Water Lily Garden.</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$80</p>
+<p>$87.20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$109</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
@@ -1325,10 +1320,10 @@ community, sports, children themed-events and more.</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,000</p>
+<p>$1,090</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,200</p>
+<p>$1,308</p>
 </td>
 </tr>
 <tr>
@@ -1336,10 +1331,10 @@ community, sports, children themed-events and more.</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$436</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$500</p>
+<p>$545</p>
 </td>
 </tr>
 <tr>
@@ -1347,16 +1342,15 @@ community, sports, children themed-events and more.</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$109</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$109</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
@@ -1507,13 +1501,13 @@ Carnivals and more.</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,600</p>
+<p>$2,834</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,300</p>
+<p>$1,417</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,100</p>
+<p>$1,199</p>
 </td>
 </tr>
 <tr>
@@ -1521,13 +1515,13 @@ Carnivals and more.</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,000</p>
+<p>$1,090</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$600</p>
+<p>$654</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$436</p>
 </td>
 </tr>
 <tr>
@@ -1535,13 +1529,13 @@ Carnivals and more.</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$300</p>
+<p>$327</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$218</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$109</p>
 </td>
 </tr>
 <tr>
@@ -1555,13 +1549,13 @@ Carnivals and more.</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,000</p>
+<p>$2,180</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,100</p>
+<p>$1,199</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$900</p>
+<p>$981</p>
 </td>
 </tr>
 <tr>
@@ -1569,13 +1563,13 @@ Carnivals and more.</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$800</p>
+<p>$872</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$400</p>
+<p>$436</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$300</p>
+<p>$327</p>
 </td>
 </tr>
 <tr>
@@ -1583,19 +1577,18 @@ Carnivals and more.</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$218</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$109</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$109</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
@@ -1740,10 +1733,10 @@ is a perfect location for performance, carnivals and more!</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,800</p>
+<p>$1,962</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,200</p>
+<p>$2,398</p>
 </td>
 </tr>
 <tr>
@@ -1751,10 +1744,10 @@ is a perfect location for performance, carnivals and more!</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$600</p>
+<p>$654</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$900</p>
+<p>$981</p>
 </td>
 </tr>
 <tr>
@@ -1762,16 +1755,16 @@ is a perfect location for performance, carnivals and more!</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$300</p>
+<p>$327</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$300</p>
+<p>$327</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
+<p></p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
@@ -1906,10 +1899,10 @@ place for small gatherings and birthday parties!&nbsp;</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$500</p>
+<p>$545</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$700</p>
+<p>$763</p>
 </td>
 </tr>
 <tr>
@@ -1917,10 +1910,10 @@ place for small gatherings and birthday parties!&nbsp;</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$300</p>
+<p>$327</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$300</p>
+<p>$327</p>
 </td>
 </tr>
 <tr>
@@ -1928,17 +1921,16 @@ place for small gatherings and birthday parties!&nbsp;</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$218</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$218</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p>*Note: Play Pavilion is not available for booking on Mondays</p>
-<p>*All prices stated above are excluding GST</p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
@@ -2079,10 +2071,10 @@ attractions around The Oval such as the popular Rasau Walk and Grassland.&nbsp;<
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,400</p>
+<p>$1,526</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,700</p>
+<p>$1,853</p>
 </td>
 </tr>
 <tr>
@@ -2090,10 +2082,10 @@ attractions around The Oval such as the popular Rasau Walk and Grassland.&nbsp;<
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$500</p>
+<p>$545</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$700</p>
+<p>$763</p>
 </td>
 </tr>
 <tr>
@@ -2101,16 +2093,15 @@ attractions around The Oval such as the popular Rasau Walk and Grassland.&nbsp;<
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$100</p>
+<p>$109</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$218</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
@@ -2251,10 +2242,10 @@ near Cloud Pagoda in Chinese Garden, it's an ideal spot for outdoor enjoyment.</
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,600</p>
+<p>$1,744</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,000</p>
+<p>$2,180</p>
 </td>
 </tr>
 <tr>
@@ -2262,10 +2253,10 @@ near Cloud Pagoda in Chinese Garden, it's an ideal spot for outdoor enjoyment.</
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$640</p>
+<p>$697.60</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$800</p>
+<p>$872</p>
 </td>
 </tr>
 <tr>
@@ -2273,16 +2264,15 @@ near Cloud Pagoda in Chinese Garden, it's an ideal spot for outdoor enjoyment.</
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$160</p>
+<p>$174.40</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$218</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>*All prices stated above are excluding GST</p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
