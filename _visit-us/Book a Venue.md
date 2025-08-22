@@ -1899,10 +1899,10 @@ place for small gatherings and birthday parties!&nbsp;</p>
 <p>Full Day (8am - 10pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$500</p>
+<p>$545</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$700</p>
+<p>$763</p>
 </td>
 </tr>
 <tr>
@@ -1910,10 +1910,10 @@ place for small gatherings and birthday parties!&nbsp;</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$300</p>
+<p>$327</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$300</p>
+<p>$327</p>
 </td>
 </tr>
 <tr>
@@ -1921,17 +1921,16 @@ place for small gatherings and birthday parties!&nbsp;</p>
 <p>Every Additional Hour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$218</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$218</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p>*Note: Play Pavilion is not available for booking on Mondays</p>
-<p>*All prices stated above are excluding GST</p>
 <p>*Hours include set-up and teardown</p>
 <p>*Each booking must be made for a minimum of 4 hours in accordance with
 the following time-blocks:</p>
