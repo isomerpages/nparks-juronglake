@@ -73,11 +73,10 @@ sections:
             understanding.
           link_text: ""
           link_url: ""
-        - title: Notice of Closure (Big Bowl Pod)
-          date: 06 June 2025
-          announcement: Please note that Big Bowl Pod at the SkatePark @ Lakeside Garden
-            will be closed for an event from 16 to 17 Aug 2025. Thank you for
-            your understanding.
+        - title: Notice of Closure (Bonsai Garden)
+          date: 28 August 2025
+          announcement: Please note that Bonsai Garden will be closed for maintenance from
+            1 to 7 Sept 2025. Thank you for your understanding.
           link_text: ""
           link_url: ""
         - title: Beware of Impersonation Scams
