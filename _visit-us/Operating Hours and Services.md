@@ -25,9 +25,8 @@ own safety, please do not enter <strong>Grasslands </strong>and <strong>Neram St
 nighttime.</p>
 </li>
 <li>
-<p>Please note that <strong>Plaza Pod</strong> at the SkatePark @ Lakeside
-Garden will be closed for an event on<strong> 30 July 2025</strong>. Thank
-you for your understanding.</p>
+<p>Please note that <strong>Bonsai Garden</strong> will be closed for maintenance
+from 1 to 7 Sept 2025. Thank you for your understanding.</p>
 </li>
 <li>
 <p>Please note that<strong> Clusia Cove and Water Wall Court </strong>will
@@ -36,10 +35,7 @@ be closed for maintenance until further notice. Thank you for your understanding
 <li>
 <p>Please note that<strong> Forest Ramble Snake Play</strong> will be closed
 from 7th July 2025 for maintenance works until further notice.</p>
-</li>
-<li>
-<p>Please note that <strong>Dog Run</strong> will be closed on <strong>5 August 2025</strong> for
-maintenance works. Thank you for your understanding.</p>
+<p></p>
 </li>
 </ol>
 </td>
