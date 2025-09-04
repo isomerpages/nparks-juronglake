@@ -47,7 +47,7 @@ by trained visitor services officers with a valid driver’s licence.</p>
 </tr>
 </tbody>
 </table>
-<p><em>Cruiser bookings should be made at least 1 month in advance. Fees are charged on an hourly basis.</em>
+<p><em>Cruiser bookings should be made at least 1 month in advance. Fees are charged on an hourly basis. Prices are inclusive of GST.  </em>
 </p>
 <p><em>In the event of inclement weather, cruiser services will be temporarily suspended as a safety precaution.</em>
 </p>
