@@ -2296,7 +2296,8 @@ the following time-blocks:</p>
 </div>
 </details>
 </div>
-<p></p>
+<p><em>Bookings should be made 2 months in advance and are only confirmed upon full payment. Prices are inclusive of GST. </em>
+</p>
 <p></p>
 <p></p>
 <p></p>
