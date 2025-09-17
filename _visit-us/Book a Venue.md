@@ -912,7 +912,7 @@ a perfect spot to unwind.</p>
 <p>4 Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$380.80</p>
+<p>$348.80</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$436</p>
