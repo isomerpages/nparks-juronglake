@@ -75,36 +75,70 @@ more details!</p>
 </div>
 </details>
 </div>
+<h4><strong>Chinese Garden</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Canopy (Grand Arch)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Chinese Garden</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Canopy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Grand Arch</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Eden</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pagoda Plaza</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Canopy/Canopy_1.jpg">
+</div>
+<p>This pet-friendly haven welcomes families to savour fresh delights in
+a historic setting. From dawn till dusk, Canopy invites you to indulge
+in exquisite meals amidst the preserved splendour of Chinese Garden's most
+beloved landmarks, creating a dining experience that nourishes both body
+and soul.</p>
+<p></p>
+<p><strong>Location 📍</strong>
+</p>
+<p>Chinese Garden, Grand Arch</p>
+<p></p>
+<p><strong>Opening Hours 🕑</strong>
+</p>
+<p>Monday to Thursday: 11.30am to 10pm</p>
+<p>Friday: 11.30am to 10.30pm</p>
+<p>Saturday, Sunday &amp; Public Holidays: 8am to 10.30pm</p>
+<p></p>
+<p><strong>Contact ☎</strong>
+</p>
+<p><a href="https://www.canopygardendining.com/location/jurong-lake-gardens/" rel="noopener nofollow" target="_blank"><u>Website</u></a>
+</p>
+<p></p>
+<p><a href="https://juronglakegardens.nparks.gov.sg/files/Maps%20and%20Trails/Jurong_Lake_Garden_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Refer to our brochure here</u></a> for
+more details!</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Eden (Pagoda Plaza)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Eden/Eden_1.jpg">
+</div>
+<p>As a tranquil oasis amidst the garden's lush landscape, Eden serves as
+both a starting point for adventure and a serene retreat for weary explorers.
+Nestled in the vibrant heart of Pagoda Plaza, Eden beckons with a tantalising
+fusion of local flavours and breathtaking vistas. Whether you're fuelling
+up for a day of discovery or savouring a moment of repose, Eden promises
+a feast for the senses.</p>
+<p></p>
+<p><strong>Location 📍</strong>
+</p>
+<p>Chinese Garden, Pagoda Plaza</p>
+<p></p>
+<p><strong>Opening Hours 🕑</strong>
+</p>
+<p>Mon – Thu: 9am to 9pm</p>
+<p>Fri – Sun, P.H. and eve of P.H.: 9am to 10pm</p>
+<p></p>
+<p><a href="https://juronglakegardens.nparks.gov.sg/files/Maps%20and%20Trails/Jurong_Lake_Garden_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Refer to our brochure here</u></a> for
+more details!</p>
+</div>
+</details>
+</div>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
