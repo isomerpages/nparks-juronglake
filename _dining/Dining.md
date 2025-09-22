@@ -5,11 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Jurong Lake Gardens offers a variety of dining options!</strong></h3>
-<p>
-<br>Planning a trip to the gardens? Check out the list below for the locations
+<p>Planning a trip to the gardens? Check out the list below for the locations
 of the eateries!</p>
 <h4><strong>Lakeside Garden</strong></h4>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Fusion Spoon (Eco Pond)</strong>
