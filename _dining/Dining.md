@@ -139,26 +139,32 @@ more details!</p>
 </div>
 </details>
 </div>
+<h4><strong>Japanese Garden</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ice Cream Man and Friends (Sunken Garden)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Japanese Garden</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ice Cream Man and Friends</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sunken Garden</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Ice Cream Man And Friends/Ice_Cream_Man_and_Friends_1.jpg">
+</div>
+<p>Step into Ice Cream Man and Friends for a refreshing escape from the ordinary,
+where each artisanal scoop is served against a backdrop of lush tranquillity,
+promising a multi-sensory adventure that delights both palate and spirit.</p>
+<p></p>
+<p><strong>Location 📍</strong>
+</p>
+<p>Japanese Garden, Sunken Garden</p>
+<p></p>
+<p><strong>Opening Hours 🕑</strong>
+</p>
+<p>Weekdays (Mon – Fri): 11am to 10pm</p>
+<p>Weekends (Sat – Sun) &amp; Public Holidays: 9am to 10pm</p>
+<p></p>
+<p><a href="https://juronglakegardens.nparks.gov.sg/files/Maps%20and%20Trails/Jurong_Lake_Garden_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Refer to our brochure here</u></a> for
+more details!</p>
+</div>
+</details>
+</div>
 <p></p>
