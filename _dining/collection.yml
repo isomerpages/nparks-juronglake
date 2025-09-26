@@ -2,7 +2,7 @@ collections:
   dining:
     output: true
     order:
-      - Dining.md
+      - Overview.md
       - Starbucks.md
       - Fusion Spoon.md
       - Canopy.md
