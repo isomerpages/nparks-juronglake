@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Dining.md
+      - BingXue.md
       - Canopy.md
       - Eden.md
-      - BingXue.md
       - Fusion Spoon.md
       - Ice Cream Man And Friends.md
       - Starbucks.md
