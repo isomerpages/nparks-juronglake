@@ -76,8 +76,7 @@ sections:
         - title: Notice of Closure
           date: 02 July 2025
           announcement: Please note that Forest Ramble Snake Play and Otter Play will be
-            closed from 7th July 2025 for maintenance works until further
-            notice.
+            closed for maintenance works until further notice.
           link_text: ""
           link_url: ""
 ---
