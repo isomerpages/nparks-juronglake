@@ -140,6 +140,26 @@ more details!</p>
 <summary>BingXue (Bonsai Garden)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Located within the tranquil surroundings of the Bonsai Garden at Jurong
+Lake Gardens, <strong>Bingxue</strong> offers a refreshing stop for visitors
+looking to enjoy a sweet treat. Known for their unique blend of ice cream
+and tea, Bingxue brings their signature creations to this peaceful garden
+space.</p>
+<p></p>
+<p>Whether you’re taking a break during your garden walk or simply looking
+to unwind with a cold dessert, Bingxue offers something for everyone —
+from fruity teas to soft serve with a twist.</p>
+<p></p>
+<p><strong>Location 📍</strong>
+</p>
+<p>Chinese Garden, Bonsai Garden</p>
+<p></p>
+<p><strong>Opening Hours 🕑</strong>
+</p>
+<p>9am to 9pm Daily</p>
+<p></p>
+<p><a href="https://juronglakegardens.nparks.gov.sg/files/Maps%20and%20Trails/Jurong_Lake_Garden_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Refer to our brochure here</u></a> for
+more details!</p>
 </div>
 </details>
 </div>
