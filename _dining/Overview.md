@@ -46,7 +46,7 @@ more details!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Starbucks/Starbucks_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dining/Starbucks/Starbucks_2.jpg">
 </div>
 <p>Located within a short walk from Lakeside MRT, Starbucks® is situated
 in Lakeside House. With both indoor and outdoor seating, diners can enjoy
