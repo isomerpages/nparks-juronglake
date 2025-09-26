@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Cool Treats in a Calm Garden Setting</strong></h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Eden/Eden_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dining/Bingxue/4.jpg">
 </div>
 <p>Located within the tranquil surroundings of the Bonsai Garden at Jurong
 Lake Gardens, <strong>Bingxue</strong> offers a refreshing stop for visitors
