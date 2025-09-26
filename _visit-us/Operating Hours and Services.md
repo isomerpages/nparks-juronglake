@@ -25,16 +25,8 @@ own safety, please do not enter <strong>Grasslands </strong>and <strong>Neram St
 nighttime.</p>
 </li>
 <li>
-<p>Please note that <strong>Bonsai Garden</strong> will be closed for maintenance
-from 1 to 7 Sept 2025. Thank you for your understanding.</p>
-</li>
-<li>
-<p>Please note that<strong> Clusia Cove and Water Wall Court </strong>will
-be closed for maintenance until further notice. Thank you for your understanding.</p>
-</li>
-<li>
-<p>Please note that<strong> Forest Ramble Snake Play</strong> will be closed
-from 7th July 2025 for maintenance works until further notice.</p>
+<p>Please note that<strong> Forest Ramble Snake Play</strong> and <strong>Otter Play</strong> will
+be closed for maintenance works until further notice.</p>
 <p></p>
 </li>
 </ol>

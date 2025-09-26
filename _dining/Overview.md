@@ -1,5 +1,5 @@
 ---
-title: Dining
+title: Overview
 permalink: /dining/
 variant: tiptap
 description: ""
@@ -15,7 +15,7 @@ of the eateries!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Fusion Spoon/Fusion_Spoon_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dining/Fusion Spoon/Fusion_Spoon_1.jpg">
 </div>
 <p>Fusion Spoon is the only dining restaurant in the Jurong Lake Gardens.
 Situated near the eco-pond, visitors can enjoy dining amidst nature and
@@ -46,7 +46,7 @@ more details!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Starbucks/Starbucks_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dining/Starbucks/Starbucks_2.jpg">
 </div>
 <p>Located within a short walk from Lakeside MRT, Starbucks® is situated
 in Lakeside House. With both indoor and outdoor seating, diners can enjoy
@@ -81,7 +81,7 @@ more details!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Canopy/Canopy_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dining/Canopy/Canopy_1.jpg">
 </div>
 <p>This pet-friendly haven welcomes families to savour fresh delights in
 a historic setting. From dawn till dusk, Canopy invites you to indulge
@@ -113,9 +113,6 @@ more details!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Eden/Eden_1.jpg">
-</div>
 <p>As a tranquil oasis amidst the garden's lush landscape, Eden serves as
 both a starting point for adventure and a serene retreat for weary explorers.
 Nestled in the vibrant heart of Pagoda Plaza, Eden beckons with a tantalising
@@ -131,6 +128,32 @@ a feast for the senses.</p>
 </p>
 <p>Mon – Thu: 9am to 9pm</p>
 <p>Fri – Sun, P.H. and eve of P.H.: 9am to 10pm</p>
+<p></p>
+<p><a href="https://juronglakegardens.nparks.gov.sg/files/Maps%20and%20Trails/Jurong_Lake_Garden_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Refer to our brochure here</u></a> for
+more details!</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>BingXue (Bonsai Garden)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Located within the tranquil surroundings of the Bonsai Garden at Jurong
+Lake Gardens, <strong>Bingxue</strong> offers a refreshing stop for visitors
+looking to enjoy a sweet treat. Known for their unique blend of ice cream
+and tea, Bingxue brings their signature creations to this peaceful garden
+space.</p>
+<p></p>
+<p>Whether you’re taking a break during your garden walk or simply looking
+to unwind with a cold dessert, Bingxue offers something for everyone —
+from fruity teas to soft serve with a twist.</p>
+<p></p>
+<p><strong>Location 📍</strong>
+</p>
+<p>Chinese Garden, Bonsai Garden</p>
+<p></p>
+<p><strong>Opening Hours 🕑</strong>
+</p>
+<p>9am to 9pm Daily</p>
 <p></p>
 <p><a href="https://juronglakegardens.nparks.gov.sg/files/Maps%20and%20Trails/Jurong_Lake_Garden_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Refer to our brochure here</u></a> for
 more details!</p>

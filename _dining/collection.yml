@@ -2,9 +2,10 @@ collections:
   dining:
     output: true
     order:
-      - Dining.md
+      - Overview.md
+      - Starbucks.md
+      - Fusion Spoon.md
       - Canopy.md
       - Eden.md
-      - Fusion Spoon.md
+      - BingXue.md
       - Ice Cream Man And Friends.md
-      - Starbucks.md

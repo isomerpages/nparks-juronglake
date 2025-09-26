@@ -6,8 +6,7 @@ description: Jurong Lake Gardens is Singapore’s national gardens in the
   families and the community to come together.
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
-notification: Please note that Clusia Cove and Water Wall Court will be closed
-  for maintenance until further notice. Thank you for your understanding.
+notification: ""
 sections:
   - hero:
       title: Jurong Lake Gardens
@@ -66,19 +65,6 @@ sections:
             NEA website or dial 6542 7788 for the weather forecast.
           link_text: Visit the NEA Website here
           link_url: https://www.weather.gov.sg/home/
-        - title: Notice of Closure (Clusia Cove and Water Wall Court)
-          date: 06 June 2025
-          announcement: Please note that Clusia Cove and Water Wall Court will be closed
-            for maintenance until further notice. Thank you for your
-            understanding.
-          link_text: ""
-          link_url: ""
-        - title: Notice of Closure (Bonsai Garden)
-          date: 28 August 2025
-          announcement: Please note that Bonsai Garden will be closed for maintenance from
-            1 to 7 Sept 2025. Thank you for your understanding.
-          link_text: ""
-          link_url: ""
         - title: Beware of Impersonation Scams
           date: 19 June 2025
           announcement: Government officials will NEVER ask you to transfer money or
@@ -87,10 +73,10 @@ sections:
             scam.
           link_text: Visit the ScamShield Website here
           link_url: https://www.scamshield.gov.sg/
-        - title: Notice of Closure (Forest Ramble Snake Play)
+        - title: Notice of Closure
           date: 02 July 2025
-          announcement: Please note that Forest Ramble Snake Play will be closed from 7th
-            July 2025 for maintenance works until further notice.
+          announcement: Please note that Forest Ramble Snake Play and Otter Play will be
+            closed for maintenance works until further notice.
           link_text: ""
           link_url: ""
 ---
