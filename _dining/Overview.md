@@ -81,7 +81,7 @@ more details!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Canopy/Canopy_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dining/Canopy/Canopy_1.jpg">
 </div>
 <p>This pet-friendly haven welcomes families to savour fresh delights in
 a historic setting. From dawn till dusk, Canopy invites you to indulge
