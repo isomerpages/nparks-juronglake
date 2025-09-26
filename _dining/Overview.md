@@ -15,7 +15,7 @@ of the eateries!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Fusion Spoon/Fusion_Spoon_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dining/Fusion Spoon/Fusion_Spoon_1.jpg">
 </div>
 <p>Fusion Spoon is the only dining restaurant in the Jurong Lake Gardens.
 Situated near the eco-pond, visitors can enjoy dining amidst nature and
