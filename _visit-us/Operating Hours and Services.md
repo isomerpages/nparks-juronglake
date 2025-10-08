@@ -27,6 +27,10 @@ nighttime.</p>
 <li>
 <p>Please note that<strong> Forest Ramble Snake Play</strong> and <strong>Otter Play</strong> will
 be closed for maintenance works until further notice.</p>
+</li>
+<li>
+<p>Please note that <strong>Water Wall Court</strong> will be closed from 13
+Oct 2025 to 15 Oct 2025 for maintenance works. Thank you for your understanding.</p>
 <p></p>
 </li>
 </ol>
