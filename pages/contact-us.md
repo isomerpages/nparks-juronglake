@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: Jurong Lake Gardens
 locations:
   - address:
-      - 7 Japanese Garden Road
+      - 50 Yuan Ching Road
       - Gardenhouse
-      - Singapore 619230
+      - Singapore 618661
     operating_hours:
       - days: Lakeside Garden
         time: 24 Hours
@@ -26,5 +26,5 @@ contacts:
       - email: juronglakegardens@nparks.gov.sg
       - other: ""
     title: General Enquiries & Feedback
-feedback: ""
+feedback: https://www.nparks.gov.sg/contact-us
 ---
