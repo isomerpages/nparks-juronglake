@@ -43,7 +43,7 @@ effects of greenery.</p>
 <p>The 3,100sqm Therapeutic Garden @ Jurong Lake Gardens is the seventh therapeutic
 garden opened by NParks in Singapore, and the first with a section dedicated
 to children with special needs. Find out more about Therapeutic Gardens
-<a href="http://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+<a href="https://www.nparks.gov.sg/visit/activities/therapeutic-gardens-therapeutic-horticulture-programmes/therapeutic-gardens-parks" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lakeside Garden/Therapeutic Garden/TG_6.jpg">
