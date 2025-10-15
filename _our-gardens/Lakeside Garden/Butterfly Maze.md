@@ -21,7 +21,7 @@ of butterflies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Map - Therapeutic Garden and Butterfly Maze" src="/images/Lakeside Garden/Butterfly Maze/High_res_TG___BM_Map.png">
 </div>
-<p>The maze also adjoins the children’s section of the <a href="https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/attractions/therapeutic-garden" rel="noopener noreferrer nofollow" target="_blank">Therapeutic Garden</a>&nbsp;to
+<p>The maze also adjoins the children’s section of the <a href="https://juronglakegardens.nparks.gov.sg/therapeutic-garden/" rel="noopener noreferrer nofollow" target="_blank">Therapeutic Garden</a>&nbsp;to
 provide young visitors more opportunities to experience the therapeutic
 effects of greenery, as well as help with the facilitation of therapeutic
 horticulture programmes for children.</p>
