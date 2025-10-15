@@ -14,7 +14,7 @@ play and recreation for the community.</p>
 <p></p>
 <p><em>Clusia Cove and Forest Ramble are closed every Mondays for Maintenance and Tuesdays if preceding Monday is a Public Holiday.</em>
 </p>
-<p>Children can play to their hearts’ content at <strong><a href="https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/attractions/forest-ramble-(nature-playgarden)" rel="noopener noreferrer nofollow" target="_blank">Forest Ramble</a></strong>,
+<p>Children can play to their hearts’ content at <strong><a href="https://juronglakegardens.nparks.gov.sg/forest-ramble/" rel="noopener noreferrer nofollow" target="_blank">Forest Ramble</a></strong>,
 which is a nature-inspired playground with play elements that encourage
 kids to mimic the actions and motions of the animals that inhabit the freshwater
 swamp habitat. Here, playing is infused with learning and children get
