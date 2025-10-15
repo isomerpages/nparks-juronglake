@@ -40,7 +40,7 @@ closer together.</p>
 <p>The main path in Lakeside Garden at Jurong Lake Gardens will be part of
 the RIR, providing a link between the west side of Singapore and its southern
 end.</p>
-<p>Find out more about the RIR at the NParks&nbsp;<a href="http://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network#RIR" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
+<p>Find out more about the RIR at the NParks&nbsp;<a href="https://pcn.nparks.gov.sg/know-our-pcn/rir/" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
 <p></p>
 <p><strong><u>Coast to Coast (C2C) Trail</u></strong>
 </p>
