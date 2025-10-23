@@ -17,10 +17,10 @@ of the eateries!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dining/Fusion Spoon/Fusion_Spoon_1.jpg">
 </div>
-<p>Fusion Spoon is the only dining restaurant in the Jurong Lake Gardens.
-Situated near the eco-pond, visitors can enjoy dining amidst nature and
-scenic view of the Jurong Lake. They can explore various food options ranging
-from Western to Asian cuisines.</p>
+<p>Fusion Spoon is a Halal restaurant in Lakeside Gardens. Situated near
+the eco-pond, visitors can enjoy dining amidst nature and scenic view of
+the Jurong Lake. They can explore various food options ranging from Western
+to Asian cuisines.</p>
 <p></p>
 <p><strong>Location 📍</strong>
 </p>
@@ -134,7 +134,8 @@ more details!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>BingXue (Bonsai Garden)</summary>
+<summary><strong>BingXue (Bonsai Garden)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>Located within the tranquil surroundings of the Bonsai Garden at Jurong
