@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Canopy.md
       - Eden.md
       - BingXue.md
       - Ice Cream Man And Friends.md
