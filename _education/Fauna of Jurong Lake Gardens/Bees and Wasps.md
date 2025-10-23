@@ -8,7 +8,7 @@ third_nav_title: Fauna of Jurong Lake Gardens
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/apis_dorsata_tjw_crop.jpg">
 </div>
-<p><em>Photo: Giant Honey Bees (Apis dorsata) foraging on a water lily flower. (Credit: Tan Jing Wen)</em><strong><a href="https://www.nparks.gov.sg/" class="site-footer__title" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
+<p><em>Photo: Giant Honey Bees (Apis dorsata) foraging on a water lily flower. (Credit: Tan Jing Wen)</em>
 </p>
 <p><strong>What are they?</strong>
 </p>
