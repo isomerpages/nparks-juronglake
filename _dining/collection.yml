@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Fusion Spoon.md
       - Canopy.md
       - Eden.md
       - BingXue.md
