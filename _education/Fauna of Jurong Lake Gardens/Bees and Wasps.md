@@ -588,7 +588,7 @@ names of Leaf-cutter Bees and Resin Bees.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/DSC07663__13_.jpg">
 </div>
-<p>Photo credit: Ong Kwan Han (<a href="https://ilovenature.sg/Condition_to_use.html" rel="noopener noreferrer nofollow" target="_blank">ilovenature.sg</a>)</p>
+<p>Photo credit: Ong Kwan Han</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
