@@ -42,7 +42,7 @@ let their dogs roam free and interact with other like-minded people.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Cycling on the PCN" src="/images/Play/Cycling_on_the_PCN.jpg">
 </div>
 <p></p>
-<p>Get active and visit our sports and recreation partners <strong><a href="https://juronglakegardens.nparks.gov.sg/passion-wave-jurong-lake-gardens/" rel="noopener noreferrer nofollow" target="_blank">PAssion WaVe</a></strong> and <strong><a href="https://juronglakegardens.nparks.gov.sg/activesg-park/" rel="noopener noreferrer nofollow" target="_blank">ActiveSG Park</a></strong> in
+<p>Get active and visit our sports and recreation partners <strong><a href="https://juronglakegardens.nparks.gov.sg/passion-wave-jurong-lake-gardens/" rel="noopener nofollow" target="_blank">PAssion WaVe @ Jurong Lake Gardens</a></strong> and <strong><a href="https://juronglakegardens.nparks.gov.sg/activesg-park/" rel="noopener noreferrer nofollow" target="_blank">ActiveSG Park</a></strong> in
 the gardens. The PAssion WaVe building has a range of water sport facilities
 such as dragon boating and kayaking for all to enjoy. Bring your family
 down for a day of water activities in Jurong Lake, as you take in breathtaking
