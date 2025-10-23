@@ -1,4 +1,5 @@
 collections:
   play:
     output: true
-    order: []
+    order:
+      - Play.md
