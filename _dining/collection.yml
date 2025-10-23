@@ -2,4 +2,4 @@ collections:
   dining:
     output: true
     order:
-      - Overview.md
+      - Dining.md
