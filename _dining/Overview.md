@@ -4,7 +4,7 @@ permalink: /dining/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Jurong Lake Gardens offers a variety of dining options!</strong></h3>
+<h3><strong>Jurong Lake Gardens offers a variety of dining options</strong></h3>
 <p></p>
 <h4><strong>Lakeside Garden</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
