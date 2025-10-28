@@ -6,8 +6,9 @@ description: Jurong Lake Gardens is Singapore’s national gardens in the
   families and the community to come together.
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
-notification: Please note that Water Wall Court will be closed from 13 Oct 2025
-  to 15 Oct 2025 for maintenance works. Thank you for your understanding.
+notification: Rainforest Pavilion Toilet Block will be closed until further
+  notice due to a water supply disruption. We apologize for the inconvenience
+  caused.
 sections:
   - hero:
       title: Jurong Lake Gardens
