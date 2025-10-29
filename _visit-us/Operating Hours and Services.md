@@ -16,21 +16,30 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Important Notice 📢</strong></h4>
+<h4><strong>Important Notices 📢</strong></h4>
 <p></p>
+<h4><strong>Lakeside Garden</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Please note that the following nature areas are not lighted. For your
-own safety, please do not enter <strong>Grasslands </strong>and <strong>Neram Streams</strong> during
+<p>The following nature areas are not lighted. For your own safety, please
+do not enter <strong>Grasslands </strong>and <strong>Neram Streams</strong>  <strong>(Lakeside Garden)</strong> during
 nighttime.</p>
 </li>
 <li>
-<p>Please note that<strong> Forest Ramble Snake Play</strong> and <strong>Otter Play</strong> will
+<p><strong>Forest Ramble (Nature Playgarden) – Snake Play</strong> and <strong>Otter Play (Lakeside Garden)</strong> will
 be closed for maintenance works until further notice.</p>
 </li>
 <li>
-<p>Please note that <strong>Water Wall Court</strong> will be closed from 13
-Oct 2025 to 15 Oct 2025 for maintenance works.</p>
+<p><strong>Rainforest Pavilion toilet block</strong>  <strong>(Lakeside Garden)</strong> will
+be closed until further notice due to a water supply disruption.</p>
+<p></p>
+</li>
+</ol>
+<h4><strong>Chinese Garden</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Please note that <strong>Water Wall Court</strong>  <strong>(Chinese Garden)</strong> will
+be closed until further notice for maintenance works.</p>
 <p></p>
 <p>Thank you for your understanding.</p>
 <p></p>
