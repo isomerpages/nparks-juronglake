@@ -2,6 +2,7 @@ collections:
   education:
     output: true
     order:
+      - Upcoming Guided Tours/Guided Tours.md
       - Upcoming Guided Tours/.keep
       - Learning Resources.md
       - Fauna of Jurong Lake Gardens/.keep
