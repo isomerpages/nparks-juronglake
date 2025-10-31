@@ -9,9 +9,9 @@ third_nav_title: Guided Tours
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guided Tour/Yian_Hah_JG_Guided_Tour.jpg">
 </div>
-<p>Register for one of our upcoming guided tours and learn about the rich
-biodiversity, explore the intricately designed landscapes, and appreciate
-architectural marvels within Jurong Lake Gardens.</p>
+<p>Embark on a guided tour of Jurong Lake Gardens and immerse yourself in
+its vibrant biodiversity, thoughtfully designed landscapes, and breathtaking
+architectural wonders.</p>
 <p></p>
 <table style="minWidth: 125px">
 <colgroup>
