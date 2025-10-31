@@ -3,6 +3,7 @@ title: Guided Tours
 permalink: /guided-tours/
 variant: tiptap
 description: ""
+third_nav_title: Guided Tours
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guided Tour/JLG_Guided_Tours_montage.png">
