@@ -22,9 +22,10 @@ locations:
     title: Jurong Lake Gardens Office
 contacts:
   - content:
-      - phone: 1800 471 7300
-      - email: juronglakegardens@nparks.gov.sg
-      - other: ""
-    title: General Enquiries & Feedback
+      - phone: ""
+      - email: ""
+      - other: If you have a query, feedback, or wish to report a problem related to
+          this website, please visit https://www.nparks.gov.sg/contact-us
+    title: ""
 feedback: https://www.nparks.gov.sg/contact-us
 ---
