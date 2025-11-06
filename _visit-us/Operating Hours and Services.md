@@ -25,7 +25,7 @@ description: ""
 For your own safety, please do not enter them during nighttime.</p>
 </li>
 <li>
-<p><strong>Forest Ramble (Nature Playgarden) – Snake Play</strong> and <strong>Otter Play (Lakeside Garden)</strong> will
+<p><strong>Forest Ramble (Nature Playgarden) – Snake Play</strong> and <strong>Otter Play</strong> will
 be closed for maintenance works until further notice.</p>
 </li>
 <li>
