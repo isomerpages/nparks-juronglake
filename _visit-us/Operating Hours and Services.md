@@ -21,9 +21,8 @@ description: ""
 <h4><strong>Lakeside Garden</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>The following nature areas are not lighted. For your own safety, please
-do not enter <strong>Grasslands </strong>and <strong>Neram Streams</strong>  <strong>(Lakeside Garden)</strong> during
-nighttime.</p>
+<p>The following nature areas are not lighted: <strong>Grasslands </strong>and <strong>Neram Streams</strong>  <strong>(Lakeside Garden)</strong>.
+For your own safety, please do not enter them during nighttime.</p>
 </li>
 <li>
 <p><strong>Forest Ramble (Nature Playgarden) – Snake Play</strong> and <strong>Otter Play (Lakeside Garden)</strong> will
@@ -32,6 +31,10 @@ be closed for maintenance works until further notice.</p>
 <li>
 <p><strong>Rainforest Pavilion toilet block</strong>  <strong>(Lakeside Garden)</strong> will
 be closed until further notice due to a water supply disruption.</p>
+</li>
+<li>
+<p>Portions of <strong>Lakeside Field</strong> and <strong>Butterfly Field</strong> will
+be closed until end November for reinstatement works.</p>
 <p></p>
 </li>
 </ol>
