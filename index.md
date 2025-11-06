@@ -6,9 +6,10 @@ description: Jurong Lake Gardens is Singapore’s national gardens in the
   families and the community to come together.
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
-notification: Rainforest Pavilion toilet block (Lakeside Garden) and Water Wall
-  Court (Chinese Garden) will be closed until further notice for maintenance
-  works. We apologise for the inconvenience caused.
+notification: ℹ️ Rainforest Pavilion toilet block (Lakeside Garden) and Water
+  Wall Court (Chinese Garden) will be closed until further notice for
+  maintenance works. Portions of Lakeside Field and Butterfly Field will be
+  closed until end November for reinstatement works.
 sections:
   - hero:
       title: Jurong Lake Gardens
