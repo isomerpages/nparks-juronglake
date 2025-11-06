@@ -33,7 +33,7 @@ be closed for maintenance works until further notice.</p>
 be closed until further notice due to a water supply disruption.</p>
 </li>
 <li>
-<p>Portions of <strong>Lakeside Field</strong> and <strong>Butterfly Field</strong> will
+<p>Portions of <strong>Lakeside Field</strong> and <strong>Butterfly Lawn </strong>will
 be closed until end November for reinstatement works.</p>
 <p></p>
 </li>
