@@ -8,7 +8,7 @@ image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
 notification: ℹ️ Rainforest Pavilion toilet block (Lakeside Garden) and Water
   Wall Court (Chinese Garden) will be closed until further notice for
-  maintenance works. Portions of Lakeside Field and Butterfly Field will be
+  maintenance works. Portions of Lakeside Field and Butterfly Lawn will be
   closed until end November for reinstatement works.
 sections:
   - hero:
