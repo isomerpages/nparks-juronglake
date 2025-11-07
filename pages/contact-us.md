@@ -19,12 +19,13 @@ locations:
         time: 5.30am to 12.00am
         description: ""
     maps_link: https://maps.app.goo.gl/brNiuqYsdmkncbpK8
-    title: Jurong Lake Gardens Office
+    title: Jurong Lake Gardens Office (Gardenhouse)
 contacts:
   - content:
-      - phone: 1800 471 7300
-      - email: juronglakegardens@nparks.gov.sg
-      - other: ""
-    title: General Enquiries & Feedback
+      - phone: ""
+      - email: ""
+      - other: If you have a query, feedback, or wish to report a problem related to
+          this website, please visit https://www.nparks.gov.sg/contact-us
+    title: Feedback and enquiries
 feedback: https://www.nparks.gov.sg/contact-us
 ---
