@@ -44,38 +44,38 @@ join us for our volunteer programmes in Jurong Lake Gardens.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Community Composting Saturdays</p>
+<p>Edible Gardening at the Kitchen Garden</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Every 2nd and 4th Saturday of the month
-<br>&nbsp;9AM - 10AM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Edible Plant Propagation and Maintenance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Every 1st and 3rd Friday of the month
-<br>&nbsp;9AM - 11AM</p>
+<p>Wednesdays</p>
+<p>4pm to 6pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Edible Gardening and Management&nbsp;</p>
+<p>Edible Gardening at the Edible Demonstration Garden</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Every Wednesday&nbsp;
-<br>&nbsp;4PM - 6PM</p>
+<p>Thursdays</p>
+<p>9am to 11am</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Horticulture Works and Propagation</p>
+<p>Horticulture Works and Propagation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Every last Monday of the month
-<br>&nbsp;3.30PM - 5.30PM</p>
+<p>Every last Monday of the month</p>
+<p>4pm to 5.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Community Composting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturdays</p>
+<p>9am to 10am</p>
 </td>
 </tr>
 </tbody>
