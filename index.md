@@ -89,4 +89,13 @@ sections:
             understanding.
           link_text: ""
           link_url: ""
+        - title: EARLY CLOSURE OF CHINESE GARDEN
+          date: 19 November 2025
+          announcement: Chinese Garden will close early at 11:00 PM on Tuesday, 19
+            November 2025, due to urgent water pipe repair works.  Water supply
+            to all toilet blocks in Chinese Garden will be affected. Please use
+            toilets at Lakeside Garden or Japanese Garden.  Thank you for your
+            understanding.
+          link_text: ""
+          link_url: ""
 ---
