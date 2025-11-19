@@ -35,6 +35,8 @@ situations.</p>
 </p>
 <p><strong>Venue: Jurong Lake Gardens, Banyan Hall (Gardenhouse)</strong>
 </p>
+<p><strong>Registration Link: <a href="https://form.gov.sg/691597b14dae56211f5cbbad" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/691597b14dae56211f5cbbad</a></strong>
+</p>
 <p>Each CW session runs for approximately 45 minutes and is conducted in
 English. The LTA-appointed training provider can conduct the programme
 in Mandarin upon request to accommodate different language preferences.</p>
