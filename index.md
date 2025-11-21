@@ -6,11 +6,10 @@ description: Jurong Lake Gardens is Singapore’s national gardens in the
   families and the community to come together.
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
-notification: ℹ️ Chinese Garden will close early at 11:00 PM on Tuesday, 19
-  November 2025, due to urgent water pipe repair works | Heron Play (Forest
-  Ramble) and Water Wall Court (Chinese Garden) will be closed until further
-  notice for maintenance works | Portions of Lakeside Field and Butterfly Lawn
-  will be closed until end November for reinstatement works.
+notification: ℹ️ Heron Play (Forest Ramble) and Water Wall Court (Chinese
+  Garden) will be closed until further notice for maintenance works | Portions
+  of Lakeside Field and Butterfly Lawn will be closed until end November for
+  reinstatement works.
 sections:
   - hero:
       title: Jurong Lake Gardens
@@ -81,22 +80,6 @@ sections:
           date: 02 July 2025
           announcement: Please note that Forest Ramble Snake Play and Otter Play will be
             closed for maintenance works until further notice.
-          link_text: ""
-          link_url: ""
-        - title: Notice of Closure
-          date: 08 October 2025
-          announcement: Please note that Water Wall Court will be closed from 13 Oct 2025
-            to 15 Oct 2025 for maintenance works. Thank you for your
-            understanding.
-          link_text: ""
-          link_url: ""
-        - title: EARLY CLOSURE OF CHINESE GARDEN
-          date: 19 November 2025
-          announcement: Chinese Garden will close early at 11:00 PM on Tuesday, 19
-            November 2025, due to urgent water pipe repair works.    Water
-            supply to all toilet blocks in Chinese Garden will be affected.
-            Please use toilets at Lakeside Garden or Japanese Garden.    Thank
-            you for your understanding.
           link_text: ""
           link_url: ""
 ---
