@@ -41,31 +41,6 @@ architectural wonders.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>Sat, 22 Nov 2025</strong>
-</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>09:00AM - 11:00AM</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Entrance Pavilion @ North Carpark, Jurong Lake Gardens</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Chinese Garden</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_74/1448_Chinese-Garden-Guided-Tour-Session-1" rel="noopener noreferrer nofollow" target="_blank">Chinese Garden Guided Tour (Session 1)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_75/1449_Chinese-Garden-Guided-Tour-Session-2" rel="noopener noreferrer nofollow" target="_blank">Chinese Garden Guided Tour (Session 2)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p><strong>Sat, 27 Dec 2025</strong>
 </p>
 </td>
