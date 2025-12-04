@@ -6,36 +6,47 @@ description: ""
 third_nav_title: Arts@JLG
 ---
 <h2><strong>Where Art Meets Nature</strong></h2>
-<p><strong>Arts@JLG: <em>collage</em></strong> is a programme held as part
-of <strong>Singapore Art Week</strong>, featuring art installations and
-hands-on workshops for the public. Set in <strong>Jurong Lake Gardens</strong>,
-the event invites visitors of all ages to explore the connection between
-art and nature in an open, interactive environment.</p>
-<p>This programme invites visitors to explore the intersections between natural
-landscapes and artistic expression through a series of installations, interactive
-elements, and hands-on workshops.</p>
-<p>Look forward to engaging activities, including art workshops designed
-for all ages. Whether you're a curious passerby or an art enthusiast, there's
-something for everyone to enjoy in this unique celebration of art in the
-heart of nature.</p>
-<p>Check out highlights from our 2025 edition below!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/Collage/015A2129.jpg">
-</div>
-<p><em>Community Art Installation, "‘Field Notes for Encountering Nature’</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/Collage/015A2023.jpg">
-</div>
-<p><em>Field Notes for Encountering Nature Co-Creation Activity</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/Collage/015A6823.jpg">
-</div>
-<p><em>Grow Your Own Oyster Mushrooms Programme</em>
-</p>
-<h3><strong><em>Stay tuned for more information on 2026's edition!</em></strong></h3>
+<p>📅: 22 - 31 January 2026
+<br>⏰: Exhibitions available daily | Weekend activities
+<br>📍: Entrance Pavilion (Lakeside Garden), Grand Arch (Chinese Garden),
+and Water Lily Pavilion (Japanese Garden)</p>
+<p><strong>Arts@JLG: collage</strong> is a programme held from 22 to 31 January
+2026, as part of Singapore Art Week. It transforms Jurong Lake Gardens
+into an open-air gallery where visual arts flourish through community participation.
+Set amidst natural landscapes, the event invites visitors of all ages to
+explore the connection between art and nature in an open, interactive environment.</p>
+<p>The 2026 edition is themed <strong>"Heritage in Motion: Art Without Boundaries"</strong>.
+It explores how heritage and artistic traditions remain vibrant and relevant
+when they connect with contemporary communities. Through art installations
+and interactive and participative elements, the event breaks down boundaries
+across multiple dimensions:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Geographical</strong>&nbsp;- mobile art experiences that bring
+creativity beyond fixed locations</p>
+</li>
+<li>
+<p><strong>Cultural</strong>&nbsp;- diverse artistic traditions and international
+collaborations</p>
+</li>
+<li>
+<p><strong>Temporal</strong>&nbsp;- vintage aesthetics meeting contemporary
+presentation</p>
+</li>
+<li>
+<p><strong>Physical</strong>&nbsp;- tactile, accessible experiences for all
+abilities</p>
+</li>
+<li>
+<p><strong>Social</strong>&nbsp;- participatory activities welcoming everyone</p>
+</li>
+</ul>
+<p>Whether you're a curious passerby or an art enthusiast, discover the unique
+intersection of art and nature in this celebration of living traditions.</p>
+<h3><strong><em>Stay tuned for more information!</em></strong></h3>
 <hr>
+<p><em>Arts@JLG: collage is organised by National Parks Board, in partnership with ART:DIS, National Gallery Singapore, National Heritage Board, and Singapore Chinese Cultural Centre.</em>
+</p>
 <p><em>Jurong Lake Gardens is part of the Arts &amp; Culture Nodes Network, an initiative by the National Arts Council, for people to come together to experience the arts in their neighbourhood.</em>
 <br>
 <br>
