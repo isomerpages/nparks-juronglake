@@ -7,7 +7,7 @@ third_nav_title: Arts@JLG
 ---
 <h2><strong>Where Art Meets Nature</strong></h2>
 <p>📅: 22 - 31 January 2026
-<br>⏰: All Day
+<br>⏰: Exhibitions available daily | Weekend activities
 <br>📍: Entrance Pavilion (Lakeside Garden), Grand Arch (Chinese Garden),
 and Water Lily Pavilion (Japanese Garden)</p>
 <p><strong>Arts@JLG: collage</strong> is a programme held from 22 to 31 January
