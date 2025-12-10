@@ -9,7 +9,7 @@ third_nav_title: Arts@JLG
 <p>📅: 22 - 31 January 2026
 <br>⏰: Exhibitions available daily | Weekend activities
 <br>📍: Entrance Pavilion (Lakeside Garden), Grand Arch (Chinese Garden),
-and Water Lily Pavilion (Japanese Garden)</p>
+and Resthouse (Japanese Garden)</p>
 <p><strong>Arts@JLG: collage</strong> is a programme held from 22 to 31 January
 2026, as part of Singapore Art Week. It transforms Jurong Lake Gardens
 into an open-air gallery where visual arts flourish through community participation.
