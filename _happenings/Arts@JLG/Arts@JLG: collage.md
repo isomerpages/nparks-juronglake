@@ -6,15 +6,16 @@ description: ""
 third_nav_title: Arts@JLG
 ---
 <h2><strong>Where Art Meets Nature</strong></h2>
-<p>📅: 22 - 31 January 2026
-<br>⏰: Exhibitions available daily | Weekend activities
+<p>📅: 22 January - 1 February 2026
+<br>⏰: Exhibitions available daily | Activities on selected days
 <br>📍: Entrance Pavilion (Lakeside Garden), Grand Arch (Chinese Garden),
-and Water Lily Pavilion (Japanese Garden)</p>
-<p><strong>Arts@JLG: collage</strong> is a programme held from 22 to 31 January
-2026, as part of Singapore Art Week. It transforms Jurong Lake Gardens
-into an open-air gallery where visual arts flourish through community participation.
-Set amidst natural landscapes, the event invites visitors of all ages to
-explore the connection between art and nature in an open, interactive environment.</p>
+and Resthouse (Japanese Garden)</p>
+<p><strong>Arts@JLG: collage</strong> is a programme held from 22 January
+- 1 February 2026, as part of Singapore Art Week. It transforms Jurong
+Lake Gardens into an open-air gallery where visual arts flourish through
+community participation. Set amidst natural landscapes, the event invites
+visitors of all ages to explore the connection between art and nature in
+an open, interactive environment.</p>
 <p>The 2026 edition is themed <strong>"Heritage in Motion: Art Without Boundaries"</strong>.
 It explores how heritage and artistic traditions remain vibrant and relevant
 when they connect with contemporary communities. Through art installations
@@ -48,6 +49,5 @@ intersection of art and nature in this celebration of living traditions.</p>
 <p><em>Arts@JLG: collage is organised by National Parks Board, in partnership with ART:DIS, National Gallery Singapore, National Heritage Board, and Singapore Chinese Cultural Centre.</em>
 </p>
 <p><em>Jurong Lake Gardens is part of the Arts &amp; Culture Nodes Network, an initiative by the National Arts Council, for people to come together to experience the arts in their neighbourhood.</em>
-<br>
 <br>
 </p>
