@@ -74,8 +74,8 @@ join us for our volunteer programmes in Jurong Lake Gardens.&nbsp;</p>
 <p>Community Composting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Saturdays</p>
-<p>9am to 10am</p>
+<p>Thursdays</p>
+<p>9am to 11am</p>
 </td>
 </tr>
 </tbody>
