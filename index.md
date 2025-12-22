@@ -6,10 +6,9 @@ description: Jurong Lake Gardens is Singapore’s national gardens in the
   families and the community to come together.
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
-notification: ℹ️ Heron Play (Forest Ramble) and Water Wall Court (Chinese
-  Garden) will be closed until further notice for maintenance works | Portions
-  of Lakeside Field and Butterfly Lawn will be closed until end November for
-  reinstatement works.
+notification: "ℹ️ The following will be closed until further notice for
+  maintenance works: Heron Play (Forest Ramble), Water Wall Court (Chinese
+  Garden) & portions of Butterfly Lawn."
 sections:
   - hero:
       title: Jurong Lake Gardens
