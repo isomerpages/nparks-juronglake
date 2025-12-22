@@ -6,11 +6,11 @@ description: ""
 third_nav_title: Arts@JLG
 ---
 <h2><strong>Where Art Meets Nature</strong></h2>
-<p>📅: 22 January - 1 February 2026
+<p>📅: 19 January - 1 February 2026
 <br>⏰: Exhibitions available daily | Activities on selected days
 <br>📍: Entrance Pavilion (Lakeside Garden), Grand Arch (Chinese Garden),
 and Resthouse (Japanese Garden)</p>
-<p><strong>Arts@JLG: collage</strong> is a programme held from 22 January
+<p><strong>Arts@JLG: collage</strong> is a programme held from 19 January
 - 1 February 2026, as part of Singapore Art Week. It transforms Jurong
 Lake Gardens into an open-air gallery where visual arts flourish through
 community participation. Set amidst natural landscapes, the event invites
@@ -42,8 +42,20 @@ abilities</p>
 <p><strong>Social</strong>&nbsp;- participatory activities welcoming everyone</p>
 </li>
 </ul>
-<p>Whether you're a curious passerby or an art enthusiast, discover the unique
-intersection of art and nature in this celebration of living traditions.</p>
+<h3>Activities</h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Sketch Walk by Urban Sketchers Singapore</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📅: 24 Jan 2026 (Sat)
+<br>⏰: 9:30am onwards
+<br>📍: Water Lily Pavilion, Japanese Garden</p>
+<p>Urban Sketchers Singapore invites you to capture the beauty of Jurong
+Lake Gardens through sketching. Free for all to join, no registration required.</p>
+</div>
+</details>
+</div>
+<p></p>
 <h3><strong><em>Stay tuned for more information!</em></strong></h3>
 <hr>
 <p><em>Arts@JLG: collage is organised by National Parks Board, in partnership with ART:DIS, National Gallery Singapore, National Heritage Board, and Singapore Chinese Cultural Centre.</em>
