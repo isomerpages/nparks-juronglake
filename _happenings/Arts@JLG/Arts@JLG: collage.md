@@ -6,11 +6,11 @@ description: ""
 third_nav_title: Arts@JLG
 ---
 <h2><strong>Where Art Meets Nature</strong></h2>
-<p>📅: 22 January - 1 February 2026
+<p>📅: 19 January - 1 February 2026
 <br>⏰: Exhibitions available daily | Activities on selected days
 <br>📍: Entrance Pavilion (Lakeside Garden), Grand Arch (Chinese Garden),
 and Resthouse (Japanese Garden)</p>
-<p><strong>Arts@JLG: collage</strong> is a programme held from 22 January
+<p><strong>Arts@JLG: collage</strong> is a programme held from 19 January
 - 1 February 2026, as part of Singapore Art Week. It transforms Jurong
 Lake Gardens into an open-air gallery where visual arts flourish through
 community participation. Set amidst natural landscapes, the event invites
@@ -42,8 +42,63 @@ abilities</p>
 <p><strong>Social</strong>&nbsp;- participatory activities welcoming everyone</p>
 </li>
 </ul>
-<p>Whether you're a curious passerby or an art enthusiast, discover the unique
-intersection of art and nature in this celebration of living traditions.</p>
+<h4>Exhibitions</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>CITY SingaPOP by Singapore Chinese Cultural Centre</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📍Grand Arch, Chinese Garden</p>
+<p>CITY SingaPOP is designed and photographed by Singapore-based French visual
+designer Nicolas Damiens in collaboration between Singapore Chinese Cultural
+Centre and the Embassy of France in Singapore. The exhibition features
+iconic Chinese landmarks such as Thian Hock Keng Temple and Buddha Tooth
+Relic Temple, presented in a vibrant City Pop style.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Batik Art Cart by National Gallery Singapore</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📍Entrance Pavilion, Lakeside Garden</p>
+<p>Batik Art Cart introduces visitors to traditional batik making through
+interactive displays showcasing the craft's techniques and processes. Visitors
+can explore this cultural art form and take home activity sheets to continue
+their batik learning journey.</p>
+</div>
+</details>
+</div>
+<h4>Activities</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Sketch Walk by Urban Sketchers Singapore</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📅: 24 Jan 2026 (Sat)
+<br>⏰: 9:30am onwards
+<br>📍: Water Lily Pavilion, Japanese Garden</p>
+<p>Urban Sketchers Singapore invites you to capture the beauty of Jurong
+Lake Gardens through sketching. Free for all to join, no registration required.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Cordage Workshop by FoJLG</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📅: 25 Jan 2026 (Sun)
+<br>⏰: 2 sessions; 3pm – 4pm | 4.30pm – 5.30pm
+<br>📍: Gardenhouse, Lakeside Garden</p>
+<p>Learn the ancient craft of rope-making using natural fibres like banana
+leaves and water hyacinth. Discover how this forgotten heritage skill transforms
+humble plants into strong, useful cords.</p>
+<p>This session is conducted by Geok Kuan (@juanherbalcuisine) who is a Friend
+of Jurong Lake Gardens.</p>
+<p>
+<br>Registration will begin soon, stay tuned!</p>
+</div>
+</details>
+</div>
+<p></p>
 <h3><strong><em>Stay tuned for more information!</em></strong></h3>
 <hr>
 <p><em>Arts@JLG: collage is organised by National Parks Board, in partnership with ART:DIS, National Gallery Singapore, National Heritage Board, and Singapore Chinese Cultural Centre.</em>
