@@ -55,6 +55,23 @@ Lake Gardens through sketching. Free for all to join, no registration required.<
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Cordage Workshop by FoJLG</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📅: 25 Jan 2026 (Sun)
+<br>⏰: 2 sessions; 3pm – 4pm | 4.30pm – 5.30pm
+<br>📍: Gardenhouse, Lakeside Garden</p>
+<p>Learn the ancient craft of rope-making using natural fibres like banana
+leaves and water hyacinth. Discover how this forgotten heritage skill transforms
+humble plants into strong, useful cords.</p>
+<p>This session is conducted by Geok Kuan (@juanherbalcuisine) who is a Friend
+of Jurong Lake Gardens.</p>
+<p>
+<br>Registration will begin soon, stay tuned!</p>
+</div>
+</details>
+</div>
 <p></p>
 <h3><strong><em>Stay tuned for more information!</em></strong></h3>
 <hr>
