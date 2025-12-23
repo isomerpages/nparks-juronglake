@@ -7,7 +7,8 @@ third_nav_title: Arts@JLG
 ---
 <h2><strong>Where Art Meets Nature</strong></h2>
 <p>📅: 19 January - 1 February 2026
-<br>⏰: Exhibitions available daily | Activities on selected days
+<br>⏰: Exhibitions available daily | Activities on 24 and 25 Jan (Sat &amp;
+Sun)
 <br>📍: Entrance Pavilion (Lakeside Garden), Grand Arch (Chinese Garden),
 and Resthouse (Japanese Garden)</p>
 <p><strong>Arts@JLG: collage</strong> is a programme held from 19 January
@@ -68,6 +69,21 @@ their batik learning journey.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Uncles Love Monuments by National Heritage Board</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📍Resthouse, Japanese Garden</p>
+<p>Uncles Love Monuments celebrates the passion of three dedicated sketch
+enthusiasts who capture Singapore's architectural treasures through their
+unique artistic lens. Discover how these monuments come alive in fresh,
+intimate perspectives, then create your own keepsake at the interactive
+embossing stamp station where you can personalise postcards featuring their
+beautiful artworks to take home.</p>
+<p></p>
+</div>
+</details>
+</div>
 <h4>Activities</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -86,7 +102,7 @@ Lake Gardens through sketching. Free for all to join, no registration required.<
 <summary>Cordage Workshop by FoJLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📅: 25 Jan 2026 (Sun)
-<br>⏰: 2 sessions; 3pm – 4pm | 4.30pm – 5.30pm
+<br>⏰: 2 sessions; exact timings TBC
 <br>📍: Gardenhouse, Lakeside Garden</p>
 <p>Learn the ancient craft of rope-making using natural fibres like banana
 leaves and water hyacinth. Discover how this forgotten heritage skill transforms
