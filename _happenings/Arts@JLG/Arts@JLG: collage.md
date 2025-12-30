@@ -121,7 +121,11 @@ humble plants into strong, useful cords.</p>
 <p>This session is conducted by Geok Kuan (@juanherbalcuisine) who is a Friend
 of Jurong Lake Gardens.</p>
 <p>
-<br>Registration will begin soon, stay tuned!</p>
+<br>Register here:</p>
+<p><a href="https://go.gov.sg/natural-cordage-workshop" rel="noopener nofollow" target="_blank">Session 1 (10am - 11am)</a>
+</p>
+<p><a href="https://go.gov.sg/natural-cordage-workshop-2" rel="noopener nofollow" target="_blank">Session 2 (11:30am - 12:30pm)</a>
+</p>
 </div>
 </details>
 </div>
