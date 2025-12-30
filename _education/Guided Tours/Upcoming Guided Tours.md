@@ -41,26 +41,27 @@ architectural wonders.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>Sat, 27 Dec 2025</strong>
+<p><strong>Saturday, 31 January 2026</strong>
 </p>
 </td>
 <td rowspan="2" colspan="1">
 <p>09:00AM - 11:00AM</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Entrance Pavilion @ North Carpark, Jurong Lake Gardens</p>
+<p>ActiveSG Park (next to table tennis area) @ South Carpark, Jurong Lake
+Gardens</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Lakeside Garden (North)</p>
+<p>Lakeside Garden (South)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_48/1343_Lakeside-Garden-North-Guided-Tour-Session-1" rel="noopener noreferrer nofollow" target="_blank">Lakeside Garden (North) Guided Tour (Session 1)</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_76/1601_Lakeside-Garden-South-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_49/1346_Lakeside-Garden-North-Guided-Tour-Session-2" rel="noopener noreferrer nofollow" target="_blank">Lakeside Garden (North) Guided Tour (Session 2)</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_77/1602_Lakeside-Garden-South-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
 </p>
 </td>
 </tr>
