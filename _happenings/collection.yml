@@ -2,7 +2,6 @@ collections:
   happenings:
     output: true
     order:
-      - Confidence on Wheels (CW) Programme.md
       - Arts@JLG/.keep
       - Arts@JLG/Arts@JLG.md
       - "Arts@JLG/Arts@JLG: heART.md"
