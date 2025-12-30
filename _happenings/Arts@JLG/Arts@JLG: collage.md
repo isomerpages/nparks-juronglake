@@ -44,6 +44,29 @@ abilities</p>
 </li>
 </ul>
 <h4>Exhibitions</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Batik Art Cart by National Gallery Singapore</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📍Entrance Pavilion, Lakeside Garden</p>
+<p>Batik Art Cart introduces visitors to traditional batik making through
+interactive displays showcasing the craft's techniques and processes. Visitors
+can explore this cultural art form and take home activity sheets to continue
+their batik learning journey.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Botanical Art Worldwide by Botanical Art Society Singapore</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📍Entrance Pavilion, Lakeside Garden</p>
+<p>Witness how botanical art becomes a powerful tool for preserving our plant
+heritage—visual love letters to the crops that have shaped our cultures
+and continue to sustain our communities.</p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>CITY SingaPOP by Singapore Chinese Cultural Centre</summary>
@@ -54,18 +77,6 @@ designer Nicolas Damiens in collaboration between Singapore Chinese Cultural
 Centre and the Embassy of France in Singapore. The exhibition features
 iconic Chinese landmarks such as Thian Hock Keng Temple and Buddha Tooth
 Relic Temple, presented in a vibrant City Pop style.</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Batik Art Cart by National Gallery Singapore</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>📍Entrance Pavilion, Lakeside Garden</p>
-<p>Batik Art Cart introduces visitors to traditional batik making through
-interactive displays showcasing the craft's techniques and processes. Visitors
-can explore this cultural art form and take home activity sheets to continue
-their batik learning journey.</p>
 </div>
 </details>
 </div>
@@ -102,15 +113,19 @@ Lake Gardens through sketching. Free for all to join, no registration required.<
 <summary>Cordage Workshop by FoJLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📅: 25 Jan 2026 (Sun)
-<br>⏰: 2 sessions; exact timings TBC
-<br>📍: Gardenhouse, Lakeside Garden</p>
+<br>⏰: 2 sessions; 10am - 11am &amp; 11:30am - 12:30pm
+<br>📍: Mempat Hall (Gardenhouse), Lakeside Garden</p>
 <p>Learn the ancient craft of rope-making using natural fibres like banana
 leaves and water hyacinth. Discover how this forgotten heritage skill transforms
 humble plants into strong, useful cords.</p>
 <p>This session is conducted by Geok Kuan (@juanherbalcuisine) who is a Friend
 of Jurong Lake Gardens.</p>
 <p>
-<br>Registration will begin soon, stay tuned!</p>
+<br>Register here:</p>
+<p><a href="https://go.gov.sg/natural-cordage-workshop" rel="noopener nofollow" target="_blank">Session 1 (10am - 11am)</a>
+</p>
+<p><a href="https://go.gov.sg/natural-cordage-workshop-2" rel="noopener nofollow" target="_blank">Session 2 (11:30am - 12:30pm)</a>
+</p>
 </div>
 </details>
 </div>
