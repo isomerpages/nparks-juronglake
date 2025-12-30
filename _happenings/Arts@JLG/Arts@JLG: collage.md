@@ -102,8 +102,8 @@ Lake Gardens through sketching. Free for all to join, no registration required.<
 <summary>Cordage Workshop by FoJLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📅: 25 Jan 2026 (Sun)
-<br>⏰: 2 sessions; exact timings TBC
-<br>📍: Gardenhouse, Lakeside Garden</p>
+<br>⏰: 2 sessions; 10am - 11am &amp; 11:30am - 12:30pm
+<br>📍: Mempat Hall (Gardenhouse), Lakeside Garden</p>
 <p>Learn the ancient craft of rope-making using natural fibres like banana
 leaves and water hyacinth. Discover how this forgotten heritage skill transforms
 humble plants into strong, useful cords.</p>
