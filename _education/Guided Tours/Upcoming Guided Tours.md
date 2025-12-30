@@ -67,4 +67,15 @@ Gardens</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Note:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Registration for the above sessions opens on 31 December 2025 at 10:00AM.</p>
+</li>
+<li>
+<p>Successful applicants will receive a confirmation email at least 3 working
+days before the tour.</p>
+</li>
+</ul>
 <p></p>
