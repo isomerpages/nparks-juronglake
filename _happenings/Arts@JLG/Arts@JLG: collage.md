@@ -132,7 +132,7 @@ of Jurong Lake Gardens.</p>
 <p></p>
 <h3><strong><em>Stay tuned for more information!</em></strong></h3>
 <hr>
-<p><em>Arts@JLG: collage is organised by National Parks Board, in partnership with ART:DIS, National Gallery Singapore, National Heritage Board, and Singapore Chinese Cultural Centre.</em>
+<p><em>Arts@JLG: collage is organised by National Parks Board, in partnership with ART:DIS, Botanical Art Society Singapore, National Gallery Singapore, National Heritage Board, and Singapore Chinese Cultural Centre.</em>
 </p>
 <p><em>Jurong Lake Gardens is part of the Arts &amp; Culture Nodes Network, an initiative by the National Arts Council, for people to come together to experience the arts in their neighbourhood.</em>
 <br>
