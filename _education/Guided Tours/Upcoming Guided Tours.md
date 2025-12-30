@@ -55,13 +55,14 @@ Gardens</p>
 <p>Lakeside Garden (South)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_76/1601_Lakeside-Garden-South-Guided-Tour-Session-1" rel="noopener noreferrer nofollow" target="_blank">Lakeside Garden (South) Guided Tour (Session 1)</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_76/1601_Lakeside-Garden-South-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lakeside Garden (South) Guided Tour (Session 2)</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_77/1602_Lakeside-Garden-South-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+</p>
 </td>
 </tr>
 </tbody>
