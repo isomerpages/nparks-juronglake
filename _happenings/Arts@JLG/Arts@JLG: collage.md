@@ -44,6 +44,29 @@ abilities</p>
 </li>
 </ul>
 <h4>Exhibitions</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Batik Art Cart by National Gallery Singapore</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📍Entrance Pavilion, Lakeside Garden</p>
+<p>Batik Art Cart introduces visitors to traditional batik making through
+interactive displays showcasing the craft's techniques and processes. Visitors
+can explore this cultural art form and take home activity sheets to continue
+their batik learning journey.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Botanical Art Worldwide by Botanical Art Society Singapore</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📍Entrance Pavilion, Lakeside Garden</p>
+<p>Witness how botanical art becomes a powerful tool for preserving our plant
+heritage—visual love letters to the crops that have shaped our cultures
+and continue to sustain our communities.</p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>CITY SingaPOP by Singapore Chinese Cultural Centre</summary>
@@ -59,18 +82,6 @@ Relic Temple, presented in a vibrant City Pop style.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Batik Art Cart by National Gallery Singapore</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>📍Entrance Pavilion, Lakeside Garden</p>
-<p>Batik Art Cart introduces visitors to traditional batik making through
-interactive displays showcasing the craft's techniques and processes. Visitors
-can explore this cultural art form and take home activity sheets to continue
-their batik learning journey.</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary>Uncles Love Monuments by National Heritage Board</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📍Resthouse, Japanese Garden</p>
@@ -81,17 +92,6 @@ intimate perspectives, then create your own keepsake at the interactive
 embossing stamp station where you can personalise postcards featuring their
 beautiful artworks to take home.</p>
 <p></p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Botanical Art Worldwide by Botanical Art Society Singapore</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>📍Entrance Pavilion, Lakeside Garden</p>
-<p>Witness how botanical art becomes a powerful tool for preserving our plant
-heritage—visual love letters to the crops that have shaped our cultures
-and continue to sustain our communities.</p>
 </div>
 </details>
 </div>
