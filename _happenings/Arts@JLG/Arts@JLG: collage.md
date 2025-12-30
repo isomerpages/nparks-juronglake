@@ -84,6 +84,17 @@ beautiful artworks to take home.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Botanical Art Worldwide by Botanical Art Society Singapore</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📍Entrance Pavilion, Lakeside Garden</p>
+<p>Witness how botanical art becomes a powerful tool for preserving our plant
+heritage—visual love letters to the crops that have shaped our cultures
+and continue to sustain our communities.</p>
+</div>
+</details>
+</div>
 <h4>Activities</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
