@@ -1,5 +1,5 @@
 ---
-title: PAssion WaVe @ Jurong Lake Gardens
+title: PAssion Wave @ Jurong Lake Gardens
 permalink: /passion-wave-jurong-lake-gardens/
 variant: tiptap
 description: ""
