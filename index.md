@@ -9,7 +9,7 @@ permalink: /
 notification: "ℹ️ The following will be closed until further notice for
   maintenance works: Crab Play, Heron Play, Snake Play (Forest Ramble, Lakeside
   Garden), Water Wall Court (Chinese Garden) & portions of Floral Garden
-  (Japanese Garden)."
+  (Japanese Garden). Clusia Cove will be closed from 12 - 17 Jan 2026."
 sections:
   - hero:
       title: Jurong Lake Gardens
