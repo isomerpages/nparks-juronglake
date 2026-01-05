@@ -4,7 +4,8 @@ permalink: /lights-by-the-lake/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Celebrating Mid-Autumn at Jurong Lake Gardens</strong></h2><a class="isomer-image-wrapper" href="https://lightsbythelake.nparks.gov.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lights by the Lake/LBTL_2025_Final_V2.png"></a>
+<h3><strong>Celebrating Mid-Autumn at Jurong Lake Gardens</strong></h3>
+<p></p>
 <p>A signature annual event at Jurong Lake Gardens, <strong>Lights by the Lake</strong> presents
 a captivating gala of lights, music, and cultural delights in celebration
 of the Mid-Autumn Festival.</p>
