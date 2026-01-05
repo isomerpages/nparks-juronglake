@@ -13,6 +13,8 @@ arts and nature-themed programmes.&nbsp;
 <br>It welcomes various community members, including seniors and persons with
 disabilities, not just as participants but as contributors who share their
 unique talents and perspectives through special performances and showcases.</p>
+<p><em>Stay tuned for 2026's edition!</em>
+</p>
 <hr>
 <p><em>Jurong Lake Gardens is part of the Arts &amp; Culture Nodes Network, an initiative by the National Arts Council, for people to come together to experience the arts in their neighbourhood.</em>
 </p>
