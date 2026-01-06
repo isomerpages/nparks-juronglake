@@ -43,6 +43,7 @@ abilities</p>
 <p><strong>Social</strong>&nbsp;- participatory activities welcoming everyone</p>
 </li>
 </ul>
+<p>Got feedback for us? Let us know <a href="https://go.gov.sg/feedback-collage2026" rel="noopener nofollow" target="_blank">here</a>!</p>
 <h4>Exhibitions</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -61,9 +62,31 @@ their batik learning journey.</p>
 <summary>Botanical Art Worldwide by Botanical Art Society Singapore</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📍Entrance Pavilion, Lakeside Garden</p>
-<p>Witness how botanical art becomes a powerful tool for preserving our plant
-heritage—visual love letters to the crops that have shaped our cultures
-and continue to sustain our communities.</p>
+<p>In celebration of the theme of Crop Diversity and its significance in
+cultural and agricultural history, this exhibition was first shown at the
+Botanical Art Gallery, Singapore Botanic Gardens in May-November 2025 during
+Botanical Art Worldwide 2025.
+<br>
+<br>Members of the Botanical Art Society (Singapore) have submitted botanical
+artworks exploring Heritage Crops—traditional plant cultivars not used
+in modern, large-scale monocultural agriculture; Crop Wild Relatives—wild
+species that can enhance cultivated crops or are foraged wild plants; and
+Ancient Crops— plants cultivated for centuries in their original form.
+Each piece has been carefully selected by a panel of expert botanists and
+botanical artists based on scientific accuracy, artistic merit, technical
+mastery, and overall impact.
+<br>
+<br>Many of these plants hold deep personal meaning for the artists, evoking
+memories of home, family traditions, and cultural heritage. Some recall
+the familiar ingredients used in home cooking, while others are tied to
+crops central to traditional festivities.
+<br>
+<br>Beyond their personal significance, these plants are valued for their
+roles in food, medicine, and textiles, representing a rich genetic diversity
+often overlooked in modern agriculture. By showcasing these lesser-known
+varieties, this exhibition underscores the importance of preserving plant
+biodiversity while celebrating the artistry of botanical illustration.</p>
+<p></p>
 </div>
 </details>
 </div>
