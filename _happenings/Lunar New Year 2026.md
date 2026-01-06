@@ -6,8 +6,10 @@ description: ""
 ---
 <p>Step into a world of vibrant colour and tradition as&nbsp;<strong>Jurong Lake Gardens</strong>&nbsp;invites
 you to a spectacular Lunar New Year celebration from&nbsp;<strong>7 February to 3 March 2026</strong>.</p>
-<h3></h3>
-<h3><br><br><strong>Event Details</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Garden/Twin_Pagoda_CNY_2025.png">
+</div>
+<h3><strong>Event Details</strong></h3>
 <ul>
 <li>
 <p><strong>Dates:</strong> 7 February – 3 March 2026</p>
@@ -28,8 +30,8 @@ a season defined by&nbsp;strength, bold moves, and exploration.&nbsp;Our
 celebrations are curated with families in mind, offering a perfect blend
 of nature and tradition. Whether you are looking for a peaceful stroll
 or festive excitement, there is something for everyone.</p>
-<p>&nbsp;</p>
-<h3><strong>Lunar New Year Programmes<br><br></strong></h3>
+<p></p>
+<h3><strong>Lunar New Year Programmes</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -134,7 +136,7 @@ vibrant flora, and traditional architectural marvels.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Every Saturday (7, 14, 21 &amp; 28 Feb)</strong>, 9:00am to 11:00am
 <br>
-<br><em>Do check back again for the registration links!</em>
+<br><em>Registration links will be updated once they are available.</em>
 </p>
 </td>
 </tr>
