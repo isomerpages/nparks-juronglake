@@ -13,9 +13,9 @@ a captivating gala of lights, music, and cultural delights in celebration
 of the Mid-Autumn Festival.</p>
 <p>Be awed by the larger-than-life lantern displays, cultural showcases and
 music performances, and more in this extraordinary celebration of culture,
-art, and community under the autumn moon at Jurong Lake Gardens!</p>
+art, and community under the autumn moon!</p>
 <p><em>Stay tuned for more on 2026's edition.</em>
 </p>
 <hr>
-<p><em>Lights by the Lake is organised by the National Parks Board. </em>
+<p><em>Lights by the Lake is organised by the National Parks Board.</em>
 </p>
