@@ -104,6 +104,18 @@ beautiful artworks to take home.</p>
 <br>📍: Water Lily Pavilion, Japanese Garden</p>
 <p>Urban Sketchers Singapore invites you to capture the beauty of Jurong
 Lake Gardens through sketching. Free for all to join, no registration required.</p>
+<p></p>
+<p>Urban Sketchers Singapore (USkSG) is part of a global community of sketchers
+from all walks of life who enjoy sketching scenes of where they live and
+travel. Urban sketching is about drawing scenes on-location and from direct
+observation. It is a communal activity where we draw together and share
+our sketches online and offline.</p>
+<p></p>
+<p>The Singapore chapter was started in 2009 and has grown over the years
+into a lively community drawn together by their love for sketching. The
+group gathers every last Saturday of the month for their monthly Sketchwalk.
+Find out more on their Facebook group (Urban Sketchers Singapore) and Instagram
+(@<a rel="noopener noreferrer nofollow" target="_blank">usk.sg</a>).</p>
 </div>
 </details>
 </div>
