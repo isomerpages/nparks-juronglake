@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - Lunar New Year 2026.md
       - Arts@JLG/.keep
       - Arts@JLG/Arts@JLG.md
       - "Arts@JLG/Arts@JLG: collage.md"
