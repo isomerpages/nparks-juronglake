@@ -7,7 +7,7 @@ description: ""
 <p>Step into a world of vibrant colour and tradition as&nbsp;<strong>Jurong Lake Gardens</strong>&nbsp;invites
 you to a spectacular Lunar New Year celebration from&nbsp;<strong>7 February to 3 March 2026</strong>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Garden/Twin_Pagoda_CNY_2025.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Chinese Garden/Twin_Pagoda_CNY_2025.png">
 </div>
 <h3><strong>Event Details</strong></h3>
 <ul>
@@ -136,7 +136,27 @@ vibrant flora, and traditional architectural marvels.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Every Saturday (7, 14, 21 &amp; 28 Feb)</strong>, 9:00am to 11:00am
 <br>
-<br><em>Registration links will be updated once they are available.</em>
+<br><strong>Registration links:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://safe.menlosecurity.com/https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_84/1651_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">Session 1</a>
+</p>
+</li>
+<li>
+<p><a href="https://safe.menlosecurity.com/https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_86/1653_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">Session 2</a>
+</p>
+</li>
+<li>
+<p><a href="https://safe.menlosecurity.com/https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_87/1654_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">Session 3</a>
+</p>
+</li>
+<li>
+<p><a href="https://safe.menlosecurity.com/https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_88/1655_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">Session 4</a>
+</p>
+</li>
+</ul>
+<p><em>﻿</em>
 </p>
 </td>
 </tr>
