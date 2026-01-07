@@ -74,7 +74,9 @@ forecast at the Grand Arch - Edible Garden Lawn.
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Lantern Displays at Twin Pagoda, Teahouse and Stoneboat</strong>
-<br><strong><br>Stroll through the Gardens and admire the Lunar New Year inspired decorations at the Twin Pagoda, Teahouse and Stoneboat, each beautifully dressed for the season.<br></strong>
+<br><strong><br></strong>Stroll through the Gardens and admire the Lunar New
+Year inspired decorations at the Twin Pagoda, Teahouse and Stoneboat, each
+beautifully dressed for the season.<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,19 +142,19 @@ vibrant flora, and traditional architectural marvels.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://safe.menlosecurity.com/https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_84/1651_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">Session 1</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_84/1651_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">Session 1</a>
 </p>
 </li>
 <li>
-<p><a href="https://safe.menlosecurity.com/https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_86/1653_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">Session 2</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_86/1653_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">Session 2</a>
 </p>
 </li>
 <li>
-<p><a href="https://safe.menlosecurity.com/https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_87/1654_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">Session 3</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_87/1654_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">Session 3</a>
 </p>
 </li>
 <li>
-<p><a href="https://safe.menlosecurity.com/https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_88/1655_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">Session 4</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_88/1655_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">Session 4</a>
 </p>
 </li>
 </ul>
