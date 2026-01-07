@@ -86,14 +86,14 @@ beautifully dressed for the season.<strong><br></strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SCCC Exhibition at Grand Arch</strong>
-<br>
-<br>Discover a striking visual showcase designed and photographed by Singapore-based
-French visual designer Nicolas Damiens, where cultures meet through art.
-This special collaboration between the Singapore Chinese Cultural Centre
-and the Embassy of France in Singapore reimagines iconic Chinese landmarks
-in a bold, vibrant City Pop–inspired style that is both contemporary and
-captivating.</p>
+<p><strong>&nbsp;CITY SingaPOP by Singapore Chinese Cultural Centre</strong>
+</p>
+<p></p>
+<p>Discover a striking visual showcase photographed and designed by Singapore-based
+French visual designer Nicolas Damiens. This exhibition, presented by Singapore
+Chinese Cultural Centre, reimagines Chinese architectural landmarks and
+other familiar sights in a bold, vibrant City Pop art style that is both
+contemporary and captivating.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5:30am to 10pm&nbsp;</p>
