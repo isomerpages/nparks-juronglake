@@ -95,10 +95,11 @@ biodiversity while celebrating the artistry of botanical illustration.</p>
 <summary>CITY SingaPOP by Singapore Chinese Cultural Centre</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📍Grand Arch, Chinese Garden</p>
-<p>CITY SingaPOP is designed and photographed by Singapore-based French visual
-designer Nicolas Damiens. The exhibition features iconic Chinese landmarks
-such as Thian Hock Keng Temple and Buddha Tooth Relic Temple, presented
-in a vibrant City Pop style.</p>
+<p>Discover a striking visual showcase photographed and designed by Singapore-based
+French visual designer Nicolas Damiens. This exhibition, presented by Singapore
+Chinese Cultural Centre, reimagines Chinese architectural landmarks and
+other familiar sights in a bold, vibrant City Pop art style that is both
+contemporary and captivating.</p>
 </div>
 </details>
 </div>
