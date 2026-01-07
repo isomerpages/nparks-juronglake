@@ -142,6 +142,47 @@ Find out more on their Facebook group (Urban Sketchers Singapore) and Instagram
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Artist Demos by Botanical Art Society Singapore</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📅: 25 Jan 2026 (Sun)
+<br>⏰: 9:30am – 11am
+<br>📍: Entrance Pavilion, Lakeside Garden</p>
+<p>Watch master botanical artists in action! Kelly Bassett and Nur Basman
+will demonstrate their botanical art techniques. Learn about the meticulous
+process behind the beautiful works featured in the Botanical Art Worldwide
+exhibition. No registration required.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Nature Sketching with Botanical Art Society Singapore</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📅: 25 Jan 2026 (Sun)
+<br>⏰: 3 sessions; 9am, 9:45am, 10:30am
+<br>📍: Lakeside Field, Lakeside Garden (Gathering Point: Entrance Pavilion)</p>
+<p>Get hands-on with botanical art! Join the Botanical Art Society Singapore
+(BASS) for sketching sessions in the gardens. Perfect for beginners and
+enthusiasts alike, learn to observe and capture the intricate details of
+plants while surrounded by the natural beauty of Jurong Lake Gardens.</p>
+<p></p>
+<p>Suitable for ages 12 and above. Participants to bring their own sketching
+materials, picnic mats, and water bottles. Register here:</p>
+<p><a href="https://go.gov.sg/naturesketching-1" rel="noopener nofollow" target="_blank">Session 1 (9am)</a>
+</p>
+<p><a href="https://go.gov.sg/naturesketching-2" rel="noopener nofollow" target="_blank">Session 2 (9:45am)</a>
+</p>
+<p><a href="https://go.gov.sg/naturesketching-3" rel="noopener nofollow" target="_blank">Session 3 (10:30am)</a>
+</p>
+<p></p>
+<p>Participants are advised to bring umbrellas or ponchos in the event of
+light rain as the activity will still proceed. However, in the case of
+heavy rain, the activity will not proceed.</p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Cordage Workshop by FoJLG</summary>
@@ -163,7 +204,6 @@ of Jurong Lake Gardens.</p>
 </div>
 </details>
 </div>
-<p></p>
 <h3><strong><em>Stay tuned for more information!</em></strong></h3>
 <hr>
 <p><em>Arts@JLG: collage is organised by National Parks Board, in partnership with ART:DIS, Botanical Art Society Singapore, National Gallery Singapore, National Heritage Board, and Singapore Chinese Cultural Centre.</em>
