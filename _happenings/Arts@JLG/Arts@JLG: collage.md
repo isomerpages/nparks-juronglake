@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Arts@JLG
 ---
 <h2><strong>Where Art Meets Nature</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SM__Arts_JLG_collage.jpg">
+</div>
 <p>📅: 19 January - 1 February 2026
 <br>⏰: Exhibitions available daily | Activities on 24 and 25 Jan (Sat &amp;
 Sun)
