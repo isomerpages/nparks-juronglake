@@ -124,10 +124,10 @@ beautiful artworks to take home.</p>
 <h4>Activities</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Sketch Walk by Urban Sketchers Singapore</summary>
+<summary>Sketchwalk by Urban Sketchers Singapore</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📅: 24 Jan 2026 (Sat)
-<br>⏰: 9:30am onwards
+<br>⏰: 9:30am - 12:30pm
 <br>📍: Water Lily Pavilion, Japanese Garden</p>
 <p>Urban Sketchers Singapore invites you to capture the beauty of Jurong
 Lake Gardens through sketching. Free for all to join, no registration required.</p>
