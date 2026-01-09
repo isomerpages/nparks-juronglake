@@ -205,7 +205,45 @@ of Jurong Lake Gardens.</p>
 </div>
 </details>
 </div>
-<h3><strong><em>Stay tuned for more information!</em></strong></h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><em>Next Stop: Together!</em>&nbsp;Art Bus by ART:DIS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📅⏰: 3 Sessions;</p>
+<p>26 Jan (Mon), 430pm – 730pm |</p>
+<p>30 Jan (Fri), 11:30 am – 12:30 pm |</p>
+<p>31 Jan, 10am – 1230pm
+<br>📍: Wave Plaza, Lakeside Garden</p>
+<p>Next Stop: Together! is presented in partnership with the National Arts
+Council (NAC), LTA, SMRT, and ART:DIS. The initiative activates Singapore’s
+transport system as an artistic platform, where the Art Bus will feature
+interactive artworks and participatory activities, transforming neighbourhood
+stops into lively hubs of creative exchange.</p>
+<p></p>
+<p>Next Stop: Together! celebrates what it means to journey alongside one
+another in Singapore’s everyday spaces of movement and possibility. At
+the heart of the project lies a question: what does it mean to arrive together?
+Artists with disabilities and contemporary peers explore this not as separate
+journeys, but as intersecting paths that reveal togetherness as both destination
+and delightful way of traveling.</p>
+<p></p>
+<p>The Art Bus is conceived as a tactile and interactive platform, transforming
+a mobile training bus into a space where artworks are encountered through
+touch, movement, sound, and play. The commissions draw on a wide range
+of artistic practices, encompassing image-making, spatial interventions,
+embodied sculptural methods, therapeutic processes, and tactile printmaking.
+Together, they create an environment that engages multiple senses, offering
+points of entry for different modes of perception. This approach underscores
+the accessible nature of the project: whether through touch, sight, or
+gesture, there is something for everyone to experience, including individuals
+with disabilities. At each stop, the Bus becomes a lively, inclusive site
+of encounter, lowering barriers to art by making it participatory, sensory,
+and rooted in shared experience.</p>
+<p></p>
+<p>No registration required.</p>
+</div>
+</details>
+</div>
 <hr>
 <p><em>Arts@JLG: collage is organised by National Parks Board, in partnership with ART:DIS, Botanical Art Society Singapore, National Gallery Singapore, National Heritage Board, and Singapore Chinese Cultural Centre.</em>
 </p>
