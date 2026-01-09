@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Arts@JLG
 ---
 <h2><strong>Where Art Meets Nature</strong></h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SM__Arts_JLG_collage.jpg">
 </div>
@@ -252,5 +251,4 @@ and rooted in shared experience.</p>
 <p><em>Arts@JLG: collage is organised by National Parks Board, in partnership with ART:DIS, Botanical Art Society Singapore, National Gallery Singapore, National Heritage Board, and Singapore Chinese Cultural Centre.</em>
 </p>
 <p><em>Jurong Lake Gardens is part of the Arts &amp; Culture Nodes Network, an initiative by the National Arts Council, for people to come together to experience the arts in their neighbourhood.</em>
-<br>
 </p>
