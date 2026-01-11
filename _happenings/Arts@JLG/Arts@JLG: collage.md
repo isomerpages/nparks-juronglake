@@ -162,7 +162,7 @@ exhibition. No registration required.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Nature Sketching with Botanical Art Society Singapore</summary>
+<summary>Nature Sketching with Botanical Art Society Singapore (Register Now!)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📅: 25 Jan 2026 (Sun)
 <br>⏰: 3 sessions; 9am, 9:45am, 10:30am
@@ -189,7 +189,7 @@ heavy rain, the activity will not proceed.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Cordage Workshop by FoJLG</summary>
+<summary>Cordage Workshop by FoJLG (Fully Registered)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📅: 25 Jan 2026 (Sun)
 <br>⏰: 2 sessions; 10am - 11am &amp; 11:30am - 12:30pm
