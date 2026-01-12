@@ -214,8 +214,8 @@ of Jurong Lake Gardens.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📅⏰: 3 Sessions;</p>
 <p>26 Jan (Mon), 430pm – 730pm |</p>
-<p>30 Jan (Fri), 11:30 am – 12:30 pm |</p>
-<p>31 Jan, 10am – 1230pm
+<p>30 Jan (Fri), 11am – 12:30 pm |</p>
+<p>31 Jan, 11am – 12:30pm
 <br>📍: Wave Plaza, Lakeside Garden</p>
 <p>Next Stop: Together! is presented in partnership with the National Arts
 Council (NAC), LTA, SMRT, and ART:DIS. The initiative activates Singapore’s
