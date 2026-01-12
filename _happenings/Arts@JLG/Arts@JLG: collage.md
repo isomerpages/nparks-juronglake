@@ -214,36 +214,25 @@ of Jurong Lake Gardens.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📅⏰: 3 Sessions;</p>
 <p>26 Jan (Mon), 430pm – 730pm |</p>
-<p>30 Jan (Fri), 11:30 am – 12:30 pm |</p>
-<p>31 Jan, 10am – 1230pm
+<p>30 Jan (Fri), 11am – 12:30 pm |</p>
+<p>31 Jan, 11am – 12:30pm
 <br>📍: Wave Plaza, Lakeside Garden</p>
-<p>Next Stop: Together! is presented in partnership with the National Arts
-Council (NAC), LTA, SMRT, and ART:DIS. The initiative activates Singapore’s
-transport system as an artistic platform, where the Art Bus will feature
-interactive artworks and participatory activities, transforming neighbourhood
-stops into lively hubs of creative exchange.</p>
+<p>The Art Bus is coming to your neighbourhood, turning transport stops into
+creative spaces where everyone can make art together.</p>
 <p></p>
-<p>Next Stop: Together! celebrates what it means to journey alongside one
-another in Singapore’s everyday spaces of movement and possibility. At
-the heart of the project lies a question: what does it mean to arrive together?
-Artists with disabilities and contemporary peers explore this not as separate
-journeys, but as intersecting paths that reveal togetherness as both destination
-and delightful way of traveling.</p>
+<p>Step inside a transformed mobile bus filled with hands-on art activities.
+Touch sculptures, try printmaking, create images, and explore artworks
+through sound and movement. Artists with disabilities and established artists
+have created experiences that welcome everyone – whether you prefer to
+touch, listen, watch, or move around.</p>
 <p></p>
-<p>The Art Bus is conceived as a tactile and interactive platform, transforming
-a mobile training bus into a space where artworks are encountered through
-touch, movement, sound, and play. The commissions draw on a wide range
-of artistic practices, encompassing image-making, spatial interventions,
-embodied sculptural methods, therapeutic processes, and tactile printmaking.
-Together, they create an environment that engages multiple senses, offering
-points of entry for different modes of perception. This approach underscores
-the accessible nature of the project: whether through touch, sight, or
-gesture, there is something for everyone to experience, including individuals
-with disabilities. At each stop, the Bus becomes a lively, inclusive site
-of encounter, lowering barriers to art by making it participatory, sensory,
-and rooted in shared experience.</p>
+<p>Art doesn't have to be intimidating or exclusive. The Art Bus brings creativity
+right to your doorstep, making art accessible and fun for all ages and
+abilities. Come create, connect with neighbours, and discover that art
+is for everyone.</p>
 <p></p>
-<p>No registration required.</p>
+<p>Part of "Next Stop: Together!" by National Arts Council, LTA, SMRT, and
+ART:DIS.No registration required.</p>
 </div>
 </details>
 </div>
