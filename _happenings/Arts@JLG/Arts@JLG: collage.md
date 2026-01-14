@@ -20,7 +20,7 @@ Lake Gardens into an open-air gallery where visual arts flourish through
 community participation. Set amidst natural landscapes, the event invites
 visitors of all ages to explore the connection between art and nature in
 an open, interactive environment.</p>
-<p>The 2026 edition is themed <strong>"Heritage in Motion: Art Without Boundaries"</strong>.
+<p>The 2026 edition is themed <strong>"Heritage for All, Art without Walls"</strong>.
 It explores how heritage and artistic traditions remain vibrant and relevant
 when they connect with contemporary communities. Through art installations
 and interactive and participative elements, the event breaks down boundaries
