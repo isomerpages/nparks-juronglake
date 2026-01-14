@@ -46,6 +46,7 @@ abilities</p>
 <p><strong>Social</strong>&nbsp;- participatory activities welcoming everyone</p>
 </li>
 </ul>
+<p>Download the event map <a href="/files/Arts_JLG_collage_map.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <p>Got feedback for us? Let us know <a href="https://go.gov.sg/feedback-collage2026" rel="noopener nofollow" target="_blank">here</a>!</p>
 <h4>Exhibitions</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
