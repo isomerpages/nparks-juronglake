@@ -47,16 +47,6 @@ sections:
         together.
       button: Learn more
       url: /jurong-lake-gardens/
-  - infopic:
-      title: Faces of Jurong Lake Gardens
-      subtitle: Documentary
-      id: infopic
-      description: Be inspired with stories from people of all ages and cultures that
-        visit us here!
-      button: Read more
-      url: /faces-of-jlg/
-      image: /images/Faces of Jurong Lake Gardens/IMG_6095.jpg
-      alt: Family photo at JLG
   - announcements:
       title: Announcements
       id: announcements
