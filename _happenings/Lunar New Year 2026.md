@@ -114,12 +114,19 @@ landscaping throughout Chinese Garden.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Performance by Singapore Chinese Orchestra at Ficus Lawn</strong>
+<p><strong>Performance by Singapore Chinese Orchestra at Ficus Lawn (</strong>
+<a href="https://sco.com.sg/whats-on/outreach-programmes/music-oasis-jurong-lake-gardens-3/" rel="noopener nofollow" target="_blank">Music Oasis @ Jurong Lake Gardens</a><strong>)</strong>
 <br>
 <br>Experience a magical night under the open sky as the Singapore Chinese
 Orchestra brings timeless melodies to life at Ficus Lawn. Set against the
 serene surroundings of the Garden, this one-night-only performance promises
-an unforgettable blend of culture, music and nature.
+an unforgettable blend of culture, music and nature.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SCO Music Oasis" src="/images/Events/SCO_music_oasis_IG.jpg">
+</div>
+<p>
 <br>
 </p>
 </td>
