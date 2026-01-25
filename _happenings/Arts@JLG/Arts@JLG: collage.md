@@ -163,7 +163,7 @@ exhibition. No registration required.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Nature Sketching with Botanical Art Society Singapore (Register Now!)</summary>
+<summary>Nature Sketching with Botanical Art Society Singapore</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📅: 25 Jan 2026 (Sun)
 <br>⏰: 3 sessions; 9am, 9:45am, 10:30am
@@ -190,7 +190,7 @@ heavy rain, the activity will not proceed.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Cordage Workshop by FoJLG (Fully Registered)</summary>
+<summary>Cordage Workshop by FoJLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📅: 25 Jan 2026 (Sun)
 <br>⏰: 2 sessions; 10am - 11am &amp; 11:30am - 12:30pm
@@ -214,9 +214,9 @@ of Jurong Lake Gardens.</p>
 <summary><em>Next Stop: Together!</em>&nbsp;Art Bus by ART:DIS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📅⏰: 3 Sessions;</p>
-<p>26 Jan (Mon), 430pm – 730pm |</p>
-<p>30 Jan (Fri), 11am – 12:30 pm |</p>
-<p>31 Jan, 11am – 12:30pm
+<p>26 Jan (Mon), 4:30pm – 7:30pm |</p>
+<p>30 Jan (Fri), 11am – 12:30pm |</p>
+<p>31 Jan (Sat), 11am – 12:30pm
 <br>📍: Wave Plaza, Lakeside Garden</p>
 <p>The Art Bus is coming to your neighbourhood, turning transport stops into
 creative spaces where everyone can make art together.</p>
