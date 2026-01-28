@@ -1,5 +1,5 @@
 ---
-title: Lunar New Year at Chinese Garden 2026
+title: Lunar New Year 2026 at Chinese Garden
 permalink: /lunar-new-year-2026/
 variant: tiptap
 description: ""
