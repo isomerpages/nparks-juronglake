@@ -59,10 +59,10 @@ that transforms the night into a magical spectacle.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Zodiac Prediction Boards at Grand Arch Lawn</strong>
+<p><strong>Zodiac Prediction Boards at Grand Arch </strong>
 <br>
 <br>Discover what the Year of the Horse has in store for you with your zodiac
-forecast at the Grand Arch - Edible Garden Lawn.
+forecast at the Edible Garden Lawn, Grand Arch.
 <br>
 </p>
 </td>
@@ -101,7 +101,7 @@ contemporary and captivating.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Festive Planting and CNY dressing throughout Chinese Garden</strong>
+<p><strong>Festive Planting and LNY dressing throughout Chinese Garden</strong>
 <br>
 <br>Take in the festive atmosphere as you explore the Lunar New Year themed
 landscaping throughout Chinese Garden.
@@ -122,16 +122,12 @@ Orchestra brings timeless melodies to life at Ficus Lawn. Set against the
 serene surroundings of the Garden, this one-night-only performance promises
 an unforgettable blend of culture, music and nature.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SCO Music Oasis" src="/images/Events/SCO_music_oasis_IG.jpg">
 </div>
-<p>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Only on 7 Feb</strong>, from 6-7pm</p>
+<p><strong> 7 Feb only</strong>, from 6-7pm</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +167,6 @@ vibrant flora, and traditional architectural marvels.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>Come and create unforgettable memories with us as we usher in a year of
 prosperity and bold new beginnings!</p>
 <p>&nbsp;</p>
