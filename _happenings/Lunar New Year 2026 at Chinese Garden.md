@@ -43,7 +43,7 @@ or festive excitement, there is something for everyone.</p>
 <p>Programme</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Venue &amp; Timing (Daily)</p>
+<p>Venue &amp; Timing</p>
 </th>
 </tr>
 <tr>
@@ -60,7 +60,7 @@ that transforms the night into a magical spectacle.</p>
 <td rowspan="1" colspan="1">
 <p>Grand Arch</p>
 <p></p>
-<p>Every 30 mins from 7:30pm to 10pm</p>
+<p>Daily, every 30 mins from 7:30pm to 10pm</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ forecast at the Edible Garden Lawn, Grand Arch.
 <td rowspan="1" colspan="1">
 <p>Grand Arch</p>
 <p></p>
-<p>5:30am to 10pm
+<p>Daily, 5:30am to 10pm
 <br>(Light-up from 7pm to 10pm)</p>
 </td>
 </tr>
@@ -91,7 +91,7 @@ beautifully dressed for the season.<strong><br></strong>
 <p>Grand Arch</p>
 <p></p>
 <p></p>
-<p>5:30am to 10pm&nbsp;
+<p>Daily, 5:30am to 10pm&nbsp;
 <br>(Light-up from 7pm to 10pm)</p>
 </td>
 </tr>
@@ -109,7 +109,7 @@ contemporary and captivating.</p>
 <td rowspan="1" colspan="1">
 <p>Grand Arch</p>
 <p></p>
-<p>5:30am to 10pm&nbsp;</p>
+<p>Daily, 5:30am to 10pm&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ landscaping throughout Chinese Garden.
 <td rowspan="1" colspan="1">
 <p>Throughout Chinese Garden</p>
 <p></p>
-<p>5:30am to 10pm&nbsp;</p>
+<p>Daily, 5:30am to 10pm&nbsp;</p>
 </td>
 </tr>
 <tr>
