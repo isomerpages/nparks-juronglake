@@ -132,8 +132,7 @@ an unforgettable blend of culture, music and nature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chinese Garden Guided Tour</strong>
-<br>
+<p><strong>Guided Tours<br> of Chinese Garden</strong>
 <br>Immerse yourself in the rich history and serene beauty of the Chinese
 Garden. In this guided tour, explore the intricately designed landscapes,
 vibrant flora, and traditional architectural marvels.</p>
