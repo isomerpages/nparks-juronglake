@@ -86,7 +86,7 @@ beautifully dressed for the season.<strong><br></strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;CITY SingaPOP by Singapore Chinese Cultural Centre</strong>
+<p><strong>CITY SingaPOP by Singapore Chinese Cultural Centre</strong>
 </p>
 <p></p>
 <p>Discover a striking visual showcase photographed and designed by Singapore-based
@@ -127,13 +127,12 @@ an unforgettable blend of culture, music and nature.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong> 7 Feb only</strong>, from 6-7pm</p>
+<p><strong>7 Feb only</strong>, from 6-7pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chinese Garden Guided Tour</strong>
-<br>
+<p><strong>Guided Tours<br> of Chinese Garden</strong>
 <br>Immerse yourself in the rich history and serene beauty of the Chinese
 Garden. In this guided tour, explore the intricately designed landscapes,
 vibrant flora, and traditional architectural marvels.</p>
