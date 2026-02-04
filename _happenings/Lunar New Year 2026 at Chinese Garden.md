@@ -29,7 +29,7 @@ you to a spectacular Lunar New Year celebration from&nbsp;<strong>7 February to 
 a season defined by&nbsp;strength, bold moves, and exploration.&nbsp;Our
 celebrations are curated with families in mind, offering a perfect blend
 of nature and tradition. Whether you are looking for a peaceful stroll
-or festive excitement, there is something for everyone.</p>
+or festive excitement, there is something for everyone. 🐎</p>
 <p></p>
 <h3><strong>Lunar New Year Programmes</strong></h3>
 <table style="minWidth: 50px">
