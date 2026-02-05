@@ -151,7 +151,8 @@ from fruity teas to soft serve with a twist.</p>
 <p></p>
 <p><strong>Opening Hours 🕑</strong>
 </p>
-<p>Mon – Fri: 11am to 9pm</p>
+<p>Mon – Thu: 11am to 8pm</p>
+<p>Fri: 11am - 9pm</p>
 <p>Sat, Sun, P.H.: 10am to 9pm</p>
 <p></p>
 <p><a href="https://juronglakegardens.nparks.gov.sg/files/Maps%20and%20Trails/Jurong_Lake_Garden_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Refer to our brochure here</u></a> for
