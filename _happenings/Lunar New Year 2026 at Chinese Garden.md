@@ -7,7 +7,7 @@ description: ""
 <p>Step into a world of vibrant colour and tradition as&nbsp;<strong>Jurong Lake Gardens</strong>&nbsp;invites
 you to a spectacular Lunar New Year celebration from&nbsp;<strong>7 February to 3 March 2026</strong>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Chinese Garden/Twin_Pagoda_CNY_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/CG_Gate.jpg">
 </div>
 <h3><strong>Event Details</strong></h3>
 <ul>
@@ -29,7 +29,7 @@ you to a spectacular Lunar New Year celebration from&nbsp;<strong>7 February to 
 a season defined by&nbsp;strength, bold moves, and exploration.&nbsp;Our
 celebrations are curated with families in mind, offering a perfect blend
 of nature and tradition. Whether you are looking for a peaceful stroll
-or festive excitement, there is something for everyone.</p>
+or festive excitement, there is something for everyone. 🐎</p>
 <p></p>
 <h3><strong>Lunar New Year Programmes</strong></h3>
 <table style="minWidth: 50px">
@@ -43,7 +43,7 @@ or festive excitement, there is something for everyone.</p>
 <p>Programme</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Timing (Daily)</p>
+<p>Venue &amp; Timing</p>
 </th>
 </tr>
 <tr>
@@ -52,9 +52,15 @@ or festive excitement, there is something for everyone.</p>
 <br>
 <br>Watch the Grand Arch come alive in a mesmerising light projection show
 that transforms the night into a magical spectacle.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/Grand_Arch_Light_Projection_Show.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every 30 mins from 7:30pm to 10pm</p>
+<p>Grand Arch</p>
+<p></p>
+<p>Daily, every 30 mins from 7:30pm to 10pm</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +73,9 @@ forecast at the Edible Garden Lawn, Grand Arch.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5:30am to 10pm
+<p>Grand Arch</p>
+<p></p>
+<p>Daily, 5:30am to 10pm
 <br>(Light-up from 7pm to 10pm)</p>
 </td>
 </tr>
@@ -80,7 +88,10 @@ beautifully dressed for the season.<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5:30am to 10pm&nbsp;
+<p>Grand Arch</p>
+<p></p>
+<p></p>
+<p>Daily, 5:30am to 10pm&nbsp;
 <br>(Light-up from 7pm to 10pm)</p>
 </td>
 </tr>
@@ -96,7 +107,9 @@ other familiar sights in a bold, vibrant City Pop art style that is both
 contemporary and captivating.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5:30am to 10pm&nbsp;</p>
+<p>Grand Arch</p>
+<p></p>
+<p>Daily, 5:30am to 10pm&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +122,9 @@ landscaping throughout Chinese Garden.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5:30am to 10pm&nbsp;</p>
+<p>Throughout Chinese Garden</p>
+<p></p>
+<p>Daily, 5:30am to 10pm&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -123,41 +138,42 @@ serene surroundings of the Garden, this one-night-only performance promises
 an unforgettable blend of culture, music and nature.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SCO Music Oasis" src="/images/Events/SCO_music_oasis_IG.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="SCO Music Oasis" src="/images/Events/SCO_music_oasis_IG.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7 Feb only</strong>, from 6-7pm</p>
+<p>Ficus Lawn</p>
+<p></p>
+<p><strong>7 Feb only</strong>, 6pm to 7pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Guided Tours<br> of Chinese Garden</strong>
+<p><strong>Guided Tours of Chinese Garden</strong>
 <br>Immerse yourself in the rich history and serene beauty of the Chinese
 Garden. In this guided tour, explore the intricately designed landscapes,
 vibrant flora, and traditional architectural marvels.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Every Saturday (7, 14, 21 &amp; 28 Feb)</strong>, 9:00am to 11:00am
+<p>Chinese Garden</p>
+<p></p>
+<p><strong>Every Saturday (7, 14, 21 &amp; 28 Feb)</strong>, 9am to 11am
 <br>
 <br><strong>Registration links:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_84/1651_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">7 Feb - Session 1</a>
-</p>
+<p>7 Feb - Session 1 [Fully subscribed]</p>
 </li>
 <li>
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_86/1653_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">14 Feb - Session 2</a>
-</p>
+<p>14 Feb - Session 1 [Fully subscribed]</p>
 </li>
 <li>
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_87/1654_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">21 Feb - Session 3</a>
-</p>
+<p>21 Feb - Session 1 [Fully subscribed]</p>
 </li>
 <li>
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_88/1655_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">28 Feb - Session 4</a>
-</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_88/1655_Lunar-New-Year-2026-Chinese-Garden-Guided-Tour-Session" rel="noopener noreferrer nofollow" target="_blank">28 Feb - Session 4</a> [Limited
+slots left]</p>
 </li>
 </ul>
 <p><em>﻿</em>
