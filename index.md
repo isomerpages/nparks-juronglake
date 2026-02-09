@@ -9,7 +9,8 @@ permalink: /
 notification: "ℹ️ The following will be closed until further notice for
   maintenance works: Crab Play, Heron Play, Snake Play (Forest Ramble, Lakeside
   Garden), Water Wall Court (Chinese Garden) & portions of Floral Garden
-  (Japanese Garden). The Garden Shuttle Se rvice will be suspended rvie"
+  (Japanese Garden). The Garden Shuttle Service will be suspended on 11 Feb for
+  an event. Thank you for your understanding."
 sections:
   - hero:
       title: Jurong Lake Gardens
