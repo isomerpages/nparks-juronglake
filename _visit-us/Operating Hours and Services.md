@@ -45,8 +45,8 @@ be closed until end November for reinstatement works.</p>
 be closed until further notice for maintenance works.</p>
 </li>
 <li>
-<p>The <strong>Bonsai Gallery</strong> will be closed from 30 Jan to 2 Feb
-for maintenance works.</p>
+<p>The <strong>Bonsai Gallery</strong> will be closed until 20 Feb for maintenance
+works.</p>
 <p>Thank you for your understanding.</p>
 <p></p>
 </li>
