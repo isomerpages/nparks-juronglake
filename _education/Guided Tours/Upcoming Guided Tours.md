@@ -41,27 +41,26 @@ architectural wonders.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>Saturday, 31 January 2026</strong>
+<p><strong>Saturday, 28 February 2026</strong>
 </p>
 </td>
 <td rowspan="2" colspan="1">
 <p>09:00AM - 11:00AM</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>ActiveSG Park (next to table tennis area) @ South Carpark, Jurong Lake
-Gardens</p>
+<p>Outside Mempat Hall @ Gardenhouse, Jurong Lake Gardens</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Lakeside Garden (South)</p>
+<p>Japanese Garden</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_76/1601_Lakeside-Garden-South-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
+<p><a href="https://safe.menlosecurity.com/https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_78/1603_Japanese-Garden-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_77/1602_Lakeside-Garden-South-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+<p><a href="https://safe.menlosecurity.com/https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_79/1604_Japanese-Garden-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
 </p>
 </td>
 </tr>
@@ -70,9 +69,6 @@ Gardens</p>
 <p><strong>Note:</strong>
 </p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Registration for the above sessions opens on 31 December 2025 at 10:00AM.</p>
-</li>
 <li>
 <p>Successful applicants will receive a confirmation email at least 3 working
 days before the tour.</p>

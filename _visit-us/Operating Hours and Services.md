@@ -43,10 +43,7 @@ be closed until end November for reinstatement works.</p>
 <li>
 <p>Please note that <strong>Water Wall Court</strong>  <strong>(Chinese Garden)</strong> will
 be closed until further notice for maintenance works.</p>
-</li>
-<li>
-<p>The <strong>Bonsai Gallery</strong> will be closed until 20 Feb for maintenance
-works.</p>
+<p></p>
 <p>Thank you for your understanding.</p>
 <p></p>
 </li>
