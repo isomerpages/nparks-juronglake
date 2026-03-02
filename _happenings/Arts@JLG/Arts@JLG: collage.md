@@ -14,6 +14,8 @@ the connection between art and nature in an open, interactive environment.</p>
 <p>The 2026 edition was themed <strong>"Heritage for All, Art without Walls"</strong>.
 It explores how heritage and artistic traditions remain vibrant and relevant
 when they connect with contemporary communities.</p>
+<p>If you are interested in being part of the 2027 edition, please email
+us at JurongLakeGardens@nparks.gov.sg.</p>
 <hr>
 <p><em>Arts@JLG: collage is organised by National Parks Board.</em>
 </p>
