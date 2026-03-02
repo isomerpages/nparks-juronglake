@@ -6,14 +6,20 @@ description: ""
 third_nav_title: Arts@JLG
 ---
 <h3><strong>Celebrating Wellness and Creativity in Nature</strong></h3>
-<p>Arts@JLG: heART&nbsp;is an event intertwining art and nature offering
-a transformative experience, fostering self-reflection, creative expression,
-and holistic well-being inspired by the journey of self-discovery.</p>
+<p>Mark your calendars - the 2026 edition of Arts@JLG: heART will be happening
+on 13 and 14 June, in conjunction with National Family Fest and Gardeners'
+Day Out!</p>
+<p>Arts@JLG: heART&nbsp;is a family-friendly festival intertwining arts and
+nature, to bring you a marketplace, workshops, and other activities that
+nurture physical, mental, and emotional well-being.</p>
 <p>We invite you to explore your relationship with art and personal well-being,
 while cultivating inner peace and mindfulness through creative expression
 and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
-<p><em>Stay tuned for 2026's edition!</em>
-</p>
+<p></p>
+<p>In partnership with National Arts Council, National Family Fest and Gardeners’
+Day Out.</p>
+<p></p>
+<p></p>
 <hr>
 <p></p>
 <p>Jurong Lake Gardens is part of the National Arts Council’s Arts &amp;
