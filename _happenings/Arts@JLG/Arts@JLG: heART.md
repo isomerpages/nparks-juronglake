@@ -15,7 +15,7 @@ nurture physical, mental, and emotional well-being.</p>
 <p>We invite you to explore your relationship with art and personal well-being,
 while cultivating inner peace and mindfulness through creative expression
 and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
-<p>Stay tuned as we update you on what to expect at Arts@JLG: heART 2026!</p>
+<p>Stay tuned for what to expect at Arts@JLG: heART 2026!</p>
 <hr>
 <p><em>Arts@JLG: collage is organised by National Parks Board, in partnership with National Arts Council, National Family Fest and Gardeners’ Day Out.</em>
 </p>
