@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Arts@JLG
 ---
 <h2><strong>Where Art Meets Nature</strong></h2>
-<p></p>
 <p><strong>Arts@JLG: collage</strong> is a programme held in January, as part
 of Singapore Art Week. It transforms Jurong Lake Gardens into an open-air
 gallery where visual arts flourish through community participation. Set
