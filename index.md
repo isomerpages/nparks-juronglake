@@ -6,8 +6,9 @@ description: Jurong Lake Gardens is Singapore’s national gardens in the
   families and the community to come together.
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
-notification: ℹ️ Water Wall Court (Chinese Garden) will be closed until further
-  notice for maintenance works.
+notification: "ℹ️ Chinese Garden: Stoneboat & Twin Pagoda will be closed on 24
+  Mar 2026 for maintenance works . Water Wall Court is closed until further
+  notice."
 sections:
   - hero:
       title: Jurong Lake Gardens
