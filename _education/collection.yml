@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Guided Tours/.keep
-      - Guided Tours/Guided Tours.md
+      - Guided Tours/Paid Guided Tours.md
       - Learning Resources.md
       - Fauna of Jurong Lake Gardens/.keep
       - Fauna of Jurong Lake Gardens/Fauna of Jurong Lake Gardens.md
