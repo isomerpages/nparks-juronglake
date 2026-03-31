@@ -3,7 +3,6 @@ title: Upcoming Guided Tours
 permalink: /upcoming-guided-tours/
 variant: tiptap
 description: ""
-third_nav_title: Guided Tours
 ---
 <p></p>
 <div class="isomer-image-wrapper">
