@@ -29,8 +29,10 @@ Garden</p>
 </p>
 </li>
 </ol>
-<h3><strong>Tour Rates</strong></h3>
+<h3><strong>Free Guided Tours</strong></h3>
 <p></p>
+<p></p>
+<h3><strong>Tour Rates</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
