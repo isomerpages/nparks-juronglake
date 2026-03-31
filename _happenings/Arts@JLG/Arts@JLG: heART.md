@@ -16,6 +16,9 @@ nurture physical, mental, and emotional well-being.</p>
 while cultivating inner peace and mindfulness through creative expression
 and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
 <p>Stay tuned for what to expect at Arts@JLG: heART 2026!</p>
+<h4>Gardener's Day Out Marketplace (Coming Soon!)</h4>
+<h4>Workshops (Coming Soon!)</h4>
+<h4>Around the Gardens</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Therapeutic Garden Tour</summary>
