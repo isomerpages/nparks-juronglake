@@ -18,6 +18,7 @@ and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
 <p>Stay tuned for what to expect at Arts@JLG: heART 2026!</p>
 <hr>
 <hr>
+<hr>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Therapeutic Garden Tour</summary>
