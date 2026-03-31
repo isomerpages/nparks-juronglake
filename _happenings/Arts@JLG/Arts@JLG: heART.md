@@ -62,12 +62,6 @@ green spaces to reap the benefits of good health and wellbeing.</p>
 <p>Registration will open soon!</p>
 </div>
 </details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
 </div>
 <p></p>
 <p><em>Arts@JLG: collage is organised by National Parks Board, in partnership with National Arts Council, National Family Fest and Gardeners’ Day Out.</em>
