@@ -30,8 +30,10 @@ Garden</p>
 </li>
 </ol>
 <h3><strong>Free Guided Tours</strong></h3>
-<p></p>
-<p></p>
+<p>We organise free guided tours of Lakeside Garden (North), Chinese Garden
+and Japanese Garden (on rotation) on the last Saturday morning of every
+month.</p>
+<p>For more information, click <a href="https://juronglakegardens.nparks.gov.sg/upcoming-guided-tours/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h3><strong>Tour Rates</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
