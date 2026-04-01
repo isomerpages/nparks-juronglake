@@ -27,7 +27,7 @@ on the last Saturday morning of every month.</p>
 <p>Meeting Point</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Reigtration Link</p>
+<p>Regisation Link</p>
 </th>
 </tr>
 <tr>
