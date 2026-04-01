@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guided Tour/Yian_Hah_JG_Guided_Tour.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Guided Tour/Yian_Hah_JG_Guided_Tour.jpg">
 </div>
 <p>Embark on a guided tour of Lakeside Garden (North), Chinese Garden and
 Japanese Garden (on rotation) and immerse yourself in their vibrant biodiversity,
