@@ -2,7 +2,7 @@ collections:
   happenings:
     output: true
     order:
-      - Upcoming Guided Tours.md
+      - Guided Tours.md
       - Arts@JLG/.keep
       - Arts@JLG/Arts@JLG.md
       - "Arts@JLG/Arts@JLG: heART.md"
