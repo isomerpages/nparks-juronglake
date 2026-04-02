@@ -27,29 +27,53 @@ on the last Saturday morning of every month.</p>
 <p>Meeting Point</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Regisation Link</p>
+<p>Registration Link</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>25 Apr (Sat)</strong>, 9am to 11am</p>
+<p>Lakeside Garden (North)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Entrance Pavilion @ North Carpark, Jurong Lake Gardens</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_93/1778_Lakeside-Garden-North-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_94/1779_Lakeside-Garden-North-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>30 May (Sat)</strong>, 9am to 11am</p>
+<p>Japanese Garden</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outside Mempat Hall @ Gardenhouse, Jurong Lake Garden</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_89/1773_Japanese-Garden-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_90/1774_Japanese-Garden-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p>, 9am to 11am</p>
+<p>Chinese Garden</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Entrance Pavilion @ North Carpark, Jurong Lake Gardens</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_91/1775_Chinese-Garden-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_92/1776_Chinese-Garden-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -57,6 +81,25 @@ on the last Saturday morning of every month.</p>
 <p><strong>Note:</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Successful applicants will receive a confirmation email at least 3 working
+days before the tour.</p>
+</li>
+<li>
+<p>All participants must be registered to join this tour.</p>
+</li>
+<li>
+<p>Please wear comfortable clothes and walking shoes, and bring along a hat/cap,
+water bottle and an umbrella/poncho.</p>
+</li>
+<li>
+<p>In the event of light rain as the tour will still proceed. However, in
+the case of heavy rain, the tour will not proceed.</p>
+</li>
+<li>
+<p>Registration will close 3 days before the tour, or when registration is
+full.</p>
+</li>
 <li>
 <p>Successful applicants will receive a confirmation email at least 3 working
 days before the tour.</p>
