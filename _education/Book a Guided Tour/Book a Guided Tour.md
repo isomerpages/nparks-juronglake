@@ -161,7 +161,7 @@ program must be made at least 7 working days before the program commences.
 1.5 hours before the guided tour begins.&nbsp;</p>
 </li>
 </ul>
-<h4><strong>Wet Weather </strong></h4>
+<h4><strong>Wet Weather</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>In light rain, participants can proceed with the guided tour using umbrellas
