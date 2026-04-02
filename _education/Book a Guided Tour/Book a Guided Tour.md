@@ -3,14 +3,13 @@ title: Book a Guided Tour
 permalink: /book-guided-tours/
 variant: tiptap
 description: ""
-third_nav_title: Guided Tours
+third_nav_title: Book a Guided Tour
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guided Tour/JLG_Guided_Tours_montage.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Guided Tour/20250628_104632.jpg">
 </div>
-<p>Guided tours at (L) Lakeside Garden, (C) Japanese Garden, (R) Chinese
-Garden</p>
-<h3><strong>Guided Tour Routes</strong></h3>
+<h3><strong><u>Booking a Group Guided Tour</u></strong></h3>
+<h4><strong>Tour Routes</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/Guided Tours/North_Route_deck.pdf" rel="noopener noreferrer nofollow" target="_blank">Lakeside Garden (North)</a>
@@ -29,12 +28,7 @@ Garden</p>
 </p>
 </li>
 </ol>
-<h3><strong>Free Guided Tours</strong></h3>
-<p>We organise free guided tours of Lakeside Garden (North), Chinese Garden
-and Japanese Garden (on rotation) on the last Saturday morning of every
-month.</p>
-<p>For more information, click <a href="https://juronglakegardens.nparks.gov.sg/upcoming-guided-tours/" rel="noopener nofollow" target="_blank">here</a>.</p>
-<h3><strong>Tour Rates</strong></h3>
+<h4><strong>Tour Rates</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -56,7 +50,7 @@ month.</p>
 <p>$9 per pax&nbsp;</p>
 </li>
 <li>
-<p>Minimum 20 students is required&nbsp;</p>
+<p>Minimum 20 students &nbsp;</p>
 </li>
 <li>
 <p>Complimentary access for 4 teachers / guardians with every 20 students&nbsp;</p>
@@ -72,7 +66,7 @@ month.</p>
 <p>$15 per pax&nbsp;</p>
 </li>
 <li>
-<p>Minimum 15 pax is required&nbsp;</p>
+<p>Minimum 15 pax &nbsp;</p>
 </li>
 <li>
 <p>Flat rate of $225 for 14 pax or fewer</p>
@@ -82,7 +76,7 @@ month.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Guided Tour Booking Terms and Conditions&nbsp;</strong></h4>
+<h4><strong>Booking Considerations&nbsp;</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bookings for guided tours must be submitted<strong> at least one month prior to the desired date</strong>.&nbsp;</p>
@@ -124,6 +118,9 @@ of the form to secure a guide's time and schedule.&nbsp;</p>
 on guide availability. Groups may take different paths during the same
 tour to minimize clashes and ensure better crowd management.&nbsp;</p>
 </li>
+</ul>
+<h4><strong>Confirmation of Booking</strong></h4>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong><u>Email correspondence does not serve as a booking confirmation</u></strong>.
 Upon finalizing the necessary details and arrangements, a separate confirmation
@@ -131,12 +128,12 @@ email will be provided as a Memorandum of Acceptance (MOA) document for
 the applicant’s acknowledgment.&nbsp;</p>
 </li>
 <li>
-<p>Your request is <strong><u>ONLY</u></strong> confirmed upon NParks receiving
+<p>Your request is <strong><u>ONLY</u></strong> confirmed when NParks has received
 the signed quotation, which will be sent after receiving the required information
 from the applicant.&nbsp;</p>
 </li>
 <li>
-<p>No changes will be allowed upon NParks receiving the signed quotation.
+<p>No changes will be allowed when NParks has received the signed quotation.
 Should there be add-ons to the number of participants, NParks will issue
 another quotation based on the number of add-ons.</p>
 </li>
@@ -160,20 +157,30 @@ program must be made at least 7 working days before the program commences.
 &nbsp;</p>
 </li>
 <li>
-<p>In the event of wet weather or haze, rescheduling must be made at least
+<p>In the event of inclement weather, rescheduling must be made at least
 1.5 hours before the guided tour begins.&nbsp;</p>
 </li>
 </ul>
-<h4><strong>Wet Weather Plan</strong></h4>
+<h4><strong>Wet Weather</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>In light rain, participants can proceed with the guided tour using umbrellas
 or ponchos. In the case of heavy rain, the tour will be rescheduled/cancelled.</p>
 </li>
 </ul>
-<p>To book a guided tour, please complete the tour booking form here:&nbsp;
-<a href="https://go.gov.sg/jlg-guidedtourbookings" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jlg-guidedtourbookings</u>
-</a>
-</p>
+<h4><strong>Register Your Interest</strong></h4>
+<p>Kindly register your interest to book a guided tour <a href="https://go.gov.sg/jlg-guidedtourbookings" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>If you need further clarifications, please contact us at <a href="https://go.gov.sg/jlg-guidedtourbookings" rel="noopener noreferrer nofollow" target="_blank"><u>juronglakegardens@nparks.gov.sg</u></a>.</p>
+<p></p>
+<h3><strong><u>Self-led Learning Journeys</u></strong></h3>
+<p>If you did not manage to secure a guided tour booking, you may still conduct
+a self-led learning journey to the Gardens.</p>
+<p>For such free-and-easy visits, a <strong>permit application</strong> is
+required. Kindly submit an application <a href="https://juronglakegardens.nparks.gov.sg/apply-for-a-permit/" rel="noopener nofollow" target="_blank">here</a> at
+least 14 days prior to your intended date of visit.</p>
+<h3><strong><u>Free Guided Tours</u></strong></h3>
+<p>We organise free public guided tours of Lakeside Garden (North), Chinese
+Garden and Japanese Garden (on rotation) on the last Saturday morning of
+every month.</p>
+<p>For more information, click <a href="https://juronglakegardens.nparks.gov.sg/upcoming-guided-tours/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
