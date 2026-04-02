@@ -7,11 +7,15 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Guided Tour/Yian_Hah_JG_Guided_Tour.jpg">
 </div>
-<p>Embark on a guided tour of Lakeside Garden, Chinese Garden and Japanese
-Garden (on rotation) –immerse yourself in their vibrant biodiversity, thoughtfully
-designed landscapes, and breathtaking architectural wonders.</p>
+<p>Embark on a free guided tour of Jurong Lake Gardens – immerse yourself
+in its vibrant biodiversity, thoughtfully designed landscapes, and breathtaking
+architecture.</p>
 <p>The tours, led by our enthusiastic and knowledgeable guides, take place
-on the last Saturday morning of every month.</p>
+at different parts of the Gardens each month (Lakeside Garden, Chinese
+Garden and Japanese Garden) and are held on the last Saturday morning of
+every month.</p>
+<p>Please note that we manage the tour group size to ensure a conducive and
+pleasant experience for all.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
