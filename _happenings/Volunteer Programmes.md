@@ -4,9 +4,11 @@ permalink: /volunteer-programmes/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Gardening Volunteer" src="/images/Volunteer/Volunteer_Gardening.jpg">
+</div>
 <p>Love spending time surrounded by nature? Passionate about greenery? Then
 come join us on this journey towards making Singapore our City in Nature!</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -57,7 +59,4 @@ come join us on this journey towards making Singapore our City in Nature!</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Gardening Volunteer" src="/images/Volunteer/Volunteer_Gardening.jpg">
-</div>
 <p></p>
