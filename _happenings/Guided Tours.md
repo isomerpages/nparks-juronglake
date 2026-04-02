@@ -119,5 +119,3 @@ days before the tour.</p>
 </li>
 </ul>
 <p></p>
-<p></p>
-<p></p>
