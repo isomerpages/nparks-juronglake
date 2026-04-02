@@ -7,9 +7,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Guided Tour/Yian_Hah_JG_Guided_Tour.jpg">
 </div>
-<p>Embark on a guided tour of Lakeside Garden (North), Chinese Garden and
-Japanese Garden (on rotation) and immerse yourself in their vibrant biodiversity,
-thoughtfully designed landscapes, and breathtaking architectural wonders.</p>
+<p>Embark on a guided tour of Lakeside Garden, Chinese Garden and Japanese
+Garden (on rotation) –immerse yourself in their vibrant biodiversity, thoughtfully
+designed landscapes, and breathtaking architectural wonders.</p>
 <p>The tours, led by our enthusiastic and knowledgeable guides, take place
 on the last Saturday morning of every month.</p>
 <table style="minWidth: 75px">
@@ -32,8 +32,10 @@ on the last Saturday morning of every month.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>25 Apr (Sat)</strong>, 9am to 11am</p>
-<p>Lakeside Garden (North)</p>
+<p><strong>25 Apr (Sat), 9am to 11am</strong>
+</p>
+<p><strong>Lakeside Garden (North)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Entrance Pavilion @ North Carpark, Jurong Lake Gardens</p>
@@ -47,8 +49,10 @@ on the last Saturday morning of every month.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>30 May (Sat)</strong>, 9am to 11am</p>
-<p>Japanese Garden</p>
+<p><strong>30 May (Sat), 9am to 11am</strong>
+</p>
+<p><strong>Japanese Garden</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outside Mempat Hall @ Gardenhouse, Jurong Lake Garden</p>
@@ -58,13 +62,16 @@ on the last Saturday morning of every month.</p>
 </p>
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_90/1774_Japanese-Garden-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
 </p>
+<p><em><sub>Registration opens on 30 Apr, 10am</sub></em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p>, 9am to 11am</p>
-<p>Chinese Garden</p>
+<p><strong>27 Jun (Sat), 9am to 11am</strong>
+</p>
+<p><strong>Chinese Garden</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Entrance Pavilion @ North Carpark, Jurong Lake Gardens</p>
@@ -73,6 +80,8 @@ on the last Saturday morning of every month.</p>
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_91/1775_Chinese-Garden-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
 </p>
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_92/1776_Chinese-Garden-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+</p>
+<p><em><sub>Registration opens on 27 May, 10am</sub></em>
 </p>
 </td>
 </tr>
