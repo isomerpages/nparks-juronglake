@@ -25,7 +25,7 @@ pleasant experience for all.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Date,Time &amp; Route</p>
+<p>Date, Time &amp; Route</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Meeting Point</p>
