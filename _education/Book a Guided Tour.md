@@ -3,7 +3,6 @@ title: Book a Guided Tour
 permalink: /book-guided-tours/
 variant: tiptap
 description: ""
-third_nav_title: Book a Guided Tour
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Guided Tour/20250628_104632.jpg">
