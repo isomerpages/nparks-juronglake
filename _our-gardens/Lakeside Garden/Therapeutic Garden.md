@@ -14,15 +14,7 @@ and another for children, with features specially curated for seniors with
 dementia and children with conditions such as mild autism and ADHD respectively.
 Both sections are wheelchair-accessible.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lakeside Garden/Therapeutic Garden/Image_Therepeutic_Garden.jpg">
-</div>
-<p>The Therapeutic Garden for adults provides a space for reminiscing, with
-familiar edible plants arranged in zones (Fragrance zone, Edibles zone
-and a Plant Zoo)&nbsp;and nostalgic features like a stone chess table.
-A shelter with an extended trellis and movable planters can serve as an
-activity hub for organised events. Located next to the shelter are also
-two movable raised planters that permit seniors on wheelchairs to garden.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lakeside Garden/Therapeutic Garden/TG_1.jpg">
