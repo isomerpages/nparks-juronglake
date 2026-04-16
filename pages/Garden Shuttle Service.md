@@ -59,31 +59,8 @@ areas within the gardens, particularly during peak visitor periods.</p>
 </table>
 <hr>
 <h4>Shuttle Stops</h4>
-<p>The Shuttle Service will consist of 11-to-13-seater vehicles, which operates
-on a loop with the following stops:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>South Car Park</p>
-</li>
-<li>
-<p>Water Lily Pavilion</p>
-</li>
-<li>
-<p>Pagoda Plaza</p>
-</li>
-<li>
-<p>North Car Park</p>
-</li>
-<li>
-<p>Lakeside Plaza</p>
-</li>
-<li>
-<p>North Car Park</p>
-</li>
-<li>
-<p>South Car Park</p>
-</li>
-</ul>
+<p>The Shuttle Service will consist of 11- to 13-seater vehicles that operate
+on a loop connecting Lakeside Garden, Chinese Garden and Japanese Garden.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>View pickup points and schedule</summary>
@@ -105,12 +82,12 @@ on a loop with the following stops:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>South Carpark</p>
-<p>&lt;insert address&gt;</p>
+<p><strong>SOUTH CARPARK</strong>
+</p>
 <p></p>
-<p>&lt;insert photo of pickup point&gt;</p>
+<p><strong>Location📍: </strong>Lakeside Garden</p>
+<p><strong>Next Stop⏭️: </strong>Water Lily Pavilion</p>
 <p></p>
-<p>Next Stop: Water Lily Pavilion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>First Shuttle:</p>
@@ -118,7 +95,43 @@ on a loop with the following stops:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>WATER LILY PAVILION</strong>
+</p>
 <p></p>
+<p><strong>Location📍: </strong>Japanese Garden</p>
+<p><strong>Next Stop⏭️: </strong>Pagoda Plaza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PAGODA PLAZA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NORTH CARPARK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAKESIDE PLAZA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NORTH CARPARK</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
