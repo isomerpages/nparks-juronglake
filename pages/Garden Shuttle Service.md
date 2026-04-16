@@ -41,9 +41,7 @@ areas within the gardens, particularly during peak visitor periods.</p>
 <p>Frequency</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 shuttles running at approximately 30-minute intervals*</p>
-<p></p>
-<p>*Subject to traffic conditions</p>
+<p>2 cruisers running at approximately 30-minute intervals</p>
 </td>
 </tr>
 <tr>
