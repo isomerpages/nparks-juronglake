@@ -61,7 +61,7 @@ areas within the gardens, particularly during peak visitor periods.</p>
 <h4>Shuttle Stops</h4>
 <p>The Shuttle Service will consist of 11- to 13-seater vehicles that operate
 on a loop connecting Lakeside Garden, Chinese Garden and Japanese Garden.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>View pickup points and schedule</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -139,6 +139,12 @@ on a loop connecting Lakeside Garden, Chinese Garden and Japanese Garden.</p>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>View overall map</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
