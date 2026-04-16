@@ -2,7 +2,6 @@ collections:
   visit-us:
     output: true
     order:
-      - Our Videos.md
       - Getting Here.md
       - Operating Hours and Services.md
       - Maps and Trails.md
@@ -10,3 +9,4 @@ collections:
       - Book a Venue.md
       - Book a Garden Cruiser.md
       - Apply for a Permit.md
+      - Our Videos.md
