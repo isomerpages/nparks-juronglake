@@ -13,7 +13,51 @@ Shuttle Service within the gardens to assess the feasibility of expanding
 the existing shuttle operations.</p>
 <p>This trial aims to improve accessibility and connectivity between key
 areas within the gardens, particularly during peak visitor periods.</p>
+<hr>
+<h4>Details of Service</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operating Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>9am - 12pm</p>
+</li>
+<li>
+<p>4pm - 7pm</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Frequency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 shuttles running at approximately 30-minute intervals*</p>
 <p></p>
+<p>*Subject to traffic conditions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Free-of-charge</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4>Shuttle Stops</h4>
 <p>The Shuttle Service will consist of 11-to-13-seater vehicles, which operates
 on a loop with the following stops:</p>
 <ul data-tight="true" class="tight">
