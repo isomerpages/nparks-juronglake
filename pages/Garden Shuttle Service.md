@@ -34,6 +34,7 @@ areas within the gardens, particularly during peak visitor periods.</p>
 <p>4pm - 7pm</p>
 </li>
 </ul>
+<p>No service between 12 - 4pm</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +42,9 @@ areas within the gardens, particularly during peak visitor periods.</p>
 <p>Frequency</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 cruisers running at approximately 30-minute intervals</p>
+<p>2 cruisers running at approximately 30-minute intervals*
+<br>
+<br>*May vary slightly due to traffic or crowd conditions</p>
 </td>
 </tr>
 <tr>
@@ -154,6 +157,10 @@ event of heavy rain or lightning warning.</p>
 due to weather conditions or operational requirements</p>
 </li>
 </ul>
+<hr>
+<h4>Feedback</h4>
+<p>We welcome your feedback on the Cruiser Shuttle Service during this trial
+period. Please share your feedback via:</p>
 <p></p>
 <p>
 <br>
