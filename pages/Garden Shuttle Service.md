@@ -171,7 +171,8 @@ due to weather conditions or operational requirements</p>
 <hr>
 <h4>Feedback</h4>
 <p>We welcome your feedback on the Cruiser Shuttle Service during this trial
-period. Please share your feedback via:</p>
+period. Please share your feedback here: <strong><a href="https://go.gov.sg/jlgshuttlefeedback" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jlgshuttlefeedback</a></strong>
+</p>
 <p></p>
 <p>
 <br>
