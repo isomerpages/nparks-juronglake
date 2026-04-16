@@ -134,6 +134,23 @@ on a loop with the following stops:</p>
 </div>
 </details>
 </div>
+<h4>Important Information</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Boarding is on a first-come, first-served basis</p>
+</li>
+<li>
+<p>Waiting times may vary depending on demand and site conditions</p>
+</li>
+<li>
+<p>For safety reasons, the Shuttle Service will suspend its services in the
+event of heavy rain or lightning warning.</p>
+</li>
+<li>
+<p>No food and drinks are allowed in the vehicle.</p>
+</li>
+</ul>
+<p></p>
 <p>
 <br>
 </p>
