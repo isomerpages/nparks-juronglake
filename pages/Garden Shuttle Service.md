@@ -34,7 +34,6 @@ areas within the gardens, particularly during peak visitor periods.</p>
 <p>4pm - 7pm</p>
 </li>
 </ul>
-<p>No service between 12 - 4pm</p>
 </td>
 </tr>
 <tr>
