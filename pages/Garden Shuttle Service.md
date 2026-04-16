@@ -43,9 +43,7 @@ areas within the gardens, particularly during peak visitor periods.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 cruisers running at approximately<strong> 30-minute intervals</strong>*
-<br>
-<br>*May vary slightly due to traffic or crowd conditions</p>
+<p>2 cruisers running at approximately<strong> </strong>30-minute intervals</p>
 </td>
 </tr>
 <tr>
