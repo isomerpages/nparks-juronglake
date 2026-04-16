@@ -149,8 +149,13 @@ event of heavy rain or lightning warning.</p>
 <li>
 <p>No food and drinks are allowed in the vehicle.</p>
 </li>
+<li>
+<p>NParks may adjust operating hours or suspend services without prior notice
+due to weather conditions or operational requirements</p>
+</li>
 </ul>
 <p></p>
 <p>
 <br>
 </p>
+<p></p>
