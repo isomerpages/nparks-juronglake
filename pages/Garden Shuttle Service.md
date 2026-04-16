@@ -23,7 +23,8 @@ areas within the gardens, particularly during peak visitor periods.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operating Hours</p>
+<p><strong>Operating Hours</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -38,17 +39,19 @@ areas within the gardens, particularly during peak visitor periods.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Frequency</p>
+<p><strong>Frequency</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 cruisers running at approximately 30-minute intervals*
+<p>2 cruisers running at approximately<strong> 30-minute intervals</strong>*
 <br>
 <br>*May vary slightly due to traffic or crowd conditions</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fee</p>
+<p><strong>Fee</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Free-of-charge</p>
@@ -88,9 +91,8 @@ on a loop with the following stops:</p>
 <summary>View pickup points and schedule</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -98,9 +100,6 @@ on a loop with the following stops:</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Pickup Points</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Next Stop</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Timing</p>
@@ -112,18 +111,14 @@ on a loop with the following stops:</p>
 <p>&lt;insert address&gt;</p>
 <p></p>
 <p>&lt;insert photo of pickup point&gt;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
+<p>Next Stop: Water Lily Pavilion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>First Shuttle:</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
