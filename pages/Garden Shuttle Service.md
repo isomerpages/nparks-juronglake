@@ -56,7 +56,7 @@ on a loop with the following stops:</p>
 <p>Pickup Points</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Next Stop</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Timing</p>
