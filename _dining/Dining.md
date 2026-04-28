@@ -135,6 +135,9 @@ more details!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dining/Bingxue/Bingxue_outlet_photo.jpg">
+</div>
 <p>Located within the tranquil surroundings of the Bonsai Garden at Jurong
 Lake Gardens, <strong>Bingxue</strong> offers a refreshing stop for visitors
 looking to enjoy a sweet treat. Known for their unique blend of ice cream
