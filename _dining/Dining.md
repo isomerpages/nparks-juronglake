@@ -110,6 +110,9 @@ more details!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dining/Eden/Eden_Cafe_Image___Landscape_2.jpg">
+</div>
 <p>As a tranquil oasis amidst the garden's lush landscape, Eden serves as
 both a starting point for adventure and a serene retreat for weary explorers.
 Nestled in the vibrant heart of Pagoda Plaza, Eden beckons with a tantalising
@@ -135,6 +138,9 @@ more details!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dining/Bingxue/Bingxue_outlet_photo.jpg">
+</div>
 <p>Located within the tranquil surroundings of the Bonsai Garden at Jurong
 Lake Gardens, <strong>Bingxue</strong> offers a refreshing stop for visitors
 looking to enjoy a sweet treat. Known for their unique blend of ice cream
@@ -168,7 +174,7 @@ more details!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dine/Ice Cream Man And Friends/Ice_Cream_Man_and_Friends_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dining/Ice Cream Man And Friends/Ice_Cream_Man_and_Friends_1.jpg">
 </div>
 <p>Step into Ice Cream Man and Friends for a refreshing escape from the ordinary,
 where each artisanal scoop is served against a backdrop of lush tranquillity,
