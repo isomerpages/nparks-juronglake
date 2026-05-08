@@ -11,11 +11,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <h4><strong>Important Notices 📢</strong></h4>
 <p></p>
 <h4><strong>Lakeside Garden</strong></h4>
@@ -24,13 +19,6 @@ description: ""
 <p>The following nature areas are not lighted: <strong>Grasslands </strong>and <strong>Neram Streams</strong>  <strong>(Lakeside Garden)</strong>.
 For your own safety, please do not enter them during nighttime.</p>
 <p></p>
-</li>
-</ol>
-<h4><strong>Chinese Garden</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Please note that <strong>Water Wall Court</strong>  <strong>(Chinese Garden)</strong> will
-be closed until further notice for maintenance works.</p>
 <p></p>
 <p>Thank you for your understanding.</p>
 <p></p>
