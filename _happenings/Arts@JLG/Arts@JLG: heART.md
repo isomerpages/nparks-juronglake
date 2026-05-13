@@ -387,4 +387,4 @@ case of heavy rain, the tour will not proceed.</p>
 </p>
 <p><em>Jurong Lake Gardens is part of the National Arts Council’s Arts &amp; Culture Nodes Network.</em>
 </p>
-<p>i</p>
+<p></p>
