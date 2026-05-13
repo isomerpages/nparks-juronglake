@@ -22,7 +22,6 @@ and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
 F&amp;B vendors! You're sure to find something up your alley.</p>
 <p>Don't miss NParks' own Pasir Panjang Nursery and Plant Science Health
 booths! Our Plant Clinic will also be here from 9am - 3pm both days.</p>
-<hr>
 <h4>Walk-In Activities</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -99,30 +98,75 @@ next great adventure begin — one page at a time.</p>
 <summary>The Caged Parrot– A Nature Folktale Come to Life by Act 3 International</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 June, 9am - 10am</p>
+<p></p>
+<p>Step into a world where stories breathe and nature comes alive! Set in
+the heart of Jurong Lake Gardens, this 60-minute family programme brings
+a moving folk tale to life through storytelling, movement, and drama.</p>
+<p></p>
+<p>In the first half, families are drawn into the vivid, performative telling
+of The Caged Parrot — a story about a wild parrot, a well-meaning merchant,
+and a journey through the forest that changes everything. In the second
+half, families step inside the story themselves, using their bodies, voices,
+and imaginations to explore empathy, freedom, and our connection to nature.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Mini Bonsai by Crafted Identity</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Date and Time: 13 June, 11am - 12pm</p>
 <p></p>
+<p>Explore the art of bonsai through the lens of modern indoor living. This
+demonstration introduces the principles of shaping and styling miniature
+trees using simple techniques inspired by traditional bonsai practices.</p>
+<p></p>
+<p>Participants will learn how to create a small, aesthetically balanced
+tree suitable for tabletops and indoor environments, while appreciating
+the patience and mindfulness behind bonsai cultivation</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Wabikusa Terrarium by Crafted Identity</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Date and Time: 13 June, 1pm - 2pm</p>
 <p></p>
+<p>Wabikusa is a contemporary Japanese plant art that blends aquatic and
+terrestrial plants into a compact living ecosystem. This session introduces
+how nature-inspired planted arrangements can thrive in small spaces, reflecting
+harmony between water and land.</p>
+<p>Participants will experience creating a simple wabikusa-inspired terrarium,
+learning how to layer materials and care for a miniature ecosystem.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Plushie Making by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Date and Time: 13 June, 3pm - 4pm</p>
 <p></p>
+<p>Stitch, stuff, and let your imagination run wild! In this fun, hands-on
+workshop, you'll design and create your very own plushie using upcycled
+fabric and scrap materials — making something truly one of a kind while
+giving old materials a new lease of life.</p>
+<p></p>
+<p>Sketch out your idea, cut and assemble your fabrics, and add all the little
+details that make your plushie uniquely yours. Our facilitators are on
+hand to guide you every step of the way.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Collagraph Printing by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Date and Time: 13 June, 4:30pm - 6pm</p>
 <p></p>
+<p>Get hands-on with one of printmaking's most tactile and creative techniques!
+In this workshop, you'll build your very own printing plate by layering
+textured materials — string, lace, leaves, sandpaper, and more — onto a
+cardboard base. Once inked and pressed, your plate reveals a stunning composition
+of patterns and textures that is completely unique to you.</p>
+<p></p>
+<p>Along the way, you'll discover the history of collograph printing and
+its connections to Southeast Asian art and craft traditions. Best of all,
+you'll take home not just a set of beautiful prints, but your very own
+reusable plate to keep printing with long after the day is done.</p>
 </div>
 </details>
 </div>
@@ -132,31 +176,90 @@ next great adventure begin — one page at a time.</p>
 <details class="isomer-details">
 <summary>DIY Hourglass with Natural Dyes by KidsSTOP</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Date and Time: 14 June, 9am - 10am</p>
 <p></p>
+<p>Did you know that oil and water don't mix? Watch in wonder as they swirl,
+separate, and settle in a mesmerising dance of colour and movement — and
+discover the science behind why it happens!</p>
+<p>In this activity, little ones will explore two liquids, experiment with
+colour mixing using primary colours, and learn about the natural pigments
+that give each colour its vibrant hue — from spirulina's brilliant blue
+to turmeric's sunny yellow and beetroot's rich red. It's science, art,
+and nature all in one!</p>
+<p></p>
+<p>The best part? You'll take home your very own liquid hourglass — a beautiful,
+portable keepsake that doubles as a calming, mindful art piece. Whenever
+you need a moment of calm, just tip it over and let the gentle movement
+of oil and water do the rest.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Introduction to Watercolour Sketching for Seniors by Rabak Atelier</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Date and Time: 14 June, 10:30am - 1pm</p>
 <p></p>
+<p>There's something truly special about painting outdoors — the fresh air,
+the gentle sounds of nature, and the quiet focus that comes with putting
+brush to paper. In this 2.5-hour workshop designed for seniors, you'll
+be introduced to the basics of watercolour and guided through simple techniques
+before applying them to paint your very own garden scene.</p>
+<p></p>
+<p>Watercolour is a wonderfully portable and accessible medium, perfect for
+beginners and a lovely way to engage the senses and spark creativity. No
+prior experience is needed — just a curiosity to explore and a willingness
+to enjoy the process.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Playing with Negative Space by Raba Atelier</summary>
+<summary>Playing with Negative Space by Rabak Atelier</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Date and Time: 14 June, 1:30pm - 2:30pm</p>
 <p></p>
+<p>Have you ever stopped to notice the shapes that exist not in an object
+itself, but in the space around it? This is the concept of negative space
+— and once you see it, you'll never look at the world quite the same way
+again!</p>
+<p></p>
+<p>In this 1.5-hour workshop for parent-and-child pairs, you'll be given
+a viewfinder — a small card with a rectangular window — and invited to
+explore the garden around you, discovering surprising shapes and compositions
+hiding in plain sight. Using what you find, you'll create your very own
+piece of art inspired by the world through your viewfinder.</p>
+<p></p>
+<p>Come ready to slow down, look closely, and see the garden with fresh eyes.
+All are welcome. We look forward to creating with you!</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Anthotype Printing by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Date and Time: 3pm - 4:30pm</p>
 <p></p>
+<p>Discover the art of anthotype printmaking — a beautiful, eco-friendly
+craft that uses the natural pigments of plants like spinach, beetroot,
+and flowers to create delicate, one-of-a-kind prints. No chemicals, no
+waste — just nature doing its magic!</p>
+<p></p>
+<p>Brush your paper with plant extracts, arrange your objects, and let the
+sun do the rest. Over time, sunlight gently reveals a stunning organic
+image that is entirely your own. Along the way, you'll also learn about
+the history of this fascinating printmaking method and its roots in Southeast
+Asia.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Plushie Making by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Date and Time: 14 June, 5pm - 6pm</p>
 <p></p>
+<p>Stitch, stuff, and let your imagination run wild! In this fun, hands-on
+workshop, you'll design and create your very own plushie using upcycled
+fabric and scrap materials — making something truly one of a kind while
+giving old materials a new lease of life.</p>
+<p></p>
+<p>Sketch out your idea, cut and assemble your fabrics, and add all the little
+details that make your plushie uniquely yours. Our facilitators are on
+hand to guide you every step of the way.</p>
 </div>
 </details>
 </div>
@@ -165,19 +268,23 @@ next great adventure begin — one page at a time.</p>
 <details class="isomer-details">
 <summary>Kayak and Pedal Boat Try-Outs by PAssionWaVe@JLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Date and Time: 13 and 14 June, multiple sessions each day</p>
+<p>Registration only on-site.</p>
+<p>More details to come!</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Yoga Sessions by PAssionWaVe@JLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Date and Time: 13 and 14 June, 5pm - 6pm</p>
+<p>More details to come!</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>FitClub Workout by PAssionWaVe@JLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Date and Time: 14 June, 10am - 11am</p>
+<p>More details to come!</p>
 </div>
 </details>
 </div>
@@ -244,7 +351,7 @@ case of heavy rain, the tour will not proceed.</p>
 <details class="isomer-details">
 <summary>Nature Photography Walk by PAssionWaVe@JLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Details to come!</p>
+<p>More details to come!</p>
 </div>
 </details>
 </div>
