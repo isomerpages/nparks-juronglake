@@ -92,7 +92,8 @@ booths! Our Plant Clinic will also be here from 9am - 3pm both days.</p>
 </div>
 </details>
 </div>
-<p>14 June (<strong>Sun</strong>)</p>
+<p><strong>14 June (Sun)</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>DIY Hourglass with Natural Dyes by KidsSTOP</summary>
@@ -152,7 +153,8 @@ booths! Our Plant Clinic will also be here from 9am - 3pm both days.</p>
 <summary>Therapeutic Garden Tour by NParks</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date: 13 June (Sat)
-<br>Time: 4pm - 6:30pm</p>
+<br>Time: 4:30pm - 6pm</p>
+<p>Meeting point: Outside Mempat Hall @ Gardenhouse, Jurong Lake Gardens</p>
 <p></p>
 <p>Therapeutic gardens are designed based on scientific research to facilitate
 interactions with nature and improve the well-being of its visitors.&nbsp;Participants
@@ -160,7 +162,11 @@ of this tour will get to learn more about this specialised green space
 and enriching therapeutic horticulture activities that can be conducted
 within.</p>
 <p></p>
-<p>Registration will open soon!</p>
+<p>In the event of light rain, the tour will still proceed. However, in the
+case of heavy rain, the tour will not proceed.</p>
+<p></p>
+<p>Register here: <a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_95/1844_Therapeutic-Garden-Tour-at-Jurong-Lake-Gardens" rel="noopener noreferrer nofollow" target="_blank">Therapeutic Garden Tour at Jurong Lake Gardens</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -168,27 +174,37 @@ within.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date: 14 June (Sun)
 <br>Time: 9am - 11am</p>
+<p>Meeting point: Outside Mempat Hall @ Gardenhouse, Jurong Lake Gardens</p>
 <p></p>
 <p>This tour brings participants to be acquainted with the range of therapeutic
 landscapes that can be found within Jurong Lake Gardens. Join us in this
 tour to find out more about these landscapes and how you can enjoy these
 green spaces to reap the benefits of good health and wellbeing.</p>
 <p></p>
-<p>Registration will open soon!</p>
+<p>In the event of light rain, the tour will still proceed. However, in the
+case of heavy rain, the tour will not proceed.</p>
+<p></p>
+<p>Register here: <a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_96/1845_Therapeutic-Landscapes-Tour-at-Jurong-Lake-Gardens" rel="noopener noreferrer nofollow" target="_blank">Therapeutic Landscapes Tour at Jurong Lake Gardens</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Edible Demonstration Garden Tour by NParks</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date: 14 June (Sun)
-<br>Time: 4pm - 6:30pm</p>
+<br>Time: 4:30pm - 6pm</p>
+<p>Meeting point: Outside Mempat Hall @ Gardenhouse, Jurong Lake Gardens</p>
 <p></p>
 <p>Join us in this tour of the Edible Demonstration Garden to learn how you
 can design an outdoor garden for growing and displaying edible plants.
 You will also get to learn more about interesting and uncommon edible plants
 that can be found in this garden, including tips on how to grow them.</p>
 <p></p>
-<p>Registration will open soon!</p>
+<p>In the event of light rain, the tour will still proceed. However, in the
+case of heavy rain, the tour will not proceed.</p>
+<p></p>
+<p>Register here: <a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_97/1846_Edible-Demonstration-Garden-Tour-at-Jurong-Lake-Gardens" rel="noopener noreferrer nofollow" target="_blank">Edible Demonstration Garden Tour at Jurong Lake Gardens</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
