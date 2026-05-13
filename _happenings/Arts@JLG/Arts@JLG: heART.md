@@ -277,6 +277,7 @@ hand to guide you every step of the way.</p>
 <summary>Yoga Sessions by PAssionWaVe@JLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 and 14 June, 5pm - 6pm</p>
+<p>Venue: PAssionWave Viewing Gallery (Level 2)</p>
 <p>More details to come!</p>
 </div>
 </details>
@@ -284,6 +285,7 @@ hand to guide you every step of the way.</p>
 <summary>FitClub Workout by PAssionWaVe@JLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 14 June, 10am - 11am</p>
+<p>Venue: PAssionWave Viewing Gallery (Level 2)</p>
 <p>More details to come!</p>
 </div>
 </details>
