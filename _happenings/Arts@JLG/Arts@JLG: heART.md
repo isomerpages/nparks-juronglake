@@ -8,14 +8,15 @@ third_nav_title: Arts@JLG
 <h3><strong>Celebrating Wellness and Creativity in Nature</strong></h3>
 <p>Mark your calendars - the 2026 edition of Arts@JLG: heART will be happening
 on <strong>13 and 14 June</strong>, in conjunction with National Family
-Fest and <a href="https://www.nparks.gov.sg/visit/parks/hortpark/activities/gardeners-day-out" rel="noopener nofollow" target="_blank">Gardeners' Day Out</a>!</p>
+Festival and <a href="https://www.nparks.gov.sg/visit/parks/hortpark/activities/gardeners-day-out" rel="noopener nofollow" target="_blank">Gardeners' Day Out</a>!</p>
 <p>Arts@JLG: heART&nbsp;is a family-friendly festival intertwining arts and
 nature, to bring you a marketplace, workshops, and other activities that
 nurture physical, mental, and emotional well-being.</p>
 <p>We invite you to explore your relationship with art and personal well-being,
 while cultivating inner peace and mindfulness through creative expression
 and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
-<p>Stay tuned for what to expect at Arts@JLG: heART 2026!</p>
+<p>All programmes are rain-or-shine.</p>
+<p>Scroll down for what to expect at Arts@JLG: heART 2026!</p>
 <h4>Gardener's Day Out Marketplace</h4>
 <p>Look forward to a vibrant market with fifty gardening, lifestyle, and
 F&amp;B vendors! You're sure to find something up your alley.</p>
@@ -27,31 +28,32 @@ booths! Our Plant Clinic will also be here from 9am - 3pm both days.</p>
 <details class="isomer-details">
 <summary>Airdry Claymaking by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Date and Time: 13 and 14 June, 9am to 6pm</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Shrink Art by National Family Festival</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Date and Time: 13 and 14 June, 9am to 6pm</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Bouncy Castles by National Family Festival</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>MOLLY Mobile Library by National Library Board (10am - 4pm)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Date and Time: 13 and 14 June, 9am to 6pm</p>
+<p>In event of wet weather, the bouncy castles will be temporarily closed.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Project Blue Wave by PAssionWaVe@JLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Date and Time: 13 and 14 June, 9am to 6pm</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>MOLLY Mobile Library by National Library Board</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Date and Time: 13 and 14 June, 10am to 4pm</p>
 </div>
 </details>
 </div>
@@ -62,7 +64,7 @@ booths! Our Plant Clinic will also be here from 9am - 3pm both days.</p>
 <details class="isomer-details">
 <summary>The Caged Parrot– A Nature Folktale Come to Life by Act 3 International</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Date and Time: 13 June, 9am - 10am</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -200,4 +202,4 @@ that can be found in this garden, including tips on how to grow them.</p>
 </p>
 <p><em>Jurong Lake Gardens is part of the National Arts Council’s Arts &amp; Culture Nodes Network.</em>
 </p>
-<p></p>
+<p>i</p>
