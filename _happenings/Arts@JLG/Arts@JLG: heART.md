@@ -111,30 +111,56 @@ and imaginations to explore empathy, freedom, and our connection to nature.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Mini Bonsai by Crafted Identity</summary>
+<summary>Mini Bonsai "Prune and Shape" by Crafted Identity</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 June, 11am - 12pm</p>
+<p>Capacity: 10 participants per workshop
+<br>Suitable Age: 12 years old &amp; above</p>
 <p></p>
-<p>Explore the art of bonsai through the lens of modern indoor living. This
-demonstration introduces the principles of shaping and styling miniature
-trees using simple techniques inspired by traditional bonsai practices.</p>
+<p>Participants will work on a pre-bonsai plant approximately 15cm tall and
+learn how simple pruning and shaping techniques can transform a young plant
+into a miniature tree full of movement and character.</p>
 <p></p>
-<p>Participants will learn how to create a small, aesthetically balanced
-tree suitable for tabletops and indoor environments, while appreciating
-the patience and mindfulness behind bonsai cultivation</p>
+<p>In this beginner-friendly session, participants will:
+<br>• Learn basic bonsai pruning and shaping techniques
+<br>• Explore different bonsai styles and forms
+<br>• Understand simple bonsai care and maintenance
+<br>• Experience the calming and mindful nature of bonsai crafting</p>
+<p>Each participant will bring home their own shaped mini bonsai creation.</p>
+<p></p>
+<p>Register here (from 18 May): <a href="https://www.craftedidentity.com/collections/terrarium-workshops/products/free-mini-bonsai-and-wabikusa-terrarium-workshops-at-arts-jlg-heart-x-gardeners-day-out-2026" rel="noopener noreferrer nofollow" target="_blank">https://www.craftedidentity.com/collections/terrarium-workshops/products/free-mini-bonsai-and-wabikusa-terrarium-workshops-at-arts-jlg-heart-x-gardeners-day-out-2026</a>
+</p>
+<p></p>
+<p><strong>Important Note:</strong>
+<br>Participants may only register for <strong>ONE(1)</strong> Crafted Identity
+workshop session due to limited slots.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Wabikusa Terrarium by Crafted Identity</summary>
+<summary>Introduction to Wabikusa Terrarium by Crafted Identity</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 June, 1pm - 2pm</p>
+<p>Capacity: 10 participants per workshop
+<br>Suitable Age: 12 years old &amp; above</p>
 <p></p>
-<p>Wabikusa is a contemporary Japanese plant art that blends aquatic and
-terrestrial plants into a compact living ecosystem. This session introduces
-how nature-inspired planted arrangements can thrive in small spaces, reflecting
-harmony between water and land.</p>
-<p>Participants will experience creating a simple wabikusa-inspired terrarium,
-learning how to layer materials and care for a miniature ecosystem.</p>
+<p>Participants will create a miniature living ecosystem inspired by the
+Japanese Wabikusa concept. This guided workshop introduces how water, moss,
+and plants work together to form a natural and serene composition. Handcrafted
+materials and guided assistance will be provided throughout the session.
+No experience is required.</p>
+<p></p>
+<p>In this beginner-friendly workshop, participants will:
+<br>• Build their own Wabikusa terrarium step-by-step
+<br>• Learn how water, moss, and plants create a living ecosystem
+<br>• Arrange a natural flowing composition inspired by nature
+<br>• Discover simple care techniques for the terrarium</p>
+<p></p>
+<p>Register here (from 18 May): <a href="https://www.craftedidentity.com/collections/terrarium-workshops/products/free-mini-bonsai-and-wabikusa-terrarium-workshops-at-arts-jlg-heart-x-gardeners-day-out-2026" rel="noopener noreferrer nofollow" target="_blank">https://www.craftedidentity.com/collections/terrarium-workshops/products/free-mini-bonsai-and-wabikusa-terrarium-workshops-at-arts-jlg-heart-x-gardeners-day-out-2026</a>
+</p>
+<p></p>
+<p><strong>Important Note:</strong>
+<br>Participants may only register for <strong>ONE(1)</strong> Crafted Identity
+workshop session due to limited slots.</p>
 </div>
 </details>
 <details class="isomer-details">
