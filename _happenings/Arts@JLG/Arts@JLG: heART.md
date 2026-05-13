@@ -29,18 +29,41 @@ booths! Our Plant Clinic will also be here from 9am - 3pm both days.</p>
 <summary>Airdry Claymaking by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 and 14 June, 9am to 6pm</p>
+<p></p>
+<p>Get your hands dirty and let your imagination run wild! In this relaxed,
+hands-on workshop, you'll explore the wonderful world of air-dry clay —
+pinching, coiling, flattening, and moulding your way to a creation that's
+entirely your own.</p>
+<p></p>
+<p>Whether you'd like to craft a charm, a figurine, or a little object of
+your own design, our friendly facilitators are here to guide and inspire
+you every step of the way.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Shrink Art by National Family Festival</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 and 14 June, 9am to 6pm</p>
+<p></p>
+<p>Unleash your inner artist and create something truly one of a kind! Pick
+your design, colour it in, and watch the magic happen as your artwork shrinks
+into a beautiful, pocket-sized keepsake. It's fun, it's creative, and it's
+all yours to take home.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Bouncy Castles by National Family Festival</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 and 14 June, 9am to 6pm</p>
+<p>Get ready for a whole lot of fun! Jump in, bounce around, and enjoy every
+moment — because the fun doesn't stop here. We hope you leave with a big
+smile on your face and memories to last a lifetime!</p>
+<p></p>
+<p>Please note that NParks will not be liable for any injuries or accidents
+that may occur at the bouncy castle. We kindly ask all parents and guardians
+to supervise their children at all times and ensure they play safely. Let's
+keep the fun going for everyone!</p>
+<p></p>
 <p>In event of wet weather, the bouncy castles will be temporarily closed.</p>
 </div>
 </details>
@@ -48,12 +71,23 @@ booths! Our Plant Clinic will also be here from 9am - 3pm both days.</p>
 <summary>Project Blue Wave by PAssionWaVe@JLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 and 14 June, 9am to 6pm</p>
+<p></p>
+<p>Dive into the blue! Project Blue Wave is all about fostering a love and
+respect for our waters and marine environment. Come explore, learn, and
+find out how each one of us can play a part in keeping our seas clean and
+thriving. Whether you're new to the cause or already passionate about ocean
+conservation, we'd love to have you on board.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>MOLLY Mobile Library by National Library Board</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 and 14 June, 10am to 4pm</p>
+<p></p>
+<p>Step right in and discover a world of stories on wheels! The Molly Mobile
+Library brings books, knowledge, and the joy of reading directly to you.
+Browse our collection, borrow a title that catches your eye, and let your
+next great adventure begin — one page at a time.</p>
 </div>
 </details>
 </div>
@@ -210,7 +244,7 @@ case of heavy rain, the tour will not proceed.</p>
 <details class="isomer-details">
 <summary>Nature Photography Walk by PAssionWaVe@JLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Details to come!</p>
 </div>
 </details>
 </div>
