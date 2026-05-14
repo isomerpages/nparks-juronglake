@@ -347,7 +347,7 @@ day</p>
 </div>
 </details>
 </div>
-<h4>Around the Gardens</h4>
+<h4>Around the Gardens (Registration Open Now!)</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Therapeutic Garden Tour by NParks</summary>
