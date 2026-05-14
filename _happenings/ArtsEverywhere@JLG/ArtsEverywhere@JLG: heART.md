@@ -148,9 +148,9 @@ workshop session due to limited slots.</p>
 <details class="isomer-details">
 <summary>Introduction to Wabikusa Terrarium by Crafted Identity</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 13 June, 1pm - 2pm</p>
-<p>Capacity: 10 participants per workshop
-<br>Suitable Age: 12 years old &amp; above</p>
+<p><strong>Date and Time:</strong> 13 June, 1pm - 2pm
+<br><strong>Suitable Age:</strong> 12 years old &amp; above
+<br><strong>Capacity:</strong> 10 participants per workshop</p>
 <p></p>
 <p>Participants will create a miniature living ecosystem inspired by the
 Japanese Wabikusa concept. This guided workshop introduces how water, moss,
@@ -175,10 +175,10 @@ workshop session due to limited slots.</p>
 <details class="isomer-details">
 <summary>Plushie Making by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 13 June, 3pm - 4pm</p>
-<p>Suitable Age: 3 years old and above (parental supervision advised for
-younger children)</p>
-<p>Capacity: 40 pax per workshop</p>
+<p><strong>Date and Time: </strong>13 June, 3pm - 4pm
+<br><strong>Suitable Age: </strong>3 years old and above (parental supervision
+advised for younger children)
+<br><strong>Capacity:</strong> 40 pax per workshop</p>
 <p></p>
 <p>Stitch, stuff, and let your imagination run wild! In this fun, hands-on
 workshop, you'll design and create your very own plushie using upcycled
@@ -193,9 +193,9 @@ hand to guide you every step of the way.</p>
 <details class="isomer-details">
 <summary>Collagraph Printing by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 13 June, 4:30pm - 6pm</p>
-<p>Suitable Age: 3 years old and above</p>
-<p>Capacity: 40 pax per workshop</p>
+<p><strong>Date and Time:</strong> 13 June, 4:30pm - 6pm
+<br><strong>Suitable Age: </strong>3 years old and above
+<br><strong>Capacity:</strong> 40 pax per workshop</p>
 <p></p>
 <p>Get hands-on with one of printmaking's most tactile and creative techniques!
 In this workshop, you'll build your very own printing plate by layering
