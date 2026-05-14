@@ -234,6 +234,10 @@ of oil and water do the rest.</p>
 <summary>Introduction to Watercolour Sketching for Seniors by Rabak Atelier</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 14 June, 10:30am - 1pm</p>
+<p>Suitable Age: TBC</p>
+<p>Capacity: 25 pax per workshop</p>
+<p>Accessible to people with developmental/physical disabilities: Yes for
+physical disabilities</p>
 <p></p>
 <p>There's something truly special about painting outdoors — the fresh air,
 the gentle sounds of nature, and the quiet focus that comes with putting
@@ -251,6 +255,10 @@ to enjoy the process.</p>
 <summary>Playing with Negative Space by Rabak Atelier</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 14 June, 1:30pm - 2:30pm</p>
+<p>Suitable Age: TBC</p>
+<p>Capacity: 15 parent-child pairs per workshop</p>
+<p>Accessible to people with developmental/physical disabilities: Yes for
+physical disabilities</p>
 <p></p>
 <p>Have you ever stopped to notice the shapes that exist not in an object
 itself, but in the space around it? This is the concept of negative space
