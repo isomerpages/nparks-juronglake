@@ -1,9 +1,9 @@
 ---
-title: "Arts@JLG: heART"
+title: "ArtsEverywhere@JLG: heART"
 permalink: /arts-jlg-heart/
 variant: tiptap
 description: ""
-third_nav_title: Arts@JLG
+third_nav_title: ArtsEverywhere@JLG
 ---
 <h3><strong>Celebrating Wellness and Creativity in Nature</strong></h3>
 <p>Mark your calendars - the 2026 edition of Arts@JLG: heART will be happening
@@ -28,6 +28,8 @@ booths! Our Plant Clinic will also be here from 9am - 3pm both days.</p>
 <summary>Airdry Claymaking by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 and 14 June, 9am to 6pm</p>
+<p>Suitable Age: 3 years old and above (parental supervision advised for
+younger children)</p>
 <p></p>
 <p>Get your hands dirty and let your imagination run wild! In this relaxed,
 hands-on workshop, you'll explore the wonderful world of air-dry clay —
@@ -98,16 +100,23 @@ next great adventure begin — one page at a time.</p>
 <summary>The Caged Parrot– A Nature Folktale Come to Life by Act 3 International</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 June, 9am - 10am</p>
+<p>Suitable Age: 4 to 8 years old</p>
+<p>Capacity: 20 parent-child pairs per workshop</p>
+<p>Accessible to people with developmental/physical disabilities: Yes</p>
 <p></p>
-<p>Step into a world where stories breathe and nature comes alive! Set in
-the heart of Jurong Lake Gardens, this 60-minute family programme brings
-a moving folk tale to life through storytelling, movement, and drama.</p>
+<p>Step into a world where stories breathe and nature comes alive!</p>
 <p></p>
-<p>In the first half, families are drawn into the vivid, performative telling
-of The Caged Parrot — a story about a wild parrot, a well-meaning merchant,
-and a journey through the forest that changes everything. In the second
-half, families step inside the story themselves, using their bodies, voices,
-and imaginations to explore empathy, freedom, and our connection to nature.</p>
+<p>A merchant keeps a wild parrot in a beautiful cage, believing comfort
+and care are enough to make her happy. But when she asks him to carry a
+message to her family deep in the forest, his journey through the wild
+reveals a deeper truth — that what she truly longs for is the freedom to
+live as herself.
+<br>
+</p>
+<p>Blending storytelling, movement, song, colourful costumes, and character
+performance, this immersive production comes alive amidst the natural beauty
+of Jurong Lake Gardens, where the landscape itself becomes part of the
+story.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -167,6 +176,9 @@ workshop session due to limited slots.</p>
 <summary>Plushie Making by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 June, 3pm - 4pm</p>
+<p>Suitable Age: 3 years old and above (parental supervision advised for
+younger children)</p>
+<p>Capacity: 40 pax per workshop</p>
 <p></p>
 <p>Stitch, stuff, and let your imagination run wild! In this fun, hands-on
 workshop, you'll design and create your very own plushie using upcycled
@@ -182,6 +194,8 @@ hand to guide you every step of the way.</p>
 <summary>Collagraph Printing by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 June, 4:30pm - 6pm</p>
+<p>Suitable Age: 3 years old and above</p>
+<p>Capacity: 40 pax per workshop</p>
 <p></p>
 <p>Get hands-on with one of printmaking's most tactile and creative techniques!
 In this workshop, you'll build your very own printing plate by layering
@@ -200,29 +214,32 @@ reusable plate to keep printing with long after the day is done.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>DIY Hourglass with Natural Dyes by KidsSTOP</summary>
+<summary>Colours in Layers: DIY Hourglass with Natural Dyes by KidsSTOP</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 14 June, 9am - 10am</p>
+<p>Suitable Age: 4 to 8 years old, accompanied by adult guardians</p>
+<p>Capacity: 40 pax per workshop (inclusive of adults and children)</p>
 <p></p>
-<p>Did you know that oil and water don't mix? Watch in wonder as they swirl,
-separate, and settle in a mesmerising dance of colour and movement — and
-discover the science behind why it happens!</p>
-<p>In this activity, little ones will explore two liquids, experiment with
-colour mixing using primary colours, and learn about the natural pigments
-that give each colour its vibrant hue — from spirulina's brilliant blue
-to turmeric's sunny yellow and beetroot's rich red. It's science, art,
-and nature all in one!</p>
+<p>Inviting all young minds to step into a world of wonder where Science
+meets Mindfulness!</p>
+<p>&nbsp;</p>
+<p>Discover the vibrant colours of nature using natural pigments to create
+your very own liquid hourglass.&nbsp;&nbsp;</p>
+<p>Express yourself freely and find calm by observing the gentle movement
+of oil and water to form colours in layers.</p>
 <p></p>
-<p>The best part? You'll take home your very own liquid hourglass — a beautiful,
-portable keepsake that doubles as a calming, mindful art piece. Whenever
-you need a moment of calm, just tip it over and let the gentle movement
-of oil and water do the rest.</p>
+<p>Register here: <a href="http://For.edu.sg" rel="noopener noreferrer nofollow" target="_blank">For.edu.sg</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Introduction to Watercolour Sketching for Seniors by Rabak Atelier</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 14 June, 10:30am - 1pm</p>
+<p>Suitable Age: TBC</p>
+<p>Capacity: 25 pax per workshop</p>
+<p>Accessible to people with developmental/physical disabilities: Yes for
+physical disabilities</p>
 <p></p>
 <p>There's something truly special about painting outdoors — the fresh air,
 the gentle sounds of nature, and the quiet focus that comes with putting
@@ -240,6 +257,10 @@ to enjoy the process.</p>
 <summary>Playing with Negative Space by Rabak Atelier</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 14 June, 1:30pm - 2:30pm</p>
+<p>Suitable Age: TBC</p>
+<p>Capacity: 15 parent-child pairs per workshop</p>
+<p>Accessible to people with developmental/physical disabilities: Yes for
+physical disabilities</p>
 <p></p>
 <p>Have you ever stopped to notice the shapes that exist not in an object
 itself, but in the space around it? This is the concept of negative space
@@ -260,6 +281,8 @@ All are welcome. We look forward to creating with you!</p>
 <summary>Anthotype Printing by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 3pm - 4:30pm</p>
+<p>Suitable Age: 3 years old and above</p>
+<p>Capacity: 40 pax per workshop</p>
 <p></p>
 <p>Discover the art of anthotype printmaking — a beautiful, eco-friendly
 craft that uses the natural pigments of plants like spinach, beetroot,
@@ -277,6 +300,9 @@ Asia.</p>
 <summary>Plushie Making by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 14 June, 5pm - 6pm</p>
+<p>Suitable Age: 3 years old and above (parental supervision advised for
+younger children)</p>
+<p>Capacity: 40 pax per workshop</p>
 <p></p>
 <p>Stitch, stuff, and let your imagination run wild! In this fun, hands-on
 workshop, you'll design and create your very own plushie using upcycled

@@ -1,9 +1,9 @@
 ---
-title: "Arts@JLG: collage"
-permalink: /collage/
+title: "ArtsEverywhere@JLG: collage"
+permalink: /arts-jlg-collage/
 variant: tiptap
 description: ""
-third_nav_title: Arts@JLG
+third_nav_title: ArtsEverywhere@JLG
 ---
 <h2><strong>Where Art Meets Nature</strong></h2>
 <p><strong>Arts@JLG: collage</strong> is a programme held in January, as part

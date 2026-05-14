@@ -1,9 +1,9 @@
 ---
-title: "Arts@JLG: explore"
+title: "ArtsEverywhere@JLG: explore"
 permalink: /arts-jlg-explore/
 variant: tiptap
 description: ""
-third_nav_title: Arts@JLG
+third_nav_title: ArtsEverywhere@JLG
 ---
 <h3><strong>Nurturing Creativity for All at Jurong Lake Gardens</strong></h3>
 <p><strong>Arts@JLG: explore</strong> is an event celebrating diversity and
