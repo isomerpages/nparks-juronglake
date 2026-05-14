@@ -27,8 +27,9 @@ booths! Our Plant Clinic will also be here from 9am - 3pm both days.</p>
 <details class="isomer-details">
 <summary>Airdry Claymaking by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 13 and 14 June, 9am to 6pmSuitable Age: 3 years old and
-above (parental supervision advised for younger children)</p>
+<p><strong>Date and Time:</strong> 13 and 14 June, 9am to 6pm
+<br><strong>Suitable Age: </strong>3 years old and above (parental supervision
+advised for younger children)</p>
 <p></p>
 <p>Get your hands dirty and let your imagination run wild! In this relaxed,
 hands-on workshop, you'll explore the wonderful world of air-dry clay —
@@ -43,7 +44,7 @@ you every step of the way.</p>
 <details class="isomer-details">
 <summary>Shrink Art by National Family Festival</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 13 and 14 June, 9am to 6pm</p>
+<p><strong>Date and Time:</strong> 13 and 14 June, 9am to 6pm</p>
 <p></p>
 <p>Unleash your inner artist and create something truly one of a kind! Pick
 your design, colour it in, and watch the magic happen as your artwork shrinks
@@ -54,7 +55,8 @@ all yours to take home.</p>
 <details class="isomer-details">
 <summary>Bouncy Castles by National Family Festival</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 13 and 14 June, 9am to 6pm</p>
+<p><strong>Date and Time: </strong>13 and 14 June, 9am to 6pm</p>
+<p></p>
 <p>Get ready for a whole lot of fun! Jump in, bounce around, and enjoy every
 moment — because the fun doesn't stop here. We hope you leave with a big
 smile on your face and memories to last a lifetime!</p>
@@ -70,7 +72,7 @@ keep the fun going for everyone!</p>
 <details class="isomer-details">
 <summary>Project Blue Wave by PAssionWaVe@JLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 13 and 14 June, 9am to 6pm</p>
+<p><strong>Date and Time:</strong> 13 and 14 June, 9am to 6pm</p>
 <p></p>
 <p>Dive into the blue! Project Blue Wave is all about fostering a love and
 respect for our waters and marine environment. Come explore, learn, and
@@ -82,7 +84,7 @@ conservation, we'd love to have you on board.</p>
 <details class="isomer-details">
 <summary>MOLLY Mobile Library by National Library Board</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 13 and 14 June, 10am to 4pm</p>
+<p><strong>Date and Time:</strong> 13 and 14 June, 10am to 4pm</p>
 <p></p>
 <p>Step right in and discover a world of stories on wheels! The Molly Mobile
 Library brings books, knowledge, and the joy of reading directly to you.
@@ -411,4 +413,6 @@ case of heavy rain, the tour will not proceed.</p>
 </p>
 <p><em>Jurong Lake Gardens is part of the National Arts Council’s Arts &amp; Culture Nodes Network.</em>
 </p>
-<p></p>
+<p>
+<br>
+</p>
