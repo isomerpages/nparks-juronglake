@@ -176,6 +176,9 @@ workshop session due to limited slots.</p>
 <summary>Plushie Making by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 June, 3pm - 4pm</p>
+<p>Suitable Age: 3 years old and above (parental supervision advised for
+younger children)</p>
+<p>Capacity: 40 pax per workshop</p>
 <p></p>
 <p>Stitch, stuff, and let your imagination run wild! In this fun, hands-on
 workshop, you'll design and create your very own plushie using upcycled
@@ -211,23 +214,22 @@ reusable plate to keep printing with long after the day is done.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>DIY Hourglass with Natural Dyes by KidsSTOP</summary>
+<summary>Colours in Layers: DIY Hourglass with Natural Dyes by KidsSTOP</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 14 June, 9am - 10am</p>
+<p>Suitable Age: 4 to 8 years old, accompanied by adult guardians</p>
+<p>Capacity: 40 pax per workshop (inclusive of adults and children)</p>
 <p></p>
-<p>Did you know that oil and water don't mix? Watch in wonder as they swirl,
-separate, and settle in a mesmerising dance of colour and movement — and
-discover the science behind why it happens!</p>
-<p>In this activity, little ones will explore two liquids, experiment with
-colour mixing using primary colours, and learn about the natural pigments
-that give each colour its vibrant hue — from spirulina's brilliant blue
-to turmeric's sunny yellow and beetroot's rich red. It's science, art,
-and nature all in one!</p>
+<p>Inviting all young minds to step into a world of wonder where Science
+meets Mindfulness!</p>
+<p>&nbsp;</p>
+<p>Discover the vibrant colours of nature using natural pigments to create
+your very own liquid hourglass.&nbsp;&nbsp;</p>
+<p>Express yourself freely and find calm by observing the gentle movement
+of oil and water to form colours in layers.</p>
 <p></p>
-<p>The best part? You'll take home your very own liquid hourglass — a beautiful,
-portable keepsake that doubles as a calming, mindful art piece. Whenever
-you need a moment of calm, just tip it over and let the gentle movement
-of oil and water do the rest.</p>
+<p>Register here: <a href="http://For.edu.sg" rel="noopener noreferrer nofollow" target="_blank">For.edu.sg</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
