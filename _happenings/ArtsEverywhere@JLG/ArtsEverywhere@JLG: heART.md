@@ -321,7 +321,9 @@ hand to guide you every step of the way.</p>
 <details class="isomer-details">
 <summary>Kayak and Pedal Boat Try-Outs by PAssionWaVe@JLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 13 and 14 June, multiple sessions each day</p>
+<p><strong>Date and Time:</strong> 13 and 14 June, multiple sessions each
+day</p>
+<p></p>
 <p>Registration only on-site.</p>
 <p>More details to come!</p>
 </div>
@@ -329,16 +331,18 @@ hand to guide you every step of the way.</p>
 <details class="isomer-details">
 <summary>Yoga Sessions by PAssionWaVe@JLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 13 and 14 June, 5pm - 6pm</p>
-<p>Venue: PAssionWave Viewing Gallery (Level 2)</p>
+<p><strong>Date and Time: </strong>13 and 14 June, 5pm - 6pm
+<br><strong>Venue: </strong>PAssionWave Viewing Gallery (Level 2)</p>
+<p></p>
 <p>More details to come!</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>FitClub Workout by PAssionWaVe@JLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 14 June, 10am - 11am</p>
-<p>Venue: PAssionWave Viewing Gallery (Level 2)</p>
+<p><strong>Date and Time: </strong>14 June, 10am - 11am
+<br><strong>Venue:</strong> PAssionWave Viewing Gallery (Level 2)</p>
+<p></p>
 <p>More details to come!</p>
 </div>
 </details>
@@ -348,9 +352,9 @@ hand to guide you every step of the way.</p>
 <details class="isomer-details">
 <summary>Therapeutic Garden Tour by NParks</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date: 13 June (Sat)
-<br>Time: 4:30pm - 6pm</p>
-<p>Meeting point: Outside Mempat Hall @ Gardenhouse, Jurong Lake Gardens</p>
+<p><strong>Date and Time: </strong>13 June, 4:30pm - 6pm
+<br><strong>Meeting Point: </strong>Outside Mempat Hall @ Gardenhouse, Jurong
+Lake Gardens</p>
 <p></p>
 <p>Therapeutic gardens are designed based on scientific research to facilitate
 interactions with nature and improve the well-being of its visitors.&nbsp;Participants
@@ -368,9 +372,9 @@ case of heavy rain, the tour will not proceed.</p>
 <details class="isomer-details">
 <summary>Therapeutic Landscapes Tour by NParks</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date: 14 June (Sun)
-<br>Time: 9am - 11am</p>
-<p>Meeting point: Outside Mempat Hall @ Gardenhouse, Jurong Lake Gardens</p>
+<p><strong>Date and Time: </strong>14 June, 9am - 11am
+<br><strong>Meeting Point:</strong> Outside Mempat Hall @ Gardenhouse, Jurong
+Lake Gardens</p>
 <p></p>
 <p>This tour brings participants to be acquainted with the range of therapeutic
 landscapes that can be found within Jurong Lake Gardens. Join us in this
@@ -387,9 +391,9 @@ case of heavy rain, the tour will not proceed.</p>
 <details class="isomer-details">
 <summary>Edible Demonstration Garden Tour by NParks</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date: 14 June (Sun)
-<br>Time: 4:30pm - 6pm</p>
-<p>Meeting point: Outside Mempat Hall @ Gardenhouse, Jurong Lake Gardens</p>
+<p><strong>Date and Time: </strong>14 June, 4:30pm - 6pm
+<br><strong>Meeting Point:</strong> Outside Mempat Hall @ Gardenhouse, Jurong
+Lake Gardens</p>
 <p></p>
 <p>Join us in this tour of the Edible Demonstration Garden to learn how you
 can design an outdoor garden for growing and displaying edible plants.
