@@ -6,12 +6,12 @@ description: ""
 third_nav_title: ArtsEverywhere@JLG
 ---
 <h3><strong>Celebrating Wellness and Creativity in Nature</strong></h3>
-<p>Mark your calendars - the 2026 edition of Arts@JLG: heART will be happening
-on <strong>13 and 14 June</strong>, in conjunction with National Family
-Festival and <a href="https://www.nparks.gov.sg/visit/parks/hortpark/activities/gardeners-day-out" rel="noopener nofollow" target="_blank">Gardeners' Day Out</a>!</p>
-<p>Arts@JLG: heART&nbsp;is a family-friendly festival intertwining arts and
-nature, to bring you a marketplace, workshops, and other activities that
-nurture physical, mental, and emotional well-being.</p>
+<p>Mark your calendars - the 2026 edition of ArtsEverywhEere@JLG: heART will
+be happening on <strong>13 and 14 June</strong>, in conjunction with National
+Family Festival and <a href="https://www.nparks.gov.sg/visit/parks/hortpark/activities/gardeners-day-out" rel="noopener nofollow" target="_blank">Gardeners' Day Out</a>!</p>
+<p>ArtsEverywhere@JLG: heART&nbsp;is a family-friendly festival intertwining
+arts and nature, to bring you a marketplace, workshops, and other activities
+that nurture physical, mental, and emotional well-being.</p>
 <p>We invite you to explore your relationship with art and personal well-being,
 while cultivating inner peace and mindfulness through creative expression
 and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
@@ -414,7 +414,7 @@ case of heavy rain, the tour will not proceed.</p>
 </div>
 </details>
 </div>
-<p><em>Arts@JLG: collage is organised by National Parks Board, in partnership with National Arts Council, National Family Festival and Gardeners’ Day Out.</em>
+<p><em>ArtsEverywhere@JLG: collage is organised by National Parks Board, in partnership with National Arts Council, National Family Festival and Gardeners’ Day Out.</em>
 </p>
 <p><em>Jurong Lake Gardens is part of the National Arts Council’s Arts &amp; Culture Nodes Network.</em>
 </p>
