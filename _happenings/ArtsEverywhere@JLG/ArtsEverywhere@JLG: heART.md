@@ -28,6 +28,8 @@ booths! Our Plant Clinic will also be here from 9am - 3pm both days.</p>
 <summary>Airdry Claymaking by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 and 14 June, 9am to 6pm</p>
+<p>Suitable Age: 3 years old and above (parental supervision advised for
+younger children)</p>
 <p></p>
 <p>Get your hands dirty and let your imagination run wild! In this relaxed,
 hands-on workshop, you'll explore the wonderful world of air-dry clay —
@@ -98,16 +100,23 @@ next great adventure begin — one page at a time.</p>
 <summary>The Caged Parrot– A Nature Folktale Come to Life by Act 3 International</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 June, 9am - 10am</p>
+<p>Suitable Age: 4 to 8 years old</p>
+<p>Capacity: 20 parent-child pairs per workshop</p>
+<p>Accessible to people with developmental/physical disabilities: Yes</p>
 <p></p>
-<p>Step into a world where stories breathe and nature comes alive! Set in
-the heart of Jurong Lake Gardens, this 60-minute family programme brings
-a moving folk tale to life through storytelling, movement, and drama.</p>
+<p>Step into a world where stories breathe and nature comes alive!</p>
 <p></p>
-<p>In the first half, families are drawn into the vivid, performative telling
-of The Caged Parrot — a story about a wild parrot, a well-meaning merchant,
-and a journey through the forest that changes everything. In the second
-half, families step inside the story themselves, using their bodies, voices,
-and imaginations to explore empathy, freedom, and our connection to nature.</p>
+<p>A merchant keeps a wild parrot in a beautiful cage, believing comfort
+and care are enough to make her happy. But when she asks him to carry a
+message to her family deep in the forest, his journey through the wild
+reveals a deeper truth — that what she truly longs for is the freedom to
+live as herself.
+<br>
+</p>
+<p>Blending storytelling, movement, song, colourful costumes, and character
+performance, this immersive production comes alive amidst the natural beauty
+of Jurong Lake Gardens, where the landscape itself becomes part of the
+story.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -182,6 +191,8 @@ hand to guide you every step of the way.</p>
 <summary>Collagraph Printing by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 13 June, 4:30pm - 6pm</p>
+<p>Suitable Age: 3 years old and above</p>
+<p>Capacity: 40 pax per workshop</p>
 <p></p>
 <p>Get hands-on with one of printmaking's most tactile and creative techniques!
 In this workshop, you'll build your very own printing plate by layering
@@ -260,6 +271,8 @@ All are welcome. We look forward to creating with you!</p>
 <summary>Anthotype Printing by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 3pm - 4:30pm</p>
+<p>Suitable Age: 3 years old and above</p>
+<p>Capacity: 40 pax per workshop</p>
 <p></p>
 <p>Discover the art of anthotype printmaking — a beautiful, eco-friendly
 craft that uses the natural pigments of plants like spinach, beetroot,
@@ -277,6 +290,9 @@ Asia.</p>
 <summary>Plushie Making by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date and Time: 14 June, 5pm - 6pm</p>
+<p>Suitable Age: 3 years old and above (parental supervision advised for
+younger children)</p>
+<p>Capacity: 40 pax per workshop</p>
 <p></p>
 <p>Stitch, stuff, and let your imagination run wild! In this fun, hands-on
 workshop, you'll design and create your very own plushie using upcycled
