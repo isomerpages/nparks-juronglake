@@ -216,9 +216,10 @@ reusable plate to keep printing with long after the day is done.</p>
 <details class="isomer-details">
 <summary>Colours in Layers: DIY Hourglass with Natural Dyes by KidsSTOP</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 14 June, 9am - 10am</p>
-<p>Suitable Age: 4 to 8 years old, accompanied by adult guardians</p>
-<p>Capacity: 40 pax per workshop (inclusive of adults and children)</p>
+<p><strong>Date and Time: </strong>14 June, 9am - 10am
+<br><strong>Suitable Age:</strong> 4 to 8 years old, accompanied by adult guardians
+<br><strong>Capacity:</strong> 40 pax per workshop (inclusive of adults and
+children)</p>
 <p></p>
 <p>Inviting all young minds to step into a world of wonder where Science
 meets Mindfulness!</p>
@@ -235,11 +236,11 @@ of oil and water to form colours in layers.</p>
 <details class="isomer-details">
 <summary>Introduction to Watercolour Sketching for Seniors by Rabak Atelier</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 14 June, 10:30am - 1pm</p>
-<p>Suitable Age: TBC</p>
-<p>Capacity: 25 pax per workshop</p>
-<p>Accessible to people with developmental/physical disabilities: Yes for
-physical disabilities</p>
+<p><strong>Date and Time:</strong> 14 June, 10:30am - 1pm
+<br><strong>Suitable Age:</strong> TBC
+<br><strong>Capacity:</strong> 25 pax per workshop
+<br><strong>Accessible to people with developmental/physical disabilities:</strong> Yes
+for physical disabilities</p>
 <p></p>
 <p>There's something truly special about painting outdoors — the fresh air,
 the gentle sounds of nature, and the quiet focus that comes with putting
@@ -256,11 +257,11 @@ to enjoy the process.</p>
 <details class="isomer-details">
 <summary>Playing with Negative Space by Rabak Atelier</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 14 June, 1:30pm - 2:30pm</p>
-<p>Suitable Age: TBC</p>
-<p>Capacity: 15 parent-child pairs per workshop</p>
-<p>Accessible to people with developmental/physical disabilities: Yes for
-physical disabilities</p>
+<p><strong>Date and Time:</strong> 14 June, 1:30pm - 2:30pm
+<br><strong>Suitable Age:</strong> TBC
+<br><strong>Capacity:</strong> 15 parent-child pairs per workshop
+<br><strong>Accessible to people with developmental/physical disabilities:</strong> Yes
+for physical disabilities</p>
 <p></p>
 <p>Have you ever stopped to notice the shapes that exist not in an object
 itself, but in the space around it? This is the concept of negative space
@@ -280,9 +281,9 @@ All are welcome. We look forward to creating with you!</p>
 <details class="isomer-details">
 <summary>Anthotype Printing by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 3pm - 4:30pm</p>
-<p>Suitable Age: 3 years old and above</p>
-<p>Capacity: 40 pax per workshop</p>
+<p><strong>Date and Time: </strong>3pm - 4:30pm
+<br><strong>Suitable Age:</strong> 3 years old and above
+<br><strong>Capacity: </strong>40 pax per workshop</p>
 <p></p>
 <p>Discover the art of anthotype printmaking — a beautiful, eco-friendly
 craft that uses the natural pigments of plants like spinach, beetroot,
@@ -299,10 +300,10 @@ Asia.</p>
 <details class="isomer-details">
 <summary>Plushie Making by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 14 June, 5pm - 6pm</p>
-<p>Suitable Age: 3 years old and above (parental supervision advised for
-younger children)</p>
-<p>Capacity: 40 pax per workshop</p>
+<p><strong>Date and Time:</strong> 14 June, 5pm - 6pm
+<br><strong>Suitable Age:</strong> 3 years old and above (parental supervision
+advised for younger children)
+<br><strong>Capacity: </strong>40 pax per workshop</p>
 <p></p>
 <p>Stitch, stuff, and let your imagination run wild! In this fun, hands-on
 workshop, you'll design and create your very own plushie using upcycled
