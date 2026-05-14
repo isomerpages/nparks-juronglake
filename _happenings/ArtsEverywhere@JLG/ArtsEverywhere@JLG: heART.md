@@ -100,10 +100,10 @@ next great adventure begin — one page at a time.</p>
 <details class="isomer-details">
 <summary>The Caged Parrot– A Nature Folktale Come to Life by Act 3 International</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 13 June, 9am - 10am</p>
-<p>Suitable Age: 4 to 8 years old</p>
-<p>Capacity: 20 parent-child pairs per workshop</p>
-<p>Accessible to people with developmental/physical disabilities: Yes</p>
+<p><strong>Date and Time:</strong> 13 June, 9am - 10am
+<br><strong>Suitable Age:</strong> 4 to 8 years old
+<br><strong>Capacity:</strong> 20 parent-child pairs per workshop
+<br><strong>Accessible to people with developmental/physical disabilities: </strong>Yes</p>
 <p></p>
 <p>Step into a world where stories breathe and nature comes alive!</p>
 <p>A merchant keeps a wild parrot in a beautiful cage, believing comfort
@@ -122,9 +122,9 @@ story.</p>
 <details class="isomer-details">
 <summary>Mini Bonsai "Prune and Shape" by Crafted Identity</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 13 June, 11am - 12pm</p>
-<p>Capacity: 10 participants per workshop
-<br>Suitable Age: 12 years old &amp; above</p>
+<p><strong>Date and Time:</strong> 13 June, 11am - 12pm
+<br><strong>Suitable Age:</strong> 12 years old &amp; above
+<br><strong>Capacity:</strong> 10 participants per workshop</p>
 <p></p>
 <p>Participants will work on a pre-bonsai plant approximately 15cm tall and
 learn how simple pruning and shaping techniques can transform a young plant
