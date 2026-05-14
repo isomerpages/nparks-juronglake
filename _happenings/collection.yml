@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Guided Tours.md
-      - Arts@JLG/.keep
-      - Arts@JLG/ArtsEverywhere@JLG.md
-      - "Arts@JLG/ArtsEverywhere@JLG: heART.md"
-      - "Arts@JLG/ArtsEverywhere@JLG: explore.md"
-      - "Arts@JLG/ArtsEverywhere@JLG: collage.md"
+      - ArtsEverywhere@JLG/.keep
+      - ArtsEverywhere@JLG/ArtsEverywhere@JLG.md
+      - "ArtsEverywhere@JLG/ArtsEverywhere@JLG: heART.md"
+      - "ArtsEverywhere@JLG/ArtsEverywhere@JLG: explore.md"
+      - "ArtsEverywhere@JLG/ArtsEverywhere@JLG: collage.md"
       - Lights by the Lake.md
       - Lunar New Year 2026 at Chinese Garden.md
       - Volunteer Programmes.md
