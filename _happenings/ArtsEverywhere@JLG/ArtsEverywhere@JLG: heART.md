@@ -27,9 +27,8 @@ booths! Our Plant Clinic will also be here from 9am - 3pm both days.</p>
 <details class="isomer-details">
 <summary>Airdry Claymaking by PLAY!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date and Time: 13 and 14 June, 9am to 6pm</p>
-<p>Suitable Age: 3 years old and above (parental supervision advised for
-younger children)</p>
+<p>Date and Time: 13 and 14 June, 9am to 6pmSuitable Age: 3 years old and
+above (parental supervision advised for younger children)</p>
 <p></p>
 <p>Get your hands dirty and let your imagination run wild! In this relaxed,
 hands-on workshop, you'll explore the wonderful world of air-dry clay —
@@ -105,7 +104,6 @@ next great adventure begin — one page at a time.</p>
 <p>Accessible to people with developmental/physical disabilities: Yes</p>
 <p></p>
 <p>Step into a world where stories breathe and nature comes alive!</p>
-<p></p>
 <p>A merchant keeps a wild parrot in a beautiful cage, believing comfort
 and care are enough to make her happy. But when she asks him to carry a
 message to her family deep in the forest, his journey through the wild
