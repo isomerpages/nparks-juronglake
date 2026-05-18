@@ -1,5 +1,5 @@
 collections:
-  happenings:
+  events:
     output: true
     order:
       - Guided Tours.md
