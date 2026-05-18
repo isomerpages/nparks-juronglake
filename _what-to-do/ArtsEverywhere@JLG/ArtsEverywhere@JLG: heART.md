@@ -18,10 +18,17 @@ and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
 <p>All programmes are rain-or-shine.</p>
 <p>Scroll down for what to expect at Arts@JLG: heART 2026!</p>
 <h4>Gardener's Day Out Marketplace</h4>
-<p>Look forward to a vibrant market with fifty gardening, lifestyle, and
-F&amp;B vendors! You're sure to find something up your alley.</p>
-<p>Don't miss NParks' own Pasir Panjang Nursery and Plant Science Health
-booths! Our Plant Clinic will also be here from 9am - 3pm both days.</p>
+<p>Get your green fix - shop for potted plants, gardening gear, and many
+other nature-inspired items here! This month’s edition will also feature
+a booth from NParks’ Pasir Panjang Nursery, so do check it out.</p>
+<h4>NParks' Plant Clinic</h4>
+<p><strong>Date and Time:</strong> 13 and 14 June, 9am - 3pm
+<br>Meet our specialists who are ready to diagnose issues affecting your green
+companions — whether you're a first-time plant owner or a seasoned gardener.
+Explore our exhibits on common pests, diseases, and soil types to deepen
+your understanding of what your plants need to thrive. Bring your plants
+or photos for a free walk-in assessment!</p>
+<p></p>
 <h4>Walk-In Activities</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
