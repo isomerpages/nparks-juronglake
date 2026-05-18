@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming/.keep
       - Guided Tours.md
       - ArtsEverywhere@JLG/.keep
       - ArtsEverywhere@JLG/ArtsEverywhere@JLG.md
