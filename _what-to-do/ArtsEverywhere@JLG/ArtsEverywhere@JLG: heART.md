@@ -421,7 +421,7 @@ case of heavy rain, the tour will not proceed.</p>
 </div>
 </details>
 </div>
-<p><em>ArtsEverywhere@JLG: collage is organised by National Parks Board, in partnership with National Arts Council, National Family Festival and Gardeners’ Day Out.</em>
+<p><em>ArtsEverywhere@JLG: heART is organised by National Parks Board, in partnership with National Arts Council, National Family Festival and Gardeners’ Day Out.</em>
 </p>
 <p><em>Jurong Lake Gardens is part of the National Arts Council’s Arts &amp; Culture Nodes Network.</em>
 </p>
