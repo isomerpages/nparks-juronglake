@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Upcoming/Lunar New Year 2026 at Chinese Garden.md
       - Upcoming/Lights by the Lake.md
       - Upcoming/.keep
       - Guided Tours.md
