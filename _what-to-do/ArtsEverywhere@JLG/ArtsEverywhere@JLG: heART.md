@@ -237,7 +237,7 @@ of oil and water to form colours in layers.</p>
 <summary>Introduction to Watercolour Sketching for Seniors by Rabak Atelier</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time:</strong> 14 June, 10:30am - 1pm
-<br><strong>Suitable Age:</strong> TBC
+<br><strong>Suitable Age:</strong> 60 years old and above
 <br><strong>Capacity:</strong> 25 pax per workshop
 <br><strong>Accessible to people with developmental/physical disabilities:</strong> Yes
 for physical disabilities</p>
@@ -258,7 +258,7 @@ to enjoy the process.</p>
 <summary>Playing with Negative Space by Rabak Atelier</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time:</strong> 14 June, 1:30pm - 2:30pm
-<br><strong>Suitable Age:</strong> TBC
+<br><strong>Suitable Age:</strong> 5 - 7 years old
 <br><strong>Capacity:</strong> 15 parent-child pairs per workshop
 <br><strong>Accessible to people with developmental/physical disabilities:</strong> Yes
 for physical disabilities</p>
