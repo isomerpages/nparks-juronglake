@@ -417,6 +417,8 @@ case of heavy rain, the tour will not proceed.</p>
 <details class="isomer-details">
 <summary>Nature Photography Walk by PAssionWaVe@JLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Date and Time: </strong>13 and 14 June, 9:30am - 11:30am
+<br><strong>Meeting Point: </strong>PAWV Training Rooms</p>
 <p>More details to come!</p>
 </div>
 </details>
