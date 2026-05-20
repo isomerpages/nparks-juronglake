@@ -224,7 +224,7 @@ reusable plate to keep printing with long after the day is done.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Colours in Layers: DIY Hourglass with Natural Dyes by KidsSTOP</summary>
+<summary>Colours in Layers: DIY Hourglass with Natural Dyes by KidsSTOP™</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time: </strong>14 June, Timing TBC
 <br><strong>Suitable Age:</strong> 4 to 8 years old, accompanied by adult guardians
