@@ -112,7 +112,6 @@ next great adventure begin — one page at a time.</p>
 <br><strong>Capacity:</strong> 20 parent-child pairs per workshop
 <br><strong>Accessible to people with developmental/physical disabilities: </strong>Yes</p>
 <p></p>
-<p>Step into a world where stories breathe and nature comes alive!</p>
 <p>A merchant keeps a wild parrot in a beautiful cage, believing comfort
 and care are enough to make her happy. But when she asks him to carry a
 message to her family deep in the forest, his journey through the wild
@@ -120,10 +119,11 @@ reveals a deeper truth — that what she truly longs for is the freedom to
 live as herself.
 <br>
 </p>
-<p>Blending storytelling, movement, song, colourful costumes, and character
-performance, this immersive production comes alive amidst the natural beauty
-of Jurong Lake Gardens, where the landscape itself becomes part of the
-story.</p>
+<p>This immersive outdoor performance blends storytelling, movement, song,
+colourful costumes, and character play in the lush surroundings of the
+Gardens. Inspired by a tale of a wild parrot and her longing for freedom,
+the performance invites families to reflect on belonging and the joy of
+living close to nature.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -236,7 +236,7 @@ your very own liquid hourglass.&nbsp;&nbsp;</p>
 <p>Express yourself freely and find calm by observing the gentle movement
 of oil and water to form colours in layers.</p>
 <p></p>
-<p>Register here: <a href="http://For.edu.sg" rel="noopener noreferrer nofollow" target="_blank">For.edu.sg</a>
+<p>Register here: <a href="https://for.edu.sg/kscoloursinlayers2026" rel="noopener noreferrer nofollow" target="_blank">For.edu.sg</a>
 </p>
 </div>
 </details>
