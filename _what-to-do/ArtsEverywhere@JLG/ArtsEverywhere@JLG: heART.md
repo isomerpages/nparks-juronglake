@@ -226,7 +226,7 @@ reusable plate to keep printing with long after the day is done.</p>
 <details class="isomer-details">
 <summary>Colours in Layers: DIY Hourglass with Natural Dyes by KidsSTOP™</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date and Time: </strong>14 June, Timing TBC
+<p><strong>Date and Time: </strong>14 June, 9am - 10am
 <br><strong>Suitable Age:</strong> 4 to 8 years old, accompanied by adult guardians
 <br><strong>Capacity:</strong> 40 pax per workshop (inclusive of adults and
 children)</p>
