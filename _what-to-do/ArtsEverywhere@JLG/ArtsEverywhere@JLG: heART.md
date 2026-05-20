@@ -124,6 +124,9 @@ colourful costumes, and character play in the lush surroundings of the
 Gardens. Inspired by a tale of a wild parrot and her longing for freedom,
 the performance invites families to reflect on belonging and the joy of
 living close to nature.</p>
+<p></p>
+<p>Register here: <a href="https://ebooking.act3international.com.sg/act3-All-Classes/thecagedparrot" rel="noopener noreferrer nofollow" target="_blank">The Caged Parrot– A Nature Folktale Come to Life</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
