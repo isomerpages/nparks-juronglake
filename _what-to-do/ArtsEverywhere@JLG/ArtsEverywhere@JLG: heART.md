@@ -198,6 +198,8 @@ giving old materials a new lease of life.</p>
 <p>Sketch out your idea, cut and assemble your fabrics, and add all the little
 details that make your plushie uniquely yours. Our facilitators are on
 hand to guide you every step of the way.</p>
+<p></p>
+<p>Registration will open soon!</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -217,6 +219,10 @@ of patterns and textures that is completely unique to you.</p>
 its connections to Southeast Asian art and craft traditions. Best of all,
 you'll take home not just a set of beautiful prints, but your very own
 reusable plate to keep printing with long after the day is done.</p>
+<p></p>
+<p>Registration will open soon!</p>
+<p></p>
+<p>Registration will open soon!</p>
 </div>
 </details>
 </div>
@@ -262,6 +268,8 @@ before applying them to paint your very own garden scene.</p>
 beginners and a lovely way to engage the senses and spark creativity. No
 prior experience is needed — just a curiosity to explore and a willingness
 to enjoy the process.</p>
+<p></p>
+<p>Registration will open soon!</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -285,7 +293,9 @@ hiding in plain sight. Using what you find, you'll create your very own
 piece of art inspired by the world through your viewfinder.</p>
 <p></p>
 <p>Come ready to slow down, look closely, and see the garden with fresh eyes.
-All are welcome. We look forward to creating with you!</p>
+All are welcome.</p>
+<p></p>
+<p>Registration will open soon!</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -305,6 +315,8 @@ sun do the rest. Over time, sunlight gently reveals a stunning organic
 image that is entirely your own. Along the way, you'll also learn about
 the history of this fascinating printmaking method and its roots in Southeast
 Asia.</p>
+<p></p>
+<p>Registration will open soon!</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -323,6 +335,8 @@ giving old materials a new lease of life.</p>
 <p>Sketch out your idea, cut and assemble your fabrics, and add all the little
 details that make your plushie uniquely yours. Our facilitators are on
 hand to guide you every step of the way.</p>
+<p></p>
+<p>Registration will open soon!</p>
 </div>
 </details>
 </div>
