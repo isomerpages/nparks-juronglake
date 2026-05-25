@@ -100,7 +100,7 @@ next great adventure begin — one page at a time.</p>
 </div>
 </details>
 </div>
-<h4>Workshops (Registration Opens Soon)</h4>
+<h4>Workshops (Register Now!)</h4>
 <p><strong>13 June (Sat)</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -258,18 +258,14 @@ of oil and water to form colours in layers.</p>
 <br><strong>Accessible to people with developmental/physical disabilities:</strong> Yes
 for physical disabilities</p>
 <p></p>
-<p>There's something truly special about painting outdoors — the fresh air,
-the gentle sounds of nature, and the quiet focus that comes with putting
-brush to paper. In this 2.5-hour workshop designed for seniors, you'll
-be introduced to the basics of watercolour and guided through simple techniques
-before applying them to paint your very own garden scene.</p>
+<p>Are you curious about watercolour painting and want to try it out? Learn
+how to use this fascinating medium to create your very own painting of
+Jurong Lake Garden. Through this session, you will learn basic watercolour
+techniques and build confidence to create your own paintings. This beginner-friendly
+watercolour workshop welcomes seniors aged 60 and above.</p>
 <p></p>
-<p>Watercolour is a wonderfully portable and accessible medium, perfect for
-beginners and a lovely way to engage the senses and spark creativity. No
-prior experience is needed — just a curiosity to explore and a willingness
-to enjoy the process.</p>
-<p></p>
-<p>Registration will open soon!</p>
+<p>Register here: <a href="https://docs.google.com/forms/d/e/1FAIpQLScdkkqCKg3DHvL_NANqH-YHZLDA_BUJY1hVFYu6GIAR-I-ejw/viewform" rel="noopener noreferrer nofollow" target="_blank">Rabak Atelier - Seniors' Watercolour Workshop</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -280,22 +276,16 @@ to enjoy the process.</p>
 <br><strong>Capacity:</strong> 15 parent-child pairs per workshop
 <br><strong>Accessible to people with developmental/physical disabilities:</strong> Yes
 for physical disabilities</p>
+<p>Admission: Free (materials available at a small fee, participants are
+encouraged to bring their own materials)</p>
 <p></p>
-<p>Have you ever stopped to notice the shapes that exist not in an object
-itself, but in the space around it? This is the concept of negative space
-— and once you see it, you'll never look at the world quite the same way
-again!</p>
+<p>Try a new way of seeing the world with negative space! Referring to the
+space surrounding an object, this parent-child art workshop introduces
+a novel way of looking at the world and playing with shapes. Let creativity
+flow as you create interesting artwork in the heart of Jurong Lake Gardens.&nbsp;</p>
 <p></p>
-<p>In this 1.5-hour workshop for parent-and-child pairs, you'll be given
-a viewfinder — a small card with a rectangular window — and invited to
-explore the garden around you, discovering surprising shapes and compositions
-hiding in plain sight. Using what you find, you'll create your very own
-piece of art inspired by the world through your viewfinder.</p>
-<p></p>
-<p>Come ready to slow down, look closely, and see the garden with fresh eyes.
-All are welcome.</p>
-<p></p>
-<p>Registration will open soon!</p>
+<p>Register here: <a href="https://docs.google.com/forms/d/e/1FAIpQLSe_Ikw7pKH6N9ajAagFmZrTL6sbCW0s_wkHvgV6HYxklhGg8g/viewform" rel="noopener noreferrer nofollow" target="_blank">Rabak Atelier - Playing with Negative Space registration</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
