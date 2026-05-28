@@ -125,7 +125,7 @@ Gardens. Inspired by a tale of a wild parrot and her longing for freedom,
 the performance invites families to reflect on belonging and the joy of
 living close to nature.</p>
 <p></p>
-<p>Register here: <a href="https://ebooking.act3international.com.sg/act3-All-Classes/thecagedparrot" rel="noopener noreferrer nofollow" target="_blank">The Caged Parrot– A Nature Folktale Come to Life</a>
+<p><a href="https://go.gov.sg/cagedparrot" rel="noopener noreferrer nofollow" target="_blank">Register here: The Caged Parrot– A Nature Folktale Come to Life</a>
 </p>
 </div>
 </details>
@@ -147,7 +147,7 @@ into a miniature tree full of movement and character.</p>
 <br>• Experience the calming and mindful nature of bonsai crafting</p>
 <p>Each participant will bring home their own shaped mini bonsai creation.</p>
 <p></p>
-<p>Register here (from 18 May): <a href="https://www.craftedidentity.com/collections/terrarium-workshops/products/free-mini-bonsai-and-wabikusa-terrarium-workshops-at-arts-jlg-heart-x-gardeners-day-out-2026" rel="noopener noreferrer nofollow" target="_blank">https://www.craftedidentity.com/collections/terrarium-workshops/products/free-mini-bonsai-and-wabikusa-terrarium-workshops-at-arts-jlg-heart-x-gardeners-day-out-2026</a>
+<p>Register here (from 18 May): <strong><a href="https://go.gov.sg/bonsaiterrarium" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bonsaiterrarium</a></strong>
 </p>
 <p></p>
 <p><strong>Important Note:</strong>
@@ -174,7 +174,7 @@ No experience is required.</p>
 <br>• Arrange a natural flowing composition inspired by nature
 <br>• Discover simple care techniques for the terrarium</p>
 <p></p>
-<p>Register here (from 18 May): <a href="https://www.craftedidentity.com/collections/terrarium-workshops/products/free-mini-bonsai-and-wabikusa-terrarium-workshops-at-arts-jlg-heart-x-gardeners-day-out-2026" rel="noopener noreferrer nofollow" target="_blank">https://www.craftedidentity.com/collections/terrarium-workshops/products/free-mini-bonsai-and-wabikusa-terrarium-workshops-at-arts-jlg-heart-x-gardeners-day-out-2026</a>
+<p>Register here (from 18 May): <strong><a href="https://go.gov.sg/bonsaiterrarium" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bonsaiterrarium</a></strong>
 </p>
 <p></p>
 <p><strong>Important Note:</strong>
@@ -264,7 +264,7 @@ Jurong Lake Garden. Through this session, you will learn basic watercolour
 techniques and build confidence to create your own paintings. This beginner-friendly
 watercolour workshop welcomes seniors aged 60 and above.</p>
 <p></p>
-<p>Register here: <a href="https://docs.google.com/forms/d/e/1FAIpQLScdkkqCKg3DHvL_NANqH-YHZLDA_BUJY1hVFYu6GIAR-I-ejw/viewform" rel="noopener noreferrer nofollow" target="_blank">Rabak Atelier - Seniors' Watercolour Workshop</a>
+<p>Register here: <a href="https://go.gov.sg/seniorswatercolour" rel="noopener noreferrer nofollow" target="_blank">Rabak Atelier - Seniors' Watercolour Workshop</a>
 </p>
 </div>
 </details>
@@ -284,7 +284,7 @@ space surrounding an object, this parent-child art workshop introduces
 a novel way of looking at the world and playing with shapes. Let creativity
 flow as you create interesting artwork in the heart of Jurong Lake Gardens.&nbsp;</p>
 <p></p>
-<p>Register here: <a href="https://docs.google.com/forms/d/e/1FAIpQLSe_Ikw7pKH6N9ajAagFmZrTL6sbCW0s_wkHvgV6HYxklhGg8g/viewform" rel="noopener noreferrer nofollow" target="_blank">Rabak Atelier - Playing with Negative Space registration</a>
+<p>Register here: <a href="https://go.gov.sg/negativespace" rel="noopener noreferrer nofollow" target="_blank">Rabak Atelier - Playing with Negative Space registration</a>
 </p>
 </div>
 </details>
