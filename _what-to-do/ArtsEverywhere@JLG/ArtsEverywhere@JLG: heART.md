@@ -15,7 +15,8 @@ that nurture physical, mental, and emotional well-being.</p>
 <p>We invite you to explore your relationship with art and personal well-being,
 while cultivating inner peace and mindfulness through creative expression
 and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
-<p>All programmes are held under shelter and are rain-or-shine.</p>
+<p>All programmes are held under shelter and are rain-or-shine. <a href="/files/heART_FAQs.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions (FAQs)</a>
+</p>
 <p>Scroll down for what to expect at ArtsEverywhere@JLG: heART 2026!</p>
 <h4>Gardener's Day Out Marketplace</h4>
 <p>Get your green fix - shop for potted plants, gardening gear, and many
