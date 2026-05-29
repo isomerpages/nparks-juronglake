@@ -40,13 +40,9 @@ or photos for a free walk-in assessment!</p>
 advised for younger children)</p>
 <p></p>
 <p>Get your hands dirty and let your imagination run wild! In this relaxed,
-hands-on workshop, you'll explore the wonderful world of air-dry clay —
-pinching, coiling, flattening, and moulding your way to a creation that's
-entirely your own.</p>
-<p></p>
-<p>Whether you'd like to craft a charm, a figurine, or a little object of
-your own design, our friendly facilitators are here to guide and inspire
-you every step of the way.</p>
+hands-on workshop, you'll explore the wonderful world of air-dry clay making.
+Pinch, coil, flatten, and mould your way to a creation that's entirely
+your own. &nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -193,14 +189,13 @@ advised for younger children)
 <p></p>
 <p>Stitch, stuff, and let your imagination run wild! In this fun, hands-on
 workshop, you'll design and create your very own plushie using upcycled
-fabric and scrap materials — making something truly one of a kind while
-giving old materials a new lease of life.</p>
+fabric and scrap materials, making something truly one of a kind while
+giving old materials a new lease of life. Start by sketching out your idea,
+then cut and assemble your fabrics, and finally, add all the little details
+that make your plushie uniquely yours! &nbsp;</p>
 <p></p>
-<p>Sketch out your idea, cut and assemble your fabrics, and add all the little
-details that make your plushie uniquely yours. Our facilitators are on
-hand to guide you every step of the way.</p>
-<p></p>
-<p>Registration will open soon!</p>
+<p>Register here: <strong><a href="https://go.gov.sg/plushiemaking" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/plushiemaking</a></strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -212,18 +207,14 @@ hand to guide you every step of the way.</p>
 <p></p>
 <p>Get hands-on with one of printmaking's most tactile and creative techniques!
 In this workshop, you'll build your very own printing plate by layering
-textured materials — string, lace, leaves, sandpaper, and more — onto a
-cardboard base. Once inked and pressed, your plate reveals a stunning composition
-of patterns and textures that is completely unique to you.</p>
+textured materials such as string, lace, leaves, and more, onto a block.
+Once inked and pressed, your print reveals a stunning composition of patterns
+and textures that is completely unique to you. You'll take home not just
+a set of beautiful prints, but your very own reusable plate to keep printing
+with long after the day is done.</p>
 <p></p>
-<p>Along the way, you'll discover the history of collograph printing and
-its connections to Southeast Asian art and craft traditions. Best of all,
-you'll take home not just a set of beautiful prints, but your very own
-reusable plate to keep printing with long after the day is done.</p>
-<p></p>
-<p>Registration will open soon!</p>
-<p></p>
-<p>Registration will open soon!</p>
+<p>Register here: <strong><a href="https://go.gov.sg/collagraphprinting" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/collagraphprinting</a></strong>
+</p>
 </div>
 </details>
 </div>
@@ -246,7 +237,7 @@ your very own liquid hourglass.&nbsp;&nbsp;</p>
 <p>Express yourself freely and find calm by observing the gentle movement
 of oil and water to form colours in layers.</p>
 <p></p>
-<p>Register here: <a href="https://for.edu.sg/kscoloursinlayers2026" rel="noopener noreferrer nofollow" target="_blank">For.edu.sg</a>
+<p>Register here: <a href="https://for.edu.sg/kscoloursinlayers2026" rel="noopener noreferrer nofollow" target="_blank">For.edu.sg </a>
 </p>
 </div>
 </details>
@@ -296,18 +287,19 @@ flow as you create interesting artwork in the heart of Jurong Lake Gardens.&nbsp
 <br><strong>Suitable Age:</strong> 3 years old and above
 <br><strong>Capacity: </strong>40 pax per workshop</p>
 <p></p>
-<p>Discover the art of anthotype printmaking — a beautiful, eco-friendly
-craft that uses the natural pigments of plants like spinach, beetroot,
-and flowers to create delicate, one-of-a-kind prints. No chemicals, no
-waste — just nature doing its magic!</p>
+<p>Discover the art of anthotype printmaking, a beautiful, eco-friendly craft
+that uses natural pigments of plants like turmeric, spinach, beetroot,
+and flowers to create delicate, one-of-a-kind prints. Mix your own pigment,
+then coast your paper with it. Arrange your objects, and let the sun do
+the rest. Over time, sunlight gently reveals a beautiful artwork made by
+nature!</p>
+<p>&nbsp;</p>
+<p>*This workshop will involve the use of isopropyl alcohol and turmeric
+powder. Please refrain from attending the workshop if you have any allergies
+to these compounds.</p>
 <p></p>
-<p>Brush your paper with plant extracts, arrange your objects, and let the
-sun do the rest. Over time, sunlight gently reveals a stunning organic
-image that is entirely your own. Along the way, you'll also learn about
-the history of this fascinating printmaking method and its roots in Southeast
-Asia.</p>
-<p></p>
-<p>Registration will open soon!</p>
+<p>Register here: <strong><a href="https://go.gov.sg/anthotypeprinting" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/anthotypeprinting</a></strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -320,14 +312,15 @@ advised for younger children)
 <p></p>
 <p>Stitch, stuff, and let your imagination run wild! In this fun, hands-on
 workshop, you'll design and create your very own plushie using upcycled
-fabric and scrap materials — making something truly one of a kind while
+fabric and scrap materials, making something truly one of a kind while
 giving old materials a new lease of life.</p>
+<p>&nbsp;</p>
+<p>Start by sketching out your idea, then cut and assemble your fabrics,
+and finally, add all the little details that make your plushie uniquely
+yours! &nbsp;</p>
 <p></p>
-<p>Sketch out your idea, cut and assemble your fabrics, and add all the little
-details that make your plushie uniquely yours. Our facilitators are on
-hand to guide you every step of the way.</p>
-<p></p>
-<p>Registration will open soon!</p>
+<p>Register here: <strong><a href="https://go.gov.sg/plushiemaking" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/plushiemaking</a></strong>
+</p>
 </div>
 </details>
 </div>
