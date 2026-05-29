@@ -237,7 +237,7 @@ your very own liquid hourglass.&nbsp;&nbsp;</p>
 <p>Express yourself freely and find calm by observing the gentle movement
 of oil and water to form colours in layers.</p>
 <p></p>
-<p>Register here: <a href="https://for.edu.sg/kscoloursinlayers2026" rel="noopener noreferrer nofollow" target="_blank">For.edu.sg</a>
+<p>Register here: <a href="https://for.edu.sg/kscoloursinlayers2026" rel="noopener noreferrer nofollow" target="_blank">For.edu.sg </a>
 </p>
 </div>
 </details>
