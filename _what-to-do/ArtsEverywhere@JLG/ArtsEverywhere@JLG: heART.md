@@ -194,7 +194,7 @@ giving old materials a new lease of life. Start by sketching out your idea,
 then cut and assemble your fabrics, and finally, add all the little details
 that make your plushie uniquely yours! &nbsp;</p>
 <p></p>
-<p>Register here: <strong><a href="https://go.gov.sg/plushiemaking" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/plushiemaking</a></strong>
+<p>Register here: <a href="https://go.gov.sg/plushiemaking" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/plushiemaking</a>
 </p>
 </div>
 </details>
@@ -213,7 +213,7 @@ and textures that is completely unique to you. You'll take home not just
 a set of beautiful prints, but your very own reusable plate to keep printing
 with long after the day is done.</p>
 <p></p>
-<p>Register here: <strong><a href="https://go.gov.sg/collagraphprinting" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/collagraphprinting</a></strong>
+<p>Register here: <a href="https://go.gov.sg/collagraphprinting" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/collagraphprinting</a>
 </p>
 </div>
 </details>
@@ -237,7 +237,7 @@ your very own liquid hourglass.&nbsp;&nbsp;</p>
 <p>Express yourself freely and find calm by observing the gentle movement
 of oil and water to form colours in layers.</p>
 <p></p>
-<p>Register here: <a href="https://for.edu.sg/kscoloursinlayers2026" rel="noopener noreferrer nofollow" target="_blank">For.edu.sg </a>
+<p>Register here: <a href="https://for.edu.sg/kscoloursinlayers2026" rel="noopener noreferrer nofollow" target="_blank">For.edu.sg</a>
 </p>
 </div>
 </details>
@@ -298,7 +298,7 @@ nature!</p>
 powder. Please refrain from attending the workshop if you have any allergies
 to these compounds.</p>
 <p></p>
-<p>Register here: <strong><a href="https://go.gov.sg/anthotypeprinting" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/anthotypeprinting</a></strong>
+<p>Register here:<strong> <a href="https://go.gov.sg/anthotypeprinting" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/anthotypeprinting</a></strong>
 </p>
 </div>
 </details>
@@ -319,7 +319,7 @@ giving old materials a new lease of life.</p>
 and finally, add all the little details that make your plushie uniquely
 yours! &nbsp;</p>
 <p></p>
-<p>Register here: <strong><a href="https://go.gov.sg/plushiemaking" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/plushiemaking</a></strong>
+<p>Register here: <a href="https://go.gov.sg/plushiemaking" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/plushiemaking</a>
 </p>
 </div>
 </details>
@@ -332,8 +332,12 @@ yours! &nbsp;</p>
 <p><strong>Date and Time:</strong> 13 and 14 June, multiple sessions each
 day</p>
 <p></p>
-<p>Registration only on-site.</p>
-<p>More details to come!</p>
+<p>Have you always wanted to explore Jurong Lake from the water? Come give
+kayaking and pedal boating a go! Whether you're a first-timer or just looking
+for a fun way to enjoy the lake, this is a great opportunity for the whole
+family to get active and make a splash. Simply register at the tentage
+on the day — no prior experience needed!</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -342,7 +346,12 @@ day</p>
 <p><strong>Date and Time: </strong>13 and 14 June, 5pm - 6pm
 <br><strong>Venue: </strong>PAssionWave Viewing Gallery (Level 2)</p>
 <p></p>
-<p>More details to come!</p>
+<p>Unwind with an evening yoga session designed to help you relax, stretch,
+and reconnect with your body and mind. Suitable for all fitness levels,
+this session offers a gentle flow focused on movement, breathing, and mindfulness.</p>
+<p></p>
+<p>Register here: <a href="https://www.onepa.gov.sg/events/pwjlg-international-day-of-yoga-by-vyasa-yoga-13-14-20-21-june-2026-e81788869" rel="noopener noreferrer nofollow" target="_blank">OnePA | PWJLG - International Day of Yoga by Vyasa Yoga (13, 14, 20, 21 June 2026)</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -351,7 +360,13 @@ day</p>
 <p><strong>Date and Time: </strong>14 June, 10am - 11am
 <br><strong>Venue:</strong> PAssionWave Viewing Gallery (Level 2)</p>
 <p></p>
-<p>More details to come!</p>
+<p>Get moving with FitClub in an energising full-body workout session suitable
+for all fitness levels. Expect a fun and welcoming session focused on movement,
+strength, and community perfect whether you’re just starting out or already
+active.</p>
+<p></p>
+<p>Register here: <a href="https://www.onepa.gov.sg/events/pawv-x-artseverywhere-jlg-heart-2026-13-and-14-june-2026-e41506617" rel="noopener noreferrer nofollow" target="_blank">OnePA | PAWV x ArtsEverywhere@JLG: heART 2026 - 13 and 14 June 2026</a>
+</p>
 </div>
 </details>
 </div>
@@ -419,8 +434,22 @@ case of heavy rain, the tour will not proceed.</p>
 <summary>Nature Photography Walk by PAssionWaVe@JLG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time: </strong>13 and 14 June, 9:30am - 11:30am
-<br><strong>Meeting Point: </strong>PAWV Training Rooms</p>
-<p>More details to come!</p>
+<br><strong>Meeting Point: </strong>PAWV Training Rooms
+<br><strong>Suitable Age:</strong> 10 to 14 years old
+<br><strong>Admission</strong>: $20 per pair (1 Child, 1 Adult)</p>
+<p></p>
+<p>Slow down and see nature through a new lens in this guided photography
+workshop around the beautiful landscapes of Jurong Lake Gardens. Learn
+simple photography tips while exploring light, textures, and natural details
+around you. Suitable for beginners and anyone who enjoys photography using
+a phone or camera.</p>
+<p></p>
+<p><strong>Mandatory parent/guardian supervision</strong> is required throughout
+the session. Parent/guardian must be <strong>21 years old and above</strong>.
+<br>Participants are required to wear <strong>sports attire</strong> and <strong>covered footwear</strong>.</p>
+<p></p>
+<p>Register here: <a href="https://www.onepa.gov.sg/events/pawv-x-artseverywhere-jlg-heart-2026-13-and-14-june-2026-e41506617" rel="noopener noreferrer nofollow" target="_blank">OnePA | PAWV x ArtsEverywhere@JLG: heART 2026 - 13 and 14 June 2026</a>
+</p>
 </div>
 </details>
 </div>
