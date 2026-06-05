@@ -272,16 +272,11 @@ more information.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Garden Cruiser/Garden_Cruiser_2__2_.jpg">
 </div>
-<p>The National Parks Board (NParks) is commencing a six-month trial for
-a Shuttle Service between Lakeside Garden and Japanese Garden to assess
-the feasibility of such a service. This trial focuses on improving accessibility
-between Lakeside Garden and the rejuvenated Chinese and Japanese Gardens.</p>
+<p>The Garden Cruiser shuttle service is available on <strong>weekdays </strong>between <strong>Lakeside Garden</strong> and <strong>Japanese Garden</strong>.
+The Cruisers will ply between North Carpark, South Carpark and Japanese
+Garden (Floral Garden).</p>
 <p></p>
-<p>The Shuttle Service will consist of 11-to-13-seater vehicles, which will
-ply between North and South Car Parks and Japanese Garden.</p>
-<p>
-<br>The Shuttle Service will have the following stops:</p>
-<p></p>
+<p>The shuttle service will have the following stops:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>North Car Park</p>
@@ -294,30 +289,25 @@ ply between North and South Car Parks and Japanese Garden.</p>
 </li>
 </ul>
 <p></p>
-<p><u>Details of the Shuttle Service</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Operating hours: Monday to Friday, 9.30am to 4.30pm, no service between
-12 – 1pm.</p>
-</li>
-<li>
-<p>1 cruiser running at approximately 30-minute intervals</p>
-</li>
-<li>
-<p>Fee: Free-of-charge</p>
-</li>
-<li>
-<p>For safety reasons, the Shuttle Service will suspend its services in the
-event of heavy rain or lightning warning.</p>
-</li>
-<li>
-<p>No food and drinks are allowed in the vehicle.</p>
-</li>
-</ul>
+<p><strong>Operating hours</strong>: Monday to Friday, 9:30am – 4:30pm (No
+service between 12 – 1pm)</p>
 <p></p>
-<p>Please refer to the poster <a href="/files/Maps and Trails/Garden_Shuttle_Service_A2Poster4.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on the service.</p>
+<p>Each Cruiser runs at approximately 30-minute intervals and the service
+is free-of-charge.Click <a href="https://juronglakegardens.nparks.gov.sg/files/Maps%20and%20Trails/Garden_Shuttle_Service_A2Poster4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+view the posters on the shuttle service.</p>
+<p></p>
+<p>Seat availability is on a first-come, first-served basis and the service
+will be suspended in the event of <em>inclement weather </em>for safety
+reasons</p>
+<p></p>
+<p>Food and drinks are not allowed on the Cruiser.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Garden Cruiser/Garden_Shuttle_Service__Combined_.png">
+</div>
+<p>Click <a href="https://juronglakegardens.nparks.gov.sg/files/Maps%20and%20Trails/Garden_Shuttle_Service_A2Poster4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+view the posters on the shuttle service.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
