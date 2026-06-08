@@ -6,9 +6,9 @@ description: Jurong Lake Gardens is Singapore’s national gardens in the
   families and the community to come together.
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
-notification: ℹ️ The bigger Dog Run will be closed from 2 - 12 June 2026 for
-  works and the Parkour Park will be closed from 25 - 29 June 2026 for an event.
-  Thank you for your understanding.
+notification: "ℹ️ Please note the following closures: Larger Dog Run (Closed
+  until 12 June 2026 for works) | Parkour Park (Closed for an event from 25 - 29
+  June 2026)"
 sections:
   - hero:
       title: Jurong Lake Gardens
