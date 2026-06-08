@@ -8,7 +8,7 @@ third_nav_title: ArtsEverywhere@JLG
 <h3><strong>Celebrating Wellness and Creativity in Nature</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/ART_GDO_Square_Update_3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/ART_GDO_Square_Update_3.jpg">
 </div>
 <p>Mark your calendars - the 2026 edition of ArtsEverywhere@JLG: heART will
 be happening on <strong>13 and 14 June</strong>, in conjunction with National
