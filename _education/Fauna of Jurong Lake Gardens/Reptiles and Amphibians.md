@@ -1122,5 +1122,4 @@ secrete toxins from its body to deter predators.</p>
 </details>
 </div>
 <p></p>
-<p><em>Banner: Malayan Water Monitor. Photo: Ruth Tan (NParks)</em>
-</p>
+<p></p>
