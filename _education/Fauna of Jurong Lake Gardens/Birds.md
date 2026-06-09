@@ -8,7 +8,7 @@ third_nav_title: Fauna of Jurong Lake Gardens
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/7L3A2705ph_banner.jpg">
 </div>
-<p><em>Photo: Zebra Dove (Geopelia striata) (Credit: Ambarish Deshmh</em>
+<p><em>Photo: Olive-backed Sunbird (Cinnyris jugularis) (Credit: Francis Yap)</em>
 </p>
 <p>Jurong Lake Gardens is home to a wide diversity of birds. Birds play important
 ecological roles as predators, pollinators and seed dispersers. Get to
@@ -22,14 +22,15 @@ life, many of which frequent Jurong Lake Gardens.</p>
 <summary><strong>Brown-throated Sunbird</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 233px; width: 350px;" height="auto" width="100%" alt="brown throated sunbird" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_brown-throated-sunbird_loke-peng-fai.jpg?h=233&amp;w=350">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/10_Loke_Peng_Fai_7L3A2677p.jpg">
 </div>
 <p><em>Male. Photo: Loke Peng Fai</em>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; text-align: justify; height: 233px; width: 350px;" height="auto" width="100%" alt="brown throated f" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_brown-throated-f_lpf.jpg?h=233&amp;w=350">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/05_Loke_Peng_Fai_7L3A1016pp_resized.jpg">
 </div>
 <p><em>Female. Photo: Loke Peng Fai</em>
 <br>
@@ -101,15 +102,14 @@ Southeast Asia.</p>
 <summary><strong>Olive-backed Sunbird</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="213" width="320" alt="olive backed sunbird m" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_olive-backed-sunbird-m_francis-yap.jpg?h=213&amp;w=320">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/7L3A2705ph_banner.jpg">
 </div>
 <p><em>Male. Photo: Francis Yap</em>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="427" width="320" alt="olive backed sunbird f" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_olive-backed-sunbird-f-nest_perlyn-chng.jpg?h=427&amp;w=320">
-</div>
+<p></p>
 <p><em>Female and chick in nest. Photo: Perlyn Chng</em>
 <br>
 </p>
@@ -149,12 +149,6 @@ Southeast Asia.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
-</div>
-<p><strong>12cm</strong>
-</p>
 <p></p>
 <p><strong>What does it look like?</strong>
 </p>
