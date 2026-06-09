@@ -188,11 +188,6 @@ and along the corridors of HDB estates.</p>
 <summary><strong>Scarlet-backed Flowerpecker</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="213" width="320" alt="scarlet backed flowerpecker" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_scarlet-backed-flowerpecker_soh-chui-lian.jpg?h=213&amp;w=320">
-</div>
-<p>&nbsp;<em>Male. Photo: Soh Chui Lian</em>
-</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -231,12 +226,6 @@ and along the corridors of HDB estates.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
-</div>
-<p><strong>9 cm</strong>
-<br>
-</p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>The male Scarlet-backed Flowerpecker is very distinctive with its bright
@@ -269,18 +258,7 @@ that means ‘bloodstained’, referring to the scarlet backs of males.</p>
 <summary><strong>Asian Koel</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%;" height="214" width="320" alt="asian koel m" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_asian-koel-m_jeremy-yeo.jpg?h=214&amp;w=320">
-</div>
-<p><em>Male. Photo: Jeremy Yeo Wei Liang</em>
-</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 481px; width: 320px;" height="auto" width="100%" alt="asian koel f" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_asian-koel-f_francis-yap.jpg?h=481&amp;w=320">
-</div>
-<p><em>Female. Photo: Francis Yap, NParks Flora &amp; Fauna Web</em>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -318,12 +296,6 @@ that means ‘bloodstained’, referring to the scarlet backs of males.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
-</div>
-<p>&nbsp; <strong>44 cm</strong>
-<br>
-</p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>This member of the cuckoo family is a large bird that has bright red eyes
@@ -357,12 +329,7 @@ call which can be heard at any time of the day.</p>
 <summary><strong>Pink-necked Green Pigeon</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 244px; width: 350px;" height="auto" width="100%" alt="pngp" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/birds_pink-necked-green-pigeon_cai-yx.jpg?h=244&amp;w=350">
-</div>
-<p><em>Male (left) and female (right). Photo: Cai Yixiong, NParks Flora &amp; Fauna Web</em>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -400,12 +367,6 @@ call which can be heard at any time of the day.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; display: block; max-width: 100%; height: 69px; width: 100px;" height="auto" width="100%" alt="garden urban birds" src="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/jlg-fauna/008-magpie-robin.png?h=69&amp;w=100">
-</div>
-<p><strong>25–30&nbsp;cm</strong>
-<br>
-</p>
 <p><strong>What does it look like?</strong>
 </p>
 <p>It is sexually dimorphic, and males can be easily distinguished by their
