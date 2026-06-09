@@ -28,6 +28,15 @@ sections:
           url: /volunteer-programmes/
       variant: center
   - infopic:
+      title: "ArtsEverywhere@JLG: heART"
+      subtitle: UPCOMING
+      id: infopic
+      description: Celebrating Wellness and Creativity in Nature
+      button: READ MORE
+      url: /arts-jlg-heart/
+      image: /images/Arts@JLG/HeART/ART_GDO_Square_Update_3.jpg
+      alt: "ArtsEverywhere@JLG: heART"
+  - infopic:
       title: Key Attractions
       subtitle: Welcome to Jurong Lake Gardens
       id: infopic
@@ -65,10 +74,4 @@ sections:
             scam.
           link_text: Visit the ScamShield Website here
           link_url: https://www.scamshield.gov.sg/
-        - title: Notice of Closure
-          date: 02 July 2025
-          announcement: Please note that Forest Ramble Snake Play and Otter Play will be
-            closed for maintenance works until further notice.
-          link_text: ""
-          link_url: ""
 ---
