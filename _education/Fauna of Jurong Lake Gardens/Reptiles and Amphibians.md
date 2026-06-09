@@ -19,7 +19,7 @@ to warm up.</p>
 begin their life as eggs in water that hatch into aquatic larvae (e.g.
 tadpoles), which later develop into adults that can survive on land. These
 eggs are covered by a transparent jelly-like substance.</p>
-<p>Click to find out more about some of the commonly seen reptiles and amphibians
+<p>Click to find out more about some of the commonly seen reptiles and amphibi<em><sup>a</sup></em>ns
 in Jurong Lake Gardens!</p>
 <p></p>
 <h4><strong>Reptiles</strong></h4>
