@@ -28,10 +28,11 @@ sections:
           url: /volunteer-programmes/
       variant: center
   - infopic:
-      title: "ArtsEverywhere@JLG: heART"
+      title: Celebrating Wellness and Creativity in Nature
       subtitle: UPCOMING
       id: infopic
-      description: Celebrating Wellness and Creativity in Nature
+      description: "ArtsEverywhere@JLG: heART (13 & 14 Jun 2026, 9am to 6pm @ Lakeside
+        Field)"
       button: READ MORE
       url: /arts-jlg-heart/
       image: /images/Arts@JLG/HeART/ART_GDO_Square_Update_3.jpg
