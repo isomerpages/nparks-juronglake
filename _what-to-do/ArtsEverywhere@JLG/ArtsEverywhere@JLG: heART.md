@@ -26,14 +26,24 @@ and wellness activities amidst the serene beauty of Jurong Lake Gardens.</p>
 <p>Get your green fix - shop for potted plants, gardening gear, and many
 other nature-inspired items here! This month’s edition will also feature
 a booth from NParks’ Pasir Panjang Nursery, so do check it out.</p>
-<h4>NParks' Plant Clinic</h4>
+<h4>NParks' Plant Clinic and Plant Science &amp; Health Exhibition</h4>
 <p><strong>Date and Time:</strong> 13 and 14 June, 9am - 3pm
 <br>Meet our specialists who are ready to diagnose issues affecting your green
 companions — whether you're a first-time plant owner or a seasoned gardener.
 Explore our exhibits on common pests, diseases, and soil types to deepen
 your understanding of what your plants need to thrive. Bring your plants
 or photos for a free walk-in assessment!</p>
-<p></p>
+<h4>Stamp Rally</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/stamprally.png">
+</div>
+<p><strong>Date and Time:</strong> 13 and 14 June, 9am - 6pm
+<br>Calling all explorers! 🌿 Hop across all 3 gardens and stamp your way
+to a prize! Collect 2 out of 3 stamps at each of our Vistor Service counters
+and head to the heART Info Booth at Lakeside Field to redeem your very
+own limited edition JLG pin and dining voucher at EDEN, while stocks last.
+The stamps are here to stay, but the prizes won't be — so don't miss out
+this weekend!</p>
 <h4>Walk-In Activities</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
