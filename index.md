@@ -6,9 +6,9 @@ description: Jurong Lake Gardens is Singapore’s national gardens in the
   families and the community to come together.
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
-notification: "ℹ️ Please note the following closures: Larger Dog Run (Closed
-  until 12 June 2026 for works) | Parkour Park (Closed for an event from 25 - 29
-  June 2026)"
+notification: "ℹ️ Please note the following closures: Larger Dog Run (Closed for
+  works until 12 Jun 2026) | Water Wall Court (Closed for maintenance until 13
+  Jun 2026) | Parkour Park (Closed for an event from 25 - 29 June 2026)"
 sections:
   - hero:
       title: Jurong Lake Gardens
