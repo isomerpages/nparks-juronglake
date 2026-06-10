@@ -6,9 +6,9 @@ description: Jurong Lake Gardens is Singapore’s national gardens in the
   families and the community to come together.
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
-notification: "ℹ️ Please note the following closures: Larger Dog Run (Closed
-  until 12 June 2026 for works) | Parkour Park (Closed for an event from 25 - 29
-  June 2026)"
+notification: "ℹ️ Please note the following closures: Larger Dog Run (Closed for
+  works until 12 Jun 2026) · Water Wall Court (Closed for maintenance until 13
+  Jun 2026) · Parkour Park (Closed for an event from 25 - 29 June 2026)"
 sections:
   - hero:
       title: Jurong Lake Gardens
@@ -27,6 +27,16 @@ sections:
           description: Join us as a volunteer
           url: /volunteer-programmes/
       variant: center
+  - infopic:
+      title: Celebrating Wellness and Creativity in Nature
+      subtitle: UPCOMING
+      id: infopic
+      description: "ArtsEverywhere@JLG: heART (13 & 14 Jun 2026, 9am to 6pm @ Lakeside
+        Field)"
+      button: READ MORE
+      url: /arts-jlg-heart/
+      image: /images/Arts@JLG/HeART/ART_GDO_Square_Update_3.jpg
+      alt: "ArtsEverywhere@JLG: heART"
   - infopic:
       title: Key Attractions
       subtitle: Welcome to Jurong Lake Gardens
@@ -65,10 +75,4 @@ sections:
             scam.
           link_text: Visit the ScamShield Website here
           link_url: https://www.scamshield.gov.sg/
-        - title: Notice of Closure
-          date: 02 July 2025
-          announcement: Please note that Forest Ramble Snake Play and Otter Play will be
-            closed for maintenance works until further notice.
-          link_text: ""
-          link_url: ""
 ---
