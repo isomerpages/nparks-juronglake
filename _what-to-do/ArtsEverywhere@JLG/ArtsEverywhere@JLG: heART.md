@@ -467,10 +467,12 @@ the session. Parent/guardian must be <strong>21 years old and above</strong>.
 </div>
 </details>
 </div>
-<p><em>ArtsEverywhere@JLG: heART is organised by National Parks Board, in partnership with National Arts Council, National Family Festival and Gardeners’ Day Out.</em>
+<p><em>ArtsEverywhere@JLG: heART is organised by National Parks Board, in partnership with National Arts Council, National Family Festival and Gardeners’ Day Out. </em>
 </p>
-<p><em>Jurong Lake Gardens is part of the National Arts Council’s Arts &amp; Culture Nodes Network.</em>
-</p>
+<p><em>Jurong Lake Gardens is part of the Nation</em>al Arts Council’s Arts
+&amp; Culture Nodes Network. This programme is part of ArtsEverywhere@JLG,
+an initiative to bring arts experiences to communities where they live,
+work and play.</p>
 <p>
 <br>
 </p>
