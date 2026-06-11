@@ -29,8 +29,8 @@ architecture and natural beauty meet in quiet, picturesque harmony</p>
 Tea Pavilion. This architectural marvel features three pavilions connected
 by a winding corridor, seemingly floating above the Lotus Pond – a design
 inspired by the Summer Palace.</p>
-<p>A poetic stone inscription greets visitors, inviting contemplation of
-the serene surroundings, including views of the Stoneboat. Steeped in Ming
+<p>A poetic stone inscription greets visitors, inviting contemplationof the
+serene surroundings, including views of the Stoneboat. Steeped in Ming
 Dynasty heritage, this space honours the sophisticated art of tea culture
 and celebrates the art of tea, brewing techniques, elegance, and creativity
 in a timeless experience.</p>
