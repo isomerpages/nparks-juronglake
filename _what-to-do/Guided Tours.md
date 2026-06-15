@@ -38,6 +38,7 @@ pleasant experience for all.</p>
 <td rowspan="1" colspan="1">
 <p><strong>27 Jun (Sat), 9am to 11am</strong>
 </p>
+<p></p>
 <p><strong>Chinese Garden</strong>
 </p>
 </td>
@@ -57,6 +58,7 @@ pleasant experience for all.</p>
 <td rowspan="1" colspan="1">
 <p><strong>25 Jul (Sat), 9am to 11am</strong>
 </p>
+<p></p>
 <p><strong>Lakeside Garden (South)</strong>
 </p>
 </td>
