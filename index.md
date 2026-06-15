@@ -29,15 +29,15 @@ sections:
       variant: center
   - infopic:
       title: Guided Tours
-      subtitle: UPCOMING
+      subtitle: RECURRING
       id: infopic
-      description: Free guided tours of Jurong Lake Gardens every last Saturday
-        morning! Explore biodiversity, landscapes & architecture with
-        knowledgeable guides.
+      description: Explore Jurong Lake Gardens' biodiversity, landscapes &
+        architecture with our knowledgeable guides every last Saturday morning
+        of the month!
       button: READ MORE
       url: /upcoming-guided-tours/
       image: /images/Guided Tour/Yian_Hah_JG_Guided_Tour.jpg
-      alt: "ArtsEverywhere@JLG: heART"
+      alt: JLG guided tours
   - infopic:
       title: Key Attractions
       subtitle: Welcome to Jurong Lake Gardens
