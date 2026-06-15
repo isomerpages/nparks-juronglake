@@ -80,10 +80,6 @@ Jurong Lake Gardens</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Successful applicants will receive a confirmation email at least 3 working
-days before the tour.</p>
-</li>
-<li>
 <p>All participants must be registered to join this tour.</p>
 </li>
 <li>
