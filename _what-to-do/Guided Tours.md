@@ -36,42 +36,6 @@ pleasant experience for all.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>25 Apr (Sat), 9am to 11am</strong>
-</p>
-<p><strong>Lakeside Garden (North)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Entrance Pavilion @ North Carpark, Jurong Lake Gardens</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_93/1778_Lakeside-Garden-North-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
-</p>
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_94/1779_Lakeside-Garden-North-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>30 May (Sat), 9am to 11am</strong>
-</p>
-<p><strong>Japanese Garden</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outside Mempat Hall @ Gardenhouse, Jurong Lake Garden</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_89/1773_Japanese-Garden-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
-</p>
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_90/1774_Japanese-Garden-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
-</p>
-<p><em><sub>Registration opens on 30 Apr, 10am</sub></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>27 Jun (Sat), 9am to 11am</strong>
 </p>
 <p><strong>Chinese Garden</strong>
@@ -86,6 +50,27 @@ pleasant experience for all.</p>
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_92/1776_Chinese-Garden-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
 </p>
 <p><em><sub>Registration opens on 27 May, 10am</sub></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>25 Jul (Sat), 9am to 11am</strong>
+</p>
+<p><strong>Lakeside Garden (South)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inside ActiveSG Park (next to table tennis area) @ South Carpark, Jurong
+Lake Gardens Inside ActiveSG Park (next to table tennis area) @ South Carpark,
+Jurong Lake Gardens</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_91/1775_Chinese-Garden-Guided-Tour-Session-1https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_98/1913_Lakeside-Garden-South-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_99/1914_Lakeside-Garden-South-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+</p>
+<p><em><sub>Registration opens on 1 Jul, 8am</sub></em>
 </p>
 </td>
 </tr>
