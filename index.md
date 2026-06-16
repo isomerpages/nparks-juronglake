@@ -28,15 +28,16 @@ sections:
           url: /volunteer-programmes/
       variant: center
   - infopic:
-      title: Celebrating Wellness and Creativity in Nature
-      subtitle: UPCOMING
+      title: Guided Tours
+      subtitle: RECURRING
       id: infopic
-      description: "ArtsEverywhere@JLG: heART (13 & 14 Jun 2026, 9am to 6pm @ Lakeside
-        Field)"
+      description: Explore Jurong Lake Gardens' biodiversity, landscapes &
+        architecture with our knowledgeable guides every last Saturday morning
+        of the month!
       button: READ MORE
-      url: /arts-jlg-heart/
-      image: /images/Arts@JLG/HeART/ART_GDO_Square_Update_3.jpg
-      alt: "ArtsEverywhere@JLG: heART"
+      url: /upcoming-guided-tours/
+      image: /images/Guided Tour/Yian_Hah_JG_Guided_Tour.jpg
+      alt: JLG guided tours
   - infopic:
       title: Key Attractions
       subtitle: Welcome to Jurong Lake Gardens
