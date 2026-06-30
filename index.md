@@ -8,7 +8,8 @@ image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
 notification: "ℹ️ Please note the following closures: Larger Dog Run (Closed for
   works until 10 Jul 2026) · Water Wall Court (Closed for maintenance until
-  further notice)"
+  further notice) · Breathing Gallery (Closed for works on 7 Jul 2026) · Sunken
+  Garden (Closed for works on 8 Jul 2026)"
 sections:
   - hero:
       title: Jurong Lake Gardens
