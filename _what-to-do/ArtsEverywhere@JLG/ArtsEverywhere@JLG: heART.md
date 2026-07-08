@@ -8,7 +8,7 @@ third_nav_title: ArtsEverywhere@JLG
 <h3><strong>Celebrating Wellness and Creativity in Nature</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/ART_GDO_Square_Update_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/heart.png">
 </div>
 <h3>Thank you for joining us at heART x Gardeners' Day Out 2026!</h3>
 <p>Held on 13 and 14 June in conjunction with National Family Festival and
