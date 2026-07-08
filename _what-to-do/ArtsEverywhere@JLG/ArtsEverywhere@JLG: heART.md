@@ -10,7 +10,7 @@ third_nav_title: ArtsEverywhere@JLG
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Arts@JLG/HeART/ART_GDO_Square_Update_3.jpg">
 </div>
-<h3>Thank you for joining us at heART x Gardeners' Day Out 2026! </h3>
+<h3>Thank you for joining us at heART x Gardeners' Day Out 2026!</h3>
 <p>Held on 13 and 14 June in conjunction with National Family Festival and
 Gardeners' Day Out, this year's edition wove together arts, nature, and
 wellness at Jurong Lake Gardens. Families got creative through workshops
@@ -19,7 +19,7 @@ while younger ones enjoyed bouncy castles, shrink art, and a live storytelling
 performance. Nature lovers explored the Gardens through therapeutic and
 edible landscape tours, a nature photography walk, and the adventurous
 took to the water with kayaking and pedal boating.</p>
-<h4>Stay tuned for updates on the next edition of heART, coming in 2027!</h4>
+<h4>See you at the next edition of heART, coming in 2027!</h4>
 <p><em>Jurong Lake Gardens is part of the National Arts Council’s Arts &amp; Culture Nodes Network. This programme is part of ArtsEverywhere@JLG, an initiative to bring arts experiences to communities where they live, work and play.</em>
 </p>
 <p>
