@@ -24,8 +24,6 @@ Otter. Forest Ramble also contains inclusive play elements that allows
 children of all abilities to play together in nature, and everyone can
 create their own unique adventure play experience while there.</p>
 <p></p>
-<p><em>Kindly note that Heron Play and Snake Play in Forest Ramble will be closed for maintenance works until further notice. Thank you for your understanding.</em>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Forest Ramble" src="/images/Lakeside Garden/Forest Ramble/Forest_Famble_1.jpg">
