@@ -7,8 +7,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Gardening Volunteer" src="/images/Volunteer/Volunteer_Gardening.jpg">
 </div>
+<p></p>
 <p>Love spending time surrounded by nature? Passionate about greenery? Then
 come join us on this journey towards making Singapore our City in Nature!</p>
+<p>Drop an email to <a href="mailto:YEOW_Jie_Ying@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">YEOW_Jie_Ying@nparks.gov.sg</a> to
+get the conversation started 🌱</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
