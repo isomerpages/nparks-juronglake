@@ -8,7 +8,7 @@ image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
 notification: "ℹ️ Please note the following closures: Smaller Dog Run - Lakeside
   Garden (Closed for works from 13 to 27 Jul) • Monkey Play - Forest Ramble
-  (Closed for works until 14 Jul) • Water Wall Court - Chinese Garden (Closed
+  (Closed for works until 20 Jul) • Water Wall Court - Chinese Garden (Closed
   for maintenance until 17 Jul)"
 sections:
   - hero:
