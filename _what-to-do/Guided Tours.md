@@ -14,9 +14,7 @@ architecture.</p>
 at different parts of the Gardens each month (Lakeside Garden, Chinese
 Garden and Japanese Garden) and are held on the last Saturday morning of
 every month.</p>
-<p>Please note that we manage the tour group size to ensure a conducive and
-pleasant experience for all. These tours are available to the public; for
-organised, private tours, read more <a href="https://juronglakegardens.nparks.gov.sg/book-guided-tours/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Please note that these tours are available to the public; <strong>for organised, private tours, read more <a href="https://juronglakegardens.nparks.gov.sg/book-guided-tours/" rel="noopener nofollow" target="_blank">here</a></strong>.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
