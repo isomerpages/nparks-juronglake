@@ -53,7 +53,47 @@ Jurong Lake Gardens</p>
 </p>
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_99/1914_Lakeside-Garden-South-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
 </p>
-<p><em><sub>Registration opens on 1 Jul, 8am</sub></em>
+<p><strong>Entrance Pavilion @ North Carpark, Jurong Lake Gardens</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>29 Aug (Sat), 9am to 11am</strong>
+</p>
+<p></p>
+<p><strong>Lakeside Garden (North)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Entrance Pavilion @ North Carpark, Jurong Lake Gardens</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_100/1929_Lakeside-Garden-North-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_101/1930_Lakeside-Garden-North-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank"><u>Session 2</u></a>
+</p>
+<p><em><sub>Registration opens 29 Jul, 8am</sub></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>26 Sep (Sat), 9am to 11am</strong>
+</p>
+<p></p>
+<p><strong>Japanese Garden </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outside Mempat Hall @ Gardenhouse, Jurong Lake Gardens</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_102/1931_Japanese-Garden-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_104/1952_Japanese-Garden-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank"><u>Session 2</u></a>
+</p>
+<p><em><sub>Registration opens 26 Aug, 8am</sub></em>
 </p>
 </td>
 </tr>
