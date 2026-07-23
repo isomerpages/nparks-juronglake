@@ -82,7 +82,7 @@ Jurong Lake Gardens</p>
 <p><strong>26 Sep (Sat), 9am to 11am</strong>
 </p>
 <p></p>
-<p><strong>Japanese Garden </strong>
+<p><strong>Japanese Garden</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
