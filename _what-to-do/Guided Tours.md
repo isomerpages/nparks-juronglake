@@ -45,16 +45,14 @@ organised, private tours, read more <a href="https://juronglakegardens.nparks.go
 </td>
 <td rowspan="1" colspan="1">
 <p>Inside ActiveSG Park (next to table tennis area) @ South Carpark, Jurong
-Lake Gardens Inside ActiveSG Park (next to table tennis area) @ South Carpark,
-Jurong Lake Gardens</p>
+Lake Gardens</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_91/1775_Chinese-Garden-Guided-Tour-Session-1https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_98/1913_Lakeside-Garden-South-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
 </p>
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_99/1914_Lakeside-Garden-South-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
 </p>
-<p><strong>Entrance Pavilion @ North Carpark, Jurong Lake Gardens</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
