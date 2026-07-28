@@ -7,9 +7,10 @@ description: Jurong Lake Gardens is Singapore’s national gardens in the
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
 notification: "ℹ️ Please note the following closures: Smaller Dog Run - Lakeside
-  Garden (Closed for works from 13 to 27 Jul) • Monkey Play - Forest Ramble
-  (Closed for works until 20 Jul) • Water Wall Court - Chinese Garden (Closed
-  for maintenance until 24 Jul)"
+  Garden (Closed for maintenance until further notice)• Monkey Play - Forest
+  Ramble (Closed for maintenance until further notice)• Water Wall Court -
+  Chinese Garden (Closed for maintenance until 31 Jul) • Toilet in Sunken Garden
+  (Closed for maintenance until further notice)"
 sections:
   - hero:
       title: Jurong Lake Gardens
