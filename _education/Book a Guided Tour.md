@@ -168,7 +168,7 @@ or ponchos. In the case of heavy rain, the tour will be rescheduled/cancelled.</
 </li>
 </ul>
 <h4><strong>Register Your Interest</strong></h4>
-<p>Kindly register your interest to book a guided tour <a href="https://go.gov.sg/jlg-guidedtourbookings" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Kindly register your interest to book a guided tour <a href="https://go.gov.sg/jlg-guidedtourbooking" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>If you need further clarifications, please contact us at <a href="https://go.gov.sg/jlg-guidedtourbookings" rel="noopener noreferrer nofollow" target="_blank"><u>juronglakegardens@nparks.gov.sg</u></a>.</p>
 <p></p>
 <h3><strong><u>Self-led Learning Journeys</u></strong></h3>
