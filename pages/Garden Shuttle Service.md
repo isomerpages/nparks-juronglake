@@ -43,7 +43,7 @@ areas within the gardens, particularly during peak visitor periods.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 cruisers running at approximately<strong> </strong>30-minute intervals</p>
+<p>Approximately<strong> </strong>30-minute</p>
 </td>
 </tr>
 <tr>
@@ -61,93 +61,6 @@ areas within the gardens, particularly during peak visitor periods.</p>
 <h4>Shuttle Stops</h4>
 <p>The Shuttle Service will consist of 11- to 13-seater vehicles that operate
 on a loop connecting Lakeside Garden, Chinese Garden and Japanese Garden.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>View pickup points and schedule</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Pickup Points</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Timing</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SOUTH CARPARK</strong>
-</p>
-<p></p>
-<p><strong>Location📍: </strong>Lakeside Garden</p>
-<p><strong>Next Stop⏭️: </strong>Water Lily Pavilion</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Shuttle:</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>WATER LILY PAVILION</strong>
-</p>
-<p></p>
-<p><strong>Location📍: </strong>Japanese Garden</p>
-<p><strong>Next Stop⏭️: </strong>Pagoda Plaza</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PAGODA PLAZA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NORTH CARPARK</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LAKESIDE PLAZA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NORTH CARPARK</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary>View overall map</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <h4>Important Information</h4>
 <ul data-tight="true" class="tight">
 <li>
