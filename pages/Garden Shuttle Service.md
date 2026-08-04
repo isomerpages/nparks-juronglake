@@ -61,6 +61,28 @@ areas within the gardens, particularly during peak visitor periods.</p>
 <h4>Shuttle Stops</h4>
 <p>The Shuttle Service will consist of 11- to 13-seater vehicles that operate
 on a loop connecting Lakeside Garden, Chinese Garden and Japanese Garden.</p>
+<p><strong>Six stops, one continuous circuit:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>South Carpark (Lakeside Garden)</p>
+</li>
+<li>
+<p>Water Lilty Pavilion (Japanese Garden)</p>
+</li>
+<li>
+<p>Pagoda Plaza (Chinese Garden)</p>
+</li>
+<li>
+<p>North Carpark (Lakeside Garden)</p>
+</li>
+<li>
+<p>Lakeside Plaza (Lakeside Garden)</p>
+</li>
+<li>
+<p>North Carpark (Lakeside Garden)</p>
+</li>
+</ol>
 <h4>Important Information</h4>
 <ul data-tight="true" class="tight">
 <li>
