@@ -104,6 +104,24 @@ due to weather conditions or operational requirements</p>
 </li>
 </ul>
 <hr>
+<h3>Frequently Asked Questions</h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Why is this a trial?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Can I reserve a seat ahead of time?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<hr>
 <h4>Feedback</h4>
 <p>We welcome your feedback on the Cruiser Shuttle Service during this trial
 period. Please share your feedback here: <strong><a href="https://go.gov.sg/jlgshuttlefeedback" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jlgshuttlefeedback</a></strong>
