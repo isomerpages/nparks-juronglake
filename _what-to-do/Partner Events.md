@@ -11,7 +11,7 @@ description: ""
 <p>📅: 15 Aug 2026 (Sat)</p>
 <p>⏰: 5pm to 8pm</p>
 <p>📍: Meeting point: Jurong Lake Gardens, South Carpark Drop-Off Point</p>
-<p>🎟️: Free, register at <a href="https://forms.gle/BnRYkjVt6g2Mi6sW7" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/BnRYkjVt6g2Mi6sW7</a>
+<p>🎟️: Free, registration required <strong>[Fully subscribed]</strong>
 </p>
 <p>In partnership with Jurong Lake Gardens, <strong>Can A Walk Go Nowhere?</strong> is
 a playful guided walk by NEVOX, a ground-up collective creating reflective
