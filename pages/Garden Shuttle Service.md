@@ -146,7 +146,7 @@ Chinese Garden and Japanese Garden.</p>
 </tbody>
 </table>
 <hr>
-<h4>Important Information</h4>
+<h3>Important Information</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Boarding is on a first-come, first-served basis</p>
@@ -155,8 +155,8 @@ Chinese Garden and Japanese Garden.</p>
 <p>Waiting times may vary depending on demand and site conditions</p>
 </li>
 <li>
-<p>For safety reasons, the Shuttle Service will suspend its services in the
-event of heavy rain or lightning warning.</p>
+<p>For safety reasons, the service will be temporarily suspended in the event
+of heavy rain or lightning warning.</p>
 </li>
 <li>
 <p>No food and drinks are allowed in the vehicle.</p>
