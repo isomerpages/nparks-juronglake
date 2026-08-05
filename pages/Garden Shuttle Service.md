@@ -13,8 +13,94 @@ Shuttle Service within the gardens to assess the feasibility of expanding
 the existing shuttle operations.</p>
 <p>This trial aims to improve accessibility and connectivity between key
 areas within the gardens, particularly during peak visitor periods.</p>
+<p>The Shuttle Service will operate on a loop connecting Lakeside Garden,
+Chinese Garden and Japanese Garden.</p>
 <hr>
-<h4>Details of Service</h4>
+<h3>Shuttle Stops</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Carpark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Lakeside Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Water Lily Pavilion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Japanese Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pagoda Plaza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Chinese Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Carpark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Lakeside Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lakeside Plaza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Lakeside Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Carpark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Lakeside Garden</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>More details can be found <a href="/files/Garden_Shuttle_Service_Sign.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<hr>
+<h3>Details of Service</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -27,14 +113,16 @@ areas within the gardens, particularly during peak visitor periods.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Monday to Sunday</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>9am - 12pm</p>
+<p>9am - 12pm*</p>
 </li>
 <li>
-<p>4pm - 7pm</p>
+<p>4pm - 7pm*</p>
 </li>
 </ul>
+<p>*Shuttle service starts at Stop 1 (South Carpark) at 9am and 4pm</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +131,7 @@ areas within the gardens, particularly during peak visitor periods.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Approximately<strong> </strong>30-minute</p>
+<p>Approximately<strong> </strong>30-minutes</p>
 </td>
 </tr>
 <tr>
@@ -58,31 +146,6 @@ areas within the gardens, particularly during peak visitor periods.</p>
 </tbody>
 </table>
 <hr>
-<h4>Shuttle Stops</h4>
-<p>The Shuttle Service will consist of 11- to 13-seater vehicles that operate
-on a loop connecting Lakeside Garden, Chinese Garden and Japanese Garden.</p>
-<p><strong>Six stops, one continuous circuit:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>South Carpark (Lakeside Garden)</p>
-</li>
-<li>
-<p>Water Lilty Pavilion (Japanese Garden)</p>
-</li>
-<li>
-<p>Pagoda Plaza (Chinese Garden)</p>
-</li>
-<li>
-<p>North Carpark (Lakeside Garden)</p>
-</li>
-<li>
-<p>Lakeside Plaza (Lakeside Garden)</p>
-</li>
-<li>
-<p>North Carpark (Lakeside Garden)</p>
-</li>
-</ol>
 <h4>Important Information</h4>
 <ul data-tight="true" class="tight">
 <li>
