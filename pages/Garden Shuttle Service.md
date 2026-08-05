@@ -159,7 +159,8 @@ Chinese Garden and Japanese Garden.</p>
 of heavy rain or lightning warning.</p>
 </li>
 <li>
-<p>No food and drinks are allowed in the vehicle.</p>
+<p>To keep the shuttle clean and comfortable for everyone, pets and food
+or drink are not permitted on board.</p>
 </li>
 <li>
 <p>NParks may adjust operating hours or suspend services without prior notice
@@ -170,20 +171,29 @@ due to weather conditions or operational requirements</p>
 <h3>Frequently Asked Questions</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Why is this a trial?</summary>
+<summary>Can I get off anywhere along the route?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>To keep the service running smoothly, the shuttle can only stop at designated
+locations along the route. Feel free to approach our staff to help identify
+the most convenient stop for your destination.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Can I reserve a seat ahead of time?</summary>
+<summary>Does the shuttle keep to a fixed timetable?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Operating times may vary due to traffic, crowd conditions, or other factors
+beyond our control.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Can I book a shuttle for private use?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes, private bookings are available with at least one month's advance
+notice. Rates are $95 for the first hour and $75 for each subsequent hour.
+For more details and bookings, visit our website: <a href="https://juronglakegardens.nparks.gov.sg/garden-cruiser/" class="Hyperlink SCXW172444567 BCX8" rel="noreferrer noopener" target="_blank"><u>Book a Garden Cruiser</u></a> &nbsp;</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
 <hr>
 <h4>Feedback</h4>
 <p>We welcome your feedback on the Cruiser Shuttle Service during this trial
