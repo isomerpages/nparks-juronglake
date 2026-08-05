@@ -13,8 +13,94 @@ Shuttle Service within the gardens to assess the feasibility of expanding
 the existing shuttle operations.</p>
 <p>This trial aims to improve accessibility and connectivity between key
 areas within the gardens, particularly during peak visitor periods.</p>
+<p>The Shuttle Service will operate on a loop connecting Lakeside Garden,
+Chinese Garden and Japanese Garden.</p>
 <hr>
-<h4>Details of Service</h4>
+<h3>Shuttle Stops</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Carpark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Lakeside Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Water Lily Pavilion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Japanese Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pagoda Plaza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Chinese Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Carpark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Lakeside Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lakeside Plaza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Lakeside Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Carpark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Lakeside Garden</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>More details can be found <a href="/files/Garden_Shuttle_Service_Sign.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<hr>
+<h3>Details of Service</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -27,14 +113,16 @@ areas within the gardens, particularly during peak visitor periods.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Monday to Sunday</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>9am - 12pm</p>
+<p>9am - 12pm*</p>
 </li>
 <li>
-<p>4pm - 7pm</p>
+<p>4pm - 7pm*</p>
 </li>
 </ul>
+<p>*Shuttle service starts at Stop 1 (South Carpark) at 9am and 4pm</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +131,7 @@ areas within the gardens, particularly during peak visitor periods.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 cruisers running at approximately<strong> </strong>30-minute intervals</p>
+<p>Approximately<strong> </strong>30-minutes</p>
 </td>
 </tr>
 <tr>
@@ -58,97 +146,7 @@ areas within the gardens, particularly during peak visitor periods.</p>
 </tbody>
 </table>
 <hr>
-<h4>Shuttle Stops</h4>
-<p>The Shuttle Service will consist of 11- to 13-seater vehicles that operate
-on a loop connecting Lakeside Garden, Chinese Garden and Japanese Garden.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>View pickup points and schedule</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Pickup Points</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Timing</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SOUTH CARPARK</strong>
-</p>
-<p></p>
-<p><strong>Location📍: </strong>Lakeside Garden</p>
-<p><strong>Next Stop⏭️: </strong>Water Lily Pavilion</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Shuttle:</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>WATER LILY PAVILION</strong>
-</p>
-<p></p>
-<p><strong>Location📍: </strong>Japanese Garden</p>
-<p><strong>Next Stop⏭️: </strong>Pagoda Plaza</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PAGODA PLAZA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NORTH CARPARK</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LAKESIDE PLAZA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NORTH CARPARK</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary>View overall map</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<h4>Important Information</h4>
+<h3>Important Information</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Boarding is on a first-come, first-served basis</p>
@@ -157,17 +155,45 @@ on a loop connecting Lakeside Garden, Chinese Garden and Japanese Garden.</p>
 <p>Waiting times may vary depending on demand and site conditions</p>
 </li>
 <li>
-<p>For safety reasons, the Shuttle Service will suspend its services in the
-event of heavy rain or lightning warning.</p>
+<p>For safety reasons, the service will be temporarily suspended in the event
+of heavy rain or lightning warning.</p>
 </li>
 <li>
-<p>No food and drinks are allowed in the vehicle.</p>
+<p>To keep the shuttle clean and comfortable for everyone, pets and food
+or drink are not permitted on board.</p>
 </li>
 <li>
 <p>NParks may adjust operating hours or suspend services without prior notice
 due to weather conditions or operational requirements</p>
 </li>
 </ul>
+<hr>
+<h3>Frequently Asked Questions</h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Can I get off anywhere along the route?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>To keep the service running smoothly, the shuttle can only stop at designated
+locations along the route. Feel free to approach our staff to help identify
+the most convenient stop for your destination.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Does the shuttle keep to a fixed timetable?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Operating times may vary due to traffic, crowd conditions, or other factors
+beyond our control.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Can I book a shuttle for private use?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes, private bookings are available with at least one month's advance
+notice. Rates are $95 for the first hour and $75 for each subsequent hour.
+For more details and bookings, visit our website: <a href="https://juronglakegardens.nparks.gov.sg/garden-cruiser/" class="Hyperlink SCXW172444567 BCX8" rel="noreferrer noopener" target="_blank"><u>Book a Garden Cruiser</u></a> &nbsp;</p>
+</div>
+</details>
+</div>
 <hr>
 <h4>Feedback</h4>
 <p>We welcome your feedback on the Cruiser Shuttle Service during this trial
