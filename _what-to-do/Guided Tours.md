@@ -35,26 +35,6 @@ every month.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>25 Jul (Sat), 9am to 11am</strong>
-</p>
-<p></p>
-<p><strong>Lakeside Garden (South)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Inside ActiveSG Park (next to table tennis area) @ South Carpark, Jurong
-Lake Gardens</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_91/1775_Chinese-Garden-Guided-Tour-Session-1https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_98/1913_Lakeside-Garden-South-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
-</p>
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_E_99/1914_Lakeside-Garden-South-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>29 Aug (Sat), 9am to 11am</strong>
 </p>
 <p></p>
@@ -69,13 +49,12 @@ Lake Gardens</p>
 </p>
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_101/1930_Lakeside-Garden-North-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank"><u>Session 2</u></a>
 </p>
-<p><em><sub>Registration opens 29 Jul, 8am</sub></em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>26 Sep (Sat), 9am to 11am</strong>
+<p><strong>12 Sep (Sat), 9am to 11am</strong>
 </p>
 <p></p>
 <p><strong>Japanese Garden</strong>
@@ -87,9 +66,69 @@ Lake Gardens</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_102/1931_Japanese-Garden-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
 </p>
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_104/1952_Japanese-Garden-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank"><u>Session 2</u></a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_104/1952_Japanese-Garden-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+</p>
+<p><em><sub>Registration opens 12 Aug, 8am</sub></em> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>26 Sep (Sat), 9am to 11am</strong>
+</p>
+<p></p>
+<p><strong>Chinese Garden</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Entrance Pavilion @ North Carpark, Jurong Lake Gardens</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_105/1970_Chinese-Garden-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_106/1971_Chinese-Garden-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank"><u>Session 2</u></a>
 </p>
 <p><em><sub>Registration opens 26 Aug, 8am</sub></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>17 Oct (Sat), 9am to 11am</strong>
+</p>
+<p></p>
+<p><strong>Lakeside Garden (South)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ActiveSG Park @ Jurong Lake Gardens</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_107/1972_Lakeside-Garden-South-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_108/1973_Lakeside-Garden-South-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+</p>
+<p><em><sub>Registration opens 17 Sep, 8am</sub></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>31 Oct (Sat), 9am to 11am</strong>
+</p>
+<p></p>
+<p><strong>Lakeside Garden (North)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Entrance Pavilion @ North Carpark, Jurong Lake Gardens</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_109/1974_Lakeside-Garden-North-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_110/1975_Lakeside-Garden-North-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+</p>
+<p><em><sub>Registration opens 30 Sep, 8am</sub></em>
 </p>
 </td>
 </tr>
@@ -106,8 +145,8 @@ Lake Gardens</p>
 water bottle and an umbrella/poncho.</p>
 </li>
 <li>
-<p>In the event of light rain as the tour will still proceed. However, in
-the case of heavy rain, the tour will not proceed.</p>
+<p>In the event of light rain, the tour will still proceed. However, in the
+case of heavy rain, the tour will not proceed.</p>
 </li>
 <li>
 <p>Registration will close 3 days before the tour, or when registration is
