@@ -24,6 +24,14 @@ through your smartphone or tablet.</p>
 <p><a href="/files/Maps and Trails/Banyan_Trail_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Lakeside Garden (South)</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Guided Tours/Your_Guide_to_Chinese_Garden__resized_.pdf" rel="noopener nofollow" target="_blank">Chinese Garden</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Guided Tours/Your_Guide_to_Japanese_Garden__resized_.pdf" rel="noopener nofollow" target="_blank">Japanese Garden</a>
+</p>
+</li>
 </ul>
 <hr>
 <h3><strong>Cycling Trails</strong></h3>
@@ -56,5 +64,7 @@ allowed in some attractions; you may refer to the map <a href="/files/Maps and T
 more information.</p>
 <p>Wheelchairs and Personal Mobility Aids (PMA) are allowed in throughout
 the Gardens to ensure accessibility for those with mobility challenges.</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
