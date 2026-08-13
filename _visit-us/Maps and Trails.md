@@ -12,9 +12,9 @@ description: maps, trails, jurong, lake, gardens, jlg
 <p>Explore Jurong Lake Gardens with ease, download our brochure <a href="/files/Maps and Trails/Jurong_Lake_Garden_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <h3><strong>Garden Trails</strong></h3>
 <p>We have a range of trails that you can refer to if you wish to explore
-the Gardens. Ranging from 30 to 60 minutes in duration, there should be
-one that suits your needs. These trail guides (PDF files) can be accessed
-through your smartphone or tablet.</p>
+the Gardens at your own time. Ranging from 30 to 60 minutes in duration,
+there should be one that suits your needs. These trail guides (PDF files)
+can be accessed through your smartphone or tablet.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Maps and Trails/Mempat_Trail_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Lakeside Garden (North)</a>
@@ -22,6 +22,14 @@ through your smartphone or tablet.</p>
 </li>
 <li>
 <p><a href="/files/Maps and Trails/Banyan_Trail_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Lakeside Garden (South)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Guided Tours/Your_Guide_to_Chinese_Garden__resized_.pdf" rel="noopener nofollow" target="_blank">Chinese Garden</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Guided Tours/Your_Guide_to_Japanese_Garden__resized_.pdf" rel="noopener nofollow" target="_blank">Japanese Garden</a>
 </p>
 </li>
 </ul>
@@ -56,5 +64,7 @@ allowed in some attractions; you may refer to the map <a href="/files/Maps and T
 more information.</p>
 <p>Wheelchairs and Personal Mobility Aids (PMA) are allowed in throughout
 the Gardens to ensure accessibility for those with mobility challenges.</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
