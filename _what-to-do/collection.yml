@@ -2,9 +2,9 @@ collections:
   what-to-do:
     output: true
     order:
-      - Partner Events.md
-      - Guided Tours.md
       - Lights by the Lake.md
+      - Guided Tours.md
+      - Partner Events.md
       - ArtsEverywhere@JLG/.keep
       - ArtsEverywhere@JLG/ArtsEverywhere@JLG.md
       - "ArtsEverywhere@JLG/ArtsEverywhere@JLG: heART.md"
