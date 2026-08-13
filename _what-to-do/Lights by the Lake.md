@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Celebrating Mid-Autumn at Jurong Lake Gardens</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="key visual for lights by the lake 2026, taking place at jurong lake gardens from 19 to 27 sep 2026, 6:30 pm to 10:30pm daily" src="/images/Lights by the Lake/LBTL_2026_KV_ppt.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lights by the Lake/lbtl_2026_web_banner.jpg">
 </div>
 <p>A signature annual event at Jurong Lake Gardens, Lights by the Lake presents
 a captivating gala of lights, music, and cultural delights in celebration
