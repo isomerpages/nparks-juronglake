@@ -1,6 +1,6 @@
 ---
-title: Garden Shuttle Service
-permalink: /garden-shuttle-service/
+title: Garden Shuttle Service Trial
+permalink: /garden-shuttle-service-trial/
 variant: tiptap
 description: ""
 ---
