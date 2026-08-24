@@ -12,8 +12,8 @@ in its vibrant biodiversity, thoughtfully designed landscapes, and breathtaking
 architecture.</p>
 <p>The tours, led by our enthusiastic and knowledgeable guides, take place
 at different parts of the Gardens each month (Lakeside Garden, Chinese
-Garden and Japanese Garden) and are held on the last Saturday morning of
-every month.</p>
+Garden and Japanese Garden) and are held on the second and last Saturday
+of every month.</p>
 <p>Please note that these tours are available to the public; <strong>for organised, private tours, read more <a href="https://juronglakegardens.nparks.gov.sg/book-guided-tours/" rel="noopener nofollow" target="_blank">here</a></strong>.</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -68,7 +68,48 @@ every month.</p>
 </p>
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_104/1952_Japanese-Garden-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
 </p>
-<p><em><sub>Registration opens 12 Aug, 8am</sub></em> 
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>19 Sep (Sat), 6pm to 7pm</strong>
+</p>
+<p></p>
+<p><strong>[Lights by The Lake 2026 Special]</strong>
+</p>
+<p></p>
+<p><strong>Edible Gardens @ Chinese Garden</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grand Arch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_113/2141_Edible-Garden-Tour-Chinese-Garden-19-Sep-Session-1" rel="noopener nofollow" target="_blank">Session 1</a> 
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_114/3141_Edible-Garden-Tour-Chinese-Garden-19-Sep-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>20 Sep (Sun), 6pm to 7pm</strong>
+</p>
+<p></p>
+<p><strong>[Lights by The Lake 2026 Special]</strong>
+</p>
+<p></p>
+<p><strong>Edible Gardens @ Chinese Garden</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grand Arch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_115/3142_Edible-Garden-Tour-Chinese-Garden-20-Sep-Session-1" rel="noopener nofollow" target="_blank">Session 1</a> 
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_116/3143_Edible-Garden-Tour-Chinese-Garden-20-Sep-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
 </p>
 </td>
 </tr>
@@ -89,6 +130,48 @@ every month.</p>
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_106/1971_Chinese-Garden-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank"><u>Session 2</u></a>
 </p>
 <p><em><sub>Registration opens 26 Aug, 8am</sub></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>26 Sep (Sat), 6pm to 7pm</strong>
+</p>
+<p></p>
+<p><strong>[Lights by The Lake 2026 Special]</strong>
+</p>
+<p></p>
+<p><strong>Edible Gardens @ Chinese Garden</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grand Arch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_117/3144_Edible-Garden-Tour-Chinese-Garden-26-Sep-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_118/3145_Edible-Garden-Tour-Chinese-Garden-26-Sep-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>27 Sep (Sun), 6pm to 7pm</strong>
+</p>
+<p></p>
+<p><strong>[Lights by The Lake 2026 Special]</strong>
+</p>
+<p></p>
+<p><strong>Edible Gardens @ Chinese Garden</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grand Arch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_119/3146_Edible-Garden-Tour-Chinese-Garden-27-Sep-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_120/3147_Edible-Garden-Tour-Chinese-Garden-27-Sep-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
 </p>
 </td>
 </tr>
