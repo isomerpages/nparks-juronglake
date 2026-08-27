@@ -7,7 +7,8 @@ description: Jurong Lake Gardens is Singapore’s national gardens in the
 image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
 notification: "ℹ️ Please note that the current shuttle service trial will end,
-  and a new shuttle service trial will begin, on  31 Aug 2026. | Please note the
+  and a new shuttle service trial will begin, on  31 Aug 2026. More information
+  can be found here: https://go.gov.sg/jlgcruiserservice. | Please note the
   following closures: Toilet in Sunken Garden (Closed for maintenance until
   further notice)"
 sections:
