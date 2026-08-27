@@ -272,6 +272,11 @@ more information.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Garden Cruiser/Garden_Cruiser_2__2_.jpg">
 </div>
+<p></p>
+<p>Please note that the current shuttle service trial willend, and a new
+shuttle service trial will begin, on 31 Aug 2026. More information can
+be found here: <a href="https://go.gov.sg/jlgcruiserservice" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jlgcruiserservice</a>.</p>
+<p></p>
 <p>The Garden Cruiser shuttle service is available on <strong>weekdays </strong>between <strong>Lakeside Garden</strong> and <strong>Japanese Garden</strong>.
 The Cruisers will ply between North Carpark, South Carpark and Japanese
 Garden (Floral Garden).</p>
