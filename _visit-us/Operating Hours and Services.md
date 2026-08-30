@@ -305,13 +305,12 @@ view the posters on the shuttle service.</p>
 will be suspended in the event of <em>inclement weather </em>for safety
 reasons</p>
 <p></p>
-<p>Food and drinks are not allowed on the Cruiser.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Garden Cruiser/Garden_Shuttle_Service__Combined_.png">
 </div>
 <p>Click <a href="https://juronglakegardens.nparks.gov.sg/files/Maps%20and%20Trails/Garden_Shuttle_Service_A2Poster4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-view the posters on the shuttle service.</p>
+view the posters on the shuttle service</p>
 <p></p>
 </div>
 </details>
