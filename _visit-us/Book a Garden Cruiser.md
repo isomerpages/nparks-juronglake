@@ -12,7 +12,7 @@ scenery on our Garden Cruisers!</p>
 <p>The Garden Cruiser rental service offers convenience and ease of commuting
 for visitors, especially those exploring the Gardens or attending events
 in groups with elderly and young children.</p>
-<p>To make a booking, please contact <a href="mailto:nparks_jlg@eventbutler.sg" rel="noopener noreferrer nofollow" target="_blank">nparks_jlg@eventbutler.sg</a>  <strong><u>at least one month in advance</u></strong>.
+<p>To make a booking, please contact <a href="mailto:nparks_jlg@eventbutler.sg" rel="noopener noreferrer nofollow" target="_blank">nparks_jlg@1-host.sg</a>  <strong><u>at least one month in advance</u></strong>.
 Our Garden Cruisers are driven by trained Visitor Services Officers with
 a valid driver’s licence.</p>
 <table style="minWidth: 50px">

@@ -265,7 +265,7 @@ more information.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Garden Shuttle Service</strong>
+<summary><strong>Garden Shuttle Service Trial</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -273,45 +273,177 @@ more information.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Garden Cruiser/Garden_Cruiser_2__2_.jpg">
 </div>
 <p></p>
-<p>Please note that the current shuttle service trial willend, and a new
-shuttle service trial will begin, on 31 Aug 2026. More information can
-be found here: <a href="https://go.gov.sg/jlgcruiserservice" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jlgcruiserservice</a>.</p>
+<p>The National Parks Board (NParks) is commencing a trial for a Shuttle
+Service within the gardens to assess the feasibility of expanding the existing
+shuttle operations.</p>
 <p></p>
-<p>The Garden Cruiser shuttle service is available on <strong>weekdays </strong>between <strong>Lakeside Garden</strong> and <strong>Japanese Garden</strong>.
-The Cruisers will ply between North Carpark, South Carpark and Japanese
-Garden (Floral Garden).</p>
+<p>This trial aims to improve accessibility and connectivity between key
+areas within the gardens, particularly during peak visitor periods.</p>
 <p></p>
-<p>The shuttle service will have the following stops:</p>
+<p>The Shuttle Service will operate on a loop connecting Lakeside Garden,
+Chinese Garden and Japanese Garden.</p>
+<p></p>
+<h3>Shuttle Stops</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Carpark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Lakeside Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Water Lily Pavilion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Japanese Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pagoda Plaza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Chinese Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Carpark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Lakeside Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lakeside Plaza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Lakeside Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stop 6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Carpark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>📍Lakeside Garden</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operating Hours</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday to Sunday</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>North Car Park</p>
+<p>9am - 12pm*</p>
 </li>
 <li>
-<p>South Car Park</p>
-</li>
-<li>
-<p>Japanese Garden (Floral Garden)</p>
+<p>4pm - 7pm*</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Operating hours</strong>: Monday to Friday, 9:30am – 4:30pm (No
-service between 12 – 1pm)</p>
+<p>*Shuttle service starts at Stop 1 (South Carpark) at 9am and 4pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Frequency</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Approximately<strong> </strong>30-minutes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Fee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Free-of-charge</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<p>Each Cruiser runs at approximately 30-minute intervals and the service
-is free-of-charge.Click <a href="https://juronglakegardens.nparks.gov.sg/files/Maps%20and%20Trails/Garden_Shuttle_Service_A2Poster4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-view the posters on the shuttle service.</p>
+<h3>Important Information</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Boarding is on a first-come, first-served basis</p>
+</li>
+<li>
+<p>Waiting times may vary depending on demand and site conditions</p>
+</li>
+<li>
+<p>For safety reasons, the service will be temporarily suspended in the event
+of <em>inclement weather</em>
+</p>
+</li>
+<li>
+<p>To keep the shuttle clean and comfortable for everyone, pets and food
+or drink are not permitted on board.</p>
+</li>
+<li>
+<p>NParks may adjust operating hours or suspend services without prior notice
+due to weather conditions or operational requirements</p>
+</li>
+</ul>
 <p></p>
-<p>Seat availability is on a first-come, first-served basis and the service
-will be suspended in the event of <em>inclement weather </em>for safety
-reasons</p>
-<p></p>
-<p>Food and drinks are not allowed on the Cruiser.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Garden Cruiser/Garden_Shuttle_Service__Combined_.png">
+<p>More information can be found here: <a href="https://go.gov.sg/jlgcruiserservice" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jlgcruiserservice.</a>
+</p>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>More information can be found here: <a href="https://go.gov.sg/jlgcruiserservice" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jlgcruiserservice</a>.</p>
 </div>
-<p>Click <a href="https://juronglakegardens.nparks.gov.sg/files/Maps%20and%20Trails/Garden_Shuttle_Service_A2Poster4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-view the posters on the shuttle service.</p>
+</details>
 <p></p>
 </div>
 </details>
