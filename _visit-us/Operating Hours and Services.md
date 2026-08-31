@@ -423,7 +423,7 @@ Chinese Garden and Japanese Garden.</p>
 </li>
 <li>
 <p>For safety reasons, the service will be temporarily suspended in the event
-of <em>inclement weather </em>
+of <em>inclement weather</em>
 </p>
 </li>
 <li>
