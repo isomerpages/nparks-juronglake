@@ -35,44 +35,6 @@ of every month.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>29 Aug (Sat), 9am to 11am</strong>
-</p>
-<p></p>
-<p><strong>Lakeside Garden (North)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Entrance Pavilion @ North Carpark, Jurong Lake Gardens</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_100/1929_Lakeside-Garden-North-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
-</p>
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_101/1930_Lakeside-Garden-North-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank"><u>Session 2</u></a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>12 Sep (Sat), 9am to 11am</strong>
-</p>
-<p></p>
-<p><strong>Japanese Garden</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outside Mempat Hall @ Gardenhouse, Jurong Lake Gardens</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_102/1931_Japanese-Garden-Guided-Tour-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
-</p>
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_104/1952_Japanese-Garden-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>19 Sep (Sat), 6pm to 7pm</strong>
 </p>
 <p></p>
@@ -86,7 +48,7 @@ of every month.</p>
 <p>Grand Arch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_113/2141_Edible-Garden-Tour-Chinese-Garden-19-Sep-Session-1" rel="noopener nofollow" target="_blank">Session 1</a> 
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_113/2141_Edible-Garden-Tour-Chinese-Garden-19-Sep-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
 </p>
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_114/3141_Edible-Garden-Tour-Chinese-Garden-19-Sep-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
 </p>
@@ -107,7 +69,7 @@ of every month.</p>
 <p>Grand Arch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_115/3142_Edible-Garden-Tour-Chinese-Garden-20-Sep-Session-1" rel="noopener nofollow" target="_blank">Session 1</a> 
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_115/3142_Edible-Garden-Tour-Chinese-Garden-20-Sep-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
 </p>
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_116/3143_Edible-Garden-Tour-Chinese-Garden-20-Sep-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
 </p>
@@ -129,8 +91,7 @@ of every month.</p>
 </p>
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_106/1971_Chinese-Garden-Guided-Tour-Session-2" rel="noopener nofollow" target="_blank"><u>Session 2</u></a>
 </p>
-<p><em><sub>Registration opens 26 Aug, 8am</sub></em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
