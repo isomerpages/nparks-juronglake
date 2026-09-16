@@ -5,11 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Fauna of Jurong Lake Gardens
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fauna/apis_dorsata_tjw_crop.jpg">
-</div>
-<p><em>Photo: Giant Honey Bees (Apis dorsata) foraging on a water lily flower. (Credit: Tan Jing Wen)</em>
-</p>
+<p></p>
 <p><strong>What are they?</strong>
 </p>
 <p>Bees and wasps (together with ants) form the large insect order <strong>Hymenoptera</strong>.
