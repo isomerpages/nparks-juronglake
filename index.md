@@ -8,8 +8,9 @@ image: /images/Chinese Garden/Twin_Pagoda.jpg
 permalink: /
 notification: "ℹ️ Please note that the afternoon shift (4pm – 7pm) of the Garden
   Shuttle Service Trial will be suspended on 19–20, 25–27 September, and 3–4
-  October due to Lights by the Lake. | Please note the following closures:
-  Toilet in Sunken Garden (Closed for maintenance until further notice)"
+  October due to the Lights by the Lake event. | Please note the following
+  closures: Clusia Cove, Toilet in Sunken Garden (Closed for maintenance until
+  further notice)"
 sections:
   - hero:
       title: Jurong Lake Gardens
